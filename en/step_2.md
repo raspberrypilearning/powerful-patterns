@@ -32,6 +32,7 @@ Think about who you will make your ... for (your **audience**).
 Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
 
 --- collapse ---
+
 ---
 title: Working offline
 ---
