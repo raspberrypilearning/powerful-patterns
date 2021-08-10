@@ -36,7 +36,7 @@ Look at these examples and think about the repeated motif. How they have been ma
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: **Create a **Powerful pattern**
+### PROJECT BRIEF: Create a **Powerful pattern**
 <hr style="border-top: 2px solid black;"> 
 
 Your powerful pattern should:
@@ -80,7 +80,6 @@ How would you describe what is happening in the animation?:
 </div>
 
 --- /task ---
-
 
 --- /no-print ---
 
