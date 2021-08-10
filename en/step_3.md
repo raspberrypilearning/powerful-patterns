@@ -1,4 +1,4 @@
-## Create a pattern
+## Build and test
 
 Now it's time to make your ...
 

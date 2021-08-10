@@ -1,4 +1,4 @@
-## Grow your pattern
+## Expand and test
 
 Now it's time to make your ...
 
