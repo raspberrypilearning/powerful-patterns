@@ -34,6 +34,8 @@ Look at these examples and think about the repeated motif. How they have been ma
 
 --- /task ---
 
+<div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
+
 ### PROJECT BRIEF: **Create a **Powerful pattern**
 <hr style="border-top: 2px solid black;"> 
 
@@ -75,9 +77,6 @@ How would you describe what is happening in the animation?:
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/aee04b923f?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
-</div>
-
-</div>
 </div>
 
 --- /task ---
