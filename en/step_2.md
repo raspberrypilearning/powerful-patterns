@@ -74,6 +74,8 @@ def setup():
 
 --- /code ---
 
+--- /collapse ---
+
 --- collapse ---
 
 ---
