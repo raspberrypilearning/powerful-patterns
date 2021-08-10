@@ -1,4 +1,4 @@
-## Create a pattern
+## Grow your pattern
 
 Now it's time to make your ...
 
