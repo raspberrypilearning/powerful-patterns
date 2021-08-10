@@ -98,9 +98,9 @@ line_highlights: 9
 
 --- /code ---
 
-[[[generic-theory-simple-colours]]]
-
 --- /collapse ---
+
+[[[generic-theory-simple-colours]]]
 
 --- /task ---
 
