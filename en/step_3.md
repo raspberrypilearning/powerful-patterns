@@ -28,6 +28,8 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-python-triangle]]]
 
+[[[processing-add-image]]]
+
 ### Colours
 
 [[[generic-theory-simple-colours]]]
@@ -35,6 +37,8 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[processing-opacity]]]
 
 [[[processing-stroke]]]
+
+[[[processing-tint]]]
 
 ### Position
 
