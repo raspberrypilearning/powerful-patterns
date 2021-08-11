@@ -25,11 +25,10 @@ You will:
 
 Look at these examples and think about the repeated motif. How they have been made from circles, ellipses, squares, rectangles and triangles.
 
-**Art Deco**: [See inside](https://trinket.io/python/7062653346){:target="_blank"}
+**Kek lapis Sarawak**: [See inside](https://trinket.io/python/14073c4e7d){:target="_blank"}
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/7062653346?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/14073c4e7d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
-</div>
 </div>
 
 --- /task ---
@@ -61,9 +60,16 @@ Explore these example projects to get ideas for your pattern.
 
 How would you describe what is happening in the animation?:
 
-**Kek lapis Sarawak**: [See inside](https://trinket.io/python/14073c4e7d){:target="_blank"}
+**Art Deco**: [See inside](https://trinket.io/python/7062653346){:target="_blank"}
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/14073c4e7d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/7062653346?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+</div>
+</div>
+
+**McEwen Tartan**: [See inside](https://trinket.io/python/aee04b923f){:target="_blank"}
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/python/aee04b923f?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -72,10 +78,10 @@ How would you describe what is happening in the animation?:
   <iframe src="https://trinket.io/embed/python/903adb53e9?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
-  
-**McEwen Tartan**: [See inside](https://trinket.io/python/aee04b923f){:target="_blank"}
+
+**Fibonacci sequence**: [See inside](https://trinket.io/python/549d8d88e6){:target="_blank"}
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/aee04b923f?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/549d8d88e6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -87,9 +93,11 @@ How would you describe what is happening in the animation?:
 
 Look at these examples and think about the repeated motif. How they have been made from circles, ellipses, squares, rectangles and triangles.
 
-![Complete project](images/showcase_static.png)
-![Complete project](images/showcase_static.png)
-![Complete project](images/showcase_static.png)
-![Complete project](images/showcase_static.png)
+![Complete kek lapis Sarawak project](images/kek.png)
+![Complete art deco project](images/art_deco.png)
+![Complete tartan project](images/tartan.png)
+![Complete yakan weaving project](images/yakan.png)
+![Complete fibonacci sequence project](images/fibonacci.png)
+
 --- /print-only ---
 
