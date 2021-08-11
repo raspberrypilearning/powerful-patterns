@@ -2,37 +2,66 @@
 
 Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
 
-Does your ... have:
+Does your powerful pattern:
 
 --- task ---
 
-something
+Draw and position geometric shapes to create a base pattern (or motif)
+--- /task ---
+
+--- task ---
+
+Use loops tp repeat the pattern to fill the screen
 
 --- /task ---
 
 --- task ---
 
-something
+Animate how the pattern is created
 
 --- /task ---
 
-
-Your ... could also have:
+Your powerful pattern could also:
 
 --- task ---
 
-something
+Use bold or significant colours
 
 --- /task ---
 
 --- task ---
 
-something
+Draw inspiration from your culture or popular culture
+
+--- /task ---
+
+--- task ---
+
+Get user input to resize the pattern
+
+--- /task ---
+
+--- task ---
+
+Add text and emoji to print details about your art
+
+--- /task ---
+
+--- task ---
+
+Translate the pattern to create variations
 
 --- /task ---
 
 
-Reflecting about how you made your ... will help you in your future projects.
+--- task ---
+
+Share your work with others in an online gallery
+
+--- /task ---
+
+
+Reflecting about how you made your powerful pattern will help you in your future projects.
 
 Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
 
@@ -50,16 +79,15 @@ What cool new thing(s) did you learn?
 
 --- task ---
 
-<mark> some ideas, delete as needed </mark> Mistakes are the "portals of discovery" (James Joyce, Ulysses). 
-The Nobel Prize-winning physicist Niels Bohr said, “An expert is a person who has made all the mistakes that can be made”.
-Mistakes are powerful.
-Mistakes are empowering. 
+Mistakes and failures are often the catalyst for discovery and success.
 
-What mistakes did you make and how did they help you create your ... ?
+Oprah Winfrey was fired from her first job, but she went on to become a famous and influential producer and philanthropist. She once said "turn your wounds into wisdom".
+
+What mistakes did you make and how did they help you?
 
 --- /task ---
 
-### Now you are (the author of a digital book)!
+### Now you are a digital artist and mathemetician!
 
 Take a moment to celebrate what you have made.
 

@@ -20,7 +20,7 @@ In this example, an art deco pattern has been decomposed into the basic collecti
 
 You have built up some really useful skills. Here is a reminder to help you make your motif:
 
-### Shapes
+### Shapes and images
 
 [[[processing-python-ellipse]]]
 
@@ -30,7 +30,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-add-image]]]
 
-### Colours
+### Colours and effects
 
 [[[generic-theory-simple-colours]]]
 
@@ -40,11 +40,15 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-tint]]]
 
-### Position
+### Position and transform
 
 [[[processing-translation]]]
 
 [[[processing-rotation]]]
+
+[[[python-operators]]]
+
+<mark>add ingredient on loops PH doing </mark>
 
 --- /task ---
 

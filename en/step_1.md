@@ -25,9 +25,9 @@ You will:
 
 Look at these examples and think about the repeated motif. How they have been made from circles, ellipses, squares, rectangles and triangles.
 
-**Kek lapis Sarawak**: [See inside](https://trinket.io/python/14073c4e7d){:target="_blank"}
+**Kek lapis Sarawak**: [See inside](https://trinket.io/python/81be7eb895){:target="_blank"}
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/14073c4e7d?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -60,27 +60,27 @@ Explore these example projects to get ideas for your pattern.
 
 How would you describe what is happening in the animation?:
 
-**Art Deco**: [See inside](https://trinket.io/python/7062653346){:target="_blank"}
+**Art Deco wallpaper**: [See inside](https://trinket.io/python/300e1cd325){:target="_blank"}
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/7062653346?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**McEwen Tartan**: [See inside](https://trinket.io/python/aee04b923f){:target="_blank"}
+**McEwen Tartan**: [See inside](https://trinket.io/python/4706d1a81b){:target="_blank"}
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/aee04b923f?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Yakan Weaving**: [See inside](https://trinket.io/python/903adb53e9){:target="_blank"}
+**Yakan Weaving**: [See inside](https://trinket.io/python/20646dd7f4){:target="_blank"}
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/903adb53e9?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/20646dd7f4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Fibonacci sequence**: [See inside](https://trinket.io/python/549d8d88e6){:target="_blank"}
+**Fibonacci sequence**: [See inside](https://trinket.io/python/a0f0e7f8e6){:target="_blank"}
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/549d8d88e6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/a0f0e7f8e6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -90,13 +90,18 @@ How would you describe what is happening in the animation?:
 
 --- print-only ---
 
-Look at these examples and think about the repeated motif. How they have been made from circles, ellipses, squares, rectangles and triangles.
+Look at these examples and think about the repeated motif. How have the patterns been made from circles, ellipses, squares, rectangles and triangles?
 
 ![Complete kek lapis Sarawak project](images/kek.png)
+You can find this project here https://trinket.io/python/81be7eb895
 ![Complete art deco project](images/art_deco.png)
+You can find this project here https://trinket.io/python/300e1cd325
 ![Complete tartan project](images/tartan.png)
+You can find this project here https://trinket.io/python/4706d1a81b
 ![Complete yakan weaving project](images/yakan.png)
+You can find this project here https://trinket.io/python/20646dd7f4
 ![Complete fibonacci sequence project](images/fibonacci.png)
+You can find this project here https://trinket.io/python/a0f0e7f8e6
 
 --- /print-only ---
 

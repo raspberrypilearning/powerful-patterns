@@ -38,6 +38,11 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-rotation]]]
 
+[[[python-operators]]]
+
+<mark>add ingredient on loops PH doing </mark>
+
+
 --- collapse ---
 
 ---
@@ -73,9 +78,6 @@ filename: main.py - draw()
 BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 --- /code ---
-
-
-
 
 --- /collapse ---
 
