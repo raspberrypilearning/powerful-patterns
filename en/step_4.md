@@ -4,8 +4,6 @@ Now it's time to make your full pattern!
 
 Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
 
-</p>
-
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Abstraction</span> is problem solving by reducing unnecessary detail. 
 
 </p>
