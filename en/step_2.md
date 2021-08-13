@@ -43,7 +43,6 @@ If you are are creating a pattern as a group, does your motif need to be a certa
 --- task ---
 
 Open the Powerful patterns starter project. Click on the remix button.
-[[[python-offline]]]
 
 --- /task ---
 
