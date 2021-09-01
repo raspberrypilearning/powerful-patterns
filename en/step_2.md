@@ -2,9 +2,9 @@
 
 Use this step to plan your powerful pattern. You can plan by just thinking; tinkering; drawing or writing; or however you like! 
 
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
+![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-1.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns often have cultural or religious significance. Certain geometric shapes and positions can have symbolic or sacred meanings. Whether the pattern is in architecture, fabric, art, cooking, or something else, the process of making the pattern can also be significant.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns often have <span style="color: #0faeb0">cultural or religious significance</span>. Certain geometric shapes and positions can have symbolic or sacred meanings. Whether the pattern is in architecture, fabric, art, cooking, or something else, the process of making the pattern can also be significant.</p>
 
 ### Why are you making your powerful pattern ?
 
@@ -42,7 +42,8 @@ If you are are creating a pattern as a group, does your motif need to be a certa
 
 --- task ---
 
-Open the Powerful patterns starter project. Click on the remix button.
+Open the [Powerful patterns starter project](https://trinket.io/python/6c4a0c6406){:target=blank
+} and click on the remix button.
 
 --- /task ---
 

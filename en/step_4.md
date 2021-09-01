@@ -8,9 +8,11 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 
 </p>
 
+--- task ---
+
 Look at this Malaysian layer cake (Kek Lapis Sarawak):
 
-IMAGE with the motif quarter highlighted or a square around it.
+![The motif from the Kek lapis Sarawak project next to the complete pattern.](images/kek-motif.png)
 
 How does the motif change to make the overall pattern? It looks as though the motif rotates counter clockwise around the top right corner of the motif
 
@@ -25,6 +27,8 @@ Think about the pattern you are making. How does your motif change to make the o
 - How is the repetition organised (i.e. how many rows/columns)?
 - Do the colours change?
 - Are there details that are not included in the motif (i.e. the icing and jam in the Malaysian layer cake)?
+
+--- /task ---
 
 --- task ---
 

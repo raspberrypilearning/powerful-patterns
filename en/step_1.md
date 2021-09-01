@@ -23,7 +23,7 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-Look at these examples and think about the repeated motif. How they have been made from circles, ellipses, squares, rectangles and triangles.
+Run this example and think about the repeated motif. How would you describe what is happening in the animation? 
 
 **Kek lapis Sarawak**: [See inside](https://trinket.io/python/81be7eb895){:target="_blank"}
 <div class="trinket">
@@ -40,7 +40,7 @@ Look at these examples and think about the repeated motif. How they have been ma
 
 Your powerful pattern should:
 + Draw and position geometric shapes to create a base pattern
-+ Use loops tp repeat the pattern to fill the screen
++ Use loops to repeat the pattern to fill the screen
 + Animate how the pattern is created
 
 Your powerful pattern could:
@@ -48,7 +48,6 @@ Your powerful pattern could:
 + Draw inspiration from your culture or popular culture
 + Get user input to resize the pattern
 + Add text and emoji to print details about your art
-+ Share your project with others in an online gallery
 + Translate the pattern to create variations
 </div>
 
@@ -56,9 +55,9 @@ Your powerful pattern could:
 
 --- task ---
 
-Explore these example projects to get ideas for your pattern. 
+Run these example projects to get ideas for your pattern. 
 
-How would you describe what is happening in the animation?:
+How have the motifs been made from circles, ellipses, squares, rectangles and triangles?:
 
 **Art Deco wallpaper**: [See inside](https://trinket.io/python/300e1cd325){:target="_blank"}
 <div class="trinket">
@@ -93,15 +92,15 @@ How would you describe what is happening in the animation?:
 Look at these examples and think about the repeated motif. How have the patterns been made from circles, ellipses, squares, rectangles and triangles?
 
 ![Complete kek lapis Sarawak project](images/kek.png)
-You can find this project here https://trinket.io/python/81be7eb895
+You can find the Kek lapis Sarawak project here https://trinket.io/python/81be7eb895
 ![Complete art deco project](images/art_deco.png)
-You can find this project here https://trinket.io/python/300e1cd325
+You can find the Art deco project here https://trinket.io/python/300e1cd325
 ![Complete tartan project](images/tartan.png)
-You can find this project here https://trinket.io/python/4706d1a81b
+You can find the McEwen tartan project here https://trinket.io/python/4706d1a81b
 ![Complete yakan weaving project](images/yakan.png)
-You can find this project here https://trinket.io/python/20646dd7f4
+You can find the Yakan weaving project here https://trinket.io/python/20646dd7f4
 ![Complete fibonacci sequence project](images/fibonacci.png)
-You can find this project here https://trinket.io/python/a0f0e7f8e6
+You can find the Fibonacci sequence project here https://trinket.io/python/a0f0e7f8e6
 
 --- /print-only ---
 
