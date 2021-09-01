@@ -97,5 +97,3 @@ Where will you take your new powers? What will you make next?
 
 --- /task ---
 
-![scratch cat in at party hat](images/reflect.png)
-
