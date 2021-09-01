@@ -8,23 +8,26 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 
 </p>
 
-Look at this Malaysian layer cake (Kek Lapis Sarawak):
+--- task ---
 
-IMAGE with the motif quarter highlighted or a square around it.
+Look at this Malaysian layer cake (Kek Lapis Sarawak). How does the motif change to make the overall pattern?:
 
-How does the motif change to make the overall pattern? It looks as though the motif rotates counter clockwise around the top right corner of the motif
+![The motif from the Kek lapis Sarawak project next to the complete pattern.](images/kek-motif.png)
 
-ANOTHER DIAGRAM?
+Look at this Art deco wallpaper. How does the motif change to make the overall pattern?:
+
+![The motif from the Art deco wallpaper project next to the complete pattern.](images/spirals-motif.png)
 
 Think about the pattern you are making. How does your motif change to make the overall pattern. Use these questions to help you abstract:
-- Does the whole motif rotate?
-- Does part of the motif rotate?
-- What direction does it rotate? And how much does it rotate?
-- Are there layers to the pattern? (like in the McEwan Tartan)
+- Does the whole, or part, of the motif rotate?
+- What direction does it rotate? And by how much?
+- Are there layers to the pattern that overlap?
 - How many times does the motif repeat itself?
 - How is the repetition organised (i.e. how many rows/columns)?
 - Do the colours change?
-- Are there details that are not included in the motif (i.e. the icing and jam in the Malaysian layer cake)?
+- Are there details that are not included in the motif (i.e. the icing in the Malaysian layer cake)?
+
+--- /task ---
 
 --- task ---
 
@@ -90,6 +93,8 @@ Now you can animate your pattern to show how you made it. Often, patterns have p
 [[[processing-translation]]]
 
 [[[processing-rotation]]]
+
+<mark>add ingredient on loops PH doing </mark>
 
 --- /task ---
 

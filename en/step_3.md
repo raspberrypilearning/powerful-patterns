@@ -2,17 +2,17 @@
 
 Now it's time to make your motif, the first element of your pattern.
 
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
+![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-2.gif)
 
 The process of making your motif mirrors what computer scientists often do when they create a program or solution to a problem. This process is called **decomposition** and you will use decomposition to create your motif.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">decomposition</span> is breaking something down into parts that are smaller and easier to understand. This means that you can build a pattern one part at a time until it is complete.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Decomposition</span> is breaking something down into parts that are smaller and easier to understand. This means that you can build a pattern one part at a time until it is complete.</p>
 
 Look at the pattern you want to recreate. How can you break it down into one single element (the motif) that repeats?
 
-In this example, an art deco pattern has been decomposed into the basic collection of shapes (five circles overlayed) that makes the motif:
+In this example, an art deco wallpaper pattern has been decomposed into the basic collection of shapes (five circles overlayed) that makes the motif:
 
-<mark>image of full pattern followed by image of motif - the 5 circles</mark>
+![A single five circle motif next to an image of the art deco complete pattern with many copies of the motif.](images/motif-pattern.png)
 
 **Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
 
