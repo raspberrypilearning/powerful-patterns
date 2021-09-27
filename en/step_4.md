@@ -1,8 +1,8 @@
-## Expand and test: pattern
+## Expand and test: Pattern
 
 Now it's time to make your full pattern!
 
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
+![Image, gif, or video showing what they will achieve by the end of the step.](images/image.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Abstraction</span> is problem solving by reducing unnecessary detail. 
 
@@ -10,13 +10,13 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 
 --- task ---
 
-Look at this Malaysian layer cake (Kek Lapis Sarawak). How does the motif change to make the overall pattern?:
+Look at this Malaysian layer cake (kek lapis Sarawak). How does the motif change to make the overall pattern?
 
-![The motif from the Kek lapis Sarawak project next to the complete pattern.](images/kek-motif.png)
+![The motif from the kek lapis Sarawak project next to the complete pattern.](images/kek-motif.png)
 
-Look at this Art deco wallpaper. How does the motif change to make the overall pattern?:
+Look at this art deco wallpaper. How does the motif change to make the overall pattern?
 
-![The motif from the Art deco wallpaper project next to the complete pattern.](images/spirals-motif.png)
+![The motif from the art deco wallpaper project next to the complete pattern.](images/spirals-motif.png)
 
 Think about the pattern you are making. How does your motif change to make the overall pattern. Use these questions to help you abstract:
 - Does the whole, or part, of the motif rotate?
@@ -52,9 +52,9 @@ title: Random positions
 
 You can add `from random import randint` at the top of **main.py**, this allows you to use the `randint` function to generate random numbers.
 
-To use the `randint`function you need to call it your the code. 
+To use the `randint` function, you need to call it in your the code. 
 
-One way to use random is to move your motif to a random position each time it draws:
+One way to use random is to move your motif to a random position each time it is drawn:
 
 --- code ---
 ---
@@ -67,7 +67,7 @@ translate(randint(0, 400), randint(0, 400))
 
 --- /code ---
 
-You could also use random to change colours in your motif as it is redrawn. 
+You could also use random to change the colours in your motif as it is redrawn. 
 
 --- code ---
 ---
@@ -86,7 +86,7 @@ BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 Now you can animate your pattern to show how you made it. Often, patterns have powerful cultural significance in the way that they are made, or the process.
 
-<mark>canva thing with picture and blurb https://www.atlasobscura.com/articles/kek-lapis-sarawak To my family, baking layer cake is a tradition that brings everyone together on special occassions. Sometimes the colours will represent a significant day. In general, we have recipes that are passed down through the generations that are unique to the family</mark>
+<mark>canva thing with picture and blurb https://www.atlasobscura.com/articles/kek-lapis-sarawak To my family, baking layer cake is a tradition that brings everyone together on special occassions. Sometimes the colours will represent a significant day. In general, we have recipes that are passed down through the generations that are unique to the family.</mark>
 
 --- task ---
 
@@ -115,7 +115,7 @@ Now you can animate your pattern to show how you made it. Often, patterns have p
 title: My motif does not appear to rotate
 ---
 
-Make sure you are using the radian() function to convert degrees to radians.
+Make sure you are using the `radian()` function to convert degrees to radians.
 
 --- /collapse ---
 
@@ -124,9 +124,9 @@ Make sure you are using the radian() function to convert degrees to radians.
 title: The rotation looks strange
 ---
 
-Have you checked that you are using translate() from and to the right coordinates? 
+Have you checked that you are using `translate()` from and to the right coordinates? 
 
-Do you have more than one thing rotating? You may need to use push_matrix() and pop_matrix() so the screen rotates at different points at once.
+Do you have more than one thing rotating? You may need to use `push_matrix()` and `pop_matrix()` so the screen rotates at different points at once.
 
 --- /collapse ---
 
@@ -135,7 +135,7 @@ Do you have more than one thing rotating? You may need to use push_matrix() and 
 title: My pattern does not animate
 ---
 
-Check you have used frame_count() properly in a loop.
+Check you have used `frame_count()` properly in a loop.
 
 --- /collapse ---
 
@@ -144,7 +144,7 @@ Check you have used frame_count() properly in a loop.
 title: My pattern does not animate how I want it to
 ---
 
-Review the collapses above on rotation() and translation(). Experiment until it looks like you want it to, and remember, mistakes are powerful!
+Review the sections above on `rotation()` and `translation()`. Experiment until it looks like you want it to, and remember, mistakes are powerful!
 
 --- /collapse ---
 
@@ -162,7 +162,7 @@ Check the syntax of your code. Are you missing any brackets or a colon `:` after
 title: The animation is too fast/too slow
 ---
 
-Change the frame_rate() at the beginning of your program to get it to the speed you like.
+Change the `frame_rate()` at the beginning of your program to get it to the speed you like.
 
 --- /collapse ---
 
