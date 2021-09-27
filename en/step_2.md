@@ -22,7 +22,7 @@ It could be:
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">As well as having symbolic meaning, patterns show the mathematics that is all around us. Mathematics helps us make sense of the world around us and we can find mathematical patterns in art, literature and nature. </p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">As well as having symbolic meaning, patterns show the mathematics that is all around us. Mathematics helps us make sense of the world around us and we can find mathematical patterns in art, literature, and nature. </p>
 
 ### Who is it for?
 
@@ -30,7 +30,7 @@ It could be:
 
 Think about who you will make your pattern for (your **audience**).
 
-What is the significance of your pattern? Will the colours, shapes or way the pattern is repeated mean something special to you or your audience? 
+What is the significance of your pattern? Will the colours, shapes, or way the pattern is repeated mean something special to you or your audience? 
 
 Sharing your pattern is a great way to express something about yourself or your culture.
 
@@ -59,7 +59,7 @@ Add code to `setup()` to get your project ready.
 title: Setting the screen size when your programme starts
 ---
 
-**Choose:** add a size that suits the pattern you want to create. You can always change this later as your project evolves.
+**Choose:** Add a size that suits the pattern you want to create. You can always change this later as your project evolves.
 
 --- code ---
 ---
@@ -70,7 +70,7 @@ line_number_start: 6
 line_highlights: 7
 ---
 def setup():
-    size(400, 400) # Choose a size 
+    size(400, 400) #Choose a size 
 
 --- /code ---
 
@@ -94,7 +94,7 @@ line_numbers: true
 line_number_start: 9
 line_highlights: 9
 ---
-    background(255, 255, 255) # Try different numbers to change the colour 
+    background(255, 255, 255) #Try different numbers to change the colour 
 
 --- /code ---
 
@@ -121,10 +121,10 @@ After changing the code, you will need to `run` your project to see the changes 
 --- collapse ---
 
 ---
-title: I've tried different numbers but the background color doesn't change 
+title: I've tried different numbers, but the background color doesn't change 
 ---
 
-The maximum amount of red, green or blue is `255`. Make sure all your `background` colour values are between `0` and `255`.  
+The maximum amount of red, green, or blue is `255`. Make sure all your `background` colour values are between `0` and `255`.  
 
 --- /collapse ---
 
