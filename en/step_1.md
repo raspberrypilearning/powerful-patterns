@@ -11,7 +11,7 @@ A <span style="color: #0faeb0; font-weight:bold">project brief</span> describes 
 You will:
 + Draw and position geometric shapes to create a base pattern (or 'motif')
 + Use `for` loops to `translate` the pattern to fill the screen
-+ Use the `framerate` and `framecount` to animate the creation of the pattern
++ Use the `frame_rate` and `frame_count` to animate the creation of the pattern
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns are all around us, in textiles, nature, art, traditions, and design. The starting point of a pattern is called <span style="color: #0faeb0; font-weight:bold">a motif</span>, which is an element that can be repeated and arranged in order to create many different patterns.
 </p>
