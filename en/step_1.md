@@ -10,10 +10,10 @@ A <span style="color: #0faeb0; font-weight:bold">project brief</span> describes 
 
 You will:
 + Draw and position geometric shapes to create a base pattern (or 'motif')
-+ Use loops to `translate` the pattern to fill the screen
-+ Animate how the pattern is created
++ Use `for` loops to `translate` the pattern to fill the screen
++ Use the `framerate` and `framecount` to animate the creation of the pattern
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns are all around us, in textiles, nature, art, traditions and design. The starting point of a pattern is called <span style="color: #0faeb0; font-weight:bold">a motif</span> an element that can be repeated and arranged in order to create many different patterns.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns are all around us, in textiles, nature, art, traditions, and design. The starting point of a pattern is called <span style="color: #0faeb0; font-weight:bold">a motif</span>, which is an element that can be repeated and arranged in order to create many different patterns.
 </p>
 
 --- no-print ---
@@ -25,7 +25,7 @@ You will:
 
 Run this example and think about the repeated motif. How would you describe what is happening in the animation? 
 
-**Kek lapis Sarawak**: [See inside](https://trinket.io/python/81be7eb895){:target="_blank"}
+**Kek lapis sarawak**: [See inside](https://trinket.io/python/81be7eb895){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
@@ -57,7 +57,13 @@ Your powerful pattern could:
 
 Run these example projects to get ideas for your pattern. 
 
-How have the motifs been made from circles, ellipses, squares, rectangles and triangles?:
+How have the motifs been made from circles, ellipses, squares, rectangles, and triangles?:
+
+**Spirals**: [See inside](https://trinket.io/python/a682f7a884){:target="_blank"}
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+</div>
 
 **Art Deco wallpaper**: [See inside](https://trinket.io/python/300e1cd325){:target="_blank"}
 <div class="trinket">
@@ -65,21 +71,15 @@ How have the motifs been made from circles, ellipses, squares, rectangles and tr
   </iframe>
 </div>
 
-**McEwen Tartan**: [See inside](https://trinket.io/python/4706d1a81b){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
-
-**Yakan Weaving**: [See inside](https://trinket.io/python/20646dd7f4){:target="_blank"}
+**Yakan weaving**: [See inside](https://trinket.io/python/20646dd7f4){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/20646dd7f4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Fibonacci sequence**: [See inside](https://trinket.io/python/a0f0e7f8e6){:target="_blank"}
+**McEwen tartan**: [See inside](https://trinket.io/python/4706d1a81b){:target="_blank"}
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/a0f0e7f8e6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -89,18 +89,18 @@ How have the motifs been made from circles, ellipses, squares, rectangles and tr
 
 --- print-only ---
 
-Look at these examples and think about the repeated motif. How have the patterns been made from circles, ellipses, squares, rectangles and triangles?
+Look at these examples and think about the repeated motif. How have the patterns been made from circles, ellipses, squares, rectangles, and triangles?
 
-![Complete kek lapis Sarawak project](images/kek.png)
-You can find the Kek lapis Sarawak project here https://trinket.io/python/81be7eb895
-![Complete art deco project](images/art_deco.png)
-You can find the Art deco project here https://trinket.io/python/300e1cd325
-![Complete tartan project](images/tartan.png)
+![Complete kek lapis sarawak project](images/kek.png)
+You can find the Kek lapis sarawak project here https://trinket.io/python/81be7eb895
+![Complete Art Deco project](images/art_deco.png)
+You can find the Art Deco project here https://trinket.io/python/300e1cd325
+![Complete Spirals project](images/art_deco.png)
+You can find the Art Deco project here https://trinket.io/python/a682f7a884
+![Complete Tartan project](images/tartan.png)
 You can find the McEwen tartan project here https://trinket.io/python/4706d1a81b
-![Complete yakan weaving project](images/yakan.png)
+![Complete Yakan weaving project](images/yakan.png)
 You can find the Yakan weaving project here https://trinket.io/python/20646dd7f4
-![Complete fibonacci sequence project](images/fibonacci.png)
-You can find the Fibonacci sequence project here https://trinket.io/python/a0f0e7f8e6
 
 --- /print-only ---
 

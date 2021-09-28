@@ -11,7 +11,7 @@ Draw and position geometric shapes to create a base pattern (or motif)
 
 --- task ---
 
-Use loops tp repeat the pattern to fill the screen
+Use loops to repeat the pattern to fill the screen
 
 --- /task ---
 
@@ -87,7 +87,7 @@ What mistakes did you make and how did they help you?
 
 --- /task ---
 
-### Now you are a digital artist and mathemetician!
+### Now you are a digital artist and mathematician!
 
 Take a moment to celebrate what you have made.
 

@@ -42,13 +42,15 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 ### Position and transform
 
+[[[processing-matrix]]]
+
 [[[processing-translation]]]
 
 [[[processing-rotation]]]
 
 [[[python-operators]]]
 
-<mark>add ingredient on loops PH doing </mark>
+[[[generic-python-for-loop-repeat]]]
 
 --- /task ---
 
@@ -67,7 +69,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 title: Shapes are not aligned as I expected
 ---
 
-If you want the shapes to be aligned then take a closer look at your coordinate points. Experiment with the numbers until you have the layout you want. 
+If you want the shapes to be aligned, then take a closer look at your coordinate points. Experiment with the numbers until you have the layout you want. 
 
 --- /collapse ---
 
@@ -89,7 +91,7 @@ Computer graphics are made of layers. In your motif, each shape is a layer. Obje
 title: My circles/squares are not equal
 ---
 
-The third and fourth numbers in `ellipse` and `rect` are the width and height. If you make them the same you will get a circle/square. 
+The third and fourth numbers in `ellipse` and `rect` are the width and height. If you make them the same, you will get a circle or square. 
 
 --- /collapse ---
 
