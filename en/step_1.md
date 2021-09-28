@@ -95,7 +95,7 @@ Look at these examples and think about the repeated motif. How have the patterns
 You can find the Kek lapis sarawak project here https://trinket.io/python/81be7eb895
 ![Complete Art Deco project](images/art_deco.png)
 You can find the Art Deco project here https://trinket.io/python/300e1cd325
-![Complete Spirals project](images/art_deco.png)
+![Complete Spirals project](images/spirals.png)
 You can find the Art Deco project here https://trinket.io/python/a682f7a884
 ![Complete Tartan project](images/tartan.png)
 You can find the McEwen tartan project here https://trinket.io/python/4706d1a81b
