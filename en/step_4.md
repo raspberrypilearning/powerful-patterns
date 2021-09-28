@@ -116,15 +116,15 @@ scale(0.5) # half size
 
 Now you can animate your pattern to show how you made it. Often, patterns have powerful cultural significance in the way that they are made, or the process.
 
-<mark>canva thing with picture and blurb https://www.atlasobscura.com/articles/kek-lapis-sarawak To my family, baking layer cake is a tradition that brings everyone together on special occassions. Sometimes the colours will represent a significant day. In general, we have recipes that are passed down through the generations that are unique to the family.</mark>
-
 --- task ---
+
+[[[processing-matrix]]]
 
 [[[processing-translation]]]
 
 [[[processing-rotation]]]
 
-<mark>add ingredient on loops PH doing </mark>
+[[[generic-python-for-loop-repeat]]]
 
 --- /task ---
 
