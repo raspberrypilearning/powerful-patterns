@@ -33,7 +33,11 @@ Think about the pattern you are making. How does your motif change to make the o
 
 Now that you know more about how the motif turns into the whole pattern, you can program it using your answers to the questions above.
 
+**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Professional developers do this all the time! 
+
 You have built up some really useful skills. Here is a reminder to help you make your repeated pattern: 
+
+[[[processing-matrix]]]
 
 [[[processing-translation]]]
 
@@ -41,7 +45,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[python-operators]]]
 
-<mark>add ingredient on loops PH doing </mark>
+[[[generic-python-for-loop-repeat]]]
 
 
 --- collapse ---
@@ -63,7 +67,10 @@ filename: main.py - draw()
 
 ---
 
+push_matrix() # start transformation
 translate(randint(0, 400), randint(0, 400))
+draw_motif()
+pop_matrix() # reset transformation
 
 --- /code ---
 
@@ -77,6 +84,29 @@ filename: main.py - draw()
 ---
 
 BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
+
+--- /code ---
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: Changing the size of your motif
+---
+
+If you use a motif you have already drawn, it might not be the right size. 
+
+You can use `scale()` before calling the function that draws your motif to change its size. Using an input bigger than '1' will make the motif bigger, using an input less than '1' will make it smaller. 
+
+--- code ---
+---
+language: python
+filename: main.py - draw()
+
+---
+
+scale(0.5) # half size
 
 --- /code ---
 

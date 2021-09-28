@@ -42,13 +42,15 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 ### Position and transform
 
+[[[processing-matrix]]]
+
 [[[processing-translation]]]
 
 [[[processing-rotation]]]
 
 [[[python-operators]]]
 
-<mark>add ingredient on loops PH doing </mark>
+[[[generic-python-for-loop-repeat]]]
 
 --- /task ---
 
