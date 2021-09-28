@@ -2,7 +2,7 @@
 
 Now it's time to make your motif, the first element of your pattern.
 
-![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/motif3.png)
+![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/motif1.png)
 
 The process of making your motif mirrors what computer scientists often do when they create a program or solution to a problem. This process is called **decomposition** and you will use decomposition to create your motif.
 
