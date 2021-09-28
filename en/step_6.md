@@ -2,9 +2,12 @@
 
 If you have time you can upgrade your project. You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
 
+![Finished examples with input and make a face elements](images/second.png)
+
 You could:
 - Use text and emoji to `print()` a description of your pattern
 - Adjust the size of your pattern based on user `input()`
+- Make a motif using your [Make a face project](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
 
 Each example project in the [Introduction](.) has a **See inside** link for you to open the project, look at the code, get ideas, and see how they work.
 
