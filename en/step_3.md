@@ -1,8 +1,13 @@
 ## Build and test: motif
 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Now it's time to make your motif, the first element of your pattern.
-
-![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/motif1.png)
+</div>
+<div>
+![An examples of a motif using various shapes to create the motif.](images/motif.png){:width="300px"}
+</div>
+</div>
 
 The process of making your motif mirrors what computer scientists often do when they create a program or solution to a problem. This process is called **decomposition** and you will use decomposition to create your motif.
 

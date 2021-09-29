@@ -171,10 +171,10 @@ Check you have used `frame_count()` properly in a loop.
 
 --- collapse ---
 ---
-title: My pattern does not animate how I want it to
+title: My pattern does not look the way I want it to
 ---
 
-Review the sections above on `rotation()` and `translation()`. Experiment until it looks like you want it to, and remember, mistakes are powerful!
+Review the sections above on `rotate()` and `translate()`. Experiment until it looks like you want it to, and remember, mistakes are powerful!
 
 --- /collapse ---
 
@@ -183,7 +183,7 @@ Review the sections above on `rotation()` and `translation()`. Experiment until 
 title: I get an error
 ---
 
-Check the syntax of your code. Are you missing any brackets or a colon `:` after defining a function? Is something spelled incorrectly?
+Check the syntax of your code. Are you missing any brackets `(` or `)` or a colon `:` after defining a function? Is something spelled incorrectly? Is your code indented correctly?
 
 --- /collapse ---
 
