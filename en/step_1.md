@@ -65,6 +65,12 @@ How have the motifs been made from circles, ellipses, squares, rectangles, and t
   </iframe>
 </div>
 
+**Random faces**: [See inside](https://trinket.io/python/c45185fd44){:target="_blank"}
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/python/c45185fd44?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+</div>
+
 **Art Deco wallpaper**: [See inside](https://trinket.io/python/300e1cd325){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -74,12 +80,6 @@ How have the motifs been made from circles, ellipses, squares, rectangles, and t
 **Yakan weaving**: [See inside](https://trinket.io/python/20646dd7f4){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/20646dd7f4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
-
-**McEwen tartan**: [See inside](https://trinket.io/python/4706d1a81b){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -93,12 +93,12 @@ Look at these examples and think about the repeated motif. How have the patterns
 
 ![Complete kek lapis sarawak project](images/kek.png)
 You can find the Kek lapis sarawak project here https://trinket.io/python/81be7eb895
-![Complete Art Deco project](images/art_deco.png)
-You can find the Art Deco project here https://trinket.io/python/300e1cd325
 ![Complete Spirals project](images/spirals.png)
 You can find the Art Deco project here https://trinket.io/python/a682f7a884
-![Complete Tartan project](images/tartan.png)
-You can find the McEwen tartan project here https://trinket.io/python/4706d1a81b
+![Complete Random faces project](images/random_faces.png)
+You can find the Random faces  project here https://trinket.io/python/c45185fd44
+![Complete Art Deco project](images/art_deco.png)
+You can find the Art Deco project here https://trinket.io/python/300e1cd325
 ![Complete Yakan weaving project](images/yakan.png)
 You can find the Yakan weaving project here https://trinket.io/python/20646dd7f4
 
