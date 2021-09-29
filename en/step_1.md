@@ -77,9 +77,9 @@ How have the motifs been made from circles, ellipses, squares, rectangles, and t
   </iframe>
 </div>
 
-**McEwen tartan**: [See inside](https://trinket.io/python/4706d1a81b){:target="_blank"}
+**Random faces**: [See inside](https://trinket.io/python/c45185fd44){:target="_blank"}
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/c45185fd44?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
@@ -97,8 +97,8 @@ You can find the Kek lapis sarawak project here https://trinket.io/python/81be7e
 You can find the Art Deco project here https://trinket.io/python/300e1cd325
 ![Complete Spirals project](images/spirals.png)
 You can find the Art Deco project here https://trinket.io/python/a682f7a884
-![Complete Tartan project](images/tartan.png)
-You can find the McEwen tartan project here https://trinket.io/python/4706d1a81b
+![Complete Random faces project](images/random_faces.png)
+You can find the Random faces  project here https://trinket.io/python/c45185fd44
 ![Complete Yakan weaving project](images/yakan.png)
 You can find the Yakan weaving project here https://trinket.io/python/20646dd7f4
 
