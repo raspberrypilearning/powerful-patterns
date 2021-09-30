@@ -1,6 +1,6 @@
 ## Your idea
 
-Use this step to plan your powerful pattern. You can plan by just thinking; tinkering; drawing or writing; or however you like! 
+Use this step to plan your powerful pattern. You can plan by just thinking, tinkering, drawing or writing, or however you like! 
 
 ![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-1.gif)
 
@@ -121,7 +121,7 @@ After changing the code, you will need to `run` your project to see the changes 
 --- collapse ---
 
 ---
-title: I've tried different numbers, but the background color doesn't change 
+title: I've tried different numbers, but the background colour doesn't change 
 ---
 
 The maximum amount of red, green, or blue is `255`. Make sure all your `background` colour values are between `0` and `255`.  
