@@ -1,11 +1,11 @@
-## Build and test: motif
+## Build and test: Motif
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Now it's time to make your motif, the first element of your pattern.
 </div>
 <div>
-![An examples of a motif using various shapes to create the motif.](images/motif.png){:width="300px"}
+![An example of a motif using various shapes to create the motif.](images/motif.png){:width="300px"}
 </div>
 </div>
 
