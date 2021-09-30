@@ -25,7 +25,7 @@ You will:
 
 Run this example and think about the repeated motif. How would you describe what is happening in the animation? 
 
-**Kek lapis sarawak**: [See inside](https://trinket.io/python/81be7eb895){:target="_blank"}
+**Kek lapis Sarawak**: [See inside](https://trinket.io/python/81be7eb895){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
@@ -35,7 +35,7 @@ Run this example and think about the repeated motif. How would you describe what
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Create a **Powerful pattern**
+### PROJECT BRIEF: Create a **powerful pattern**
 <hr style="border-top: 2px solid black;"> 
 
 Your powerful pattern should:
@@ -71,7 +71,7 @@ How have the motifs been made from circles, ellipses, squares, rectangles, and t
   </iframe>
 </div>
 
-**Art Deco wallpaper**: [See inside](https://trinket.io/python/300e1cd325){:target="_blank"}
+**Art deco wallpaper**: [See inside](https://trinket.io/python/300e1cd325){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
@@ -91,15 +91,15 @@ How have the motifs been made from circles, ellipses, squares, rectangles, and t
 
 Look at these examples and think about the repeated motif. How have the patterns been made from circles, ellipses, squares, rectangles, and triangles?
 
-![Complete kek lapis sarawak project](images/kek.png)
-You can find the Kek lapis sarawak project here https://trinket.io/python/81be7eb895
-![Complete Spirals project](images/spirals.png)
-You can find the Art Deco project here https://trinket.io/python/a682f7a884
-![Complete Random faces project](images/random_faces.png)
-You can find the Random faces  project here https://trinket.io/python/c45185fd44
-![Complete Art Deco project](images/art_deco.png)
-You can find the Art Deco project here https://trinket.io/python/300e1cd325
-![Complete Yakan weaving project](images/yakan.png)
+![Complete Kek lapis Sarawak project.](images/kek.png)
+You can find the Kek lapis Sarawak project here https://trinket.io/python/81be7eb895
+![Complete Spirals project.](images/spirals.png)
+You can find the Spirals project here https://trinket.io/python/a682f7a884
+![Complete Random faces project.](images/random_faces.png)
+You can find the Random faces project here https://trinket.io/python/c45185fd44
+![Complete Art deco project.](images/art_deco.png)
+You can find the Art deco project here https://trinket.io/python/300e1cd325
+![Complete Yakan weaving project.](images/yakan.png)
 You can find the Yakan weaving project here https://trinket.io/python/20646dd7f4
 
 --- /print-only ---
