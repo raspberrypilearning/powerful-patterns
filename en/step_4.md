@@ -67,10 +67,10 @@ filename: main.py - draw()
 
 ---
 
-push_matrix() # start transformation
+push_matrix() #Start transformation
 translate(randint(0, 400), randint(0, 400))
 draw_motif()
-pop_matrix() # reset transformation
+pop_matrix() #Reset transformation
 
 --- /code ---
 
@@ -106,7 +106,7 @@ filename: main.py - draw()
 
 ---
 
-scale(0.5) # half size
+scale(0.5) #Half size
 
 --- /code ---
 
