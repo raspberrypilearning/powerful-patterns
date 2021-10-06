@@ -2,9 +2,9 @@ title: Powerful patterns
 hero_image: images/banner.png
 description: Create a piece of inspirational art that can be scaled using repeated patterns
 version: 4
-listed: false
-copyedit: false
-last_tested: "2021-03-26"
+listed: true
+copyedit: true
+last_tested: "2021-10-06"
 steps:
   - title: Introduction
   - title: Your idea
