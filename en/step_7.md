@@ -1,99 +1,25 @@
-## Reflect
+## Upgrade your project
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+If you have time you can upgrade your project. You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
 
-Does your powerful pattern:
+![Finished examples with input and make a face elements](images/upgrade.gif)
 
---- task ---
+You could:
+- Use text and emoji to `print()` a description of your pattern
+- Adjust the size of your pattern based on user `input()`
+- Make a scaled motif using your [Make a face project](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
 
-Draw and position geometric shapes to create a base pattern (or motif)
---- /task ---
+Each example project in the [Introduction](.) has a **See inside** link for you to open the project, look at the code, get ideas, and see how they work.
 
---- task ---
+This project uses text and emoji to ask the user to choose a size then uses their answer to size all the shapes:
 
-Use loops to repeat the pattern to fill the screen
+**McEwen tartan**: [See inside](https://trinket.io/python/4706d1a81b){:target="_blank"}
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+</div>
 
---- /task ---
+Take a look at some Powerful patterns projects created by community members in the Raspberry Pi Foundation’s [Powerful patterns - Community library](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
 
---- task ---
-
-Animate how the pattern is created
-
---- /task ---
-
-Your powerful pattern could also:
-
---- task ---
-
-Use bold or significant colours
-
---- /task ---
-
---- task ---
-
-Draw inspiration from your culture or popular culture
-
---- /task ---
-
---- task ---
-
-Get user input to resize the pattern
-
---- /task ---
-
---- task ---
-
-Add text and emoji to print details about your art
-
---- /task ---
-
---- task ---
-
-Translate the pattern to create variations
-
---- /task ---
-
-
---- task ---
-
-Share your work with others in an online gallery
-
---- /task ---
-
-
-Reflecting about how you made your powerful pattern will help you in your future projects.
-
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
---- task ---
-
-How did you get your ideas? 
-
---- /task ---
-
---- task ---
-
-What cool new thing(s) did you learn?
-
---- /task ---
-
---- task ---
-
-Mistakes and failures are often the catalyst for discovery and success.
-
-Oprah Winfrey was fired from her first job, but she went on to become a famous and influential producer and philanthropist. She once said "turn your wounds into wisdom".
-
-What mistakes did you make and how did they help you?
-
---- /task ---
-
-### Now you are a digital artist and mathematician!
-
-Take a moment to celebrate what you have made.
-
---- task ---
-
-Where will you take your new powers? What will you make next?
-
---- /task ---
+--- save ---
 
