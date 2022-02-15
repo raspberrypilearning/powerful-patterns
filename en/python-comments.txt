@@ -1,0 +1,57 @@
+Choose a size
+
+Try different numbers to change the colour
+
+Based on the amazing Malaysian geometric cake art: Kek lapis Sarawak
+
+Choose some gorgeous colours for the cake layers
+
+Jam sticks the layers together
+
+Change the number to change the amount of jam
+
+Nine layers of cake, repeating the 3 colours 3 times
+
+height of 3 blocks of cake
+
+The cake is wrapped in an outer layer
+
+Don't cover up the cake quadrants!
+
+make the cake square
+
+transparent background
+
+5 frames per second
+
+Define a quarter turn so our code is easy to read
+
+start from the center
+
+Make the bottom right quarter of the cake then rotate for the other quarters
+
+draw up to 4 quadrants
+
+add the outer layer
+
+back to the top corner
+
+outer layer
+
+Definitions for compatibility with the p5py processing library 
+
+Shape
+
+Fonts
+
+Text
+
+Colour
+
+Images
+
+Environment
+
+Transform
+
+Keyboard
