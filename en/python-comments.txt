@@ -8,6 +8,12 @@ Reset transformation
 
 Half size
 
+Put code to run once here
+
+Put code to run every frame here
+
+Keep this to run your code
+
 Based on the amazing Malaysian geometric cake art: Kek lapis Sarawak
 
 Choose some gorgeous colours for the cake layers
