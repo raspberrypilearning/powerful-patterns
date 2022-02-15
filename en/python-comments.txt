@@ -2,6 +2,12 @@ Choose a size
 
 Try different numbers to change the colour
 
+Start transformation
+
+Reset transformation
+
+Half size
+
 Based on the amazing Malaysian geometric cake art: Kek lapis Sarawak
 
 Choose some gorgeous colours for the cake layers
@@ -55,3 +61,87 @@ Environment
 Transform
 
 Keyboard
+
+a short row of squares
+
+fast animation
+
+thick border
+
+start from the centre of the screen
+
+animates the pattern
+
+turns the motif
+
+moves the motif
+
+Eyes
+
+Mouth
+
+offset by the width of the quarter-size face
+
+quarter size paths
+
+Pattern colours
+
+blue
+
+gold
+
+start from the top left of the screen
+
+creates 16 rows then stops
+
+animates 1 row at a time
+
+create a row of motifs
+
+move down to start next row
+
+Thread colours
+
+Squares
+
+row of shapes
+
+save settings
+
+turn shape 45 degrees
+
+go back to saved settings
+
+move horizontally
+
+pink
+
+to start with half motifs
+
+maximum rows
+
+to offset pattern on next row
+
+Use in shape width/length to animate over time
+
+McEwen tartan colours
+
+Base square colours
+
+Cross colours
+
+Stitching and overlap colour
+
+Draw all the GREEN and BLUE alternating Base squares
+
+GREEN and BLUE
+
+Crosses
+
+Draw the YELLOW and RED alternating crosses
+
+YELLOW and RED
+
+Draw the stiching crosses
+
+Draw the grey lines where material overlaps
