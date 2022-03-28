@@ -12,8 +12,8 @@ steps:
     completion: engaged  
   - title: Expand and test - Pattern
   - title: Share
-  - title: Reflection
     completion: internal
+  - title: Reflection
   - title: Upgrade your project
     completion: external      
   - title: What next?
