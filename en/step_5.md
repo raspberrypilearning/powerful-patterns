@@ -1,19 +1,99 @@
-## Share
+## Reflection
 
-If you are in a club, why not share your project with friends?
+Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
 
-You could also show your family how your project works by sending them a link.
-
-To get a link, go to the **Share** menu button in the upper-right of your Trinket’s edit page and select **Link**.
-
-![The 'Share' menu button extended, with 'Link' highlighted.](images/share-button.png)
-
-**Tip:** You can share a link to your project even if you don’t have a Trinket account; however, without an account, the link to your project will change each time you update it. If you have shared the link with someone, you will need to send a new link for them to see the changes.
+Does your powerful pattern:
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+Draw and position geometric shapes to create a base pattern (or motif)
+--- /task ---
 
-To submit your project to our [Powerful pattern - Community](https://wke.lt/w/s/yyNPQT){:target=blank} studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+--- task ---
+
+Use loops to repeat the pattern to fill the screen
 
 --- /task ---
+
+--- task ---
+
+Animate how the pattern is created
+
+--- /task ---
+
+Your powerful pattern could also:
+
+--- task ---
+
+Use bold or significant colours
+
+--- /task ---
+
+--- task ---
+
+Draw inspiration from your culture or popular culture
+
+--- /task ---
+
+--- task ---
+
+Get user input to resize the pattern
+
+--- /task ---
+
+--- task ---
+
+Add text and emoji to print details about your art
+
+--- /task ---
+
+--- task ---
+
+Translate the pattern to create variations
+
+--- /task ---
+
+
+--- task ---
+
+Share your work with others in an online gallery
+
+--- /task ---
+
+
+Reflecting about how you made your powerful pattern will help you in your future projects.
+
+Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
+
+--- task ---
+
+How did you get your ideas? 
+
+--- /task ---
+
+--- task ---
+
+What cool new thing(s) did you learn?
+
+--- /task ---
+
+--- task ---
+
+Mistakes and failures are often the catalyst for discovery and success.
+
+Oprah Winfrey was fired from her first job, but she went on to become a famous and influential producer and philanthropist. She once said "turn your wounds into wisdom".
+
+What mistakes did you make and how did they help you?
+
+--- /task ---
+
+### Now you are a digital artist and mathematician!
+
+Take a moment to celebrate what you have made.
+
+--- task ---
+
+Where will you take your new powers? What will you make next?
+
+--- /task ---
+
