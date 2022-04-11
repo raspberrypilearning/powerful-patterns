@@ -16,13 +16,13 @@ steps:
     completion: engaged
   - 
     title: Expand and test - Pattern
-  - 
-    title: Share
-  - 
-    title: Reflection
     completion: internal
   - 
-    title: Upgrade your project
+    title: Reflection
     completion: external
+  - 
+    title: Upgrade your project
+  - 
+    title: Share
   - 
     title: What next?
