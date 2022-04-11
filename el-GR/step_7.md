@@ -1,25 +1,19 @@
-## Upgrade your project
+## Share
 
-If you have time you can upgrade your project. You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
+If you are in a club, why not share your project with friends?
 
-![Finished examples with input and make a face elements](images/upgrade.gif)
+You could also show your family how your project works by sending them a link.
 
-You could:
-- Use text and emoji to `print()` a description of your pattern
-- Adjust the size of your pattern based on user `input()`
-- Make a scaled motif using your [Make a face project](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
+To get a link, go to the **Share** menu button in the upper-right of your Trinket’s edit page and select **Link**.
 
-Each example project in the [Introduction](.) has a **See inside** link for you to open the project, look at the code, get ideas, and see how they work.
+![The 'Share' menu button extended, with 'Link' highlighted.](images/share-button.png)
 
-This project uses text and emoji to ask the user to choose a size then uses their answer to size all the shapes:
+**Tip:** You can share a link to your project even if you don’t have a Trinket account; however, without an account, the link to your project will change each time you update it. If you have shared the link with someone, you will need to send a new link for them to see the changes.
 
-**McEwen tartan**: [See inside](https://trinket.io/python/4706d1a81b){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+--- task ---
 
-Take a look at some Powerful patterns projects created by community members in the Raspberry Pi Foundation’s [Powerful patterns - Community library](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
+Inspire the Raspberry Pi Foundation community with your project!
 
---- save ---
+To submit your project to our [Powerful pattern - Community](https://wke.lt/w/s/yyNPQT){:target=blank} studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
+--- /task ---
