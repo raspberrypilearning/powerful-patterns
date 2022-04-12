@@ -1,71 +1,71 @@
-quadrant
+cuadrante
 
-turquoise
+turquesa
 
-gold
+dorado
 
-tomato
+tomate
 
-jam
+mermelada
 
-start_y
+inicio_y
 
-outer
+exterior
 
-yellowgreen
+amarillo_verdoso
 
-quarter
+cuarto_vuelta
 
-motif
+motivo
 
-draw_motif
+dibujar_motivo
 
-orange
+naranja
 
-brown
+marron
 
-green
+verde
 
-circle_size
+tamano_circulo
 
-This art uses lots of circles!
+¡Este arte usa muchos círculos!
 
-motif_size
+tamano_motivo
 
-ORANGE
+NARANJA
 
-PURPLE
+MORADO
 
-YELLOW
+AMARILLO
 
-BLUE
+AZUL
 
-This is 🇵🇭 Yakan weaving
+Este es un 🇵🇭 tejido Yakan
 
-motif_width
+ancho_motivo
 
-󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿This is McEwen Tartan
+Este es un Tartán McEwen
 
-square_size
+cuadrado_tamano
 
-What size tartan would you like? 20, 50, or 100
+¿Qué tamaño de tartán te gustaría? 20, 50 o 100
 
-lines
+lineas
 
-GREEN
+VERDE
 
-BASE_COLORS
+COLORES_BASE
 
-RED
+ROJO
 
-CROSS_COLORS
+CRUZAR_COLORES
 
-GREY
+GRIS
 
-y_coordinate
+coordenada_y
 
-squares
+cuadrados
 
-gap
+abertura
 
-cross
+cruzar
