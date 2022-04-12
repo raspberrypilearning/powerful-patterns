@@ -177,22 +177,22 @@ Revisa las secciones anteriores `rotate()` y `translate()`. Experimenta con esta
 title: Me sale un error
 ---
 
-Comprueba la sintaxis de tu código. Are you missing any brackets `(` or `)` or a colon `:` after defining a function? Is something spelled incorrectly? Is your code indented correctly?
+Comprueba la sintaxis de tu código. ¿Falta algún paréntesis `(` o `)` o dos puntos `:` después de definir una función? ¿Algo está mal escrito? ¿Tu código está correctamente indentado (tiene sangría)?
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The animation is too fast/too slow
+title: La animación es demasiado rápida/demasiado lenta
 ---
 
-Change the `frame_rate()` at the beginning of your program to get it to the speed you like.
+Cambia el `frame_rate()` al comienzo de tu programa para que alcance la velocidad que quieras.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Es posible que encuentres un error que no se incluye aquí. ¿Puedes averiguar cómo solucionarlo?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+Nos encanta conocer tus errores y cómo los solucionaste. Usa el botón Enviar comentarios en la parte inferior de esta página si encontraste un error diferente en tu proyecto.
 
 --- /task ---
 
