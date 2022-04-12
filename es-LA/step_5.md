@@ -36,7 +36,7 @@ Estar inspirado en tu cultura o la cultura popular
 
 --- task ---
 
-Obtener sugerencias de usuarios para redimensionar el patrón
+Obtener la entrada del usuario para cambiar el tamaño del patrón
 
 --- /task ---
 
