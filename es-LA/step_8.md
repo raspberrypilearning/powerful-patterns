@@ -1,7 +1,7 @@
-## What next?
+## ¿Qué sigue?
 
-You have reached the end of the [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro) path!
+¡Has llegado al final de la ruta [Introducción a Python](https://projects.raspberrypi.org/en/pathways/python-intro)!
 
 [[[python-coolest-projects]]]
 
-You can explore our [other Python projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) and try them out.
+Puedes explorar nuestros otros [proyectos de Python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) y probarlos.
