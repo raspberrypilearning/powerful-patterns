@@ -1,21 +1,21 @@
 ---
-title: Powerful patterns
+title: Patrones poderosos
 hero_image: images/banner.png
-description: Create a piece of inspirational art that can be scaled using repeated patterns
+description: Crea una obra de arte inspiradora que se pueda escalar usando patrones repetidos
 version: 4
 listed: true
 copyedit: true
 last_tested: "2021-10-06"
 steps:
   - 
-    title: Introduction
+    title: Introducción
   - 
-    title: Your idea
+    title: Tu idea
   - 
-    title: Build and test - Motif
+    title: Construye y prueba - Motivo
     completion: engaged
   - 
-    title: Expand and test - Pattern
+    title: Expande y prueba - Patrón
     completion: internal
   - 
     title: Reflection
@@ -25,4 +25,4 @@ steps:
   - 
     title: Share
   - 
-    title: What next?
+    title: '¿Qué sigue?'
