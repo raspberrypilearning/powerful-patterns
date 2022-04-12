@@ -1,20 +1,20 @@
-## Expand and test: Pattern
+## Expande y prueba: Patrón
 
-Now it's time to make your full pattern!
+¡Ha llegado el momento de hacer tu patrón completo!
 
-![Examples of finished projects that have the motif used repeatedly to form a full pattern.](images/second.gif)
+![Ejemplos de proyectos terminados que tienen el motivo usado repetidamente para formar un patrón completo.](images/second.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Abstraction</span> is problem solving by reducing unnecessary detail. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Abstracción</span> es la resolución de problemas mediante la reducción de detalles innecesarios. 
 
 </p>
 
 --- task ---
 
-Look at this Malaysian layer cake (kek lapis Sarawak). How does the motif change to make the overall pattern?
+Mira este pastel de capas de Malasia (kek lapis Sarawak). ¿Cómo cambia el motivo para formar el patrón general?
 
-![The motif from the kek lapis Sarawak project next to the complete pattern.](images/kek-motif.png)
+![El motivo del proyecto kek lapis Sarawak junto al patrón completo.](images/kek-motif.png)
 
-Look at this art deco wallpaper. How does the motif change to make the overall pattern?
+Mira este papel tapiz art déco. How does the motif change to make the overall pattern?
 
 ![The motif from the art deco wallpaper project next to the complete pattern.](images/spirals-motif.png)
 
