@@ -1,31 +1,31 @@
-## Build and test: Motif
+## Construye y prueba: Motivo
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it's time to make your motif, the first element of your pattern.
+Ha llegado el momento de crear tu motivo, el primer elemento de tu patrón.
 </div>
 <div>
-![An example of a motif using various shapes to create the motif.](images/motif.png){:width="300px"}
+![Un ejemplo de un motivo que usa varias formas para crearse.](images/motif.png){:width="300px"}
 </div>
 </div>
 
-The process of making your motif mirrors what computer scientists often do when they create a program or solution to a problem. This process is called **decomposition** and you will use decomposition to create your motif.
+El proceso de creación de tu motivo refleja lo que suelen hacer los científicos de la computación cuando crean un programa o una solución a un problema. Este proceso se llama **descomponer en partes** y la usarás para crear tu motivo.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Decomposition</span> is breaking something down into parts that are smaller and easier to understand. This means that you can build a pattern one part at a time until it is complete.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Descomponer en partes</span> es dividir algo en partes más pequeñas y más fáciles de entender. Esto significa que puedes crear un patrón una parte a la vez hasta que lo hayas completado.</p>
 
-Look at the pattern you want to recreate. How can you break it down into one single element (the motif) that repeats?
+Mira el patrón que quieres recrear. ¿Cómo puedes descomponerlo en un solo elemento (el motivo) que se repite?
 
-In this example, an art deco wallpaper pattern has been decomposed into the basic collection of shapes (five circles overlayed) that makes the motif:
+En este ejemplo, un patrón de papel tapiz art déco se ha descompuesto en una colección básica de formas (cinco círculos superpuestos) que forman el motivo:
 
-![A single five circle motif next to an image of the art deco complete pattern with many copies of the motif.](images/motif-pattern.png)
+![Un solo motivo de cinco círculos junto a una imagen del patrón completo art déco con muchas copias del motivo.](images/motif-pattern.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Sugerencia:** Recuerda probar tu proyecto cada vez que agregues algo. Es mucho más fácil encontrar y corregir errores antes de hacer más cambios.
 
 --- task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your motif:
+Has desarrollado algunas habilidades realmente útiles. Aquí hay un recordatorio para ayudarte a crear tu motivo:
 
-### Shapes and images
+### Formas e imágenes
 
 [[[processing-python-ellipse]]]
 
@@ -35,7 +35,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-add-image]]]
 
-### Colours and effects
+### Colores y efectos
 
 [[[generic-theory-simple-colours]]]
 
@@ -45,7 +45,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-tint]]]
 
-### Position and transform
+### Posicionar y transformar
 
 [[[processing-matrix]]]
 
@@ -61,48 +61,48 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your motif?
+**Prueba:** Muéstrale tu proyecto a otra persona y pídele su opinión. ¿Quieres hacerle algún cambio a tu motivo?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Depurar:** Es posible que encuentres algunos errores en tu proyecto que necesites corregir. A continuación, se muestran algunos errores comunes.
 
 --- collapse ---
 ---
-title: Shapes are not aligned as I expected
+title: Las formas no están alineadas como yo esperaba
 ---
 
-If you want the shapes to be aligned, then take a closer look at your coordinate points. Experiment with the numbers until you have the layout you want.
+Si quieres que las formas estén alineadas, mira más de cerca tus puntos de coordenadas. Experimenta con los números hasta que tengas un diseño que te guste.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I can't see some of the shapes in my motif
+title: No puedo ver algunas de las formas en mi motivo
 ---
 
-The order in which you draw things is very important.
+El orden en que dibujas las cosas es muy importante.
 
-Computer graphics are made of layers. In your motif, each shape is a layer. Objects on higher layers sit in front of objects on lower layers. Imagine cutting all the shapes out of paper. Depending on how you arrange and overlap that paper, the final result could look very different.
+Los gráficos por computadora están hechos de capas. En tu motivo, cada forma es una capa. Los objetos de las capas superiores se ubican delante de los objetos de las capas inferiores. Imagina cortar todas las formas en papel. Dependiendo de cómo organices y superpongas ese papel, el resultado final podría verse muy diferente.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: My circles/squares are not equal
+title: Mis círculos/cuadrados no son iguales
 ---
 
-The third and fourth numbers in `ellipse` and `rect` are the width and height. If you make them the same, you will get a circle or square.
+Los números tercero y cuarto en `ellipse` y `rect` son el ancho y el alto. Si los haces iguales, obtendrás un círculo o un cuadrado.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Es posible que encuentres un error que no se incluye aquí. ¿Puedes averiguar cómo solucionarlo?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+Nos encanta conocer tus errores y cómo los solucionaste. Usa el botón Enviar comentarios en la parte inferior de esta página si encontraste un error diferente en tu proyecto.
 
 --- /task ---
 
