@@ -1,8 +1,8 @@
-## Reflection
+## Reflexión
 
 Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
 
-Does your powerful pattern:
+Tu patrón poderoso:
 
 --- task ---
 
