@@ -1,16 +1,16 @@
-Choose a size
+Elige un tamaño (size)
 
-Try different numbers to change the colour
+Prueba diferentes números para cambiar el color
 
-Start transformation
+Inicia la transformación
 
-Reset transformation
+Restablece la transformación
 
-Half size
+Mitad del tamaño
 
-Put code to run once here
+Pon el código a ejecutar una vez aquí
 
-Put code to run every frame here
+Pon el código a ejecutar cada cuadro (fotograma o frame) aquí
 
 Keep this to run your code
 
