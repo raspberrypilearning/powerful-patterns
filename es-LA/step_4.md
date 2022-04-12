@@ -14,28 +14,28 @@ Mira este pastel de capas de Malasia (kek lapis Sarawak). ¿Cómo cambia el moti
 
 ![El motivo del proyecto kek lapis Sarawak junto al patrón completo.](images/kek-motif.png)
 
-Mira este papel tapiz art déco. How does the motif change to make the overall pattern?
+Mira este papel tapiz art déco. ¿Cómo cambia el motivo para formar el patrón general?
 
-![The motif from the art deco wallpaper project next to the complete pattern.](images/spirals-motif.png)
+![El motivo del proyecto de papel tapiz art déco junto al patrón completo.](images/spirals-motif.png)
 
-Think about the pattern you are making. How does your motif change to make the overall pattern. Use these questions to help you abstract:
-- Does the whole, or part, of the motif rotate?
-- What direction does it rotate? And by how much?
-- Are there layers to the pattern that overlap?
-- How many times does the motif repeat itself?
-- How is the repetition organised (i.e. how many rows/columns)?
-- Do the colours change?
-- Are there details that are not included in the motif (i.e. the icing in the Malaysian layer cake)?
+Piensa en el patrón que estás creando. ¿Cómo cambia tu motivo para formar el patrón general?. Usa estas preguntas para ayudarte a resumirlo:
+- ¿La totalidad o parte del motivo gira?
+- ¿En qué dirección gira? ¿Y cuánto?
+- ¿Hay capas en el patrón que se superponen?
+- ¿Cuántas veces se repite el motivo?
+- ¿Cómo se organiza la repetición (es decir, cuántas filas/columnas)?
+- ¿Cambian los colores?
+- ¿Hay detalles que no están incluidos en el motivo (es decir, la guinda del pastel de capas de Malasia)?
 
 --- /task ---
 
 --- task ---
 
-Now that you know more about how the motif turns into the whole pattern, you can program it using your answers to the questions above.
+Ahora que sabes más acerca de cómo el motivo se convierte en el patrón completo, puedes programarlo usando tus respuestas a las preguntas anteriores.
 
-**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Professional developers do this all the time!
+**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. ¡Los desarrolladores profesionales hacen esto todo el tiempo!
 
-You have built up some really useful skills. Here is a reminder to help you make your repeated pattern:
+Has desarrollado algunas habilidades realmente útiles. Aquí hay un recordatorio para ayudarte a crear tu patrón repetido:
 
 [[[processing-matrix]]]
 
@@ -51,14 +51,14 @@ You have built up some really useful skills. Here is a reminder to help you make
 --- collapse ---
 
 ---
-title: Random positions
+title: Posiciones aleatorias
 ---
 
-You can add `from random import randint` at the top of **main.py**, this allows you to use the `randint` function to generate random numbers.
+Puedes agregar `from random import randint` en la parte superior de **main.py**, esto te permitirá usar la función `randint` para generar números aleatorios.
 
-To use the `randint` function, you need to call it in your the code.
+Para usar la función `randint`, deberás llamarla en tu código.
 
-One way to use random is to move your motif to a random position each time it is drawn:
+Una forma de usar random es mover tu motivo a una posición aleatoria cada vez que se dibuja:
 
 --- code ---
 ---
@@ -70,7 +70,7 @@ push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) 
 
 --- /code ---
 
-You could also use random to change the colours in your motif as it is redrawn.
+También puedes usar random para cambiar los colores en tu motivo a medida que se vuelve a dibujar.
 
 --- code ---
 ---
@@ -87,12 +87,12 @@ BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 --- collapse ---
 
 ---
-title: Changing the size of your motif
+title: Cambiar el tamaño de tu motivo
 ---
 
-If you use a motif you have already drawn, it might not be the right size.
+Si usas un motivo que ya has dibujado antes, podría no ser del tamaño correcto.
 
-You can use `scale()` before calling the function that draws your motif to change its size. Using an input bigger than '1' will make the motif bigger, using an input less than '1' will make it smaller.
+Puedes usar `scale()` antes de llamar a la función que dibuja tu motivo para cambiar su tamaño. Usar una entrada mayor que '1' hará que el motivo sea más grande, usar una entrada menor que '1' lo hará más pequeño.
 
 --- code ---
 ---
@@ -108,7 +108,7 @@ scale(0.5) #Half size
 
 --- /task ---
 
-Now you can animate your pattern to show how you made it. Often, patterns have powerful cultural significance in the way that they are made, or the process.
+Ahora puedes animar tu patrón para mostrar cómo lo hiciste. A menudo, los patrones tienen un significado cultural poderoso en la forma en que se hacen o en el proceso.
 
 --- task ---
 
@@ -125,59 +125,59 @@ Now you can animate your pattern to show how you made it. Often, patterns have p
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your pattern?
+**Prueba:** Muéstrale tu proyecto a otra persona y pídele su opinión. ¿Quieres hacerle algún cambio a tu patrón?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Depurar:** Es posible que encuentres algunos errores en tu proyecto que necesites corregir. A continuación, se muestran algunos errores comunes.
 
 --- collapse ---
 
 ---
-title: My motif does not appear to rotate
+title: Mi motivo no parece girar
 ---
 
-Make sure you are using the `radian()` function to convert degrees to radians.
+Asegurate de estar usando la función `radian()` para convertir grados a radianes.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The rotation looks strange
+title: La rotación se ve extraña
 ---
 
-Have you checked that you are using `translate()` from and to the right coordinates?
+¿Has comprobado que estás usando `translate()` desde y hacia las coordenadas correctas?
 
-Do you have more than one thing rotating? You may need to use `push_matrix()` and `pop_matrix()` so the screen rotates at different points at once.
+¿Tienes más de una cosa girando? Es posible que tengas que usar `push_matrix()` y `pop_matrix()` para que la pantalla gire en diferentes puntos a la vez.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not animate
+title: Mi patrón no se anima
 ---
 
-Check you have used `frame_count()` properly in a loop.
+Comprueba que has utilizado `frame_count()` correctamente en un bucle.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not look the way I want it to
+title: Mi patrón no luce como yo quiero
 ---
 
-Review the sections above on `rotate()` and `translate()`. Experiment until it looks like you want it to, and remember, mistakes are powerful!
+Revisa las secciones anteriores `rotate()` y `translate()`. Experimenta con estas funciones hasta que luzca como quieres, y recuerda que, ¡los errores son poderosos!
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I get an error
+title: Me sale un error
 ---
 
-Check the syntax of your code. Are you missing any brackets `(` or `)` or a colon `:` after defining a function? Is something spelled incorrectly? Is your code indented correctly?
+Comprueba la sintaxis de tu código. Are you missing any brackets `(` or `)` or a colon `:` after defining a function? Is something spelled incorrectly? Is your code indented correctly?
 
 --- /collapse ---
 
