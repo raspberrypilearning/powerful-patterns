@@ -1,19 +1,19 @@
-## Introduction
+## Introducción
 
-Create a piece of inspirational art that can be scaled using repeated patterns.
+Crea una obra de arte inspiradora que se pueda escalar usando patrones repetidos.
 
-Your powerful pattern will need to meet the **project brief**.
+Tu patrón poderoso deberá cumplir con el **resumen del proyecto**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0; font-weight:bold">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
+Un <span style="color: #0faeb0; font-weight:bold">resumen del proyecto</span> describe lo que debe hacer un proyecto. Es un poco como recibir una misión para completar.
 </p>
 
-You will:
-+ Draw and position geometric shapes to create a base pattern (or 'motif')
-+ Use `for` loops to `translate` the pattern to fill the screen
-+ Use the `frame_rate` and `frame_count` to animate the creation of the pattern
+Vas a:
++ Dibujar y darle posición a formas geométricas para crear un patrón base (o 'motivo')
++ Usar bucles `for` para `translate` (trasladar) el patrón para llenar la pantalla
++ Usar `frame_rate` y `frame_count` para animar la creación del patrón
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns are all around us, in textiles, nature, art, traditions, and design. The starting point of a pattern is called <span style="color: #0faeb0; font-weight:bold">a motif</span>, which is an element that can be repeated and arranged in order to create many different patterns.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Los patrones nos rodean por todas partes, en los textiles, la naturaleza, el arte, las tradiciones y el diseño. El punto de inicio de un patrón se llama <span style="color: #0faeb0; font-weight:bold">motivo</span>, que es un elemento que se puede repetir y organizar para crear muchos patrones diferentes.
 </p>
 
 --- no-print ---
@@ -23,9 +23,9 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
 
-Run this example and think about the repeated motif. How would you describe what is happening in the animation?
+Ejecuta el ejemplo a continuación y piensa en el motivo repetido. ¿Cómo describirías lo que sucede en la animación?
 
-**Kek lapis Sarawak**: [See inside](https://trinket.io/python/81be7eb895){:target="_blank"}
+**Kek lapis Sarawak**: [Ver dentro](https://trinket.io/python/81be7eb895){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
@@ -35,29 +35,29 @@ Run this example and think about the repeated motif. How would you describe what
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Create a **powerful pattern**
+### RESUMEN DEL PROYECTO: Crea un **patrón poderoso**
 <hr style="border-top: 2px solid black;"> 
 
-Your powerful pattern should:
-+ Draw and position geometric shapes to create a base pattern
-+ Use loops to repeat the pattern to fill the screen
-+ Animate how the pattern is created
+Su patrón poderoso debe:
++ Dibujar y darle posición a formas geométricas para crear un patrón base
++ Usar bucles para repetir el patrón para llenar la pantalla
++ Animar cómo se crea el patrón
 
-Your powerful pattern could:
-+ Use bold or significant colours
-+ Draw inspiration from your culture or popular culture
-+ Get user input to resize the pattern
-+ Add text and emoji to print details about your art
-+ Translate the pattern to create variations
+Tu patrón poderoso podría:
++ Usar colores llamativos o significativos
++ Inspirarse en tu cultura o la cultura popular
++ Obtener información del usuario para cambiar el tamaño del patrón
++ Agregar texto y emojis para imprimir detalles sobre tu arte
++ Trasladar el patrón para crear variaciones
 </div>
 
-### Get inspiration
+### Inspírate
 
 --- task ---
 
-Run these example projects to get ideas for your pattern.
+Ejecuta estos proyectos de ejemplo para inspirarte y crear tu patrón.
 
-How have the motifs been made from circles, ellipses, squares, rectangles, and triangles?:
+¿Cómo se crean los motivos a partir de círculos, elipses, cuadrados, rectángulos y triángulos?:
 
 **Spirals**: [See inside](https://trinket.io/python/a682f7a884){:target="_blank"}
 <div class="trinket">
@@ -65,19 +65,19 @@ How have the motifs been made from circles, ellipses, squares, rectangles, and t
   </iframe>
 </div>
 
-**Random faces**: [See inside](https://trinket.io/python/c45185fd44){:target="_blank"}
+**Caras al azar**: [Ver dentro](https://trinket.io/python/c45185fd44){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/c45185fd44?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Art deco wallpaper**: [See inside](https://trinket.io/python/300e1cd325){:target="_blank"}
+**Papel tapiz Art déco**: [Ver dentro](https://trinket.io/python/300e1cd325){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Yakan weaving**: [See inside](https://trinket.io/python/20646dd7f4){:target="_blank"}
+**Tejido Yakan**: [Ver dentro](https://trinket.io/python/20646dd7f4){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/20646dd7f4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
@@ -89,9 +89,9 @@ How have the motifs been made from circles, ellipses, squares, rectangles, and t
 
 --- print-only ---
 
-Look at these examples and think about the repeated motif. How have the patterns been made from circles, ellipses, squares, rectangles, and triangles?
+Mira el ejemplo a continuación y piensa en el motivo repetido. ¿Cómo se crean los patrones a partir de círculos, elipses, cuadrados, rectángulos y triángulos?
 
-![Complete Kek lapis Sarawak project.](images/kek.png) You can find the Kek lapis Sarawak project here https://trinket.io/python/81be7eb895 ![Complete Spirals project.](images/spirals.png) You can find the Spirals project here https://trinket.io/python/a682f7a884 ![Complete Random faces project.](images/random_faces.png) You can find the Random faces project here https://trinket.io/python/c45185fd44 ![Complete Art deco project.](images/art_deco.png) You can find the Art deco project here https://trinket.io/python/300e1cd325 ![Complete Yakan weaving project.](images/yakan.png) You can find the Yakan weaving project here https://trinket.io/python/20646dd7f4
+![Proyecto Kek lapis Sarawak completo.](images/kek.png) Puedes encontrar el proyecto Kek lapis Sarawak aquí https://trinket.io/python/81be7eb895 ![Complete Spirals project.](images/spirals.png) Puedes encontrar el proyecto Espirales aquí https://trinket.io/python/a682f7a884 ![Complete Random faces project.](images/random_faces.png) Puedes encontrar el proyecto Caras al azar aquí https://trinket.io/python/c45185fd44 ![Complete Art deco project.](images/art_deco.png) Puedes encontrar el proyecto Art déco aquí https://trinket.io/python/300e1cd325 ![Complete Yakan weaving project.](images/yakan.png) Puedes encontrar el proyecto Tejido Yakan aquí https:// baratija.io/python/20646dd7f4
 
 --- /print-only ---
 
