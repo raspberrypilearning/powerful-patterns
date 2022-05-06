@@ -1,151 +1,151 @@
-Choose a size
+Dewis maint
 
-Try different numbers to change the colour
+Rhowch gynnig ar wahanol rifau i newid y lliw
 
-Start transformation
+Dechrau trawsnewid
 
-Reset transformation
+Ailosod y trawsnewid
 
-Half size
+Hanner maint
 
-Put code to run once here
+Rhowch god i redeg unwaith yma
 
-Put code to run every frame here
+Rhowch god i redeg ym mhob ffrâm yma
 
-Keep this to run your code
+Cadwch hwn i redeg eich cod
 
-Choose some gorgeous colours for the cake layers
+Dewiswch liwiau hyfryd ar gyfer haenau'r gacen
 
-Jam sticks the layers together
+Mae jam yn glynu'r haenau at ei gilydd
 
-Change the number to change the amount of jam
+Newidiwch y rhif i newid faint o jam sydd
 
-Nine layers of cake, repeating the 3 colours 3 times
+Cacen naw haen, gan ailadrodd y 3 lliw 3 gwaith
 
-height of 3 blocks of cake
+uchder 3 bloc o gacen
 
-The cake is wrapped in an outer layer
+Mae haen allanol o amgylch y gacen
 
-Don't cover up the cake quadrants!
+Peidiwch â gorchuddio cwadrannau'r gacen!
 
-make the cake square
+gwneud y gacen yn sgwâr
 
-transparent background
+cefndir tryloyw
 
-5 frames per second
+5 ffrâm yr eiliad
 
-Define a quarter turn so our code is easy to read
+Diffiniwch chwarter tro fel bod ein cod yn hawdd ei ddarllen
 
-start from the center
+dechrau o'r canol
 
-Make the bottom right quarter of the cake then rotate for the other quarters
+Gwnewch chwarter dde isaf y gacen wedyn cylchdroi ar gyfer y chwarteri eraill
 
-draw up to 4 quadrants
+lluniwch hyd at 4 cwadrant
 
-add the outer layer
+ychwanegwch yr haen allanol
 
-back to the top corner
+yn ôl i'r gornel uchaf
 
-outer layer
+haen allanol
 
-Definitions for compatibility with the p5py processing library 
+Diffiniadau ar gyfer cydnawsedd â'r llyfrgell brosesu p5py 
 
-Shape
+Siâp
 
-Fonts
+Ffontiau
 
-Text
+Testun
 
-Colour
+Lliw
 
-Images
+Delweddau
 
-Environment
+Amgylchedd
 
-Transform
+Trawsnewid
 
-Keyboard
+Bysellfwrdd
 
-a short row of squares
+rhes fer o sgwariau
 
-fast animation
+animeiddiad cyflym
 
-thick border
+border trwchus
 
-start from the centre of the screen
+dechrau o ganol y sgrin
 
-animates the pattern
+animeiddio'r patrwm
 
-turns the motif
+troi'r motiff
 
-moves the motif
+symud y motiff
 
-Eyes
+Llygaid
 
-Mouth
+Ceg
 
-offset by the width of the quarter-size face
+gwrthbwyso o led yr wyneb maint chwarter
 
-quarter size paths
+llwybrau maint chwarter
 
-Pattern colours
+Lliwiau patrwm
 
-blue
+glas
 
-gold
+aur
 
-start from the top left of the screen
+dechrau o ochr chwith uchaf y sgrin
 
-creates 16 rows then stops
+creu 16 rhes wedyn yn stopio
 
-animates 1 row at a time
+animeiddio 1 rhes ar y tro
 
-create a row of motifs
+creu rhes o fotiffau
 
-move down to start next row
+symudwch i lawr i ddechrau'r rhes nesaf
 
-Thread colours
+Lliwiau edefyn
 
-Squares
+Sgwariau
 
-row of shapes
+rhes o siapiau
 
-save settings
+cadw gosodiadau
 
-turn shape 45 degrees
+troi siâp 45 gradd
 
-go back to saved settings
+yn ôl i'r gosodiadau wedi'u cadw
 
-move horizontally
+symud yn llorweddol
 
-pink
+pinc
 
-to start with half motifs
+i ddechrau gyda hanner motiffau
 
-maximum rows
+uchafswm rhesi
 
-to offset pattern on next row
+i wrthbwyso patrwm ar y rhes nesaf
 
-Use in shape width/length to animate over time
+Defnyddiwch mewn lled/hyd siâp i animeiddio dros amser
 
-McEwen tartan colours
+Lliwiau tartan MacEwen
 
-Base square colours
+Lliwiau sgwâr sylfaen
 
-Cross colours
+Lliwiau croes
 
-Stitching and overlap colour
+Lliw pwyth a gorgyffwrdd
 
-Draw all the GREEN and BLUE alternating Base squares
+Llunio'r holl sgwariau sylfaen eiledol GWYRDD a GLAS
 
-GREEN and BLUE
+GWYRDD a GLAS
 
-Crosses
+Croesau
 
-Draw the YELLOW and RED alternating crosses
+Llunio'r croesau eiledol MELYN a COCH
 
-YELLOW and RED
+MELYN a COCH
 
-Draw the stitching crosses
+Llunio'r croesau pwytho
 
-Draw the grey lines where material overlaps
+Llunio'r llinellau llwyd lle mae'r deunydd yn gorgyffwrdd
