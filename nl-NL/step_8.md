@@ -1,7 +1,7 @@
-## What next?
+## Wat kun je verder nog doen?
 
-You have reached the end of the [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro) path!
+Je hebt het einde van het [Inleiding tot Python](https://projects.raspberrypi.org/en/pathways/python-intro) pad bereikt!
 
 [[[python-coolest-projects]]]
 
-You can explore our [other Python projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) and try them out.
+Je kunt onze [andere Python-projecten](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) verkennen en ze uitproberen.
