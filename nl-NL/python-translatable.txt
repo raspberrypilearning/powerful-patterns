@@ -1,71 +1,71 @@
-quadrant
+kwadrant
 
 turquoise
 
-gold
+goud
 
-tomato
+tomaat
 
 jam
 
 start_y
 
-outer
+buitenste
 
-yellowgreen
+geel groen
 
-quarter
+kwart
 
-motif
+motief
 
-draw_motif
+teken_motief
 
-orange
+oranje
 
-brown
+bruin
 
 green
 
-circle_size
+cirkel_grootte
 
-This art uses lots of circles!
+Deze kunst gebruikt veel cirkels!
 
-motif_size
+motief_grootte
 
-ORANGE
+ORANJE
 
-PURPLE
+PAARS
 
-YELLOW
+GEEL
 
-BLUE
+BLAUW
 
-This is 🇵🇭 Yakan weaving
+Dit is Filipijns Yakan weven
 
-motif_width
+motief_breedte
 
-󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿This is McEwen Tartan
+Dit is McEwen Tartan
 
-square_size
+vierkant_grootte
 
-What size tartan would you like? 20, 50, or 100
+Welke maat tartan wil je? 20, 50 of 100
 
-lines
+lijnen
 
-GREEN
+GROEN
 
-BASE_COLORS
+BASIS_KLEUREN
 
-RED
+ROOD
 
-CROSS_COLORS
+KRUISENDE_KLEUREN
 
-GREY
+GRIJS
 
-y_coordinate
+y_coördinaat
 
-squares
+vierkanten
 
-gap
+tussenruimte
 
-cross
+kruis
