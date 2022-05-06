@@ -2,70 +2,70 @@ quadrant
 
 turquoise
 
-gold
+doré
 
-tomato
+tomate
 
-jam
+confiture
 
-start_y
+debut_y
 
-outer
+exterieur
 
-yellowgreen
+vertjaune
 
-quarter
+quartier
 
 motif
 
-draw_motif
+dessin_motif
 
 orange
 
-brown
+brun
 
-green
+vert
 
-circle_size
+taille_cercle
 
-This art uses lots of circles!
+Cet art utilise beaucoup de cercles !
 
-motif_size
+taille_motif
 
 ORANGE
 
-PURPLE
+VIOLET
 
-YELLOW
+JAUNE
 
-BLUE
+BLEU
 
-This is 🇵🇭 Yakan weaving
+C'est le tissage philippin Yakan
 
-motif_width
+largeur_motif
 
-󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿This is McEwen Tartan
+C'est le tartan McEwen
 
-square_size
+taille_carré
 
-What size tartan would you like? 20, 50, or 100
+Quelle taille de tartan souhaites-tu ? 20, 50 ou 100
 
-lines
+lignes
 
-GREEN
+VERT
 
-BASE_COLORS
+COULEURS_BASE
 
-RED
+ROUGE
 
-CROSS_COLORS
+COULEURS_CROIX
 
-GREY
+GRIS
 
-y_coordinate
+coordonnee_y
 
-squares
+carrés
 
-gap
+écart
 
-cross
+croix
