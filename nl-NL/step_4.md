@@ -1,41 +1,41 @@
-## Expand and test: Pattern
+## Uitbreiden en testen: Patroon
 
-Now it's time to make your full pattern!
+Nu is het tijd om je volledige patroon te maken!
 
-![Examples of finished projects that have the motif used repeatedly to form a full pattern.](images/second.gif)
+![Voorbeelden van voltooide projecten waarbij het motief herhaaldelijk is gebruikt om een volledig patroon te vormen.](images/second.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Abstraction</span> is problem solving by reducing unnecessary detail. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Abstractie</span> is het oplossen van problemen door geen rekening te houden met onnodige details. 
 
 </p>
 
 --- task ---
 
-Look at this Malaysian layer cake (kek lapis Sarawak). How does the motif change to make the overall pattern?
+Kijk naar deze Maleisische laagjescake (kek lapis Sarawak). Hoe verandert het motief om het gehele patroon te maken?
 
-![The motif from the kek lapis Sarawak project next to the complete pattern.](images/kek-motif.png)
+![Het motief uit het kek lapis Sarawak project naast het volledige patroon.](images/kek-motif.png)
 
-Look at this art deco wallpaper. How does the motif change to make the overall pattern?
+Kijk eens naar dit art deco behang. Hoe verandert het motief om het gehele patroon te maken?
 
-![The motif from the art deco wallpaper project next to the complete pattern.](images/spirals-motif.png)
+![Het motief uit het art deco behangpapier project naast het volledige patroon.](images/spirals-motif.png)
 
-Think about the pattern you are making. How does your motif change to make the overall pattern. Use these questions to help you abstract:
-- Does the whole, or part, of the motif rotate?
-- What direction does it rotate? And by how much?
-- Are there layers to the pattern that overlap?
-- How many times does the motif repeat itself?
-- How is the repetition organised (i.e. how many rows/columns)?
-- Do the colours change?
-- Are there details that are not included in the motif (i.e. the icing in the Malaysian layer cake)?
+Denk na over het patroon dat je aan het maken bent. Hoe verandert het motief om het gehele patroon te maken. Gebruik deze vragen om je te helpen bij de abstractie:
+- Roteert het gehele of een deel van het motief?
+- In welke richting draait het? En met hoeveel?
+- Zijn er lagen in het patroon die elkaar overlappen?
+- Hoe vaak herhaalt het motief zich?
+- Hoe is de herhaling georganiseerd (dwz hoeveel rijen/kolommen)?
+- Veranderen de kleuren?
+- Zijn er details die niet in het motief zijn verwerkt (bijv. de kers op de Maleisische laagcake)?
 
 --- /task ---
 
 --- task ---
 
-Now that you know more about how the motif turns into the whole pattern, you can program it using your answers to the questions above.
+Nu je meer weet over hoe het motief het hele patroon gaat vormen, kun je het programmeren met je antwoorden op de bovenstaande vragen.
 
-**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Professional developers do this all the time!
+**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Professionele ontwikkelaars doen dit altijd zo!
 
-You have built up some really useful skills. Here is a reminder to help you make your repeated pattern:
+Je hebt een aantal echt nuttige vaardigheden opgebouwd. Hier is een geheugensteuntje om je te helpen bij het maken van je herhaalde patroon:
 
 [[[processing-matrix]]]
 
@@ -51,14 +51,14 @@ You have built up some really useful skills. Here is a reminder to help you make
 --- collapse ---
 
 ---
-title: Random positions
+title: Willekeurige posities
 ---
 
-You can add `from random import randint` at the top of **main.py**, this allows you to use the `randint` function to generate random numbers.
+Je kan `from random import randint` toevoegen bovenaan **main.py**, dit laat je te om de `randint` functie te gebruiken om willekeurige getallen te genereren.
 
-To use the `randint` function, you need to call it in your the code.
+Om de `randint` functie te gebruiken, moet je deze in je code aanroepen.
 
-One way to use random is to move your motif to a random position each time it is drawn:
+Een manier om random te gebruiken is door je motief naar een willekeurige positie te verplaatsen iedere keer dat het getekend wordt:
 
 --- code ---
 ---
@@ -70,7 +70,7 @@ push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) 
 
 --- /code ---
 
-You could also use random to change the colours in your motif as it is redrawn.
+Je kan random ook gebruiken om de kleuren in je motief te veranderen wanneer het opnieuw getekend wordt.
 
 --- code ---
 ---
@@ -87,12 +87,12 @@ BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 --- collapse ---
 
 ---
-title: Changing the size of your motif
+title: De grootte van je motief wijzigen
 ---
 
-If you use a motif you have already drawn, it might not be the right size.
+Als je een motief gebruikt dat je al hebt getekend, is het misschien niet de juiste grootte.
 
-You can use `scale()` before calling the function that draws your motif to change its size. Using an input bigger than '1' will make the motif bigger, using an input less than '1' will make it smaller.
+Je kunt `scale()` gebruiken voordat je de functie oproept die je motief tekent om de grootte te wijzigen. Als je input groter is dan '1', wordt het motief groter, als je input kleiner is dan '1', wordt het kleiner.
 
 --- code ---
 ---
@@ -108,7 +108,7 @@ scale(0.5) #Half size
 
 --- /task ---
 
-Now you can animate your pattern to show how you made it. Often, patterns have powerful cultural significance in the way that they are made, or the process.
+Nu kan je jouw patroon animeren om te laten zien hoe je het hebt gemaakt. Vaak hebben patronen een krachtige culturele betekenis in de manier waarop ze worden gemaakt of in het proces.
 
 --- task ---
 
@@ -125,74 +125,74 @@ Now you can animate your pattern to show how you made it. Often, patterns have p
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your pattern?
+**Test:** Laat iemand anders je project zien en vraag feedback. Wil je iets aan je motief veranderen?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Debug:** Mogelijk vind je enkele fouten in jouw project die je moet oplossen. Hier zijn enkele veelvoorkomende fouten.
 
 --- collapse ---
 
 ---
-title: My motif does not appear to rotate
+title: Mijn motief lijkt niet te roteren
 ---
 
-Make sure you are using the `radian()` function to convert degrees to radians.
+Zorg ervoor dat je de `radian()` functie gebruikt om graden naar radialen te converteren.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The rotation looks strange
+title: De rotatie ziet er vreemd uit
 ---
 
-Have you checked that you are using `translate()` from and to the right coordinates?
+Heb je gecontroleerd of je `translate()` van en naar de juiste coördinaten gebruikt?
 
-Do you have more than one thing rotating? You may need to use `push_matrix()` and `pop_matrix()` so the screen rotates at different points at once.
+Is er meer dan 1 ding dat draait? Mogelijk moet je `push_matrix()` en `pop_matrix()` gebruiken, zodat het scherm op verschillende punten tegelijk draait.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not animate
+title: Mijn patroon animeert niet
 ---
 
-Check you have used `frame_count()` properly in a loop.
+Controleer of je `frame_count()` correct in een lus hebt gebruikt.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not look the way I want it to
+title: Mijn patroon ziet er niet uit zoals ik het wil
 ---
 
-Review the sections above on `rotate()` and `translate()`. Experiment until it looks like you want it to, and remember, mistakes are powerful!
+Herbekijk de secties hierboven over `rotate()` en `translate()`. Experimenteer totdat het er uitziet zoals je het wilt, en onthoud dat fouten waardevol zijn!
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I get an error
+title: Ik krijg een foutmelding
 ---
 
-Check the syntax of your code. Are you missing any brackets `(` or `)` or a colon `:` after defining a function? Is something spelled incorrectly? Is your code indented correctly?
+Controleer de syntax van je code. Missen er haakjes `(` of `)` of een dubbele punt `:` na het definiëren van een functie? Is er iets verkeerd gespeld? Is je code correct ingesprongen?
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The animation is too fast/too slow
+title: De animatie is te snel/te langzaam
 ---
 
-Change the `frame_rate()` at the beginning of your program to get it to the speed you like.
+Verander de `frame_rate()` aan het begin van je programma om de gewenste snelheid te krijgen.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Mogelijk vind je een bug die hier niet wordt vermeld. Kun je erachter komen hoe je het kunt oplossen?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+We horen graag over je fouten en hoe je ze hebt opgelost. Gebruik de feedback knop onderaan deze pagina als je een andere bug in je project hebt gevonden.
 
 --- /task ---
 
