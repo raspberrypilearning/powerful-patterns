@@ -1,64 +1,64 @@
-## Your idea
+## Ton idée
 
-Use this step to plan your powerful pattern. You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Utilise cette étape pour planifier ton motif puissant. Tu peux planifier simplement en pensant, en bricolant, en dessinant ou en écrivant, ou comme bon te semble !
 
-![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-1.gif)
+![Un gif animé de trois exemples différents utilisant différentes formes pour créer les motifs et les animations pour développer le motif.](images/ideas-1.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns often have <span style="color: #0faeb0">cultural or religious significance</span>. Certain geometric shapes and positions can have symbolic or sacred meanings. Whether the pattern is in architecture, fabric, art, cooking, or something else, the process of making the pattern can also be significant.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Les motifs ont souvent une <span style="color: #0faeb0">signification culturelle ou religieuse</span>. Certaines formes et positions géométriques peuvent avoir des significations symboliques ou sacrées. Que le motif soit dans l'architecture, le tissu, l'art, la cuisine ou autre chose, le processus de fabrication du motif peut également être important.</p>
 
-### Why are you making your powerful pattern ?
+### Pourquoi fais-tu ton modèle puissant ?
 
 --- task ---
 
-Think about the purpose of the pattern you are creating.
+Réfléchis à l'objectif du motif que tu crées.
 
-It could be:
-- To express something significant from your or your family's culture(s)
-- To recreate a geometric pattern that means something to you
-- Something you create with a group of people to send a certain message (for example, a quilt)
-- To show something fascinating about about a hobby (for example, art, science, nature, music)
+Ça pourrait être :
+- Pour exprimer quelque chose d'important de ta culture ou de celle de ta famille
+- Pour recréer un motif géométrique qui signifie quelque chose pour toi
+- Quelque chose que tu crées avec un groupe de personnes pour envoyer un certain message (par exemple, un quilt)
+- Pour montrer quelque chose de fascinant à propos d'un passe-temps (par exemple, l'art, la science, la nature, la musique)
 
-**Tip:** Patterns are everywhere! You might choose to get inspiration by going on a pattern hunt around your physical environment or online.
+**Astuce :** Les motifs sont partout ! Tu peux choisir de t'inspirer en partant à la recherche de modèles dans ton environnement physique ou en ligne.
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">As well as having symbolic meaning, patterns show the mathematics that is all around us. Mathematics helps us make sense of the world around us and we can find mathematical patterns in art, literature, and nature. </p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">En plus d'avoir une signification symbolique, les motifs illustrent les mathématiques qui nous entourent. Les mathématiques nous aident à donner un sens au monde qui nous entoure et nous pouvons trouver des modèles mathématiques dans l'art, la littérature et la nature. </p>
 
-### Who is it for?
+### C'est pour qui ?
 
 --- task ---
 
-Think about who you will make your pattern for (your **audience**).
+Pense pour qui tu feras ton modèle (ton **public**).
 
-What is the significance of your pattern? Will the colours, shapes, or way the pattern is repeated mean something special to you or your audience?
+Quelle est la signification de ton motif ? Les couleurs, les formes ou la façon dont le motif est répété signifieront-elles quelque chose de spécial pour toi ou ton public ?
 
-Sharing your pattern is a great way to express something about yourself or your culture.
+Partager ton motif est un excellent moyen d'exprimer quelque chose sur toi-même ou sur ta culture.
 
-If you are are creating a pattern as a group, does your motif need to be a certain size or shape to fit with other parts of a bigger pattern?
+Si tu crées un motif en groupe, ton motif doit-il avoir une certaine taille ou forme pour s'adapter aux autres parties d'un motif plus grand ?
 
 --- /task ---
 
-### Get started
+### Commencer
 
 --- task ---
 
-Open the [Powerful patterns starter project](https://trinket.io/python/6c4a0c6406){:target=blank } and click on the remix button.
+Ouvre le projet de démarrage [Motifs puissants](https://trinket.io/python/6c4a0c6406){:target=blank } et clique sur le bouton remix.
 
 --- /task ---
 
-### Setup your project
+### Configurer ton projet
 
 --- task ---
 
-Add code to `setup()` to get your project ready.
+Ajoute du code à `configuration()` pour préparer ton projet.
 
 --- collapse ---
 
 ---
-title: Setting the screen size when your programme starts
+title: Définir la taille de l'écran au démarrage de ton programme
 ---
 
-**Choose:** Add a size that suits the pattern you want to create. You can always change this later as your project evolves.
+**Choisir :** Ajoute une taille adaptée au motif que tu souhaites créer. Tu pourras toujours le modifier ultérieurement au fur et à mesure de l'évolution de ton projet.
 
 --- code ---
 ---
@@ -74,12 +74,12 @@ def setup(): size(400, 400) #Choose a size
 --- collapse ---
 
 ---
-title: Setting the background colour when your programme starts
+title: Définir la couleur d'arrière-plan au démarrage de ton programme
 ---
 
-Think about where you want to draw your background. You can:
-+ Add code to `setup()` so that the background is drawn once when you run your project
-+ Add code to `draw()` so that the background is redrawn each time the `draw()` function runs
+Pense à l'endroit où tu veux dessiner ton arrière-plan. Tu peux :
++ Ajouter du code à `configuration()` pour que l'arrière-plan soit dessiné une fois lorsque tu exécutes ton projet
++ Ajouter du code à `dessin()` pour que l'arrière-plan soit redessiné à chaque exécution de la fonction `dessin()`
 
 --- code ---
 ---
@@ -99,25 +99,25 @@ line_highlights: 9
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Débogage :** Il est possible que tu trouves des bogues dans ton projet que tu dois corriger. Voici quelques bogues assez courants.
 
 --- collapse ---
 
 ---
-title: I've updated my size and colour but the output area stays the same
+title: J'ai modifié ma taille et ma couleur, mais la zone de sortie reste la même
 ---
 
-After changing the code, you will need to `run` your project to see the changes in the output area.
+Après avoir modifié le code, tu devras `exécuter` ton projet pour voir les changements dans la zone de sortie.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I've tried different numbers, but the background colour doesn't change
+title: J'ai essayé différents numéros, mais la couleur d'arrière-plan ne change pas
 ---
 
-The maximum amount of red, green, or blue is `255`. Make sure all your `background` colour values are between `0` and `255`.
+La quantité maximale de rouge, de vert ou de bleu est de `255`. Assure-toi que toutes tes valeurs de couleur `d'arrière-plan` sont comprises entre `0` et `255`.
 
 --- /collapse ---
 
