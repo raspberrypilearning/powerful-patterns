@@ -1,19 +1,19 @@
-## Introduction
+## Inleiding
 
-Create a piece of inspirational art that can be scaled using repeated patterns.
+Maak een stukje inspirerende kunst die kan worden geschaald met behulp van herhaalde patronen.
 
-Your powerful pattern will need to meet the **project brief**.
+Je krachtige patroon moet voldoen aan de **projectbeschrijving**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0; font-weight:bold">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
+Een <span style="color: #0faeb0; font-weight:bold">projectbeschrijving</span> beschrijft wat een project moet doen. Het is een beetje alsof je een missie krijgt om te voltooien.
 </p>
 
-You will:
-+ Draw and position geometric shapes to create a base pattern (or 'motif')
-+ Use `for` loops to `translate` the pattern to fill the screen
-+ Use the `frame_rate` and `frame_count` to animate the creation of the pattern
+Je gaat:
++ Geometrische vormen tekenen en positioneren om een basispatroon (of 'motief') te creëren
++ `for` loops gebruiken om het patroon te `verplaatsen` om het scherm te vullen
++ `frame_rate` en `frame_count` gebruiken om het maken van het patroon te animeren
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns are all around us, in textiles, nature, art, traditions, and design. The starting point of a pattern is called <span style="color: #0faeb0; font-weight:bold">a motif</span>, which is an element that can be repeated and arranged in order to create many different patterns.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patronen zijn overal om ons heen, in textiel, natuur, kunst, tradities en design. Het startpunt van een patroon wordt <span style="color: #0faeb0; font-weight:bold">een motief</span> genoemd, een element dat kan worden herhaald en gerangschikt om veel verschillende patronen te creëren.
 </p>
 
 --- no-print ---
@@ -23,9 +23,9 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
 
-Run this example and think about the repeated motif. How would you describe what is happening in the animation?
+Voer dit voorbeeld uit en denk na over het herhaalde motief. Hoe zou je beschrijven wat er in de animatie gebeurt?
 
-**Kek lapis Sarawak**: [See inside](https://trinket.io/python/81be7eb895){:target="_blank"}
+**Kek lapis Sarawak**: [Bekijk van binnen](https://trinket.io/python/81be7eb895){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
@@ -35,29 +35,29 @@ Run this example and think about the repeated motif. How would you describe what
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Create a **powerful pattern**
+### PROJECT BESCHRIJVING: Creëer een **krachtig patroon**
 <hr style="border-top: 2px solid black;"> 
 
-Your powerful pattern should:
-+ Draw and position geometric shapes to create a base pattern
-+ Use loops to repeat the pattern to fill the screen
-+ Animate how the pattern is created
+Je krachtige patroon moet:
++ Geometrische vormen tekenen en positioneren om een basispatroon te creëren
++ Loops gebruiken om het patroon te herhalen om het scherm te vullen
++ Animeren hoe het patroon is gemaakt
 
-Your powerful pattern could:
-+ Use bold or significant colours
-+ Draw inspiration from your culture or popular culture
-+ Get user input to resize the pattern
-+ Add text and emoji to print details about your art
-+ Translate the pattern to create variations
+Je krachtige patroon kan:
++ Gedurfde of opvallende kleuren gebruiken
++ Geïnspireerd zijn op je eigen cultuur of populaire cultuur
++ Input van de gebruikers vragen om het formaat van het patroon te wijzigen
++ Tekst en emoji toevoegen om details over je kunstwerk af te drukken
++ Het patroon verplaatsen om variaties te creëren
 </div>
 
-### Get inspiration
+### Doe inspiratie op
 
 --- task ---
 
-Run these example projects to get ideas for your pattern.
+Verken deze voorbeeldprojecten om ideeën voor je patroon op te doen.
 
-How have the motifs been made from circles, ellipses, squares, rectangles, and triangles?:
+Hoe zijn de motieven opgebouwd uit cirkels, ellipsen, vierkanten, rechthoeken en driehoeken?:
 
 **Spirals**: [See inside](https://trinket.io/python/a682f7a884){:target="_blank"}
 <div class="trinket">
@@ -65,19 +65,19 @@ How have the motifs been made from circles, ellipses, squares, rectangles, and t
   </iframe>
 </div>
 
-**Random faces**: [See inside](https://trinket.io/python/c45185fd44){:target="_blank"}
+**Willekeurige gezichten**: [Bekijk van binnen](https://trinket.io/python/c45185fd44){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/c45185fd44?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Art deco wallpaper**: [See inside](https://trinket.io/python/300e1cd325){:target="_blank"}
+**Art deco behang**: [Bekijk van binnen](https://trinket.io/python/300e1cd325){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Yakan weaving**: [See inside](https://trinket.io/python/20646dd7f4){:target="_blank"}
+**Yakan weven**: [Bekijk van binnen](https://trinket.io/python/20646dd7f4){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/20646dd7f4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
@@ -89,9 +89,9 @@ How have the motifs been made from circles, ellipses, squares, rectangles, and t
 
 --- print-only ---
 
-Look at these examples and think about the repeated motif. How have the patterns been made from circles, ellipses, squares, rectangles, and triangles?
+Bekijk deze voorbeelden en denk na over het herhaalde motief. Hoe zijn de patronen opgebouwd uit cirkels, ellipsen, vierkanten, rechthoeken en driehoeken?
 
-![Complete Kek lapis Sarawak project.](images/kek.png) You can find the Kek lapis Sarawak project here https://trinket.io/python/81be7eb895 ![Complete Spirals project.](images/spirals.png) You can find the Spirals project here https://trinket.io/python/a682f7a884 ![Complete Random faces project.](images/random_faces.png) You can find the Random faces project here https://trinket.io/python/c45185fd44 ![Complete Art deco project.](images/art_deco.png) You can find the Art deco project here https://trinket.io/python/300e1cd325 ![Complete Yakan weaving project.](images/yakan.png) You can find the Yakan weaving project here https://trinket.io/python/20646dd7f4
+![Voltooi het Kek lapis Sarawak-project.](images/kek.png) Je kunt het Kek lapis Sarawak-project hier vinden https://trinket.io/python/81be7eb895 ![Complete Spirals project.](images/spirals.png) Je kunt het Spiralen project hier vinden https://trinket.io/python/a682f7a884 ![Complete Random faces project.](images/random_faces.png) Je kunt het Willekeurige gezichten project hier vinden https://trinket.io/python/c45185fd44 ![Complete Art deco project.](images/art_deco.png) Je vindt het Art deco-project hier https://trinket.io/python/300e1cd325 ![Complete Yakan weaving project.](images/yakan.png) Je vindt het Yakan-weefproject hier https:// trinket.io/python/20646dd7f4
 
 --- /print-only ---
 
