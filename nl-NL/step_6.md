@@ -1,25 +1,25 @@
-## Upgrade your project
+## Verbeter je project
 
-If you have time you can upgrade your project. You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
+Als je tijd hebt, kun je jouw project verbeteren. Misschien heb je al ideeën om er al meer toe te voegen of wil je misschien teruggaan naar de eerste stap en nog eens naar andere projecten kijken voor meer inspiratie.
 
-![Finished examples with input and make a face elements](images/upgrade.gif)
+![Afgewerkte voorbeelden met invoer en maak een gezicht elementen](images/upgrade.gif)
 
-You could:
-- Use text and emoji to `print()` a description of your pattern
-- Adjust the size of your pattern based on user `input()`
-- Make a scaled motif using your [Make a face project](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
+Je zou:
+- Tekst en emoji gebruiken om een beschrijving van je patroon te printen, `print()`
+- De grootte van je patroon kunnen aanpassen op basis van de `input()` van de gebruiker
+- Een geschaald motief maken gebruik makend van je [Make a face project](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
 
-Each example project in the [Introduction](.) has a **See inside** link for you to open the project, look at the code, get ideas, and see how they work.
+Elk voorbeeldproject in de [Inleiding](.) heeft een **Bekijk van binnen** link om het project te openen, de code te bekijken, ideeën op te doen en te zien hoe ze werken.
 
-This project uses text and emoji to ask the user to choose a size then uses their answer to size all the shapes:
+Dit project gebruikt tekst en emoji om de gebruiker te vragen een afmeting te kiezen en gebruikt vervolgens hun antwoord om alle vormen op maat te maken:
 
-**McEwen tartan**: [See inside](https://trinket.io/python/4706d1a81b){:target="_blank"}
+**McEwen tartan**: [Bekijk van binnen](https://trinket.io/python/4706d1a81b){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-Take a look at some Powerful patterns projects created by community members in the Raspberry Pi Foundation’s [Powerful patterns - Community library](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
+Bekijk enkele Krachtige Patronen projecten die zijn gemaakt door communityleden in de [Krachtige patronen - Communitybibliotheek](https://wke.lt/w/s/yyNPQT) van de Raspberry Pi Foundation {:target="_blank"}.
 
 --- save ---
 
