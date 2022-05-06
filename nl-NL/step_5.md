@@ -1,98 +1,98 @@
-## Reflection
+## Reflectie
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+Voldoet je project aan de **projectbeschrijving**? Denk na over je project en doorloop de onderstaande checklist en vink af wat van toepassing is op je project.
 
-Does your powerful pattern:
-
---- task ---
-
-Draw and position geometric shapes to create a base pattern (or motif) --- /task ---
+Gaat jouw krachtige patroon:
 
 --- task ---
 
-Use loops to repeat the pattern to fill the screen
+Geometrische vormen tekenen en positioneren om een basispatroon (of 'motief') te creëren --- /task ---
+
+--- task ---
+
+Lussen gebruiken om het patroon te herhalen om het scherm te vullen
 
 --- /task ---
 
 --- task ---
 
-Animate how the pattern is created
+Animeren hoe het patroon wordt gemaakt
 
 --- /task ---
 
-Your powerful pattern could also:
+Je krachtige patroon kan ook:
 
 --- task ---
 
-Use bold or significant colours
-
---- /task ---
-
---- task ---
-
-Draw inspiration from your culture or popular culture
+Opvallende of betekenisvolle kleuren gebruiken
 
 --- /task ---
 
 --- task ---
 
-Get user input to resize the pattern
+Inspiratie gebruiken uit jouw cultuur of populaire cultuur
 
 --- /task ---
 
 --- task ---
 
-Add text and emoji to print details about your art
+Input van de gebruiker krijgen om het formaat van het patroon aan te passen
 
 --- /task ---
 
 --- task ---
 
-Translate the pattern to create variations
+Voeg tekst en emoji toe om details over je kunst af te drukken
+
+--- /task ---
+
+--- task ---
+
+Het patroon verschuiven om variaties te maken
 
 --- /task ---
 
 
 --- task ---
 
-Share your work with others in an online gallery
+Deel je werk met anderen in een online galerij
 
 --- /task ---
 
 
-Reflecting about how you made your powerful pattern will help you in your future projects.
+Nadenken over hoe je je krachtige patroon hebt gemaakt, zal je helpen bij je toekomstige projecten.
 
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
---- task ---
-
-How did you get your ideas?
-
---- /task ---
+Beantwoord de onderstaande vragen door te tekenen, te schrijven, in een document te schrijven, met iemand te praten of op je eigen creatieve manier die het beste bij je past.
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Hoe ben je aan je ideeën gekomen?
 
 --- /task ---
 
 --- task ---
 
-Mistakes and failures are often the catalyst for discovery and success.
-
-Oprah Winfrey was fired from her first job, but she went on to become a famous and influential producer and philanthropist. She once said "turn your wounds into wisdom".
-
-What mistakes did you make and how did they help you?
+Welke coole nieuwe dingen heb je geleerd?
 
 --- /task ---
 
-### Now you are a digital artist and mathematician!
+--- task ---
 
-Take a moment to celebrate what you have made.
+Fouten en mislukkingen zijn vaak de katalysator voor ontdekking en succes.
+
+Oprah Winfrey werd ontslagen bij haar eerste baan, maar ze werd een beroemde en invloedrijke producer en filantroop. Ze zei ooit: "verander je verwondingen in wijsheid".
+
+Welke fouten heb je gemaakt en hoe hebben ze je geholpen?
+
+--- /task ---
+
+### Nu ben je een digitale kunstenaar en wiskundige!
+
+Neem even de tijd om dit te vieren.
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Wat ga je met je nieuwe kennis doen? Wat ga je hierna maken?
 
 --- /task ---
 
