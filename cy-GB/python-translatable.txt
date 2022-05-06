@@ -1,71 +1,71 @@
-quadrant
+cwadrant
 
-turquoise
+glaswyrdd
 
-gold
+aur
 
 tomato
 
 jam
 
-start_y
+dechrau_y
 
-outer
+allanol
 
-yellowgreen
+melynwyrdd
 
-quarter
+chwarter
 
-motif
+motiff
 
-draw_motif
+llunio_motiff
 
-orange
+oren
 
 brown
 
-green
+gwyrdd
 
-circle_size
+maint_cylch
 
-This art uses lots of circles!
+Mae'r celfwaith hwn yn defnyddio llawer o gylchoedd!
 
-motif_size
+maint_motiff
 
-ORANGE
+OREN
 
-PURPLE
+PIWS
 
-YELLOW
+MELYN
 
-BLUE
+GLAS
 
-This is 🇵🇭 Yakan weaving
+Dyma enghraifft o wehyddu Yakan 🇵🇭
 
-motif_width
+lled_motiff
 
-󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿This is McEwen Tartan
+Dyma enghraifft o Dartan MacEwen
 
-square_size
+maint_sgwar
 
-What size tartan would you like? 20, 50, or 100
+Pa faint tartan hoffech chi? 20, 50 neu 100
 
-lines
+llinellau
 
-GREEN
+GWYRDD
 
-BASE_COLORS
+LLIWIAU_SYLFAEN
 
-RED
+COCH
 
-CROSS_COLORS
+LLIWIAU_CROES
 
-GREY
+LLWYD
 
-y_coordinate
+cyfesuryn_y
 
-squares
+sgwariau
 
-gap
+bwlch
 
-cross
+croes
