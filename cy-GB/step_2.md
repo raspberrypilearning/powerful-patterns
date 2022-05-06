@@ -1,64 +1,64 @@
-## Your idea
+## Eich syniad
 
-Use this step to plan your powerful pattern. You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Defnyddiwch y cam hwn i gynllunio eich patrwm pwerus. Fe allwch chi gynllunio drwy feddwl, rhoi cynnig ar bethau, darlunio neu ysgrifennu, neu sut bynnag dymunwch chi!
 
-![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-1.gif)
+![Gif wedi'i animeiddio o dair enghraifft wahanol yn defnyddio amryw o siapiau i greu'r motiffau a'r animeiddiadau i ehangu'r patrwm.](images/ideas-1.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns often have <span style="color: #0faeb0">cultural or religious significance</span>. Certain geometric shapes and positions can have symbolic or sacred meanings. Whether the pattern is in architecture, fabric, art, cooking, or something else, the process of making the pattern can also be significant.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Mae gan batrymau <span style="color: #0faeb0">arwyddocâd diwylliannol neu grefyddol</span> yn aml. Mae ystyr symbolaidd neu gysegredig i rai siapiau a safleoedd geometrig. Mae'r broses o wneud y patrwm yn gallu bod yn arwyddocaol hefyd, a hynny mewn patrymau ym maes pensaernïaeth, ffabrig, celf, coginio neu rywbeth arall.</p>
 
-### Why are you making your powerful pattern ?
+### Pam ydych chi'n gwneud eich patrwm pwerus?
 
 --- task ---
 
-Think about the purpose of the pattern you are creating.
+Meddyliwch am bwrpas y patrwm rydych chi'n ei greu.
 
-It could be:
-- To express something significant from your or your family's culture(s)
-- To recreate a geometric pattern that means something to you
-- Something you create with a group of people to send a certain message (for example, a quilt)
-- To show something fascinating about about a hobby (for example, art, science, nature, music)
+Fe allai fod:
+- I fynegi rhywbeth arwyddocaol o ddiwylliant eich teulu
+- I ailgreu patrwm geometrig sy'n golygu rhywbeth i chi
+- Yn rhywbeth rydych chi'n ei greu â grŵp o bobl i anfon neges benodol (er enghraifft cwilt)
+- I ddangos rhywbeth diddorol am hobi (er enghraifft celf, gwyddoniaeth, byd natur, cerddoriaeth)
 
-**Tip:** Patterns are everywhere! You might choose to get inspiration by going on a pattern hunt around your physical environment or online.
+**Cyngor:** Mae patrymau bob man! Efallai byddwch chi'n dewis mynd ar drywydd ysbrydoliaeth drwy chwilio am batrymau yn eich amgylchedd ffisegol neu ar-lein.
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">As well as having symbolic meaning, patterns show the mathematics that is all around us. Mathematics helps us make sense of the world around us and we can find mathematical patterns in art, literature, and nature. </p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Yn ogystal â chael ystyr symbolaidd, mae patrymau'n dangos y fathemateg sydd o'n cwmpas. Mae mathemateg yn ein helpu i wneud synnwyr o'r byd o'n cwmpas ac mae patrymau mathemategol i'w gweld mewn celf, llenyddiaeth a byd natur. </p>
 
-### Who is it for?
+### Ar gyfer pwy mae'r patrwm?
 
 --- task ---
 
-Think about who you will make your pattern for (your **audience**).
+Meddyliwch i bwy byddwch chi'n gwneud eich patrwm (eich **cynulleidfa**).
 
-What is the significance of your pattern? Will the colours, shapes, or way the pattern is repeated mean something special to you or your audience?
+Beth yw arwyddocâd eich patrwm? A fydd y lliwiau, y siapiau, neu'r ffordd mae'r patrwm yn cael ei ailadrodd yn golygu rhywbeth arbennig i chi neu eich cynulleidfa?
 
-Sharing your pattern is a great way to express something about yourself or your culture.
+Mae rhannu eich patrwm yn ffordd wych o fynegi rhywbeth amdanoch chi eich hun neu eich diwylliant.
 
-If you are are creating a pattern as a group, does your motif need to be a certain size or shape to fit with other parts of a bigger pattern?
+Os ydych chi'n creu patrwm mewn grŵp, oes angen i'ch motiff fod yn faint neu'n siâp penodol i gyd-fynd â rhannau eraill o batrwm mwy?
 
 --- /task ---
 
-### Get started
+### Dechrau arni
 
 --- task ---
 
-Open the [Powerful patterns starter project](https://trinket.io/python/6c4a0c6406){:target=blank } and click on the remix button.
+Agorwch y [prosiect dechreuol Patrymau pwerus](https://trinket.io/python/6c4a0c6406){:target=blank } a chlicio'r botwm Remix.
 
 --- /task ---
 
-### Setup your project
+### Gosod eich prosiect
 
 --- task ---
 
-Add code to `setup()` to get your project ready.
+Ychwanegwch god at `setup()` i baratoi eich prosiect.
 
 --- collapse ---
 
 ---
-title: Setting the screen size when your programme starts
+title: Gosod maint y sgrin pan fydd eich rhaglen yn dechrau
 ---
 
-**Choose:** Add a size that suits the pattern you want to create. You can always change this later as your project evolves.
+**Dewis:** Ychwanegwch faint sy'n addas i'r patrwm rydych chi am ei greu. Fe allwch chi newid hyn nes 'mlaen wrth i'ch prosiect ddatblygu beth bynnag.
 
 --- code ---
 ---
@@ -74,12 +74,12 @@ def setup(): size(400, 400) #Choose a size
 --- collapse ---
 
 ---
-title: Setting the background colour when your programme starts
+title: Gosod y lliw cefndir pan fydd eich rhaglen yn dechrau
 ---
 
-Think about where you want to draw your background. You can:
-+ Add code to `setup()` so that the background is drawn once when you run your project
-+ Add code to `draw()` so that the background is redrawn each time the `draw()` function runs
+Meddyliwch ble ydych chi am lunio eich cefndir. Fe allwch chi:
++ Ychwanegu cod at `setup()` fel bod y cefndir yn cael ei lunio pan fyddwch chi'n rhedeg eich prosiect
++ Ychwanegu cod at `draw()` fel bod y cefndir yn cael ei ail-lunio bob tro mae'r swyddogaeth `draw()` yn rhedeg
 
 --- code ---
 ---
@@ -99,25 +99,25 @@ line_highlights: 9
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Difa chwilod:** Efallai bydd angen i chi drwsio chwilod yn eich prosiect. Dyma rai chwilod cyffredin.
 
 --- collapse ---
 
 ---
-title: I've updated my size and colour but the output area stays the same
+title: Dwi wedi diweddaru fy maint a fy lliw ond mae'r ardal allbwn yn dal yr un fath
 ---
 
-After changing the code, you will need to `run` your project to see the changes in the output area.
+Ar ôl newid y cod, bydd angen i chi redeg eich prosiect gyda `run` i weld y newidiadau yn yr ardal allbwn.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I've tried different numbers, but the background colour doesn't change
+title: Dwi wedi rhoi cynnig ar wahanol rifau ond dydy'r lliw cefndir ddim yn newid
 ---
 
-The maximum amount of red, green, or blue is `255`. Make sure all your `background` colour values are between `0` and `255`.
+Y lefel uchaf o goch, gwyrdd neu las yw `255`. Gwnewch yn siŵr bod eich holl werthoedd lliw `background` rhwng `0` a `255`.
 
 --- /collapse ---
 
