@@ -1,18 +1,18 @@
-quadrant
+رباعي
 
-turquoise
+فيروزي
 
-gold
+ذهب
 
-tomato
+طماطم
 
-jam
+مربى
 
 start_y
 
-outer
+خارجي
 
-yellowgreen
+الأخضر الأصفر
 
 quarter
 
