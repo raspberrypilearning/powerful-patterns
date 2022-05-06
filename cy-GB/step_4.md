@@ -1,41 +1,41 @@
-## Expand and test: Pattern
+## Ehangu a phrofi: Patrwm
 
-Now it's time to make your full pattern!
+Amser creu eich patrwm llawn!
 
-![Examples of finished projects that have the motif used repeatedly to form a full pattern.](images/second.gif)
+![Enghreifftiau o brosiectau gorffenedig sy'n defnyddio'r motiff dro ar ôl tro i ffurfio patrwm llawn.](images/second.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Abstraction</span> is problem solving by reducing unnecessary detail. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Ystyr <span style="color: #0faeb0">echdynnu</span> yw datrys problemau drwy leihau'r manylion diangen. 
 
 </p>
 
 --- task ---
 
-Look at this Malaysian layer cake (kek lapis Sarawak). How does the motif change to make the overall pattern?
+'Drychwch ar y gacen haenog hon o Faleisia (kek lapis Sarawak). Sut mae'r motiff yn newid i greu'r patrwm cyflawn?
 
-![The motif from the kek lapis Sarawak project next to the complete pattern.](images/kek-motif.png)
+![Y motiff o'r prosiect kek lapis Sarawak wrth ymyl y patrwm cyflawn.](images/kek-motif.png)
 
-Look at this art deco wallpaper. How does the motif change to make the overall pattern?
+'Drychwch ar y papur wal Art Deco hwn. Sut mae'r motiff yn newid i wneud y patrwm cyflawn?
 
-![The motif from the art deco wallpaper project next to the complete pattern.](images/spirals-motif.png)
+![Y motiff o'r prosiect papur wal Art Deco wrth ymyl y patrwm cyflawn.](images/spirals-motif.png)
 
-Think about the pattern you are making. How does your motif change to make the overall pattern. Use these questions to help you abstract:
-- Does the whole, or part, of the motif rotate?
-- What direction does it rotate? And by how much?
-- Are there layers to the pattern that overlap?
-- How many times does the motif repeat itself?
-- How is the repetition organised (i.e. how many rows/columns)?
-- Do the colours change?
-- Are there details that are not included in the motif (i.e. the icing in the Malaysian layer cake)?
+Meddyliwch am y patrwm rydych chi'n ei wneud. Sut mae eich motiff yn newid i wneud y patrwm cyflawn. Defnyddiwch y cwestiynau hyn i'ch helpu chi i echdynnu:
+- A yw'r motiff cyfan yn cylchdroi, neu ddim ond rhan ohono?
+- I ba gyfeiriad mae'n cylchdroi? Ac o faint?
+- Oes haenau'n gorgyffwrdd yn y patrwm?
+- Sawl gwaith mae'r motiff yn ailadrodd ei hun?
+- Sut mae'r ailadrodd wedi'i drefnu (h.y. sawl rhes/colofn)?
+- A yw'r lliwiau'n newid?
+- Oes manylion heb eu cynnwys yn y motiff (h.y. yr eisin yn y gacen haenog o Faleisia)?
 
 --- /task ---
 
 --- task ---
 
-Now that you know more about how the motif turns into the whole pattern, you can program it using your answers to the questions above.
+Nawr eich bod yn gwybod mwy am sut mae'r motiff yn troi'n batrwm cyflawn, fe allwch ei raglennu gan ddefnyddio eich atebion i'r cwestiynau uchod.
 
-**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Professional developers do this all the time!
+**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Mae datblygwyr proffesiynol yn gwneud hyn drwy'r amser!
 
-You have built up some really useful skills. Here is a reminder to help you make your repeated pattern:
+Rydych chi wedi meithrin sgiliau defnyddiol iawn. Dyma eich atgoffa i'ch helpu chi i greu eich patrwm sy'n ailadrodd:
 
 [[[processing-matrix]]]
 
@@ -51,14 +51,14 @@ You have built up some really useful skills. Here is a reminder to help you make
 --- collapse ---
 
 ---
-title: Random positions
+title: Safleoedd ar hap
 ---
 
-You can add `from random import randint` at the top of **main.py**, this allows you to use the `randint` function to generate random numbers.
+Fe allwch chi ychwanegu `from random import randint` ar frig **main.py**, mae hyn yn gadael i chi ddefnyddio'r swyddogaeth `randint` i gynhyrchu rhifau ar hap.
 
-To use the `randint` function, you need to call it in your the code.
+I ddefnyddio'r swyddogaeth `randint`, mae angen i chi ei galw yn eich cod.
 
-One way to use random is to move your motif to a random position each time it is drawn:
+Un ffordd o ddefnyddio nodwedd ar hap yw symud eich motiff i safle ar hap bob tro mae'n cael ei lunio:
 
 --- code ---
 ---
@@ -70,7 +70,7 @@ push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) 
 
 --- /code ---
 
-You could also use random to change the colours in your motif as it is redrawn.
+Fe allech chi hefyd ddefnyddio nodwedd ar hap i newid lliwiau eich motiff wrth iddo gael ei ail-lunio.
 
 --- code ---
 ---
@@ -87,12 +87,12 @@ BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 --- collapse ---
 
 ---
-title: Changing the size of your motif
+title: Newid maint eich motiff
 ---
 
-If you use a motif you have already drawn, it might not be the right size.
+Os byddwch chi'n defnyddio motiff rydych chi wedi'i lunio'n barod, efallai na fydd y maint cywir.
 
-You can use `scale()` before calling the function that draws your motif to change its size. Using an input bigger than '1' will make the motif bigger, using an input less than '1' will make it smaller.
+Fe allwch chi ddefnyddio `scale()` cyn galw'r swyddogaeth sy'n llunio eich motiff i newid ei faint. Bydd defnyddio mewnbwn sy'n fwy nag '1' yn gwneud y motiff yn fwy, a bydd defnyddio mewnbwn sy'n llai nag '1' yn ei wneud yn llai.
 
 --- code ---
 ---
@@ -108,7 +108,7 @@ scale(0.5) #Half size
 
 --- /task ---
 
-Now you can animate your pattern to show how you made it. Often, patterns have powerful cultural significance in the way that they are made, or the process.
+Nawr fe allwch chi animeiddio eich patrwm i ddangos sut rydych chi wedi'i wneud. Yn aml, mae gan batrymau arwyddocâd diwylliannol pwerus o ran y ffordd maen nhw'n cael eu gwneud, neu'r broses.
 
 --- task ---
 
@@ -125,74 +125,74 @@ Now you can animate your pattern to show how you made it. Often, patterns have p
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your pattern?
+**Profi:** Dangoswch eich prosiect i rywun arall a gofyn am eu hadborth. Ydych chi am wneud unrhyw newidiadau i'ch patrwm?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Difa chwilod:** Efallai bydd angen i chi drwsio chwilod yn eich prosiect. Dyma rai chwilod cyffredin.
 
 --- collapse ---
 
 ---
-title: My motif does not appear to rotate
+title: Dydy fy motiff ddim i weld yn cylchdroi
 ---
 
-Make sure you are using the `radian()` function to convert degrees to radians.
+Gwnewch yn siŵr eich bod yn defnyddio'r swyddogaeth `radian()` i drosi graddau'n radianau.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The rotation looks strange
+title: Mae'r cylchdro'n edrych yn rhyfedd
 ---
 
-Have you checked that you are using `translate()` from and to the right coordinates?
+Ydych chi wedi gwneud yn siŵr eich bod yn defnyddio `translate()` o ac i'r cyfesurynnau cywir?
 
-Do you have more than one thing rotating? You may need to use `push_matrix()` and `pop_matrix()` so the screen rotates at different points at once.
+Oes mwy nag un peth yn cylchdroi? Efallai bydd angen i chi ddefnyddio `push_matrix()` a `pop_matrix()` fel bod y sgrin yn cylchdroi ar wahanol bwyntiau ar unwaith.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not animate
+title: Dydy fy mhatrwm ddim yn animeiddio
 ---
 
-Check you have used `frame_count()` properly in a loop.
+Gwnewch yn siŵr eich bod wedi defnyddio `frame_count()` yn gywir mewn dolen.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not look the way I want it to
+title: Dydy fy mhatrwm ddim yn edrych fel yr ydw i eisiau iddo edrych
 ---
 
-Review the sections above on `rotate()` and `translate()`. Experiment until it looks like you want it to, and remember, mistakes are powerful!
+Tarwch olwg arall ar yr adrannau uchod ynghylch `rotate()` a `translate()`. Arbrofwch nes ei fod yn edrych fel rydych chi eisiau iddo edrych a chofiwch, mae camgymeriadau'n bwerus!
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I get an error
+title: Dwi'n cael gwall
 ---
 
-Check the syntax of your code. Are you missing any brackets `(` or `)` or a colon `:` after defining a function? Is something spelled incorrectly? Is your code indented correctly?
+Gwiriwch gystrawen eich cod. Oes unrhyw gromfachau `(` neu `)` ar goll, neu efallai colon `:` ar ôl diffinio swyddogaeth? Oes rhywbeth wedi'i sillafu'n anghywir? A yw eich cod wedi'i fewnoli'n gywir?
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The animation is too fast/too slow
+title: Mae'r animeiddiad yn rhy gyflym/rhy araf
 ---
 
-Change the `frame_rate()` at the beginning of your program to get it to the speed you like.
+Newidiwch y `frame_rate()` ar ddechrau eich rhaglen i gael y cyflymder rydych chi ei eisiau.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Efallai byddwch chi'n dod o hyd i chwilen sydd ddim wedi'i rhestru yma. Allwch chi weithio allan sut i'w thrwsio?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+Rydyn ni wrth ein bodd yn clywed am eich chwilod chi a sut gwnaethoch chi eu trwsio. Defnyddiwch y botwm Adborth ar waelod y dudalen hon os gwnaethoch chi ddod ar draws chwilen wahanol yn eich prosiect.
 
 --- /task ---
 
