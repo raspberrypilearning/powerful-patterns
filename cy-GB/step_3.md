@@ -1,31 +1,31 @@
-## Build and test: Motif
+## Adeiladu a phrofi: Motiff
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it's time to make your motif, the first element of your pattern.
+Mae'n amser gwneud eich motiff, elfen gyntaf eich patrwm.
 </div>
 <div>
-![An example of a motif using various shapes to create the motif.](images/motif.png){:width="300px"}
+![Enghraifft o fotiff yn defnyddio amryw o siapiau i greu'r motiff.](images/motif.png){:width="300px"}
 </div>
 </div>
 
-The process of making your motif mirrors what computer scientists often do when they create a program or solution to a problem. This process is called **decomposition** and you will use decomposition to create your motif.
+Mae'r broses o wneud eich motiff yn adlewyrchu'r hyn mae cyfrifiadurwyr yn ei wneud yn aml pan fyddan nhw'n creu rhaglen neu ateb i broblem. **Dadelfennu** yw enw'r broses hon a byddwch chi'n defnyddio hyn i greu eich motiff.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Decomposition</span> is breaking something down into parts that are smaller and easier to understand. This means that you can build a pattern one part at a time until it is complete.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Ystyr <span style="color: #0faeb0">**dadelfennu**</span> yw rhannu prosiect yn rhannau sy'n llai ac yn haws eu deall. Mae hyn yn golygu eich bod yn gallu adeiladu patrwm un rhan ar y tro nes ei fod yn gyflawn.</p>
 
-Look at the pattern you want to recreate. How can you break it down into one single element (the motif) that repeats?
+'Drychwch ar y patrwm rydych chi am ei ailgreu. Sut gallwch chi ei rannu'n un elfen (y motiff) sy'n ailadrodd?
 
-In this example, an art deco wallpaper pattern has been decomposed into the basic collection of shapes (five circles overlayed) that makes the motif:
+Yn yr enghraifft hon, mae patrwm papur wal Art Deco wedi cael ei ddadelfennu i'r casgliad sylfaenol o siapiau (pum cylch wedi'u troshaenu) sy'n gwneud y motiff:
 
-![A single five circle motif next to an image of the art deco complete pattern with many copies of the motif.](images/motif-pattern.png)
+![Un motiff pum cylch wrth ymyl delwedd o'r patrwm Art Deco cyflawn gyda nifer o gopïau o'r motiff.](images/motif-pattern.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Cyngor:** Cofiwch brofi eich prosiect bob tro rydych chi'n ychwanegu rhywbeth. Mae'n llawer haws dod o hyd i chwilod a'u trwsio cyn gwneud mwy o newidiadau.
 
 --- task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your motif:
+Rydych chi wedi meithrin sgiliau defnyddiol iawn. Dyma eich atgoffa i 'ch helpu chi i greu eich motiff:
 
-### Shapes and images
+### Siapiau a delweddau
 
 [[[processing-python-ellipse]]]
 
@@ -35,7 +35,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-add-image]]]
 
-### Colours and effects
+### Lliwiau ac effeithiau
 
 [[[generic-theory-simple-colours]]]
 
@@ -45,7 +45,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-tint]]]
 
-### Position and transform
+### Safle a thrawsnewid
 
 [[[processing-matrix]]]
 
@@ -61,48 +61,48 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your motif?
+**Profi:** Dangoswch eich prosiect i rywun arall a gofyn am eu hadborth. Ydych chi am wneud unrhyw newidiadau i'ch motiff?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Difa chwilod:** Efallai bydd angen i chi drwsio chwilod yn eich prosiect. Dyma rai chwilod cyffredin.
 
 --- collapse ---
 ---
-title: Shapes are not aligned as I expected
+title: Dydy'r siapiau ddim wedi alinio fel yr oeddwn i'n ei ddisgwyl
 ---
 
-If you want the shapes to be aligned, then take a closer look at your coordinate points. Experiment with the numbers until you have the layout you want.
+Os ydych chi am alinio'r siapiau, 'drychwch yn fwy ofalus ar eich cyfesurynnau. Arbrofwch â'r rhifau nes bod gennych chi'r cynllun rydych chi ei eisiau.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I can't see some of the shapes in my motif
+title: Dydw i ddim yn gallu gweld rhai o'r siapiau yn fy motiff
 ---
 
-The order in which you draw things is very important.
+Mae'r drefn rydych chi'n llunio pethau ynddi yn bwysig iawn.
 
-Computer graphics are made of layers. In your motif, each shape is a layer. Objects on higher layers sit in front of objects on lower layers. Imagine cutting all the shapes out of paper. Depending on how you arrange and overlap that paper, the final result could look very different.
+Mae graffeg cyfrifiadurol wedi'i gwneud o haenau. Yn eich motiff, mae pob siâp yn haen. Mae gwrthrychau ar haenau uwch yn eistedd o flaen gwrthrychau ar haenau is. Dychmygwch dorri'r holl siapiau allan o bapur. Yn dibynnu ar sut rydych chi'n trefnu ac yn croesi'r papur hwnnw, fe allai'r canlyniad edrych yn wahanol iawn.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: My circles/squares are not equal
+title: Dydy fy nghylchoedd/sgwariau ddim yn hafal
 ---
 
-The third and fourth numbers in `ellipse` and `rect` are the width and height. If you make them the same, you will get a circle or square.
+Y trydydd a'r pedwerydd rhif yn `ellipse` a `rect` yw'r lled a'r uchder. Os byddwch chi'n eu gwneud yr un fath, byddwch chi'n cael cylch neu sgwâr.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Efallai byddwch chi'n dod o hyd i chwilen sydd ddim wedi'i rhestru yma. Allwch chi weithio allan sut i'w thrwsio?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+Rydyn ni wrth ein bodd yn clywed am eich chwilod chi a sut gwnaethoch chi eu trwsio. Defnyddiwch y botwm Adborth ar waelod y dudalen hon os gwnaethoch chi ddod ar draws chwilen wahanol yn eich prosiect.
 
 --- /task ---
 
