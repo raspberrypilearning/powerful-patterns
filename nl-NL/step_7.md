@@ -1,25 +1,19 @@
-## Upgrade your project
+## Delen
 
-If you have time you can upgrade your project. You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
+Als je lid bent van een club, waarom zou je je project dan niet delen met vrienden?
 
-![Finished examples with input and make a face elements](images/upgrade.gif)
+Je kunt je familie ook laten zien hoe je project werkt door ze een link te sturen.
 
-You could:
-- Use text and emoji to `print()` a description of your pattern
-- Adjust the size of your pattern based on user `input()`
-- Make a scaled motif using your [Make a face project](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
+Om een link te krijgen, ga naar de menuknop **Share** in de rechterbovenhoek van de Trinket bewerkingspagina en selecteer **Link**.
 
-Each example project in the [Introduction](.) has a **See inside** link for you to open the project, look at the code, get ideas, and see how they work.
+![De menuknop 'Delen', met 'Link' gemarkeerd.](images/share-button.png)
 
-This project uses text and emoji to ask the user to choose a size then uses their answer to size all the shapes:
+**Tip:** je kunt een link naar je project delen, zelfs als je geen Trinket-account hebt; maar zonder een account verandert de link naar je project elke keer dat je het bijwerkt. Als je de link met iemand hebt gedeeld, dan moet je een nieuwe link sturen zodat diegene de wijzigingen kan zien.
 
-**McEwen tartan**: [See inside](https://trinket.io/python/4706d1a81b){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+--- task ---
 
-Take a look at some Powerful patterns projects created by community members in the Raspberry Pi Foundation’s [Powerful patterns - Community library](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
+Inspireer de Raspberry Pi Foundation community met je project!
 
---- save ---
+Om je project in te dienen bij onze [Krachtige patroon - Community](https://wke.lt/w/s/yyNPQT){:target=blank} studio, graag[dit formulier](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} invullen.
 
+--- /task ---
