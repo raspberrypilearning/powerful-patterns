@@ -1,7 +1,7 @@
-## What next?
+## Beth nesaf?
 
-You have reached the end of the [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro) path!
+Rydych chi wedi cyrraedd diwedd y llwybr [Cyflwyniad i Python](https://projects.raspberrypi.org/en/pathways/python-intro)!
 
 [[[python-coolest-projects]]]
 
-You can explore our [other Python projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) and try them out.
+Fe allwch chi archwilio ein [prosiectau Python eraill](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) a rhoi cynnig arnyn nhw.
