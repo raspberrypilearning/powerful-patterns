@@ -1,25 +1,25 @@
-## Upgrade your project
+## Améliorer ton projet
 
-If you have time you can upgrade your project. You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
+Si tu as le temps, tu peux perfectionner ton projet. Tu pourrais déjà avoir des idées pour en ajouter d'autres ou tu voudras peut-être revenir à la première étape et revoir d'autres projets pour plus d'inspiration.
 
-![Finished examples with input and make a face elements](images/upgrade.gif)
+![Exemples finis avec entrée et création d'éléments de visage](images/upgrade.gif)
 
-You could:
-- Use text and emoji to `print()` a description of your pattern
-- Adjust the size of your pattern based on user `input()`
-- Make a scaled motif using your [Make a face project](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
+Tu pourrais :
+- Utiliser du texte et des emoji pour `imprimer()` une description de ton modèle
+- Ajuster la taille de ton motif en fonction de l'`input()` utilisateur
+- Créer un motif à l'échelle à l'aide de ton projet [Créer un visage](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
 
-Each example project in the [Introduction](.) has a **See inside** link for you to open the project, look at the code, get ideas, and see how they work.
+Chaque exemple de projet dans [l'introduction](.) a un lien **Voir à l'intérieur** pour te permettre d'ouvrir le projet et de regarder le code pour avoir des idées et voir comment ils fonctionnent.
 
-This project uses text and emoji to ask the user to choose a size then uses their answer to size all the shapes:
+Ce projet utilise du texte et des emoji pour demander à l'utilisateur de choisir une taille, puis utilise sa réponse pour dimensionner toutes les formes :
 
-**McEwen tartan**: [See inside](https://trinket.io/python/4706d1a81b){:target="_blank"}
+**Tartan McEwen** : [Voir à l'intérieur](https://trinket.io/python/4706d1a81b){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-Take a look at some Powerful patterns projects created by community members in the Raspberry Pi Foundation’s [Powerful patterns - Community library](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
+Jette un coup d'œil à certains projets de modèles puissants créés par des membres de la communauté dans [Motifs puissants - bibliothèque de la communauté](https://wke.lt/w/s/yyNPQT){:target="_blank"} de la Raspberry Pi Foundation.
 
 --- save ---
 
