@@ -1,98 +1,98 @@
-## Reflection
+## Myfyrio
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+Wnaethoch chi fodloni **briff y prosiect**? Meddyliwch am eich prosiect a mynd drwy'r rhestr wirio isod a rhoi tic i'r nodweddion sydd gan eich prosiect.
 
-Does your powerful pattern:
-
---- task ---
-
-Draw and position geometric shapes to create a base pattern (or motif) --- /task ---
+A yw eich patrwm pwerus:
 
 --- task ---
 
-Use loops to repeat the pattern to fill the screen
+Yn llunio ac yn lleoli siapiau geometrig i greu patrwm sylfaen (neu fotiff) --- /task ---
+
+--- task ---
+
+Yn defnyddio dolenni i ailadrodd y patrwm i lenwi'r sgrin
 
 --- /task ---
 
 --- task ---
 
-Animate how the pattern is created
+Yn animeiddio sut mae'r patrwm yn cael ei greu
 
 --- /task ---
 
-Your powerful pattern could also:
+Fe allai eich patrwm pwerus wneud y canlynol hefyd:
 
 --- task ---
 
-Use bold or significant colours
-
---- /task ---
-
---- task ---
-
-Draw inspiration from your culture or popular culture
+Defnyddio lliwiau trawiadol neu arwyddocaol
 
 --- /task ---
 
 --- task ---
 
-Get user input to resize the pattern
+Cael ei ysbrydoli gan eich diwylliant neu ddiwylliant poblogaidd
 
 --- /task ---
 
 --- task ---
 
-Add text and emoji to print details about your art
+Gofyn am fewnbwn defnyddiwr i newid maint y patrwm
 
 --- /task ---
 
 --- task ---
 
-Translate the pattern to create variations
+Ychwanegu testun ac emoji i brintio manylion am eich celfwaith
+
+--- /task ---
+
+--- task ---
+
+Trosi'r patrwm i greu amrywiadau
 
 --- /task ---
 
 
 --- task ---
 
-Share your work with others in an online gallery
+Rhannu eich gwaith â phobl eraill mewn oriel ar-lein
 
 --- /task ---
 
 
-Reflecting about how you made your powerful pattern will help you in your future projects.
+Bydd myfyrio ar sut roeddech chi wedi gwneud eich patrwm pwerus yn eich helpu yn eich prosiectau yn y dyfodol.
 
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
---- task ---
-
-How did you get your ideas?
-
---- /task ---
+Atebwch y cwestiynau isod drwy ddarlunio, ysgrifennu, teipio mewn dogfen, siarad â rhywun, neu yn eich ffordd greadigol eich hun - beth bynnag sy'n gweithio orau i chi.
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Sut gwnaethoch chi gael eich syniadau?
 
 --- /task ---
 
 --- task ---
 
-Mistakes and failures are often the catalyst for discovery and success.
-
-Oprah Winfrey was fired from her first job, but she went on to become a famous and influential producer and philanthropist. She once said "turn your wounds into wisdom".
-
-What mistakes did you make and how did they help you?
+Pa bethau newydd cŵl wnaethoch chi eu dysgu?
 
 --- /task ---
 
-### Now you are a digital artist and mathematician!
+--- task ---
 
-Take a moment to celebrate what you have made.
+Camgymeriadau a methiannau sy'n sbarduno canfyddiadau a llwyddiant yn aml.
+
+Cafodd Oprah Winfrey ei diswyddo o'i swydd gyntaf, cyn mynd ymlaen i fod yn gynhyrchydd a dyngarwr dylanwadol ac enwog. Dywedodd unwaith, "trowch eich clwyfau'n ddoethineb".
+
+Pa gamgymeriadau gwnaethoch chi a sut gwnaethon nhw eich helpu?
+
+--- /task ---
+
+### Rydych chi nawr yn artist digidol ac yn fathemategydd!
+
+Cymerwch eiliad i ddathlu'r hyn rydych chi wedi'i wneud.
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Beth fyddwch chi'n ei wneud â'ch pwerau newydd? Beth wnewch chi nesaf?
 
 --- /task ---
 
