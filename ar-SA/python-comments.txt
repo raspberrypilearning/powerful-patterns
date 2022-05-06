@@ -1,151 +1,151 @@
-Choose a size
+اختر الحجم
 
-Try different numbers to change the colour
+جرب أرقامًا مختلفة لتغيير اللون
 
-Start transformation
+ابدأ التحول
 
-Reset transformation
+إعادة تعيين التحول
 
-Half size
+نصف الحجم
 
-Put code to run once here
+ضع التعليمات البرمجية للتشغيل مرة واحدة هنا
 
-Put code to run every frame here
+ضع التعليمات البرمجية لتشغيل كل إطار هنا
 
-Keep this to run your code
+احتفظ بهذا لتشغيل التعليمات البرمجية الخاصة بك
 
-Choose some gorgeous colours for the cake layers
+اختر بعض الألوان الرائعة لطبقات الكيك
 
-Jam sticks the layers together
+المربى تلتصق الطبقات ببعضها البعض
 
-Change the number to change the amount of jam
+قم بتغيير الرقم لتغيير مقدار مربى
 
-Nine layers of cake, repeating the 3 colours 3 times
+تسع طبقات من الكيك بتكرار 3 ألوان 3 مرات
 
-height of 3 blocks of cake
+ارتفاع 3 كتل من الكيك
 
-The cake is wrapped in an outer layer
+الكعكة ملفوفة في طبقة خارجية
 
-Don't cover up the cake quadrants!
+لا تستر أرباع الكعكة!
 
-make the cake square
+اصنع مربع الكيك
 
-transparent background
+خلفية شفافة
 
-5 frames per second
+5 إطارات في الثانية
 
-Define a quarter turn so our code is easy to read
+حدد ربع دورة حتى يسهل قراءة التعليمات البرمجية الخاص بنا
 
-start from the center
+تبدأ من المركز
 
-Make the bottom right quarter of the cake then rotate for the other quarters
+اصنع الربع الأيمن السفلي من الكعكة ثم قم بتدوير الأرباع الأخرى
 
-draw up to 4 quadrants
+ارسم ما يصل إلى 4 أرباع
 
-add the outer layer
+أضف الطبقة الخارجية
 
-back to the top corner
+العودة إلى الزاوية العلوية
 
-outer layer
+الطبقة الخارجية
 
-Definitions for compatibility with the p5py processing library 
+تعاريف للتوافق مع مكتبة معالجة p5py 
 
-Shape
+شكل
 
-Fonts
+الخطوط
 
-Text
+نص
 
-Colour
+اللون
 
-Images
+صور
 
-Environment
+بيئة
 
-Transform
+تحول
 
-Keyboard
+لوحة المفاتيح
 
-a short row of squares
+صف قصير من المربعات
 
-fast animation
+الرسوم المتحركة السريعة
 
-thick border
+سماك الاطار
 
-start from the centre of the screen
+تبدأ من وسط الشاشة
 
-animates the pattern
+ينعش النمط
 
-turns the motif
+يدير الحافز
 
-moves the motif
+يتحرك الحافز
 
-Eyes
+عيون
 
-Mouth
+فم
 
-offset by the width of the quarter-size face
+يقابلها عرض ربع حجم الوجه
 
-quarter size paths
+مسارات حجم الربع
 
-Pattern colours
+ألوان النقش
 
-blue
+أزرق
 
-gold
+ذهب
 
-start from the top left of the screen
+ابدأ من أعلى يسار الشاشة
 
-creates 16 rows then stops
+ينشئ 16 صفا ثم يتوقف
 
-animates 1 row at a time
+ينشط صف واحد في كل مرة
 
-create a row of motifs
+إنشاء صف من الزخارف
 
-move down to start next row
+تحرك لأسفل لبدء الصف التالي
 
-Thread colours
+ألوان الخيط
 
-Squares
+مربعات
 
-row of shapes
+صف من الأشكال
 
-save settings
+احفظ التغييرات
 
-turn shape 45 degrees
+بدوره الشكل 45 درجة
 
-go back to saved settings
+ارجع إلى الإعدادات المحفوظة
 
-move horizontally
+تتحرك أفقيا
 
-pink
+زهري
 
-to start with half motifs
+لنبدأ بزخارف نصفية
 
-maximum rows
+الصفوف القصوى
 
-to offset pattern on next row
+لتعويض النمط في الصف التالي
 
-Use in shape width/length to animate over time
+استخدم في عرض / طول الشكل للتحريك بمرور الوقت
 
-McEwen tartan colours
+ألوان McEwen الترتان
 
-Base square colours
+ألوان أساسية مربعة
 
-Cross colours
+عبر الألوان
 
-Stitching and overlap colour
+خياطة وتداخل اللون
 
-Draw all the GREEN and BLUE alternating Base squares
+ارسم كل المربعات المتناوبة باللونين الأخضر والأزرق
 
-GREEN and BLUE
+الأخضر والأزرق
 
-Crosses
+الصلبان
 
-Draw the YELLOW and RED alternating crosses
+ارسم الصلبان بالتناوب الأصفر والأحمر
 
-YELLOW and RED
+الأصفر والأحمر
 
-Draw the stitching crosses
+ارسم صليب الغرز
 
-Draw the grey lines where material overlaps
+ارسم الخطوط الرمادية حيث تتداخل المواد
