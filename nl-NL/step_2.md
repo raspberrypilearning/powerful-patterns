@@ -1,64 +1,64 @@
-## Your idea
+## Jouw idee
 
-Use this step to plan your powerful pattern. You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Gebruik deze stap om je krachtige patroon te plannen. Je kunt het plannen door erover na te denken, te knutselen, te tekenen of te schrijven, of hoe je maar wilt!
 
-![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-1.gif)
+![Een geanimeerde gif van drie verschillende voorbeelden die verschillende vormen gebruiken om de motieven en animaties te creëren om het patroon te doen groeien.](images/ideas-1.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns often have <span style="color: #0faeb0">cultural or religious significance</span>. Certain geometric shapes and positions can have symbolic or sacred meanings. Whether the pattern is in architecture, fabric, art, cooking, or something else, the process of making the pattern can also be significant.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patronen hebben vaak een <span style="color: #0faeb0">culturele of religieuze betekenis</span>. Bepaalde geometrische vormen en posities kunnen symbolische of heilige betekenissen hebben. Of het patroon zich nu in architectuur, stof, kunst, koken of iets anders bevindt, het proces van het maken van het patroon kan ook belangrijk zijn.</p>
 
-### Why are you making your powerful pattern ?
+### Waarom maak je jouw krachtige patroon?
 
 --- task ---
 
-Think about the purpose of the pattern you are creating.
+Denk na over het doel van het patroon dat je gaat maken.
 
-It could be:
-- To express something significant from your or your family's culture(s)
-- To recreate a geometric pattern that means something to you
-- Something you create with a group of people to send a certain message (for example, a quilt)
-- To show something fascinating about about a hobby (for example, art, science, nature, music)
+Dat kan zijn:
+- Om iets belangrijks uit jouw cultuur of die van je familie uit te drukken
+- Een geometrisch patroon na te maken dat iets voor je betekent
+- Iets wat je met een groep mensen maakt om een bepaald boodschap te sturen (bijvoorbeeld een quilt)
+- Iets boeiends over een hobby laten zien (bijvoorbeeld kunst, wetenschap, natuur, muziek)
 
-**Tip:** Patterns are everywhere! You might choose to get inspiration by going on a pattern hunt around your physical environment or online.
+**Tip:** Patronen zijn overal! Je kunt ervoor kiezen om inspiratie op te doen door op patronenjacht te gaan in je omgeving of online.
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">As well as having symbolic meaning, patterns show the mathematics that is all around us. Mathematics helps us make sense of the world around us and we can find mathematical patterns in art, literature, and nature. </p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Naast een symbolische betekenis, laten patronen de wiskunde zien die overal om ons heen is. Wiskunde helpt ons de wereld om ons heen te begrijpen en we kunnen wiskundige patronen vinden in kunst, literatuur en de natuur. </p>
 
-### Who is it for?
+### Voor wie is het?
 
 --- task ---
 
-Think about who you will make your pattern for (your **audience**).
+Bedenk voor wie je je patroon gaat maken (je **doelgroep**).
 
-What is the significance of your pattern? Will the colours, shapes, or way the pattern is repeated mean something special to you or your audience?
+Wat is de betekenis van je patroon? Zullen de kleuren, vormen of manier waarop het patroon wordt herhaald iets speciaals voor jou of je publiek betekenen?
 
-Sharing your pattern is a great way to express something about yourself or your culture.
+Het delen van je patroon is een geweldige manier om iets over jezelf of je cultuur uit te drukken.
 
-If you are are creating a pattern as a group, does your motif need to be a certain size or shape to fit with other parts of a bigger pattern?
+Als je als groep een patroon maakt, moet je motief dan een bepaalde afmeting of vorm hebben om bij andere delen van een groter patroon te passen?
 
 --- /task ---
 
-### Get started
+### Aan de slag
 
 --- task ---
 
-Open the [Powerful patterns starter project](https://trinket.io/python/6c4a0c6406){:target=blank } and click on the remix button.
+Open het [Krachtige patronen startersproject](https://trinket.io/python/6c4a0c6406){:target=blank } en klik op de remix-knop.
 
 --- /task ---
 
-### Setup your project
+### Je project opzetten
 
 --- task ---
 
-Add code to `setup()` to get your project ready.
+Voeg code toe aan `setup()` om je project klaar te maken.
 
 --- collapse ---
 
 ---
-title: Setting the screen size when your programme starts
+title: De schermgrootte instellen wanneer het programma wordt gestart
 ---
 
-**Choose:** Add a size that suits the pattern you want to create. You can always change this later as your project evolves.
+**Kies:** Voeg een afmeting toe die past bij het patroon dat je wilt maken. Je kunt dit later altijd wijzigen naarmate je project evolueert.
 
 --- code ---
 ---
@@ -74,12 +74,12 @@ def setup(): size(400, 400) #Choose a size
 --- collapse ---
 
 ---
-title: Setting the background colour when your programme starts
+title: De achtergrondkleur instellen wanneer het programma start
 ---
 
-Think about where you want to draw your background. You can:
-+ Add code to `setup()` so that the background is drawn once when you run your project
-+ Add code to `draw()` so that the background is redrawn each time the `draw()` function runs
+Bedenk waar je je achtergrond wilt tekenen. Jij kunt:
++ Voeg code toe aan `setup()` zodat de achtergrond één keer wordt getekend wanneer je het project uitvoert
++ Voeg code toe aan `draw()` zodat de achtergrond telkens opnieuw wordt getekend als de functie `draw()` wordt uitgevoerd
 
 --- code ---
 ---
@@ -99,25 +99,25 @@ line_highlights: 9
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Debug:** Mogelijk vindt je enkele fouten in jouw project die je moet oplossen. Hier zijn enkele veelvoorkomende fouten.
 
 --- collapse ---
 
 ---
-title: I've updated my size and colour but the output area stays the same
+title: Ik heb mijn grootte en kleur bijgewerkt, maar het uitvoergebied blijft hetzelfde
 ---
 
-After changing the code, you will need to `run` your project to see the changes in the output area.
+Nadat je de code hebt gewijzigd, moet je je project `uitvoeren` om de wijzigingen in het uitvoergebied te zien.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I've tried different numbers, but the background colour doesn't change
+title: Ik heb verschillende getallen geprobeerd, maar de achtergrondkleur verandert niet
 ---
 
-The maximum amount of red, green, or blue is `255`. Make sure all your `background` colour values are between `0` and `255`.
+De maximale hoeveelheid rood, groen of blauw is `255`. Zorg ervoor dat alle `achtergrond` kleurwaarden tussen `0` en `255` liggen.
 
 --- /collapse ---
 
