@@ -1,31 +1,31 @@
-## Build and test: Motif
+## Bouwen en testen: het Motief
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it's time to make your motif, the first element of your pattern.
+Nu is het tijd om je motief te maken, het eerste element van je patroon.
 </div>
 <div>
-![An example of a motif using various shapes to create the motif.](images/motif.png){:width="300px"}
+![Een voorbeeld van een motief waarbij verschillende vormen worden gebruikt om het motief te maken.](images/motif.png){:width="300px"}
 </div>
 </div>
 
-The process of making your motif mirrors what computer scientists often do when they create a program or solution to a problem. This process is called **decomposition** and you will use decomposition to create your motif.
+Het proces van het maken van je motief weerspiegelt wat computerwetenschappers vaak doen als ze een programma of oplossing voor een probleem maken. Dit proces wordt **decompositie** genoemd en je zult decompositie gebruiken om je motief te maken.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Decomposition</span> is breaking something down into parts that are smaller and easier to understand. This means that you can build a pattern one part at a time until it is complete.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Decompositie</span> is iets opsplitsen in kleinere en gemakkelijker te begrijpen delen. Dit betekent dat je een patroon deel per deel kunt bouwen totdat het compleet is.</p>
 
-Look at the pattern you want to recreate. How can you break it down into one single element (the motif) that repeats?
+Kijk naar het patroon dat je wilt namaken. Hoe kun je het opsplitsen in één enkel element (het motief) dat zich herhaalt?
 
-In this example, an art deco wallpaper pattern has been decomposed into the basic collection of shapes (five circles overlayed) that makes the motif:
+In dit voorbeeld werd een art deco-behangpapier patroon ontleed tot de basis verzameling van vormen (vijf cirkels over elkaar gelegd) die het motief vormen:
 
-![A single five circle motif next to an image of the art deco complete pattern with many copies of the motif.](images/motif-pattern.png)
+![Een enkel motief van vijf cirkels naast een afbeelding van het volledige art deco patroon met veel kopieën van het motief.](images/motif-pattern.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Tip:** Denk eraan om je project elke keer dat je iets toevoegt, te testen. Het is veel gemakkelijker om fouten te vinden en op te lossen voordat je meer wijzigingen aanbrengt.
 
 --- task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your motif:
+Je hebt een aantal echt nuttige vaardigheden opgebouwd. Hier is een geheugensteuntje om je te helpen bij het maken van jouw motief:
 
-### Shapes and images
+### Vormen en afbeeldingen
 
 [[[processing-python-ellipse]]]
 
@@ -35,7 +35,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-add-image]]]
 
-### Colours and effects
+### Kleuren en effecten
 
 [[[generic-theory-simple-colours]]]
 
@@ -45,7 +45,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-tint]]]
 
-### Position and transform
+### Positie en transformatie
 
 [[[processing-matrix]]]
 
@@ -61,48 +61,48 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your motif?
+**Test:** Laat iemand anders jouw project zien en vraag feedback. Wil je iets aan je motief veranderen?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Debug:** Mogelijk vindt je enkele fouten in jouw project die je moet oplossen. Hier zijn enkele veelvoorkomende fouten.
 
 --- collapse ---
 ---
-title: Shapes are not aligned as I expected
+title: Vormen zijn niet uitgelijnd zoals ik had verwacht
 ---
 
-If you want the shapes to be aligned, then take a closer look at your coordinate points. Experiment with the numbers until you have the layout you want.
+Als je wilt dat de vormen worden uitgelijnd, kijk dan eens goed naar je coördinaatpunten. Experimenteer met de getallen totdat je de gewenste lay-out hebt.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I can't see some of the shapes in my motif
+title: Ik kan sommige vormen in mijn motief niet zien
 ---
 
-The order in which you draw things is very important.
+De volgorde waarin je dingen tekent is erg belangrijk.
 
-Computer graphics are made of layers. In your motif, each shape is a layer. Objects on higher layers sit in front of objects on lower layers. Imagine cutting all the shapes out of paper. Depending on how you arrange and overlap that paper, the final result could look very different.
+Computerafbeeldingen bestaan uit lagen. In je motief is elke vorm een laag. Objecten op hogere lagen zitten voor objecten op lagere lagen. Stel je voor dat je alle vormen uit papier knipt. Afhankelijk van hoe je dat papier rangschikt en overlapt, kan het eindresultaat er heel anders uitzien.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: My circles/squares are not equal
+titel: Mijn cirkels/vierkanten zijn niet gelijk
 ---
 
-The third and fourth numbers in `ellipse` and `rect` are the width and height. If you make them the same, you will get a circle or square.
+Het derde en vierde cijfer in `ellips` en `rect` zijn de breedte en hoogte. Als je ze hetzelfde maakt, krijg je een cirkel of vierkant.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Mogelijk vind je een bug die hier niet wordt vermeld. Kun je erachter komen hoe je het kunt oplossen?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+We horen graag over je fouten en hoe je ze hebt opgelost. Gebruik de feedback knop onderaan deze pagina als je een andere bug in je project hebt gevonden.
 
 --- /task ---
 
