@@ -1,98 +1,98 @@
-## Reflection
+## Αναστοχασμός
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+Ανταποκρίθηκες στη **σύνοψη έργου**; Σκέψου το έργο σου, πέρασε από τη λίστα ελέγχου παρακάτω και έλεγξε τα χαρακτηριστικά που διαθέτει το έργο σου.
 
-Does your powerful pattern:
-
---- task ---
-
-Draw and position geometric shapes to create a base pattern (or motif) --- /task ---
+Το ισχυρό μοτίβο σου:
 
 --- task ---
 
-Use loops to repeat the pattern to fill the screen
+Σχεδιάζει και τοποθετεί γεωμετρικά σχήματα για να δημιουργήσεις ένα βασικό μοτίβο (ή κεντρικό σχέδιο)
+
+--- task ---
+
+Χρησιμοποιεί βρόχους για να επαναλάβει το μοτίβο για να γεμίσει την οθόνη
 
 --- /task ---
 
 --- task ---
 
-Animate how the pattern is created
+Κινείται όπως δημιουργείται το μοτίβο
 
 --- /task ---
 
-Your powerful pattern could also:
+Το ισχυρό σου μοτίβο θα μπορούσε επίσης να:
 
 --- task ---
 
-Use bold or significant colours
-
---- /task ---
-
---- task ---
-
-Draw inspiration from your culture or popular culture
+Χρησιμοποιεί έντονα ή σημαντικά χρώματα
 
 --- /task ---
 
 --- task ---
 
-Get user input to resize the pattern
+Αντλεί έμπνευση από την κουλτούρα σου ή το λαϊκό πολιτισμό σου
 
 --- /task ---
 
 --- task ---
 
-Add text and emoji to print details about your art
+Λαμβάνει στοιχεία από τον χρήστη για να αλλάξει το μέγεθος του μοτίβου
 
 --- /task ---
 
 --- task ---
 
-Translate the pattern to create variations
+Προσθέτει κείμενο και emoji για να εμφανίσει λεπτομέρειες σχετικά με την τέχνη σου
+
+--- /task ---
+
+--- task ---
+
+Μεταφέρει το μοτίβο για να δημιουργήσει παραλλαγές
 
 --- /task ---
 
 
 --- task ---
 
-Share your work with others in an online gallery
+Σου δώσει τη δυνατότητα να μοιραστείς τη δουλειά σου με άλλους σε μια διαδικτυακή συλλογή
 
 --- /task ---
 
 
-Reflecting about how you made your powerful pattern will help you in your future projects.
+Ο αναστοχασμός σχετικά με το πώς έφτιαξες το ισχυρό σου μοτίβο θα σε βοηθήσει στα μελλοντικά σου έργα.
 
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
---- task ---
-
-How did you get your ideas?
-
---- /task ---
+Απάντησε στις παρακάτω ερωτήσεις σχεδιάζοντας, γράφοντας, πληκτρολογώντας ένα έγγραφο, μιλώντας με κάποιον ή με όποιον δημιουργικό τρόπο λειτουργεί καλύτερα για σένα.
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Πώς σου ήρθαν οι ιδέες;
 
 --- /task ---
 
 --- task ---
 
-Mistakes and failures are often the catalyst for discovery and success.
-
-Oprah Winfrey was fired from her first job, but she went on to become a famous and influential producer and philanthropist. She once said "turn your wounds into wisdom".
-
-What mistakes did you make and how did they help you?
+Τι ωραία νέα πράγματα έμαθες;
 
 --- /task ---
 
-### Now you are a digital artist and mathematician!
+--- task ---
 
-Take a moment to celebrate what you have made.
+Τα λάθη και οι αποτυχίες είναι συχνά ο καταλύτης για την ανακάλυψη και την επιτυχία.
+
+Η Oprah Winfrey απολύθηκε από την πρώτη της δουλειά, αλλά έγινε διάσημη παραγωγός και φιλάνθρωπος με επιρροή. Κάποτε είπε «μετάτρεψε τις πληγές σου σε σοφία».
+
+Ποια λάθη έκανες και πώς σε βοήθησαν;
+
+--- /task ---
+
+### Τώρα είσαι ψηφιακός καλλιτέχνης και μαθηματικός!
+
+Αφιέρωσε μια στιγμή για να απολαύσεις αυτό που έφτιαξες.
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Πού θα σε οδηγήσουν οι νέες σου δυνάμεις; Τι θα φτιάξεις μετά;
 
 --- /task ---
 
