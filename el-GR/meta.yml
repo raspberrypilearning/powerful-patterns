@@ -1,28 +1,28 @@
 ---
-title: Powerful patterns
+title: Ισχυρά μοτίβα
 hero_image: images/banner.png
-description: Create a piece of inspirational art that can be scaled using repeated patterns
+description: Δημιούργησε ένα κομμάτι εμπνευσμένης τέχνης που μπορεί να κλιμακωθεί χρησιμοποιώντας επαναλαμβανόμενα μοτίβα
 version: 4
 listed: true
 copyedit: true
 last_tested: "2021-10-06"
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
   - 
-    title: Your idea
+    title: Η ιδέα σου
   - 
-    title: Build and test - Motif
+    title: Κατασκευή και δοκιμή - Μοτίβο
     completion: engaged
   - 
-    title: Expand and test - Pattern
+    title: Ανάπτυξη και δοκιμή - Μοτίβο
     completion: internal
   - 
-    title: Reflection
+    title: Αναστοχασμός
     completion: external
   - 
-    title: Upgrade your project
+    title: Αναβάθμιση του έργου σου
   - 
-    title: Share
+    title: Κοινοποίηση
   - 
-    title: What next?
+    title: Τι υπάρχει στη συνέχεια;
