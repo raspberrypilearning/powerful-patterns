@@ -28,7 +28,7 @@ green
 
 circle_size
 
-This art uses lots of circles!
+Αυτό το έργο τέχνης χρησιμοποιεί πολλούς κύκλους!
 
 motif_size
 
@@ -40,15 +40,15 @@ YELLOW
 
 BLUE
 
-This is 🇵🇭 Yakan weaving
+Αυτή είναι η ύφανση 🇵🇭 Yakan
 
 motif_width
 
-󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿This is McEwen Tartan
+Αυτό είναι το Καρό McEwen
 
 square_size
 
-What size tartan would you like? 20, 50, or 100
+Τι μέγεθος καρό θα ήθελες; 20, 50 ή 100
 
 lines
 
@@ -68,4 +68,4 @@ squares
 
 gap
 
-cross
+σταυρός
