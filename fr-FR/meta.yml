@@ -1,7 +1,7 @@
 ---
-title: Powerful patterns
+title: Motifs puissants
 hero_image: images/banner.png
-description: Create a piece of inspirational art that can be scaled using repeated patterns
+description: Créer une œuvre d'art inspirante qui peut être mise à l'échelle en utilisant des motifs répétés
 version: 4
 listed: true
 copyedit: true
@@ -10,19 +10,19 @@ steps:
   - 
     title: Introduction
   - 
-    title: Your idea
+    title: Ton idée
   - 
-    title: Build and test - Motif
+    title: Construire et tester - Motif
     completion: engaged
   - 
-    title: Expand and test - Pattern
+    title: Développer et tester - Motif
     completion: internal
   - 
-    title: Reflection
+    title: Réflexion
     completion: external
   - 
-    title: Upgrade your project
+    title: Améliorer ton projet
   - 
-    title: Share
+    title: Partager
   - 
-    title: What next?
+    title: Et ensuite ?
