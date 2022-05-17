@@ -1,41 +1,41 @@
-## Expand and test: Pattern
+## Ανάπτυξη και δοκιμή: Μοτίβο
 
-Now it's time to make your full pattern!
+Τώρα ήρθε η ώρα να φτιάξεις το πλήρες μοτίβο σου!
 
-![Examples of finished projects that have the motif used repeatedly to form a full pattern.](images/second.gif)
+![Παραδείγματα ολοκληρωμένων έργων που έχουν το κεντρικό σχέδιο που χρησιμοποιείται επανειλημμένα για να σχηματίσουν ένα πλήρες μοτίβο.](images/second.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Abstraction</span> is problem solving by reducing unnecessary detail. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Η <span style="color: #0faeb0">αφαίρεση</span> είναι η επίλυση προβλημάτων μειώνοντας τις περιττές λεπτομέρειες. 
 
 </p>
 
 --- task ---
 
-Look at this Malaysian layer cake (kek lapis Sarawak). How does the motif change to make the overall pattern?
+Κοίταξε αυτό το μαλαισιανό κέικ με στρώσεις (kek lapis Sarawak). Πώς αλλάζει το κεντρικό σχέδιο για να δημιουργήσει το συνολικό μοτίβο;
 
-![The motif from the kek lapis Sarawak project next to the complete pattern.](images/kek-motif.png)
+![Το κεντρικό σχέδιο από το έργο kek lapis Sarawak δίπλα στο πλήρες μοτίβο.](images/kek-motif.png)
 
-Look at this art deco wallpaper. How does the motif change to make the overall pattern?
+Κοίταξε αυτήν την ταπετσαρία αρ ντεκό. Πώς αλλάζει το κεντρικό σχέδιο για να δημιουργήσει το συνολικό μοτίβο;
 
-![The motif from the art deco wallpaper project next to the complete pattern.](images/spirals-motif.png)
+![Το κεντρικό σχέδιο από το έργο σρ ντεκό δίπλα στο πλήρες μοτίβο.](images/spirals-motif.png)
 
-Think about the pattern you are making. How does your motif change to make the overall pattern. Use these questions to help you abstract:
-- Does the whole, or part, of the motif rotate?
-- What direction does it rotate? And by how much?
-- Are there layers to the pattern that overlap?
-- How many times does the motif repeat itself?
-- How is the repetition organised (i.e. how many rows/columns)?
-- Do the colours change?
-- Are there details that are not included in the motif (i.e. the icing in the Malaysian layer cake)?
+Σκέψου το μοτίβο που φτιάχνεις. Πώς αλλάζει το κεντρικό σχέδιο για να δημιουργήσει το συνολικό μοτίβο. Χρησιμοποίησε αυτές τις ερωτήσεις για να σε βοηθήσουν να αφαιρέσεις τις περιττές λεπτομέρειες:
+- Περιστρέφεται ολόκληρο ή μέρος του κεντρικού σχεδίου;
+- Προς ποια κατεύθυνση περιστρέφεται; Και κατά πόσο;
+- Υπάρχουν στρώσεις στο μοτίβο που επικαλύπτονται;
+- Πόσες φορές επαναλαμβάνεται το κεντρικό σχέδιο;
+- Πώς οργανώνεται η επανάληψη (δηλαδή σε πόσες σειρές/στήλες);
+- Αλλάζουν τα χρώματα;
+- Υπάρχουν λεπτομέρειες που δεν περιλαμβάνονται στο κεντρικό σχέδιο (για παράδειγμα το γλάσο στο κέικ Μαλαισίας με στρώσεις);
 
 --- /task ---
 
 --- task ---
 
-Now that you know more about how the motif turns into the whole pattern, you can program it using your answers to the questions above.
+Τώρα που ξέρεις περισσότερα για το πώς το κεντρικό σχέδιο μετατρέπεται σε ολόκληρο το μοτίβο, μπορείς να το προγραμματίσεις χρησιμοποιώντας τις απαντήσεις σου στις παραπάνω ερωτήσεις.
 
-**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Professional developers do this all the time!
+**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Οι επαγγελματίες προγραμματιστές/ριες το κάνουν αυτό συνεχώς!
 
-You have built up some really useful skills. Here is a reminder to help you make your repeated pattern:
+Έχεις αναπτύξει μερικές πραγματικά χρήσιμες δεξιότητες. Ακολουθεί μια υπενθύμιση που θα σε βοηθήσει να φτιάξεις το δικό σου επαναλαμβανόμενο μοτίβο:
 
 [[[processing-matrix]]]
 
@@ -51,14 +51,14 @@ You have built up some really useful skills. Here is a reminder to help you make
 --- collapse ---
 
 ---
-title: Random positions
+title: Τυχαίες θέσεις
 ---
 
-You can add `from random import randint` at the top of **main.py**, this allows you to use the `randint` function to generate random numbers.
+Μπορείς να προσθέσεις το `from random import randint` στο επάνω μέρος του **main.py**, αυτό σου επιτρέπει να χρησιμοποιήσεις τη συνάρτηση `randint` για να δημιουργήσεις τυχαίους αριθμούς.
 
-To use the `randint` function, you need to call it in your the code.
+Για να χρησιμοποιήσεις τη συνάρτηση `randint`, πρέπει να την καλέσεις στον κώδικά σου.
 
-One way to use random is to move your motif to a random position each time it is drawn:
+Ένας τρόπος για να χρησιμοποιήσεις το τυχαίο είναι να μετακινείς το κετρικό σου σχέδιο σε μια τυχαία θέση κάθε φορά που σχεδιάζεται:
 
 --- code ---
 ---
@@ -70,7 +70,7 @@ push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) 
 
 --- /code ---
 
-You could also use random to change the colours in your motif as it is redrawn.
+Θα μπορούσες επίσης να χρησιμοποιήσεις το random για να αλλάξεις τα χρώματα στο κεντρικό σου σχέδιο καθώς επανασχεδιάζεται.
 
 --- code ---
 ---
@@ -87,12 +87,12 @@ BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 --- collapse ---
 
 ---
-title: Changing the size of your motif
+title: Αλλαγή του μεγέθους του κεντρικού σου σχεδίου
 ---
 
-If you use a motif you have already drawn, it might not be the right size.
+Εάν χρησιμοποιείς ένα κεντρικό σχέδιο που έχεις ήδη σχεδιάσει, μπορεί να μην είναι στο σωστό μέγεθος.
 
-You can use `scale()` before calling the function that draws your motif to change its size. Using an input bigger than '1' will make the motif bigger, using an input less than '1' will make it smaller.
+Μπορείς να χρησιμοποιήσεις το `scale()` πριν καλέσεις τη συνάρτηση που σχεδιάζει το κεντρικό σου σχέδιο για να αλλάξεις το μέγεθός του. Χρησιμοποιώντας είσοδο μεγαλύτερη από «1» θα κάνει το κεντρικό σχέδιο μεγαλύτερο, ενώ μια τιμή εισόδου μικρότερη από «1» θα το κάνει μικρότερο.
 
 --- code ---
 ---
@@ -108,7 +108,7 @@ scale(0.5) #Half size
 
 --- /task ---
 
-Now you can animate your pattern to show how you made it. Often, patterns have powerful cultural significance in the way that they are made, or the process.
+Τώρα μπορείς να κινήσεις το μοτίβο σου για να δείξεις πώς το έφτιαξες. Συχνά, τα μοτίβα έχουν ισχυρή πολιτιστική σημασία στον τρόπο ή στη διαδικασία με την οποία κατασκευάζονται.
 
 --- task ---
 
@@ -125,74 +125,74 @@ Now you can animate your pattern to show how you made it. Often, patterns have p
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your pattern?
+**Δοκιμή:** Δείξε σε κάποιον άλλο το έργο σου και ζήτησε τα σχόλιά του. Θέλεις να κάνεις αλλαγές στο μοτίβο σου;
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Εντοπισμός σφαλμάτων:** Ενδέχεται να βρεις κάποια σφάλματα στο έργο σου που πρέπει να διορθώσεις. Εδώ είναι μερικά κοινά σφάλματα.
 
 --- collapse ---
 
 ---
-title: My motif does not appear to rotate
+title: Το κεντρικό μου σχέδιο δεν φαίνεται να περιστρέφεται
 ---
 
-Make sure you are using the `radian()` function to convert degrees to radians.
+Βεβαιώσου ότι χρησιμοποιείς τη συνάρτηση `radian()` για να μετατρέψεις τις μοίρες σε ακτίνια.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The rotation looks strange
+title: Η περιστροφή φαίνεται περίεργη
 ---
 
-Have you checked that you are using `translate()` from and to the right coordinates?
+Έχεις ελέγξει ότι χρησιμοποιείς `translate()` από και προς τις σωστές συντεταγμένες;
 
-Do you have more than one thing rotating? You may need to use `push_matrix()` and `pop_matrix()` so the screen rotates at different points at once.
+Έχεις περισσότερα από ένα πράγματα που περιστρέφονται; Ίσως χρειαστεί να χρησιμοποιήσεις `push_matrix()` και `pop_matrix()` ώστε η οθόνη να περιστρέφεται σε διαφορετικά σημεία ταυτόχρονα.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not animate
+title: Το μοτίβο μου δεν κινείται
 ---
 
-Check you have used `frame_count()` properly in a loop.
+Έλεγξε ότι έχεις χρησιμοποιήσει σωστά το `frame_count()` σε έναν βρόχο.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not look the way I want it to
+title: Το μοτίβο μου δεν φαίνεται όπως το θέλω
 ---
 
-Review the sections above on `rotate()` and `translate()`. Experiment until it looks like you want it to, and remember, mistakes are powerful!
+Έλεγξε τις παραπάνω ενότητες στο `rotate()` και `translate()`. Πειραματίσου μέχρι να φανεί όπως το θέλεις και να θυμάσαι ότι τα λάθη σου δίνουν δύναμη!
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I get an error
+title: Λαμβάνω ένα σφάλμα
 ---
 
-Check the syntax of your code. Are you missing any brackets `(` or `)` or a colon `:` after defining a function? Is something spelled incorrectly? Is your code indented correctly?
+Έλεγξε τη σύνταξη του κώδικά σου. Σου λείπουν αγκύλες `(` ή `)` άνω και κάτω τελεία `:` μετά τον ορισμό μιας συνάρτησης; Έχει γραφτεί κάτι λάθος; Ο κώδικάς σου έχει σωστές εσοχές;
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The animation is too fast/too slow
+title: Το κινούμενο σχέδιο είναι πολύ γρήγορο/πολύ αργό
 ---
 
-Change the `frame_rate()` at the beginning of your program to get it to the speed you like.
+Άλλαξε το `frame_rate()` στην αρχή του προγράμματός σου για να το φτάσεις στην ταχύτητα που θέλεις.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Πιθανόν να βρεις ένα σφάλμα που δεν αναφέρεται εδώ. Μπορείς να σκεφτείς πώς θα το λύσεις;
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+Μας αρέσει να μαθαίνουμε για τα σφάλματα που εντοπίζεις και πώς τα διορθώνεις. Χρησιμοποίησε την Αποστολή σχολίων στο κάτω μέρος αυτής της σελίδας και πες μας αν εντόπισες κάποιο διαφορετικό σφάλμα στο έργο σου.
 
 --- /task ---
 
