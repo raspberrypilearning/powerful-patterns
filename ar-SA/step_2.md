@@ -1,10 +1,10 @@
-## Your idea
+## فكرتك
 
-Use this step to plan your powerful pattern. You can plan by just thinking, tinkering, drawing or writing, or however you like!
+استخدم هذه الخطوة لتخطيط نمطك القوي. يمكنك التخطيط بمجرد التفكير أو الإصلاح أو الرسم أو الكتابة ، أو كيفما تشاء!
 
 ![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-1.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns often have <span style="color: #0faeb0">cultural or religious significance</span>. Certain geometric shapes and positions can have symbolic or sacred meanings. Whether the pattern is in architecture, fabric, art, cooking, or something else, the process of making the pattern can also be significant.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">غالبًا ما يكون للأنماط <span style="color: #0faeb0">دلالات ثقافية أو دينية</span>. Certain geometric shapes and positions can have symbolic or sacred meanings. Whether the pattern is in architecture, fabric, art, cooking, or something else, the process of making the pattern can also be significant.</p>
 
 ### Why are you making your powerful pattern ?
 
