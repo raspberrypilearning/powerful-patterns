@@ -1,28 +1,28 @@
 ---
-title: Powerful patterns
+title: أنماط قوية
 hero_image: images/banner.png
-description: Create a piece of inspirational art that can be scaled using repeated patterns
+description: قم بإنشاء قطعة فنية ملهمة يمكن تحجيمها باستخدام أنماط متكررة
 version: 4
 listed: true
 copyedit: true
 last_tested: "2021-10-06"
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Your idea
+    title: فكرتك
   - 
-    title: Build and test - Motif
+    title: بناء واختبار - الحافز
     completion: engaged
   - 
-    title: Expand and test - Pattern
+    title: قم بالتوسيع والاختبار - النمط
     completion: internal
   - 
-    title: Reflection
+    title: انعكاس
     completion: external
   - 
-    title: Upgrade your project
+    title: قم بترقية او تطوير مشروعك
   - 
-    title: Share
+    title: مشاركة
   - 
-    title: What next?
+    title: ما هي الخطوة التالية؟
