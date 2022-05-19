@@ -16,51 +16,51 @@ start_y
 
 ربع
 
-motif
+عنصر
 
-draw_motif
+رسم_عنصر
 
-orange
+البرتقالي
 
-brown
+بني
 
-green
+اخضر
 
-circle_size
+حجم الدائرة
 
-This art uses lots of circles!
+هذا الفن يستخدم الكثير من الدوائر!
 
 motif_size
 
-ORANGE
+البرتقالي
 
-PURPLE
+بنفسجي
 
-YELLOW
+الأصفر
 
-BLUE
+أزرق
 
-This is 🇵🇭 Yakan weaving
+هذا هو PH نسيج Yakan
 
-motif_width
+عرض_العنصر
 
-󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿This is McEwen Tartan
+󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿 هذا هو ترتان McEwen
 
-square_size
+حجم_مربع
 
-What size tartan would you like? 20, 50, or 100
+ما حجم الترتان الذي تريده؟ 20 أو 50 أو 100
 
-lines
+خطوط
 
-GREEN
+أخضر
 
-BASE_COLORS
+الألوان الأساسية
 
-RED
+أحمر
 
 CROSS_COLORS
 
-GREY
+رمادي
 
 y_coordinate
 
