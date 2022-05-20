@@ -1,7 +1,7 @@
-## What next?
+## ماذا بعد؟
 
-You have reached the end of the [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro) path!
+لقد وصلت إلى نهاية مسار [ مقدمة Python](https://projects.raspberrypi.org/en/pathways/python-intro)!
 
 [[[python-coolest-projects]]]
 
-You can explore our [other Python projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) and try them out.
+يمكنك استكشاف [ مشاريع Python الأخرى](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) وتجربتها.
