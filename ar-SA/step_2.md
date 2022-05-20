@@ -4,21 +4,21 @@
 
 ![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-1.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">غالبًا ما يكون للأنماط <span style="color: #0faeb0">دلالات ثقافية أو دينية</span>. Certain geometric shapes and positions can have symbolic or sacred meanings. Whether the pattern is in architecture, fabric, art, cooking, or something else, the process of making the pattern can also be significant.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">غالبًا ما يكون للأنماط <span style="color: #0faeb0">دلالات ثقافية أو دينية</span>. يمكن أن يكون لبعض الأشكال والمواقف الهندسية معاني رمزية أو مقدسة. سواء كان النمط في الهندسة المعمارية أو النسيج أو الفن أو الطهي أو أي شيء آخر، فإن عملية صنع النمط يمكن أن تكون مهمة أيضًا.</p>
 
-### Why are you making your powerful pattern ?
+### لماذا تصنع نمطك القوي؟
 
 --- task ---
 
-Think about the purpose of the pattern you are creating.
+فكر في الغرض من النمط الذي تقوم بإنشائه.
 
-It could be:
-- To express something significant from your or your family's culture(s)
-- To recreate a geometric pattern that means something to you
-- Something you create with a group of people to send a certain message (for example, a quilt)
-- To show something fascinating about about a hobby (for example, art, science, nature, music)
+من الممكن أن تكون:
+- للتعبير عن شيء مهم من ثقافتك أو ثقافات عائلتك
+- لإعادة إنشاء نمط هندسي يعني لك شيئًا
+- شيء تقوم بإنشائه مع مجموعة من الأشخاص لإرسال رسالة معينة (على سبيل المثال ، لحاف)
+- لإظهار شيء رائع حول هواية (على سبيل المثال ، الفن ، والعلوم ، والطبيعة ، والموسيقى)
 
-**Tip:** Patterns are everywhere! You might choose to get inspiration by going on a pattern hunt around your physical environment or online.
+**نصيحة:** الأنماط موجودة في كل مكان! You might choose to get inspiration by going on a pattern hunt around your physical environment or online.
 
 --- /task ---
 
