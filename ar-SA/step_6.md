@@ -1,10 +1,10 @@
-## Upgrade your project
+## قم بترقية او تطوير مشروعك
 
-If you have time you can upgrade your project. You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
+إذا كان لديك الوقت ، يمكنك تطوير مشروعك. قد يكون لديك أفكار لإضافة المزيد بالفعل أو قد ترغب في العودة إلى الخطوة الأولى وإلقاء نظرة على مشاريع أخرى مرة أخرى للحصول على مزيد من الإلهام.
 
 ![Finished examples with input and make a face elements](images/upgrade.gif)
 
-You could:
+يمكنك:
 - Use text and emoji to `print()` a description of your pattern
 - Adjust the size of your pattern based on user `input()`
 - Make a scaled motif using your [Make a face project](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
