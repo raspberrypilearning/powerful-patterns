@@ -2,7 +2,7 @@
 
 استخدم هذه الخطوة لتخطيط نمطك القوي. يمكنك التخطيط بمجرد التفكير أو الإصلاح أو الرسم أو الكتابة ، أو كيفما تشاء!
 
-![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-1.gif)
+![صورة متحركة لثلاثة أمثلة مختلفة باستخدام أشكال مختلفة لإنشاء الزخارف والرسوم المتحركة لتنمية النمط.](images/ideas-1.gif)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">غالبًا ما يكون للأنماط <span style="color: #0faeb0">دلالات ثقافية أو دينية</span>. يمكن أن يكون لبعض الأشكال والمواقف الهندسية معاني رمزية أو مقدسة. سواء كان النمط في الهندسة المعمارية أو النسيج أو الفن أو الطهي أو أي شيء آخر، فإن عملية صنع النمط يمكن أن تكون مهمة أيضًا.</p>
 
@@ -104,24 +104,23 @@ line_highlights: 9
 --- collapse ---
 
 ---
-title: I've updated my size and colour but the output area stays the same
+title: لقد قمت بتحديث الحجم واللون ولكن منطقة الإخراج تبقى كما هي
 ---
 
-After changing the code, you will need to `run` your project to see the changes in the output area.
+بعد تغيير الرمز ، ستحتاج إلى `تشغيل` مشروعك لمعرفة التغييرات في منطقة الإخراج.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I've tried different numbers, but the background colour doesn't change
+title: لقد جربت أرقامًا مختلفة ولكن لون الخلفية لا يتغير
 ---
 
-The maximum amount of red, green, or blue is `255`. Make sure all your `background` colour values are between `0` and `255`.
+الحد الأقصى لمقدار اللون الأحمر أو الأخضر أو الأزرق هو</code>255`. تأكد من أن جميع قيم لون الخلفية` الخاصة بك تتراوح بين `0` و</code>255.  </p>
 
---- /collapse ---
+<p spaces-before="0">--- /collapse ---</p>
 
---- /task ---
+<p spaces-before="0">--- /task ---</p>
 
-
---- save ---
+<p spaces-before="0">--- save ---</p>
