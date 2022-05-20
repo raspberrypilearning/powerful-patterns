@@ -22,43 +22,43 @@
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">As well as having symbolic meaning, patterns show the mathematics that is all around us. Mathematics helps us make sense of the world around us and we can find mathematical patterns in art, literature, and nature. </p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">بالإضافة إلى وجود معنى رمزي ، الأنماط تُظهر الرياضيات الموجودة في كل مكان حولنا. تساعدنا الرياضيات في فهم العالم من حولنا ويمكننا العثور على أنماط رياضية في الفن والأدب والطبيعة. </p>
 
-### Who is it for?
+### لمن هذا؟
 
 --- task ---
 
-Think about who you will make your pattern for (your **audience**).
+فكر حول لمن سوف تعد نمطك من اجل (**جمهورك**).
 
-What is the significance of your pattern? Will the colours, shapes, or way the pattern is repeated mean something special to you or your audience?
+ما هي أهمية النمط الخاص بك؟ هل الألوان أو الأشكال أو الطريقة التي يتكرر بها النمط تعني شيئًا خاصًا لك أو لجمهورك؟
 
-Sharing your pattern is a great way to express something about yourself or your culture.
+تعد مشاركة نمطك طريقة رائعة للتعبير عن شيء ما عنك أو عن ثقافتك.
 
-If you are are creating a pattern as a group, does your motif need to be a certain size or shape to fit with other parts of a bigger pattern?
+إذا كنت تقوم بإنشاء نمط كمجموعة ، فهل يحتاج التصميم الخاص بك إلى حجم أو شكل معين ليناسب الأجزاء الأخرى من نمط أكبر؟
 
 --- /task ---
 
-### Get started
+### البدء
 
 --- task ---
 
-Open the [Powerful patterns starter project](https://trinket.io/python/6c4a0c6406){:target=blank } and click on the remix button.
+افتح [مشروع بداية الأنماط القوية](https://trinket.io/python/6c4a0c6406){: target = blank } وانقر على زر ريمكس.
 
 --- /task ---
 
-### Setup your project
+### قم بإعداد مشروعك
 
 --- task ---
 
-Add code to `setup()` to get your project ready.
+أضف الكود إلى `setup ()` لتجهيز مشروعك.
 
 --- collapse ---
 
 ---
-title: Setting the screen size when your programme starts
+title: ضبط حجم الشاشة عند بدء البرنامج
 ---
 
-**Choose:** Add a size that suits the pattern you want to create. You can always change this later as your project evolves.
+**اختر:** أضف مقاسًا يناسب النمط الذي تريد إنشاءه. يمكنك دائمًا تغيير هذا لاحقًا مع تطور مشروعك.
 
 --- code ---
 ---
@@ -74,12 +74,12 @@ def setup(): size(400, 400) #Choose a size
 --- collapse ---
 
 ---
-title: Setting the background colour when your programme starts
+title: ضبط لون الشاشة عند بدء البرنامج
 ---
 
-Think about where you want to draw your background. You can:
-+ Add code to `setup()` so that the background is drawn once when you run your project
-+ Add code to `draw()` so that the background is redrawn each time the `draw()` function runs
+فكر في المكان الذي تريد رسم خلفيتك فيه. تستطيع:
++ أضف الكود إلى `setup ()` بحيث يتم رسم الخلفية مرة واحدة عند تشغيل مشروعك
++ أضف الكود إلى `draw ()` بحيث يتم إعادة رسم الخلفية في كل مرة يتم فيها تشغيل وظيفة `draw ()`
 
 --- code ---
 ---
@@ -99,7 +99,7 @@ line_highlights: 9
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**تصحيح:** قد تجد بعض الأخطاء في مشروعك والتي تحتاج إلى إصلاحها. فيما يلي بعض الأخطاء الشائعة.
 
 --- collapse ---
 
