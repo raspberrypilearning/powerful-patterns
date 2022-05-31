@@ -1,20 +1,24 @@
 ---
 title: Patrymau pwerus
 hero_image: images/banner.png
-description: Byddwch chi'n creu celf ysbrydoledig mae modd ei chwyddo gan ddefnyddio patrymau wedi'u hailadrodd
+description: Byddwch chi'n creu celf ysbrydoledig mae modd ei chwyddo gan ddefnyddio
+  patrymau wedi'u hailadrodd
 version: 4
 listed: true
 copyedit: true
-last_tested: "2021-10-06"
+last_tested: '2021-10-06'
 steps:
-  - title: Cyflwyniad
-  - title: Dy syniad
-  - title: Adeiladu a phrofi - Motiff
-    completion: engaged
-  - title: Ehangu a phrofi - Patrwm
-    completion: internal
-  - title: Myfyrio
-    completion: external
-  - title: Uwchraddio eich prosiect
-  - title: Rhannu
-  - title: Profwch eich hun
+- title: Cyflwyniad
+- title: Dy syniad
+- title: Adeiladu a phrofi - Motiff
+  completion:
+  - engaged
+- title: Ehangu a phrofi - Patrwm
+  completion:
+  - internal
+- title: Myfyrio
+  completion:
+  - external
+- title: Uwchraddio eich prosiect
+- title: Rhannu
+- title: Profwch eich hun
