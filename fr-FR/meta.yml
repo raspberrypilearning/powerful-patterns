@@ -5,7 +5,7 @@ description: Créer une œuvre d'art inspirante qui peut être mise à l'échell
 version: 4
 listed: true
 copyedit: true
-last_tested: "2021-10-06"
+last_tested: '2021-10-06'
 steps:
   - 
     title: Introduction
@@ -13,13 +13,16 @@ steps:
     title: Ton idée
   - 
     title: Construire et tester - Motif
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: Développer et tester - Motif
-    completion: internal
+    completion:
+      - internal
   - 
     title: Réflexion
-    completion: external
+    completion:
+      - external
   - 
     title: Améliorer ton projet
   - 
