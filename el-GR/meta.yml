@@ -5,7 +5,7 @@ description: Δημιούργησε ένα κομμάτι εμπνευσμένη
 version: 4
 listed: true
 copyedit: true
-last_tested: "2021-10-06"
+last_tested: '2021-10-06'
 steps:
   - 
     title: Εισαγωγή
@@ -13,13 +13,16 @@ steps:
     title: Η ιδέα σου
   - 
     title: Κατασκευή και δοκιμή - Μοτίβο
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: Ανάπτυξη και δοκιμή - Μοτίβο
-    completion: internal
+    completion:
+      - internal
   - 
     title: Αναστοχασμός
-    completion: external
+    completion:
+      - external
   - 
     title: Αναβάθμιση του έργου σου
   - 
