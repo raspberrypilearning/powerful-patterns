@@ -5,7 +5,7 @@ description: Create a piece of inspirational art that can be scaled using repeat
 version: 4
 listed: true
 copyedit: true
-last_tested: "2021-10-06"
+last_tested: '2021-10-06'
 steps:
   - 
     title: Introduction
@@ -13,13 +13,16 @@ steps:
     title: Your idea
   - 
     title: Build and test - Motif
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: Expand and test - Pattern
-    completion: internal
+    completion:
+      - internal
   - 
     title: Reflection
-    completion: external
+    completion:
+      - external
   - 
     title: Upgrade your project
   - 
