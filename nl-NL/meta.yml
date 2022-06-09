@@ -5,7 +5,7 @@ description: Maak een stukje inspirerende kunst die kan worden geschaald met beh
 version: 4
 listed: true
 copyedit: true
-last_tested: "2021-10-06"
+last_tested: '2021-10-06'
 steps:
   - 
     title: Inleiding
@@ -13,13 +13,16 @@ steps:
     title: Jouw idee
   - 
     title: Bouwen en testen - Patroon
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: Uitbreiden en testen - Patroon
-    completion: internal
+    completion:
+      - internal
   - 
     title: Reflectie
-    completion: external
+    completion:
+      - external
   - 
     title: Verbeter je project
   - 
