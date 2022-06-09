@@ -1,31 +1,31 @@
-## Build and test: Motif
+## بناء واختبار - الحافز
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it's time to make your motif, the first element of your pattern.
+حان الوقت الآن لجعل العنصر الخاص بك ، العنصر الأول في نمطك.
 </div>
 <div>
-![An example of a motif using various shapes to create the motif.](images/motif.png){:width="300px"}
+! [مثال لعنصر يستخدم أشكالًا مختلفة لإنشاء الشكل.] (images / motif.png) {: width = "300px"}
 </div>
 </div>
 
-The process of making your motif mirrors what computer scientists often do when they create a program or solution to a problem. This process is called **decomposition** and you will use decomposition to create your motif.
+تعكس عملية صنع التصميم الخاص بك ما يفعله علماء الكمبيوتر غالبًا عند إنشاء برنامج أو حل لمشكلة ما. تسمى هذه العملية **التحلل** وسوف تستخدم التحلل لإنشاء الشكل الخاص بك.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Decomposition</span> is breaking something down into parts that are smaller and easier to understand. This means that you can build a pattern one part at a time until it is complete.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">** التفكيك **</span> هو تقسيم المشروع إلى أجزاء أصغر وأسهل في الفهم. هذا يعني أنه يمكنك بناء مشروع. جزء واحد في كل مرة حتى تكمله.</p>
 
-Look at the pattern you want to recreate. How can you break it down into one single element (the motif) that repeats?
+انظر إلى النمط الذي تريد إعادة إنشائه. كيف يمكنك تقسيمه إلى عنصر واحد (العنصر) يتكرر؟
 
-In this example, an art deco wallpaper pattern has been decomposed into the basic collection of shapes (five circles overlayed) that makes the motif:
+في هذا المثال ، تم تحلل نمط ورق الحائط من فن الآرت ديكو إلى المجموعة الأساسية من الأشكال (خمس دوائر متراكبة) التي تجعل الشكل:
 
-![A single five circle motif next to an image of the art deco complete pattern with many copies of the motif.](images/motif-pattern.png)
+![شكل واحد من خمس دوائر بجوار صورة لنمط فن ديكو كاملة مع العديد من نسخ الشكل.](images/motif-pattern.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**نصيحة:** تذكر أن تختبر مشروعك في كل مرة تضيف شيئًا. من الأسهل بكثير العثور على الأخطاء وإصلاحها قبل إجراء المزيد من التغييرات.
 
 --- task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your motif:
+لقد اكتسبت بعض المهارات المفيدة حقًا. إليك تذكير لمساعدتك في صنع الشكل الخاص بك:
 
-### Shapes and images
+### الأشكال والصور
 
 [[[processing-python-ellipse]]]
 
@@ -35,7 +35,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-add-image]]]
 
-### Colours and effects
+### الألوان والتأثيرات
 
 [[[generic-theory-simple-colours]]]
 
@@ -45,7 +45,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-tint]]]
 
-### Position and transform
+### الموقع والتحويل
 
 [[[processing-matrix]]]
 
@@ -61,48 +61,48 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your motif?
+**اختبار:** اعرض مشروعك على شخص آخر واحصل على ملاحظاته. هل تريد إجراء أي تغييرات على الشكل الخاص بك؟
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**تصحيح:** قد تجد بعض الأخطاء في مشروعك والتي تحتاج إلى إصلاحها. فيما يلي بعض الأخطاء الشائعة.
 
 --- collapse ---
 ---
-title: Shapes are not aligned as I expected
+title: لم تتم محاذاة الأشكال كما توقعت
 ---
 
-If you want the shapes to be aligned, then take a closer look at your coordinate points. Experiment with the numbers until you have the layout you want.
+إذا كنت تريد محاذاة الأشكال ، فقم بإلقاء نظرة فاحصة على نقاط الإحداثيات الخاصة بك. جرب الأرقام حتى تحصل على التصميم الذي تريده.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I can't see some of the shapes in my motif
+title: لا أستطيع رؤية بعض الأشكال في تصميمي. 
 ---
 
-The order in which you draw things is very important.
+الترتيب الذي ترسم به الأشياء مهم جدًا.
 
-Computer graphics are made of layers. In your motif, each shape is a layer. Objects on higher layers sit in front of objects on lower layers. Imagine cutting all the shapes out of paper. Depending on how you arrange and overlap that paper, the final result could look very different.
+تتكون رسومات الكمبيوتر من طبقات. في التصميم الخاص بك ، كل شكل عبارة عن طبقة. تقع الكائنات الموجودة في الطبقات العليا أمام الكائنات الموجودة في الطبقات السفلية. تخيل قص كل الأشكال من الورق. اعتمادًا على كيفية ترتيب وتداخل تلك الورقة، قد تبدو النتيجة النهائية مختلفة تمامًا.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: My circles/squares are not equal
+title: دوائري / مربعاتي غير متساوية
 ---
 
-The third and fourth numbers in `ellipse` and `rect` are the width and height. If you make them the same, you will get a circle or square.
+العددان الثالث والرابع في `القطع الناقص` `والسحب` هما العرض والارتفاع. إذا قمت بعملهما نفس الشيء ، فستحصل على دائرة أو مربع.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+قد تجد خطأ غير مدرج هنا. هل يمكنك معرفة كيفية إصلاحه؟
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+نحن نحب أن نسمع عن أخطائك وكيفية إصلاحها. استخدم زر التعليقات في أسفل هذه الصفحة إذا وجدت خطأ مختلفًا في مشروعك.
 
 --- /task ---
 
