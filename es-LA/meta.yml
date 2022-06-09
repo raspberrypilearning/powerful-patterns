@@ -5,7 +5,7 @@ description: Crea una obra de arte inspiradora que se pueda escalar usando patro
 version: 4
 listed: true
 copyedit: true
-last_tested: "2021-10-06"
+last_tested: '2021-10-06'
 steps:
   - 
     title: Introducción
@@ -13,13 +13,16 @@ steps:
     title: Tu idea
   - 
     title: Construye y prueba - Motivo
-    completion: engaged
+    completion:
+      - engaged
   - 
     title: Expande y prueba - Patrón
-    completion: internal
+    completion:
+      - internal
   - 
     title: Reflexión
-    completion: external
+    completion:
+      - external
   - 
     title: Mejora tu proyecto
   - 
