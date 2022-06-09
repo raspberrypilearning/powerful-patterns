@@ -2,24 +2,24 @@
 
 إذا كان لديك الوقت ، يمكنك تطوير مشروعك. قد يكون لديك أفكار لإضافة المزيد بالفعل أو قد ترغب في العودة إلى الخطوة الأولى وإلقاء نظرة على مشاريع أخرى مرة أخرى للحصول على مزيد من الإلهام.
 
-![Finished examples with input and make a face elements](images/upgrade.gif)
+![الامثلة النهائية مع المدخلات وتكوين عناصر الوجه](images/upgrade.gif)
 
 يمكنك:
-- Use text and emoji to `print()` a description of your pattern
-- Adjust the size of your pattern based on user `input()`
-- Make a scaled motif using your [Make a face project](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
+- استخدم النص والرموز التعبيرية `print()` لوصف نمطك
+- اضبط حجم النمط الخاص بك بناءً على إدخال المستخدم `Input()`
+- اصنع شكلًا متدرجًا باستخدام [اصنع مشروعًا للوجه](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
 
-Each example project in the [Introduction](.) has a **See inside** link for you to open the project, look at the code, get ideas, and see how they work.
+يحتوي كل مشروع مثال في [مقدمة](.) على رابط **انظر داخل** لكي تفتح المشروع وتنظر إلى الرمز للحصول على أفكار ومعرفة كيفية عملها.
 
-This project uses text and emoji to ask the user to choose a size then uses their answer to size all the shapes:
+يستخدم هذا المشروع نص ورموز تعبيرية ليسأل المستخدم عن اختيار الحجم ثم استخدام اجابته لتحديد حجم كل الاشكال:
 
-**McEwen tartan**: [See inside](https://trinket.io/python/4706d1a81b){:target="_blank"}
+**مكيوين ترتان**[انظر في الداخل](https://trinket.io/python/4706d1a81b){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-Take a look at some Powerful patterns projects created by community members in the Raspberry Pi Foundation’s [Powerful patterns - Community library](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
+الق نظرة لبعض مشاريع الأنماط القوية التي تم انشائها من قبل اعضاء المجتمع في مؤسسة Raspberry Pi [مكتبة مجتمع الانماط القوية](https://wke.lt/w/s/yyNPQT){:target="_blank"}
 
---- save ---
+--- حفظ ---
 
