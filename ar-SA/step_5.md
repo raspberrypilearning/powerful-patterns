@@ -1,98 +1,98 @@
-## Reflection
+## انعكاس
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+هل قابلت **ملخص المشروع**؟ فكر حول مشروعك وانتقل خلال أسفل القائمة وتحقق من المشروع الذي يلائم مشروعك.
 
-Does your powerful pattern:
-
---- task ---
-
-Draw and position geometric shapes to create a base pattern (or motif) --- /task ---
+هل نمطك قوي:
 
 --- task ---
 
-Use loops to repeat the pattern to fill the screen
+قم برسم ووضع الأشكال الهندسية لأنشاء نمط أساسي(اوعنصر)--- /مهمة ---
+
+--- task ---
+
+استخدم الحلقات لتكرار النمط لملء الشاشة
 
 --- /task ---
 
 --- task ---
 
-Animate how the pattern is created
+قم بمحاكاة كيف تم صنع هذا النمط
 
---- /task ---
+---/task---
 
-Your powerful pattern could also:
-
---- task ---
-
-Use bold or significant colours
-
---- /task ---
+من الممكن ان يكون نمطك القوي أيضاً:
 
 --- task ---
 
-Draw inspiration from your culture or popular culture
+استخدم الالوان الواضحة والمهمة
 
 --- /task ---
 
 --- task ---
 
-Get user input to resize the pattern
+استلهم من ثقافتك او الثقافة العامة
 
 --- /task ---
 
 --- task ---
 
-Add text and emoji to print details about your art
+احصل على مدخلات المستخدم لأعادة تغيير حجم النمط
 
 --- /task ---
 
 --- task ---
 
-Translate the pattern to create variations
+قم بإضافة النص والرموز التعبيرية لطباعة التفاصيل بفنك الخاص
+
+--- /task ---
+
+--- task ---
+
+قم بترجمة النمط لانشاء الاختلافات
 
 --- /task ---
 
 
 --- task ---
 
-Share your work with others in an online gallery
+قم بمشاركة عملك مع الآخرين في معرض الانترنت
 
---- /task ---
+---/task---
 
 
-Reflecting about how you made your powerful pattern will help you in your future projects.
+سينعكس التفكير في كيفية انشاء نمطك القوي على مساعدتك في مشاريعك المستقبلية.
 
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
---- task ---
-
-How did you get your ideas?
-
---- /task ---
+قم بإجابة الاسئلة أدناه من خلال الرسم, الكتابة, الكتابة في مستند, التحدث مع أحد ما, او من خلال طريقتك الابداعية الخاصة التي تعطي الافضل.
 
 --- task ---
 
-What cool new thing(s) did you learn?
+كيف حصلت على أفكارك؟
 
---- /task ---
-
---- task ---
-
-Mistakes and failures are often the catalyst for discovery and success.
-
-Oprah Winfrey was fired from her first job, but she went on to become a famous and influential producer and philanthropist. She once said "turn your wounds into wisdom".
-
-What mistakes did you make and how did they help you?
-
---- /task ---
-
-### Now you are a digital artist and mathematician!
-
-Take a moment to celebrate what you have made.
+---/task---
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+ما الأشياء الجديدة الرائعة التي تعلمتها؟
 
---- /task ---
+---/task--
+
+--- task ---
+
+الاخطاء والفشل غالباً ما يكون حافز للاكتشاف والنجاح.
+
+تم طرد اوبرا وينفري من أول وظيفة لها. لكها استمرت لتصبح منتج وفاعل خير مشهور ومؤثر. قالت ذات مرة "تعلم من جراحك ".
+
+ما الاخطاء التي ارتكبتها وكيف ساعدتك؟
+
+---/task---
+
+### انت الان فنان رقمي وعالم في الرياضيات!
+
+خذ لحظة للاحتفال بما صنعته.
+
+--- task ---
+
+أين ستأخذ طاقتك الجديدة؟ ماذا ستفعل بعد ذلك؟
+
+---/task---
 
