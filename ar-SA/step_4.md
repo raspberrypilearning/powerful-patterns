@@ -1,41 +1,41 @@
-## Expand and test: Pattern
+## قم بتوسيع واختبار: النمط
 
-Now it's time to make your full pattern!
+حان الوقت الآن لعمل نمطك الكامل!
 
-![Examples of finished projects that have the motif used repeatedly to form a full pattern.](images/second.gif)
+![أمثلة على المشاريع المنجزة التي تم استخدامها بشكل متكرر لتشكيل نمط كامل.](images/second.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Abstraction</span> is problem solving by reducing unnecessary detail. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">التجريد</span> هو حل المشكلات عن طريق تقليل التفاصيل غير الضرورية. 
 
 </p>
 
 --- task ---
 
-Look at this Malaysian layer cake (kek lapis Sarawak). How does the motif change to make the overall pattern?
+انظر إلى هذه الكعكة الماليزية (كيك لابيس ساراواك). كيف يتغير الحافز لجعل النمط العام؟
 
-![The motif from the kek lapis Sarawak project next to the complete pattern.](images/kek-motif.png)
+![الشكل من مشروع كيك اللازورد ساراواك بجانب النمط الكامل.](images/kek-motif.png)
 
-Look at this art deco wallpaper. How does the motif change to make the overall pattern?
+انظر إلى خلفية فن الآرت ديكو. كيف يتغير الحافز لجعل النمط العام؟
 
-![The motif from the art deco wallpaper project next to the complete pattern.](images/spirals-motif.png)
+![الشكل من مشروع كيك اللازورد ساراواك بجانب النمط الكامل.](images/spirals-motif.png)
 
-Think about the pattern you are making. How does your motif change to make the overall pattern. Use these questions to help you abstract:
-- Does the whole, or part, of the motif rotate?
-- What direction does it rotate? And by how much?
-- Are there layers to the pattern that overlap?
-- How many times does the motif repeat itself?
-- How is the repetition organised (i.e. how many rows/columns)?
-- Do the colours change?
-- Are there details that are not included in the motif (i.e. the icing in the Malaysian layer cake)?
+فكر في النمط الذي تصنعه. كيف يتغير الحافز لجعل النمط العام. استخدم هذه الأسئلة لمساعدتك على الملخص:
+- هل يدور كل الرسم أو جزء منه؟
+- في أي اتجاه تدور؟ وبأي ثمن؟
+- هل هناك طبقات للنمط متداخلة؟
+- كم مرة يعيد الشكل نفسه؟
+- كيف يتم تنظيم التكرار (أي كم عدد الصفوف / الأعمدة)؟
+- هل تتغير الألوان؟
+- هل توجد تفاصيل غير متضمنة في الشكل (أي ، الجليد في طبقة الكيك الماليزية)؟
 
 --- /task ---
 
 --- task ---
 
-Now that you know more about how the motif turns into the whole pattern, you can program it using your answers to the questions above.
+الآن بعد أن عرفت المزيد حول كيفية تحول العنصر إلى النمط الكامل ، يمكنك برمجته باستخدام إجاباتك على الأسئلة أعلاه.
 
-**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Professional developers do this all the time!
+**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. المطورين المحترفين يفعلون ذلك طوال الوقت!
 
-You have built up some really useful skills. Here is a reminder to help you make your repeated pattern:
+لقد اكتسبت بعض المهارات المفيدة حقًا في. إليك تذكير لمساعدتك في صنع نمطك المتكرر:
 
 [[[processing-matrix]]]
 
@@ -51,14 +51,14 @@ You have built up some really useful skills. Here is a reminder to help you make
 --- collapse ---
 
 ---
-title: Random positions
+title: مواقع عشوائية
 ---
 
-You can add `from random import randint` at the top of **main.py**, this allows you to use the `randint` function to generate random numbers.
+يمكنك إضافة `من Randint الاستيراد العشوائي` في الجزء العلوي من **main.py**، وهذا يسمح لك باستخدام وظيفة `randint` لتوليد أرقام عشوائية.
 
-To use the `randint` function, you need to call it in your the code.
+لاستخدام وظيفة `randint` ، تحتاج إلى استدعائها في الكود الخاص بك.
 
-One way to use random is to move your motif to a random position each time it is drawn:
+احدى استخدامات الطرق العشوائية هو تحريك العنصر الخاص بك إلى موضع عشوائي في كل مرة يتم رسمه فيها:
 
 --- code ---
 ---
@@ -70,7 +70,7 @@ push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) 
 
 --- /code ---
 
-You could also use random to change the colours in your motif as it is redrawn.
+يمكنك أيضًا استخدام عشوائي لتغيير الألوان في الشكل الخاص بك أثناء إعادة رسمه.
 
 --- code ---
 ---
@@ -87,12 +87,12 @@ BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 --- collapse ---
 
 ---
-title: Changing the size of your motif
+title: تغيير حجم التصميم الخاص بك
 ---
 
-If you use a motif you have already drawn, it might not be the right size.
+إذا كنت تستخدم تصميم رسمته بالفعل ، فقد لا تكون بالحجم الصحيح.
 
-You can use `scale()` before calling the function that draws your motif to change its size. Using an input bigger than '1' will make the motif bigger, using an input less than '1' will make it smaller.
+يمكنك استخدام Scale `()` قبل استدعاء الدالة التي ترسم الشكل الخاص بك لتغيير حجمها. استخدام مُدخل أكبر من "1" سيجعل الشكل أكبر ، واستخدام مُدخل أقل من "1" سيجعله أصغر.
 
 --- code ---
 ---
@@ -108,7 +108,7 @@ scale(0.5) #Half size
 
 --- /task ---
 
-Now you can animate your pattern to show how you made it. Often, patterns have powerful cultural significance in the way that they are made, or the process.
+الآن يمكنك تحريك النمط الخاص بك لإظهار كيف صنعته. غالبًا ما يكون للأنماط أهمية ثقافية قوية في طريقة صنعها أو طريقة عملها.
 
 --- task ---
 
@@ -125,74 +125,74 @@ Now you can animate your pattern to show how you made it. Often, patterns have p
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your pattern?
+**اختبار:** اعرض مشروعك على شخص آخر واطلب منه إبداء الرأي. هل تريد إجراء أي تغييرات على نمطك؟
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**تصحيح:** قد تجد بعض الأخطاء في مشروعك والتي تحتاج إلى إصلاحها. فيما يلي بعض الأخطاء الشائعة.
 
 --- collapse ---
 
 ---
-title: My motif does not appear to rotate
+title: لا يبدو أن الشكل الخاص بي يدور
 ---
 
-Make sure you are using the `radian()` function to convert degrees to radians.
+تأكد من أنك تستخدم دالة `radian ()` لتحويل الدرجات إلى راديان.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The rotation looks strange
+title: الاستدارة تبدو غريبة
 ---
 
-Have you checked that you are using `translate()` from and to the right coordinates?
+هل تحققت من أنك تستخدم `translate ()` من وإلى الإحداثيات الصحيحة؟
 
-Do you have more than one thing rotating? You may need to use `push_matrix()` and `pop_matrix()` so the screen rotates at different points at once.
+هل لديك أكثر من شيء يدور؟ قد تحتاج إلى استخدام `push_matrix ()` و `pop_matrix ()` بحيث تدور الشاشة في نقاط مختلفة في وقت واحد.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not animate
+title: نمطي لا يتحرك
 ---
 
-Check you have used `frame_count()` properly in a loop.
+تأكد من أنك استخدمت `frame_count ()` بشكل صحيح في حلقة.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not look the way I want it to
+title: نمطي لا يبدو بالشكل الذي أريده
 ---
 
-Review the sections above on `rotate()` and `translate()`. Experiment until it looks like you want it to, and remember, mistakes are powerful!
+راجع الأقسام أعلاه في `rotate ()` و `translate ()`. جرب حتى يبدو أنك تريد ذلك ، وتذكر أن الأخطاء قوية!
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I get an error
+title: لدي خطأ
 ---
 
-Check the syntax of your code. Are you missing any brackets `(` or `)` or a colon `:` after defining a function? Is something spelled incorrectly? Is your code indented correctly?
+تحقق من صياغة التعليمات البرمجية الخاصة بك. هل تفتقد أي أقواس `(` أو `)` أو نقطتان `:` بعد تحديد دالة؟ هل شيء مكتوب بشكل غير صحيح؟ هل مسافة بادئة التعليمات البرمجية الخاصة بك بشكل صحيح؟
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The animation is too fast/too slow
+title: الحركة سريعة جدًا / بطيئة جدًا
 ---
 
-Change the `frame_rate()` at the beginning of your program to get it to the speed you like.
+قم بتغيير   `frame_rate()` البرنامج للوصول إلى السرعة التي تريدها.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+قد تجد خطأ غير مدرج هنا. هل يمكنك معرفة كيفية إصلاحه؟
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+نحن نحب أن نسمع عن أخطائك وكيفية إصلاحها. استخدم إرسال ملاحظات في أسفل هذه الصفحة وأخبرنا إذا وجدت خطأً مختلفًا في مشروعك.
 
 --- /task ---
 
