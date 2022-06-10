@@ -59,7 +59,7 @@ Exécute ces exemples de projets pour obtenir des idées pour ton modèle.
 
 Comment les motifs ont-ils été créés à partir de cercles, d'ellipses, de carrés, de rectangles et de triangles ? :
 
-**Spirals**: [See inside](https://trinket.io/python/a682f7a884){:target="_blank"}
+**Spirales** : [Voir à l'intérieur](https://trinket.io/python/a682f7a884){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
