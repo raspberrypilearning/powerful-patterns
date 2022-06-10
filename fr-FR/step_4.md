@@ -1,4 +1,4 @@
-## Développer et tester : Motif
+## Développer et tester - Motif
 
 Il est maintenant temps de créer ton motif complet !
 

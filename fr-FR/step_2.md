@@ -83,7 +83,7 @@ title: Définir la couleur d'arrière-plan au démarrage de ton programme
 
 Pense à l'endroit où tu veux dessiner ton arrière-plan. Tu peux :
 + Ajouter du code à `setup()` pour que l'arrière-plan soit dessiné une fois lorsque tu exécutes ton projet
-+ Ajouter du code à `dessin()` pour que l'arrière-plan soit redessiné à chaque exécution de la fonction `dessin()`
++ Ajouter du code à `draw()` pour que l'arrière-plan soit redessiné à chaque exécution de la fonction `draw()`
 
 --- code ---
 ---
