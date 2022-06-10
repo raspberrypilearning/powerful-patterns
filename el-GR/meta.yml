@@ -1,0 +1,23 @@
+---
+title: Ισχυρά μοτίβα
+hero_image: images/banner.png
+description: Δημιούργησε ένα κομμάτι εμπνευσμένης τέχνης που μπορεί να κλιμακωθεί χρησιμοποιώντας επαναλαμβανόμενα μοτίβα
+version: 4
+listed: true
+copyedit: true
+last_tested: '2021-10-06'
+steps:
+  - title: Εισαγωγή
+  - title: Η ιδέα σου
+  - title: Κατασκευή και δοκιμή - Μοτίβο
+    completion:
+      - engaged
+  - title: Ανάπτυξη και δοκιμή - Μοτίβο
+    completion:
+      - internal
+  - title: Αναστοχασμός
+    completion:
+      - external
+  - title: Αναβάθμιση του έργου σου
+  - title: Κοινοποίηση
+  - title: Τι υπάρχει στη συνέχεια;
