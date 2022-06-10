@@ -1,0 +1,151 @@
+Choisis une taille
+
+Essaie différents nombres pour changer la couleur
+
+Commencer la transformation
+
+Réinitialiser la transformation
+
+Moitié de la taille
+
+Mettre le code à exécuter ci-dessous
+
+Mettre le code pour exécuter chaque image ici
+
+Garde ceci pour exécuter ton code
+
+Choisis des couleurs magnifiques pour les couches de gâteau
+
+La confiture colle les couches ensemble
+
+Change le nombre pour changer la quantité de confiture
+
+Neuf couches de gâteau, en répétant les 3 couleurs 3 fois
+
+hauteur de 3 blocs de gâteau
+
+Le gâteau est enveloppé dans une couche extérieure
+
+Ne couvre pas les quadrants du gâteau !
+
+rendre le gâteau carré
+
+arrière-plan transparent
+
+5 images par seconde
+
+Définis un quart de tour pour que notre code soit facile à lire
+
+commencer à partir du centre
+
+Faire le quart inférieur droit du gâteau puis faire pivoter pour les autres quarts
+
+dessiner jusqu'à 4 quadrants
+
+ajouter la couche externe
+
+retour au coin supérieur
+
+couche externe
+
+Définitions pour la compatibilité avec la bibliothèque de traitement p5py 
+
+Forme
+
+Polices
+
+Texte
+
+Couleur
+
+Images
+
+Environnement
+
+Transformation
+
+Clavier
+
+une courte rangée de carrés
+
+animation rapide
+
+bordure épaisse
+
+commencer à partir du centre de l'écran
+
+anime le motif
+
+tourne le motif
+
+déplace le motif
+
+Yeux
+
+Bouche
+
+décalé de la largeur d'un quart de taille du visage
+
+chemins quart de taille
+
+Couleurs du motif
+
+bleu
+
+doré
+
+commencer en haut à gauche de l'écran
+
+créer 16 lignes puis s'arrêter
+
+anime 1 ligne à la fois
+
+créer une ligne de motifs
+
+descendre pour commencer la ligne suivante
+
+Couleurs du fil
+
+Carrés
+
+ligne de formes
+
+enregistrer les paramètres
+
+tourner la forme de 45 degrés
+
+revenir aux paramètres enregistrés
+
+déplacer horizontalement
+
+rose
+
+commencer par des demi-motifs
+
+lignes maximales
+
+pour décaler le motif sur la ligne suivante
+
+Utiliser dans la largeur/longueur de la forme pour animer au fil du temps
+
+Couleurs du tartan McEwen
+
+Couleurs des carrés de base
+
+Couleurs des croix
+
+Couleur de couture et de chevauchement
+
+Dessine tous les carrés de base alternés VERT et BLEU
+
+VERT et BLEU
+
+Croix
+
+Dessine des croix alternées JAUNE et ROUGE
+
+JAUNE et ROUGE
+
+Dessine les croix de couture
+
+Dessine les lignes grises où le matériau se chevauche
