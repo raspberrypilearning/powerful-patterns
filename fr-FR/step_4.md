@@ -33,7 +33,7 @@ Pense au modèle que tu crées. Comment ton motif change-t-il pour créer le mot
 
 Maintenant que tu en sais plus sur la façon dont le motif se transforme en motif complet, tu peux le programmer en utilisant tes réponses aux questions ci-dessus.
 
-**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Les développeurs professionnels le font tout le temps !
+**Astuce :** n'oublie pas que tu peux « voir à l'intérieur » n'importe lequel des exemples de l'introduction et « copier » « coller » le code dans ton projet. Les développeurs professionnels le font tout le temps !
 
 Tu as acquis des compétences vraiment utiles. Voici un rappel pour t'aider à réaliser ton motif répété :
 
