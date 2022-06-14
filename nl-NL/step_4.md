@@ -33,7 +33,7 @@ Denk na over het patroon dat je aan het maken bent. Hoe verandert het motief om 
 
 Nu je meer weet over hoe het motief het hele patroon gaat vormen, kun je het programmeren met je antwoorden op de bovenstaande vragen.
 
-**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Professionele ontwikkelaars doen dit altijd zo!
+**Tip:**Vergeet niet dat je de voorbeelden in de inleiding "van binnen" kan bekijken en de code kan 'kopiëren" en "plakken" in jouw project. Professionele ontwikkelaars doen dit altijd zo!
 
 Je hebt een aantal echt nuttige vaardigheden opgebouwd. Hier is een geheugensteuntje om je te helpen bij het maken van je herhaalde patroon:
 
