@@ -59,7 +59,7 @@ Verken deze voorbeeldprojecten om ideeën voor je patroon op te doen.
 
 Hoe zijn de motieven opgebouwd uit cirkels, ellipsen, vierkanten, rechthoeken en driehoeken?:
 
-**Spirals**: [See inside](https://trinket.io/python/a682f7a884){:target="_blank"}
+**Spiralen**: [Bekijk van binnen](https://trinket.io/python/a682f7a884){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
