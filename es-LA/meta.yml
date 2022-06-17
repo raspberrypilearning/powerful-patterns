@@ -1,0 +1,23 @@
+---
+title: Patrones poderosos
+hero_image: images/banner.png
+description: Crea una obra de arte inspiradora que se pueda escalar usando patrones repetidos
+version: 4
+listed: true
+copyedit: true
+last_tested: '2021-10-06'
+steps:
+  - title: Introducción
+  - title: Tu idea
+  - title: Construye y prueba - Motivo
+    completion:
+      - engaged
+  - title: Expande y prueba - Patrón
+    completion:
+      - internal
+  - title: Reflexión
+    completion:
+      - external
+  - title: Mejora tu proyecto
+  - title: Comparte
+  - title: '¿Qué sigue?'

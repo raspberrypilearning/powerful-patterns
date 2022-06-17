@@ -1,0 +1,151 @@
+Elige un tamaño (size)
+
+Prueba diferentes números para cambiar el color
+
+Inicia la transformación
+
+Restablece la transformación
+
+Mitad del tamaño
+
+Pon el código a ejecutar una vez aquí
+
+Pon el código a ejecutar cada cuadro (fotograma o frame) aquí
+
+Mantén esto para ejecutar tu código
+
+Elige algunos colores preciosos para las capas del pastel
+
+Mermelada pega todas las capas juntas
+
+Cambia este número para cambiar la cantidad de mermelada
+
+Nueve capas de pastel, repitiendo los 3 colores 3 veces
+
+altura de 3 bloques de pastel
+
+El pastel está decorado con una capa exterior
+
+¡No cubras los cuadrantes del pastel!
+
+para hacer el pastel cuadrado
+
+fondo transparente
+
+5 cuadros (fotogramas) por segundo
+
+Define un cuarto de vuelta para que nuestro código sea fácil de leer
+
+para empezar desde el centro
+
+Haz el cuarto inferior derecho del pastel y luego gíralo para hacer los otros cuartos
+
+dibuja hasta 4 cuadrantes
+
+añade la capa exterior
+
+regresa a la esquina superior
+
+capa exterior
+
+Definiciones de compatibilidad con la biblioteca de procesamiento p5py 
+
+Formas
+
+Tipos de letra
+
+Texto
+
+Color
+
+Imágenes
+
+Entorno informático
+
+Transformar
+
+Teclado
+
+una fila corta de cuadrados
+
+animación rápida
+
+borde grueso
+
+iniciar desde el centro de la pantalla
+
+para animar el patrón
+
+gira el motivo
+
+mueve el motivo
+
+Ojos
+
+Boca
+
+compensado por el ancho de la cara de un cuarto de tamaño
+
+caminos de un cuarto de tamaño
+
+Colores del patrón
+
+azul
+
+dorado
+
+iniciar desde la parte superior izquierda de la pantalla
+
+crea 16 filas y luego se detiene
+
+anima 1 fila a la vez
+
+crea una fila de motivos
+
+se mueve hacia abajo para comenzar con la siguiente fila
+
+Colores de las fibras
+
+Cuadrículas
+
+fila de formas
+
+guardar configuración
+
+girar la forma 45 grados
+
+regresar a la configuración guardada
+
+mover horizontalmente
+
+rosado
+
+para iniciar con mitad de motivos
+
+máximo de filas
+
+para compensar el patrón en la siguiente fila
+
+Úsalo en ancho/largo de forma para animar a lo largo del tiempo
+
+Colores del tartán McEwen
+
+Colores base de los cuadrados
+
+Cruzar colores
+
+Color de costura y superposición
+
+Dibujar todos los cuadrantes base que alternan entre VERDE y AZUL
+
+VERDE y AZUL
+
+Cruces
+
+Dibujar las cruces que alternan entre AMARILLA y ROJA
+
+AMARILLO y ROJO
+
+Dibujar las cruces de costura
+
+Dibujar las líneas grises donde se superpone el material
