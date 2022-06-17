@@ -59,7 +59,7 @@
 
 Πώς έχουν κατασκευαστεί τα κεντρικά σχέδια από κύκλους, ελλείψεις, τετράγωνα, ορθογώνια και τρίγωνα;:
 
-**Spirals**: [Δες μέσα](https://trinket.io/python/30dae4d92e){:target="_blank"}
+**Σπιράλ**: [Δες μέσα](https://trinket.io/python/30dae4d92e){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/30dae4d92e?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
