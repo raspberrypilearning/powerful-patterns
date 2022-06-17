@@ -5,7 +5,9 @@
 Ha llegado el momento de crear tu motivo, el primer elemento de tu patrón.
 </div>
 <div>
+
 ![Un ejemplo de un motivo que usa varias formas para crearse.](images/motif.png){:width="300px"}
+
 </div>
 </div>
 

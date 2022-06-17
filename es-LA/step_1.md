@@ -91,7 +91,16 @@ Ejecuta estos proyectos de ejemplo para inspirarte y crear tu patrón.
 
 Mira el ejemplo a continuación y piensa en el motivo repetido. ¿Cómo se crean los patrones a partir de círculos, elipses, cuadrados, rectángulos y triángulos?
 
-![Proyecto Kek lapis Sarawak completo.](images/kek.png) Puedes encontrar el proyecto Kek lapis Sarawak aquí https://trinket.io/python/99aa86e75f ![Complete Spirals project.](images/spirals.png) Puedes encontrar el proyecto Espirales aquí https://trinket.io/python/f734919ae9 ![Complete Random faces project.](images/random_faces.png) Puedes encontrar el proyecto Caras al azar aquí https://trinket.io/python/7238fde1bc ![Complete Art deco project.](images/art_deco.png) Puedes encontrar el proyecto Art déco aquí https://trinket.io/python/d9b5060084 ![Complete Yakan weaving project.](images/yakan.png) Puedes encontrar el proyecto Tejido Yakan aquí https:// baratija.io/python/16dcdb7e5d
+![Proyecto Kek lapis Sarawak completo.](images/kek.png) 
+Puedes encontrar el proyecto Kek lapis Sarawak aquí https://trinket.io/python/99aa86e75f 
+![Complete Spirals project.](images/spirals.png) 
+Puedes encontrar el proyecto Espirales aquí https://trinket.io/python/f734919ae9 
+![Complete Random faces project.](images/random_faces.png) 
+Puedes encontrar el proyecto Caras al azar aquí https://trinket.io/python/7238fde1bc 
+![Complete Art deco project.](images/art_deco.png) 
+Puedes encontrar el proyecto Art déco aquí https://trinket.io/python/d9b5060084 
+![Complete Yakan weaving project.](images/yakan.png) 
+Puedes encontrar el proyecto Tejido Yakan aquí https://trinket.io/python/16dcdb7e5d
 
 --- /print-only ---
 

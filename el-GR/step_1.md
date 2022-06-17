@@ -91,7 +91,16 @@
 
 Κοίταξε αυτά το παραδείγματα και σκέψου το επαναλαμβανόμενο κεντρικό σχέδιο. Πώς έχουν κατασκευαστεί τα μοτίβα από κύκλους, ελλείψεις, τετράγωνα, ορθογώνια και τρίγωνα;
 
-![Ολοκληρωμένο το έργο Kek lapis Sarawak.](images/kek.png) Μπορείς να βρεις το έργο Kek lapis Sarawak εδώ https://trinket.io/python/9f238faadb ![Complete Spirals project.](images/spirals.png) Μπορείς να βρεις το έργο Σπείρες εδώ https://trinket.io/python/30dae4d92e ![Complete Random faces project.](images/random_faces.png) Μπορείς να βρεις το έργο Τυχαία πρόσωπα εδώ https://trinket.io/python/aef4918b70 ![Complete Art deco project.](images/art_deco.png) Μπορείς να βρεις το έργο Αρ ντεκό εδώ https://trinket.io/python/b9c10de559 ![Complete Yakan weaving project.](images/yakan.png) Μπορείς να βρειςτο έργο Ύφανση Yakan εδώ https:// trinket.io/python/f299d86406
+![Ολοκληρωμένο το έργο Kek lapis Sarawak.](images/kek.png) 
+Μπορείς να βρεις το έργο Kek lapis Sarawak εδώ https://trinket.io/python/9f238faadb 
+![Complete Spirals project.](images/spirals.png) 
+Μπορείς να βρεις το έργο Σπείρες εδώ https://trinket.io/python/30dae4d92e 
+![Complete Random faces project.](images/random_faces.png) 
+Μπορείς να βρεις το έργο Τυχαία πρόσωπα εδώ https://trinket.io/python/aef4918b70 
+![Complete Art deco project.](images/art_deco.png) 
+Μπορείς να βρεις το έργο Αρ ντεκό εδώ https://trinket.io/python/b9c10de559 
+![Complete Yakan weaving project.](images/yakan.png) 
+Μπορείς να βρειςτο έργο Ύφανση Yakan εδώ https://trinket.io/python/f299d86406
 
 --- /print-only ---
 

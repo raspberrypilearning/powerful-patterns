@@ -111,7 +111,7 @@ line_highlights: 9
 --- collapse ---
 
 ---
-title: he cambiado el tamaño y el color, pero el resultado permanece igual
+title: He cambiado el tamaño y el color, pero el resultado permanece igual
 ---
 
 Después de cambiar el código, deberás `run` (ejecutar) tu proyecto para poder visualizar los cambios.

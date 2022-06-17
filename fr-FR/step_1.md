@@ -91,7 +91,16 @@ Comment les motifs ont-ils été créés à partir de cercles, d'ellipses, de ca
 
 Regarde ces exemples et pense au motif répété. Comment les motifs ont-ils été créés à partir de cercles, d'ellipses, de carrés, de rectangles et de triangles ?
 
-![Terminer le projet Kek lapis Sarawak.](images/kek.png) Tu peux trouver le projet Kek lapis Sarawak ici https://trinket.io/python/17f6515762 ![Complete Spirals project.](images/spirals.png) Tu peux trouver le projet Spirales ici https://trinket.io/python/655caf2355 ![Complete Random faces project.](images/random_faces.png) Tu peux trouver le projet Visages aléatoires ici https://trinket.io/python/808308447c ![Complete Art deco project.](images/art_deco.png) Tu peux trouver le projet Art déco ici https://trinket.io/python/e0a1734198 ![Complete Yakan weaving project.](images/yakan.png) Tu peux trouver le projet de Tissage Yakan ici https:// bibelot.io/python/c39f92bfdc
+![Terminer le projet Kek lapis Sarawak.](images/kek.png) 
+Tu peux trouver le projet Kek lapis Sarawak ici https://trinket.io/python/17f6515762 
+![Complete Spirals project.](images/spirals.png) 
+Tu peux trouver le projet Spirales ici https://trinket.io/python/655caf2355 
+![Complete Random faces project.](images/random_faces.png) 
+Tu peux trouver le projet Visages aléatoires ici https://trinket.io/python/808308447c 
+![Complete Art deco project.](images/art_deco.png) 
+Tu peux trouver le projet Art déco ici https://trinket.io/python/e0a1734198 
+![Complete Yakan weaving project.](images/yakan.png) 
+Tu peux trouver le projet de Tissage Yakan ici https://trinket.io/python/c39f92bfdc
 
 --- /print-only ---
 
