@@ -1,4 +1,4 @@
-## Uitbreiden en testen: Patroon
+## Uitbreiden en testen - Patroon
 
 Nu is het tijd om je volledige patroon te maken!
 
