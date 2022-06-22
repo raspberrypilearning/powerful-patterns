@@ -1,0 +1,23 @@
+---
+title: Krachtige patronen
+hero_image: images/banner.png
+description: Maak een stukje inspirerende kunst die kan worden geschaald met behulp van herhaalde patronen
+version: 4
+listed: true
+copyedit: true
+last_tested: '2021-10-06'
+steps:
+  - title: Inleiding
+  - title: Jouw idee
+  - title: Bouwen en testen - Patroon
+    completion:
+      - engaged
+  - title: Uitbreiden en testen - Patroon
+    completion:
+      - internal
+  - title: Reflectie
+    completion:
+      - external
+  - title: Verbeter je project
+  - title: Delen
+  - title: Wat kun je verder nog doen?
