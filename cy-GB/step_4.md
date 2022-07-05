@@ -1,4 +1,4 @@
-## Ehangu a phrofi: Patrwm
+## Ehangu a phrofi - Patrwm
 
 Amser creu eich patrwm llawn!
 
