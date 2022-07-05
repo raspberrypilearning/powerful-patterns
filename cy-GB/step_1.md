@@ -59,7 +59,7 @@ Rhedwch y prosiectau enghreifftiol hyn i gael syniadau ar gyfer eich patrwm.
 
 Sut mae'r motiffau wedi cael eu gwneud o gylchoedd, elipsau, sgwariau, petryalau a thrionglau?
 
-**Spirals**: [See inside](https://trinket.io/python/38f1a052a8){:target="_blank"}
+**Spirals**: [Gweld tu mewn](https://trinket.io/python/38f1a052a8){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/38f1a052a8?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
