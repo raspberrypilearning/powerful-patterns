@@ -91,11 +91,16 @@
 
 انظر إلى هذه الأمثلة وفكر في الفكرة المتكررة. كيف تم صنع الأنماط من الدوائر والأشكال البيضاوية والمربعات والمستطيلات والمثلثات؟
 
-![استكمال مشروع كيك اللازورد ساراواك.](images/kek.png) يمكنك العثور على مشروع Kek lapis Sarawak هنا https://trinket.io/python/a831abfa03 
-![Complete Spirals project.](images/spirals.png) يمكنك العثور على مشروع Spirals هنا https://trinket.io/python/d14eed3698 
-![Complete Random faces project.](images/random_faces.png) يمكنك العثور على الوجوه العشوائية المشروع هنا https://trinket.io/python/9722201267 
-![Complete Art deco project.](images/art_deco.png) يمكنك العثور على مشروع Art deco هنا https://trinket.io/python/6076e2ced4 
-![Complete Yakan weaving project.](images/yakan.png) يمكنك العثور على مشروع Yakan للنسيج هنا https: // trinket.io/python/940804eadc
+![استكمال مشروع كيك اللازورد ساراواك.](images/kek.png) 
+يمكنك العثور على مشروع Kek lapis Sarawak هنا https://trinket.io/python/a831abfa03 
+![Complete Spirals project.](images/spirals.png) 
+يمكنك العثور على مشروع Spirals هنا https://trinket.io/python/d14eed3698 
+![Complete Random faces project.](images/random_faces.png) 
+يمكنك العثور على الوجوه العشوائية المشروع هنا https://trinket.io/python/9722201267 
+![Complete Art deco project.](images/art_deco.png) 
+يمكنك العثور على مشروع Art deco هنا https://trinket.io/python/6076e2ced4 
+![Complete Yakan weaving project.](images/yakan.png) 
+يمكنك العثور على مشروع Yakan للنسيج هنا https://trinket.io/python/940804eadc
 
 --- /print-only ---
 
