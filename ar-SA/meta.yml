@@ -1,0 +1,23 @@
+---
+title: أنماط قوية
+hero_image: images/banner.png
+description: قم بإنشاء قطعة فنية ملهمة يمكن تحجيمها باستخدام أنماط متكررة
+version: 4
+listed: true
+copyedit: true
+last_tested: '2021-10-06'
+steps:
+  - title: المقدمة
+  - title: فكرتك
+  - title: بناء واختبار - الحافز
+    completion:
+      - engaged
+  - title: قم بالتوسيع والاختبار - النمط
+    completion:
+      - internal
+  - title: انعكاس
+    completion:
+      - external
+  - title: قم بترقية او تطوير مشروعك
+  - title: مشاركة
+  - title: ما هي الخطوة التالية؟
