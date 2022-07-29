@@ -19,7 +19,7 @@ Dit project gebruikt tekst en emoji om de gebruiker te vragen een afmeting te ki
   </iframe>
 </div>
 
-Bekijk enkele Krachtige Patronen projecten die zijn gemaakt door communityleden in de [Krachtige patronen - Communitybibliotheek](https://wke.lt/w/s/yyNPQT) van de Raspberry Pi Foundation{:target="_blank"}.
+Bekijk enkele Krachtige Patronen projecten die zijn gemaakt door communityleden in de [Krachtige patronen - Communitybibliotheek](https://wke.lt/w/s/yyNPQT){:target="_blank"} van de Raspberry Pi Foundation.
 
 --- save ---
 
