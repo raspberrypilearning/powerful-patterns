@@ -1,4 +1,4 @@
-## Myfyrio
+## Checklist
 
 Wnaethoch chi fodloni **briff y prosiect**? Meddyliwch am eich prosiect a mynd drwy'r rhestr wirio isod a rhoi tic i'r nodweddion sydd gan eich prosiect.
 
