@@ -1,4 +1,4 @@
-## Reflectie
+## Checklist
 
 Voldoet je project aan de **projectbeschrijving**? Denk na over je project en doorloop de onderstaande checklist en vink af wat van toepassing is op je project.
 
