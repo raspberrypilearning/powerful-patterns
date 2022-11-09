@@ -1,98 +1,98 @@
-## Reflection
+## Checklist
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+Você cumpriu o **resumo do projeto**? Pense no seu projeto e marque os recursos que o seu projeto possui na lista de verificação abaixo.
 
-Does your powerful pattern:
-
---- task ---
-
-Draw and position geometric shapes to create a base pattern (or motif) --- /task ---
+Seu super padrão:
 
 --- task ---
 
-Use loops to repeat the pattern to fill the screen
+Desenhar e posicionar formas geométricas para criar um modelo como padrão (ou "motivo")
+
+--- task ---
+
+Use loops para repetir o padrão para preencher a tela
 
 --- /task ---
 
 --- task ---
 
-Animate how the pattern is created
+Animar como o padrão é criado
 
 --- /task ---
 
-Your powerful pattern could also:
+O seu super padrão também pode:
 
 --- task ---
 
-Use bold or significant colours
-
---- /task ---
-
---- task ---
-
-Draw inspiration from your culture or popular culture
+Use cores fortes ou significativas
 
 --- /task ---
 
 --- task ---
 
-Get user input to resize the pattern
+Desenhar Inspirado na sua cultura ou cultura popular
 
 --- /task ---
 
 --- task ---
 
-Add text and emoji to print details about your art
+Obtenha a parâmetros de entrada do usuário para redimensionar o padrão
 
 --- /task ---
 
 --- task ---
 
-Translate the pattern to create variations
+Adicione texto e emoji para imprimir detalhes sobre sua arte
+
+--- /task ---
+
+--- task ---
+
+Traduza o padrão para criar variações
 
 --- /task ---
 
 
 --- task ---
 
-Share your work with others in an online gallery
+Compartilhe seu trabalho com outras pessoas em uma galeria online
 
 --- /task ---
 
 
-Reflecting about how you made your powerful pattern will help you in your future projects.
+Refletir sobre como você criou seu super padrão o ajudará em seus próximos projetos.
 
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
---- task ---
-
-How did you get your ideas?
-
---- /task ---
+Responda às perguntas abaixo desenhando, escrevendo, digitando um documento, conversando com alguém ou da sua própria maneira criativa que funcione melhor para você.
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Como você obteve suas ideias?
 
 --- /task ---
 
 --- task ---
 
-Mistakes and failures are often the catalyst for discovery and success.
-
-Oprah Winfrey was fired from her first job, but she went on to become a famous and influential producer and philanthropist. She once said "turn your wounds into wisdom".
-
-What mistakes did you make and how did they help you?
+Quais coisas novas e legais você aprendeu?
 
 --- /task ---
 
-### Now you are a digital artist and mathematician!
+--- task ---
 
-Take a moment to celebrate what you have made.
+Erros e fracassos são muitas vezes o nos ajuda em descobertas e sucesso.
+
+Oprah Winfrey foi demitida de seu primeiro emprego, mas se tornou uma produtora e filantropa famosa e influente. Ela disse uma vez "transforme suas feridas em sabedoria".
+
+Quais erros você cometeu e como eles o ajudaram?
+
+--- /task ---
+
+### Agora você é um artista digital e matemático!
+
+Reserve um tempo para comemorar o que você fez.
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Para onde você vai levar seus novos poderes? O que você vai fazer a seguir?
 
 --- /task ---
 
