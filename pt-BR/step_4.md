@@ -1,41 +1,41 @@
-## Expand and test: Pattern
+## Expandir e testar: Padrão
 
-Now it's time to make your full pattern!
+Agora é hora de fazer o seu padrão completo!
 
-![Examples of finished projects that have the motif used repeatedly to form a full pattern.](images/second.gif)
+![Exemplos de projetos finalizados que têm o motivo usado repetidamente para formar um padrão completo.](images/second.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Abstraction</span> is problem solving by reducing unnecessary detail. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Abstração</span> é a solução de problemas reduzindo detalhes desnecessários. 
 
 </p>
 
 --- task ---
 
-Look at this Malaysian layer cake (kek lapis Sarawak). How does the motif change to make the overall pattern?
+Olhe para este bolo de camadas da Malásia (kek lapis Sarawak). Como o motivo modifica a formar do padrão em geral?
 
-![The motif from the kek lapis Sarawak project next to the complete pattern.](images/kek-motif.png)
+![O motivo do projeto kek lapis Sarawak ao lado do padrão completo.](images/kek-motif.png)
 
-Look at this art deco wallpaper. How does the motif change to make the overall pattern?
+Olhe para este papel de parede art déco. Como o motivo modifica a formar do padrão em geral?
 
-![The motif from the art deco wallpaper project next to the complete pattern.](images/spirals-motif.png)
+![O motivo do projeto de papel de parede art déco ao lado do padrão completo.](images/spirals-motif.png)
 
-Think about the pattern you are making. How does your motif change to make the overall pattern. Use these questions to help you abstract:
-- Does the whole, or part, of the motif rotate?
-- What direction does it rotate? And by how much?
-- Are there layers to the pattern that overlap?
-- How many times does the motif repeat itself?
-- How is the repetition organised (i.e. how many rows/columns)?
-- Do the colours change?
-- Are there details that are not included in the motif (i.e. the icing in the Malaysian layer cake)?
+Pense no padrão que você está fazendo. Como seu motivo muda para fazer o padrão geral. Use estas perguntas para ajudá-lo a abstrair:
+- Tudo ou parte do motivo gira?
+- Em que direção ele gira? E quanto?
+- Existem camadas no padrão que se sobrepõem?
+- Quantas vezes o motivo se repete?
+- Como a repetição é organizada (ou seja, quantas linhas/colunas)?
+- As cores mudam?
+- Existem detalhes que não estão incluídos no motivo (ou seja, a cobertura do bolo de camadas da Malásia)?
 
 --- /task ---
 
 --- task ---
 
-Now that you know more about how the motif turns into the whole pattern, you can program it using your answers to the questions above.
+Agora que você conhece mais como o motivo se transforma em todo o padrão, você pode programá-lo usando suas respostas às perguntas acima.
 
-**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Professional developers do this all the time!
+**Dica:** Não esqueça que você pode 'Ver Dentro' qualquer um dos exemplos na introdução e 'copiar' e 'colar' código em seu projeto. Desenvolvedores profissionais fazem isso o tempo todo!
 
-You have built up some really useful skills. Here is a reminder to help you make your repeated pattern:
+Você desenvolveu algumas habilidades realmente úteis. Aqui está um lembrete para ajudá-lo a fazer seu padrão repetido:
 
 [[[processing-matrix]]]
 
@@ -51,14 +51,14 @@ You have built up some really useful skills. Here is a reminder to help you make
 --- collapse ---
 
 ---
-title: Random positions
+title: Posição aleatórias
 ---
 
-You can add `from random import randint` at the top of **main.py**, this allows you to use the `randint` function to generate random numbers.
+Você pode adicionar `from random import randint` no topo de **main.py**, isso permite que você use a função `randint` para gerar números aleatórios.
 
-To use the `randint` function, you need to call it in your the code.
+Para usar a função `randint` você precisa chamá-la no seu código.
 
-One way to use random is to move your motif to a random position each time it is drawn:
+Uma maneira de usar random é mover seu motivo para uma posição aleatória toda vez que ele for desenhado:
 
 --- code ---
 ---
@@ -70,7 +70,7 @@ push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) 
 
 --- /code ---
 
-You could also use random to change the colours in your motif as it is redrawn.
+Você também pode usar random para alterar as cores do seu motivo conforme ele é redesenhado.
 
 --- code ---
 ---
@@ -87,12 +87,12 @@ BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 --- collapse ---
 
 ---
-title: Changing the size of your motif
+title: Mudando o tamanho do seu motivo
 ---
 
-If you use a motif you have already drawn, it might not be the right size.
+Se você usar um motivo que já desenhou, pode não ser do tamanho certo.
 
-You can use `scale()` before calling the function that draws your motif to change its size. Using an input bigger than '1' will make the motif bigger, using an input less than '1' will make it smaller.
+Você pode usar `scale()` antes de chamar a função que desenha seu motivo para corrigir seu tamanho. Usar uma entrada maior que '1' tornará o motivo maior, usar uma entrada menor que '1' o tornará menor.
 
 --- code ---
 ---
@@ -108,7 +108,7 @@ scale(0.5) #Half size
 
 --- /task ---
 
-Now you can animate your pattern to show how you made it. Often, patterns have powerful cultural significance in the way that they are made, or the process.
+Agora você pode animar seu padrão para mostrar como você o fez. Muitas vezes, os padrões têm um grande significado cultural na maneira como são feitos ou no processo.
 
 --- task ---
 
@@ -125,74 +125,74 @@ Now you can animate your pattern to show how you made it. Often, patterns have p
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your pattern?
+**Teste:** Mostre seu projeto a outra pessoa e peça sua opinião. Deseja fazer alguma alteração em seu padrão?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Depurar:** Você pode encontrar alguns bugs em seu projeto que precisa corrigir. Aqui estão alguns bugs comuns.
 
 --- collapse ---
 
 ---
-title: My motif does not appear to rotate
+title: Meu motivo não parece girar
 ---
 
-Make sure you are using the `radian()` function to convert degrees to radians.
+Certifique-se de estar usando a função `radian()` para converter graus em radianos.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The rotation looks strange
+título: A rotação parece estranha
 ---
 
-Have you checked that you are using `translate()` from and to the right coordinates?
+Você verificou se está usando `translate()` com início e fim das coordenadas corretas?
 
-Do you have more than one thing rotating? You may need to use `push_matrix()` and `pop_matrix()` so the screen rotates at different points at once.
+Você tem mais de uma coisa girando? Você pode precisar usar `push_matrix()` e `pop_matrix()` para que a tela gire em diferentes pontos ao mesmo tempo.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not animate
+title: Meu padrão não anima
 ---
 
-Check you have used `frame_count()` properly in a loop.
+Confira se você usou `frame_count()` corretamente em um loop.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not look the way I want it to
+title: Meu padrão não está do jeito que eu quero
 ---
 
-Review the sections above on `rotate()` and `translate()`. Experiment until it looks like you want it to, and remember, mistakes are powerful!
+Revise as seções acima em `rotate()` e `translate()`. Experimente até parecer como o que você quer, e lembre-se, aprendemos com os erros!
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I get an error
+título: Eu recebo um erro
 ---
 
-Check the syntax of your code. Are you missing any brackets `(` or `)` or a colon `:` after defining a function? Is something spelled incorrectly? Is your code indented correctly?
+Verifique a sintaxe do seu código. Está faltando algum colchete `(` ou `)` ou dois pontos `:` depois de definir uma função? Algo está escrito incorretamente? Seu código está recuado corretamente?
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The animation is too fast/too slow
+title: A animação é muito rápida/muito lenta
 ---
 
-Change the `frame_rate()` at the beginning of your program to get it to the speed you like.
+Altere o `frame_rate()` no início do seu programa para obter a velocidade que você gosta.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Você pode encontrar um bug que não está listado aqui. Você consegue descobrir como consertá-lo?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+Adoraríamos saber sobre seus bugs e como você os corrigiu. Use o botão Enviar comentários na parte inferior desta página e nos diga se você encontrou um bug diferente em seu projeto.
 
 --- /task ---
 
