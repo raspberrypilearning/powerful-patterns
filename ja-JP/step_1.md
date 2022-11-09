@@ -1,19 +1,19 @@
-## Introduction
+## You will make
 
-Create a piece of inspirational art that can be scaled using repeated patterns.
+このプロジェクトでは、繰り返し模様を使ったインスピレーションあふれるアートを作り出します。
 
-Your powerful pattern will need to meet the **project brief**.
+魅力的な模様を**プロジェクト概要**に合わせて作成してください。
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0; font-weight:bold">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
+<span style="color: #0faeb0; font-weight:bold">**プロジェクト概要**</span> は、プロジェクトで実行しなければならないことを説明したものです。 達成すべきミッションのようなものです。
 </p>
 
-You will:
-+ Draw and position geometric shapes to create a base pattern (or 'motif')
-+ Use `for` loops to `translate` the pattern to fill the screen
-+ Use the `frame_rate` and `frame_count` to animate the creation of the pattern
+あなたは次のことを行います。
++ ベースパターン(もしくはモチーフ) を作成するために幾何学模様を描いて配置します。
++ `for`ループを使って、画面いっぱいに模様を`配置`してみましょう。
++ `frame_rate`と`frame_count`を使って、繰り返し模様をアニメーション化してみましょう。
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns are all around us, in textiles, nature, art, traditions, and design. The starting point of a pattern is called <span style="color: #0faeb0; font-weight:bold">a motif</span>, which is an element that can be repeated and arranged in order to create many different patterns.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">わたしたちの周りには、洋服や、自然、アート、伝統工芸品、デザインなど、いろいろなところに繰り返し模様があります。 繰り返し模様の基本は、<span style="color: #0faeb0; font-weight:bold">モチーフ</span>です。モチーフが基本のパーツとなり、繰り返したりアレンジされたりすることで、より複雑な繰り返し模様が作成されます。
 </p>
 
 --- no-print ---
@@ -23,9 +23,11 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
 
-Run this example and think about the repeated motif. How would you describe what is happening in the animation?
+### Play ▶️
 
-**Kek lapis Sarawak**: [See inside](https://trinket.io/python/81be7eb895){:target="_blank"}
+この例を実行して、繰り返されるモチーフについて考えてみてください。 このアニメーションで、どんなことがおこっていると思いますか？
+
+**ラピス・サラワクケーキ**: [中を見る](https://trinket.io/python/81be7eb895){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
@@ -35,49 +37,49 @@ Run this example and think about the repeated motif. How would you describe what
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Create a **powerful pattern**
+###プロジェクトの概要：**迫力のある模様**を作成する
 <hr style="border-top: 2px solid black;"> 
 
-Your powerful pattern should:
-+ Draw and position geometric shapes to create a base pattern
-+ Use loops to repeat the pattern to fill the screen
-+ Animate how the pattern is created
+迫力のある模様は次のようにする必要があります：
++ 幾何学模様を組み合わせてベースパターンを描きます
++ ループを使って模様を繰り返して画面全体に表示します
++ 繰り返し模様が作られるようにアニメーション化します
 
-Your powerful pattern could:
-+ Use bold or significant colours
-+ Draw inspiration from your culture or popular culture
-+ Get user input to resize the pattern
-+ Add text and emoji to print details about your art
-+ Translate the pattern to create variations
+迫力のある模様は次のようにすることもできます：
++ 鮮やかで特徴的な色を使用する
++ 伝統的なものやポップカルチャーからインスピレーションを得る
++ ユーザが模様のサイズを変更できるようにする
++ テキストや絵文字を追加してあなたのアートについての詳細を表示する
++ 模様を変化させていろいろなバリエーションを作る
 </div>
 
-### Get inspiration
+### Get ideas 💭
 
 --- task ---
 
-Run these example projects to get ideas for your pattern.
+これらのサンプルプロジェクトを実行して、いい模様のアイデアをもらいましょう。
 
-How have the motifs been made from circles, ellipses, squares, rectangles, and triangles?:
+これらのモチーフは、どのような形から作られていますか？円、だ円、正方形、長方形、それとも三角形ですか？
 
-**Spirals**: [See inside](https://trinket.io/python/a682f7a884){:target="_blank"}
+**スパイラル**: [中を見る](https://trinket.io/python/a682f7a884){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Random faces**: [See inside](https://trinket.io/python/c45185fd44){:target="_blank"}
+**ランダムフェイス**:[中を見る](https://trinket.io/python/c45185fd44){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/c45185fd44?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Art deco wallpaper**: [See inside](https://trinket.io/python/300e1cd325){:target="_blank"}
+**アール・デコ風壁紙**: [中を見る](https://trinket.io/python/300e1cd325){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Yakan weaving**: [See inside](https://trinket.io/python/20646dd7f4){:target="_blank"}
+**ヤカン柄**: [中を見る](https://trinket.io/python/20646dd7f4){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/20646dd7f4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
@@ -89,9 +91,9 @@ How have the motifs been made from circles, ellipses, squares, rectangles, and t
 
 --- print-only ---
 
-Look at these examples and think about the repeated motif. How have the patterns been made from circles, ellipses, squares, rectangles, and triangles?
+この例を実行して、繰り返されるモチーフについて考えてみてください。 これらのモチーフは、どのような形から作られていますか？円、だ円、正方形、長方形、それとも三角形ですか？
 
-![Complete Kek lapis Sarawak project.](images/kek.png) You can find the Kek lapis Sarawak project here https://trinket.io/python/81be7eb895 ![Complete Spirals project.](images/spirals.png) You can find the Spirals project here https://trinket.io/python/a682f7a884 ![Complete Random faces project.](images/random_faces.png) You can find the Random faces project here https://trinket.io/python/c45185fd44 ![Complete Art deco project.](images/art_deco.png) You can find the Art deco project here https://trinket.io/python/300e1cd325 ![Complete Yakan weaving project.](images/yakan.png) You can find the Yakan weaving project here https://trinket.io/python/20646dd7f4
+![ラピス・サラワクケーキプロジェクトの完成版](images/kek.png) ラピス・サラワクケーキプロジェクトには、こちらからアクセスできます。https://trinket.io/python/81be7eb895 ![Complete Spirals project.](images/spirals.png) スパイラルプロジェクトには、こちらからアクセスできます。https://trinket.io/python/a682f7a884 ![Complete Random faces project.](images/random_faces.png) ランダムフェイスプロジェクトには、こちらからアクセスできます。 https://trinket.io/python/c45185fd44 ![Complete Art deco project.](images/art_deco.png) アール・デコプロジェクトには、こちらからアクセスできます。https://trinket.io/python/300e1cd325 ![Complete Yakan weaving project.](images/yakan.png) ヤカン柄プロジェクトには、こちらからアクセスできます。https://trinket.io/python/20646dd7f4
 
 --- /print-only ---
 
