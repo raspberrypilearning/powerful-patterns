@@ -1,4 +1,4 @@
-## Cyflwyniad
+## You will make
 
 Byddwch chi'n creu celf ysbrydoledig mae modd ei chwyddo gan ddefnyddio patrymau wedi'u hailadrodd.
 
@@ -22,6 +22,8 @@ Byddi di'n:
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
+
+### Play ▶️
 
 Rhedwch yr enghraifft hon a meddwl am y motiff sy'n cael ei ailadrodd. Sut fyddech chi'n disgrifio'r hyn sy'n digwydd yn yr animeiddiad?
 
@@ -51,7 +53,7 @@ Fe allai eich patrwm pwerus wneud y canlynol:
 + Trosi'r patrwm i greu amrywiadau
 </div>
 
-### Cael ysbrydoliaeth
+### Get ideas 💭
 
 --- task ---
 
