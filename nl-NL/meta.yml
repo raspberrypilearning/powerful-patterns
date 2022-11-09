@@ -5,10 +5,10 @@ description: Maak een stukje inspirerende kunst die kan worden geschaald met beh
 version: 4
 listed: true
 copyedit: true
-last_tested: '2021-10-06'
+last_tested: "2021-10-06"
 steps:
   - 
-    title: Inleiding
+    title: You will make
   - 
     title: Jouw idee
   - 
@@ -20,7 +20,7 @@ steps:
     completion:
       - internal
   - 
-    title: Reflectie
+    title: Checklist
     completion:
       - external
   - 
