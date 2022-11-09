@@ -5,10 +5,10 @@ description: قم بإنشاء قطعة فنية ملهمة يمكن تحجيم�
 version: 4
 listed: true
 copyedit: true
-last_tested: '2021-10-06'
+last_tested: "2021-10-06"
 steps:
   - 
-    title: المقدمة
+    title: You will make
   - 
     title: فكرتك
   - 
@@ -20,7 +20,7 @@ steps:
     completion:
       - internal
   - 
-    title: انعكاس
+    title: Checklist
     completion:
       - external
   - 
