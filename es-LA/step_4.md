@@ -33,7 +33,7 @@ Piensa en el patrón que estás creando. ¿Cómo cambia tu motivo para formar el
 
 Ahora que sabes más acerca de cómo el motivo se convierte en el patrón completo, puedes programarlo usando tus respuestas a las preguntas anteriores.
 
-**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. ¡Los desarrolladores profesionales hacen esto todo el tiempo!
+**Sugerencia:** No olvide que puede 'Ver el interior' de cualquiera de los ejemplos en la introducción y 'copiar' y 'pegar' el código en su proyecto. ¡Los desarrolladores profesionales hacen esto todo el tiempo!
 
 Has desarrollado algunas habilidades realmente útiles. Aquí hay un recordatorio para ayudarte a crear tu patrón repetido:
 
