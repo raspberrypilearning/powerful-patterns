@@ -1,4 +1,4 @@
-## Introduction
+## You will make
 
 Create a piece of inspirational art that can be scaled using repeated patterns.
 
@@ -22,6 +22,8 @@ You will:
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
+
+### Play ▶️
 
 Run this example and think about the repeated motif. How would you describe what is happening in the animation?
 
@@ -51,7 +53,7 @@ Your powerful pattern could:
 + Translate the pattern to create variations
 </div>
 
-### Get inspiration
+### Get ideas 💭
 
 --- task ---
 
