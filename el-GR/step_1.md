@@ -1,4 +1,4 @@
-## Εισαγωγή
+## You will make
 
 Δημιούργησε ένα κομμάτι εμπνευσμένης τέχνης που μπορεί να κλιμακωθεί χρησιμοποιώντας επαναλαμβανόμενα μοτίβα.
 
@@ -22,6 +22,8 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
+
+### Play ▶️
 
 Εκτέλεσε αυτό το παράδειγμα και σκέψου το επαναλαμβανόμενο κεντρικό σχέδιο. Πώς θα περιέγραφες αυτό που συμβαίνει στο κινούμενο σχέδιο;
 
@@ -51,7 +53,7 @@
 + Να οδηγεί το μοτίβο για να δημιουργεί παραλλαγές
 </div>
 
-### Βρες έμπνευση
+### Get ideas 💭
 
 --- task ---
 
@@ -59,7 +61,7 @@
 
 Πώς έχουν κατασκευαστεί τα κεντρικά σχέδια από κύκλους, ελλείψεις, τετράγωνα, ορθογώνια και τρίγωνα;:
 
-**Spirals**: [See inside](https://trinket.io/python/a682f7a884){:target="_blank"}
+**Σπιράλ**: [Δες μέσα](https://trinket.io/python/a682f7a884){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
