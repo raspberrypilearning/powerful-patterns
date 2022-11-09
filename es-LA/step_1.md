@@ -1,4 +1,4 @@
-## Introducción
+## You will make
 
 Crea una obra de arte inspiradora que se pueda escalar usando patrones repetidos.
 
@@ -22,6 +22,8 @@ Vas a:
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
+
+### Play ▶️
 
 Ejecuta el ejemplo a continuación y piensa en el motivo repetido. ¿Cómo describirías lo que sucede en la animación?
 
@@ -51,7 +53,7 @@ Tu patrón poderoso podría:
 + Trasladar el patrón para crear variaciones
 </div>
 
-### Inspírate
+### Get ideas 💭
 
 --- task ---
 
