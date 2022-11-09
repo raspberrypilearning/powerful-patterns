@@ -1,31 +1,31 @@
 ---
-title: Powerful patterns
+title: Super padrões
 hero_image: images/banner.png
-description: Create a piece of inspirational art that can be scaled using repeated patterns
+description: Crie uma inspiradora obra de arte, que pode ser desenhada com padrões escaláveis
 version: 4
 listed: true
 copyedit: true
-last_tested: '2021-10-06'
+last_tested: "2021-10-06"
 steps:
   - 
-    title: Introduction
+    title: You will make
   - 
-    title: Your idea
+    title: A sua ideia
   - 
-    title: Build and test - Motif
+    title: Construir e testar — Motivo
     completion:
       - engaged
   - 
-    title: Expand and test - Pattern
+    title: Expandir e testar — Padrão
     completion:
       - internal
   - 
-    title: Reflection
+    title: Checklist
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Melhore o seu projeto
   - 
-    title: Share
+    title: Compartilhar
   - 
-    title: What next?
+    title: E agora?
