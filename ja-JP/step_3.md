@@ -1,31 +1,31 @@
-## Build and test: Motif
+## 作成とテスト：モチーフ
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it's time to make your motif, the first element of your pattern.
+繰り返し模様の最初の要素であるモチーフを作成します。
 </div>
 <div>
-![An example of a motif using various shapes to create the motif.](images/motif.png){:width="300px"}
+![さまざまな形を使用して作ったモチーフの例] (images/motif.png){:width="300px"}
 </div>
 </div>
 
-The process of making your motif mirrors what computer scientists often do when they create a program or solution to a problem. This process is called **decomposition** and you will use decomposition to create your motif.
+モチーフを作るプロセスは、コンピューターサイエンティストがプログラムや問題の解決策を考えるときによく行うこととよく似ています。 このプロセスは**ブレークダウン**と呼ばれるもので、あなたのモチーフを作る時にも使えるでしょう。
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Decomposition</span> is breaking something down into parts that are smaller and easier to understand. This means that you can build a pattern one part at a time until it is complete.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">ブレークダウン</span>は、理解しやすいように、より小さく簡単な部品に落としこんでいくことです。 これは、くり返し模様が完成するまで、パートごとに模様を作っていくことを意味します。</p>
 
-Look at the pattern you want to recreate. How can you break it down into one single element (the motif) that repeats?
+再現したい繰り返し模様を見てください。 どうすればそれを1つの要素(モチーフ) に分解して繰り返すことができますか？
 
-In this example, an art deco wallpaper pattern has been decomposed into the basic collection of shapes (five circles overlayed) that makes the motif:
+この例では、アールデコの壁紙パターンが、モチーフを作成する基本的な形の集まり(5つの円が重なっている) にブレークダウンされています。
 
-![A single five circle motif next to an image of the art deco complete pattern with many copies of the motif.](images/motif-pattern.png)
+![たくさんのモチーフのコピーを使って描かれているアールデコの完成版パターンのイメージの横に表示されている５つの円のモチーフ](images/motif-pattern.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**ヒント：** 何かを追加するたびに、プロジェクトをテストすることを忘れないでください。 バグを見つけて修正するのは、変更を加える前のほうがはるかに簡単です。
 
 --- task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your motif:
+あなたはいくつかの本当に役立つスキルを身につけました。 モチーフを作成するのに役立つリマインダーは次のとおりです。
 
-### Shapes and images
+### 形と画像
 
 [[[processing-python-ellipse]]]
 
@@ -35,7 +35,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-add-image]]]
 
-### Colours and effects
+### 色と効果
 
 [[[generic-theory-simple-colours]]]
 
@@ -45,7 +45,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-tint]]]
 
-### Position and transform
+### 配置と展開
 
 [[[processing-matrix]]]
 
@@ -61,48 +61,48 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your motif?
+**テスト：** プロジェクトを他の人に見せて、フィードバックをもらいます。 モチーフに変更を加えたいですか？
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**デバッグ：** プロジェクトに修正が必要なバグが見つかる場合があります。 一般的なバグは次のとおりです。
 
 --- collapse ---
 ---
-title: Shapes are not aligned as I expected
+title: 形が思うように並ばない
 ---
 
-If you want the shapes to be aligned, then take a closer look at your coordinate points. Experiment with the numbers until you have the layout you want.
+形状を揃えたい場合は、座標点をよく見てください。 好きなレイアウトになるまで、数値を変えてみてください。
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I can't see some of the shapes in my motif
+title: モチーフの中に描いた形が見あたらない
 ---
 
-The order in which you draw things is very important.
+描く順序は、とても大切です。
 
-Computer graphics are made of layers. In your motif, each shape is a layer. Objects on higher layers sit in front of objects on lower layers. Imagine cutting all the shapes out of paper. Depending on how you arrange and overlap that paper, the final result could look very different.
+コンピュータグラフィックスはレイヤー構造になっています。 モチーフの中では、それぞれの形がレイヤーになっています。 下のレイヤーにあるオブジェクトの前に、上のレイヤーのオブジェクトが置かれるのです。 紙からすべての形を切り取ると想像してみてください。 その紙で作った形をどう並べ、どう重ねるかによって、最終的な仕上がりは大きく変わってきます。
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: My circles/squares are not equal
+title: 描いた円/正方形の形がくずれている
 ---
 
-The third and fourth numbers in `ellipse` and `rect` are the width and height. If you make them the same, you will get a circle or square.
+`ellipse`や`rect`の３番目と４番目の数字で、幅と高さが決まります。 ３番目と４番目の数字を同じにすると、円や正方形を描くことができます。
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+ここに記載されていないバグが見つかるかもしれません。 あなたはそれを修正する方法を見つけることができますか？
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+私たちはあなたのバグと、あなたがそれらをどのように修正したかについて教えてほしいです。 プロジェクトで別のバグを見つけた場合、このページの一番下にあるフィードバックを送信 ボタンを使ってお知らせください。
 
 --- /task ---
 
