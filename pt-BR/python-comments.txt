@@ -1,151 +1,151 @@
-Choose a size
+Escolha um tamanho
 
-Try different numbers to change the colour
+Tente números diferentes para mudar a cor
 
-Start transformation
+Iniciar transformação
 
-Reset transformation
+Redefinir transformação
 
-Half size
+Metade do tamanho
 
-Put code to run once here
+Coloque o código para ser executado uma vez aqui
 
-Put code to run every frame here
+Coloque o código para executar em cada quadro aqui
 
-Keep this to run your code
+Mantenha isso para executar seu código
 
-Choose some gorgeous colours for the cake layers
+Escolha algumas cores lindas para as camadas do bolo
 
-Jam sticks the layers together
+Geleia gruda as camadas juntas
 
-Change the number to change the amount of jam
+Altere o número para alterar a quantidade de geleia
 
-Nine layers of cake, repeating the 3 colours 3 times
+Nove camadas de bolo, repetindo as 3 cores 3 vezes
 
-height of 3 blocks of cake
+altura de 3 blocos de bolo
 
-The cake is wrapped in an outer layer
+O bolo é embrulhado em uma camada externa
 
-Don't cover up the cake quadrants!
+Não cubra os quadrantes do bolo!
 
-make the cake square
+faça o bolo quadrado
 
-transparent background
+fundo transparente
 
-5 frames per second
+5 quadros por segundo
 
-Define a quarter turn so our code is easy to read
+Defina um quarto de volta para que nosso código seja fácil de ler
 
-start from the center
+comece do centro
 
-Make the bottom right quarter of the cake then rotate for the other quarters
+Faça o quadrado inferior direito do bolo e gire para os outros quadrados
 
-draw up to 4 quadrants
+desenhar até 4 quadrantes
 
-add the outer layer
+adicione a camada externa
 
-back to the top corner
+de volta ao canto superior
 
-outer layer
+camada externa
 
-Definitions for compatibility with the p5py processing library 
+Definições para compatibilidade com a biblioteca de processamento p5py 
 
-Shape
+Forma
 
-Fonts
+Fontes
 
-Text
+Texto
 
-Colour
+Cor
 
-Images
+Imagens
 
-Environment
+Ambiente
 
-Transform
+Transformar
 
-Keyboard
+Teclado
 
-a short row of squares
+uma pequena fileira de quadrados
 
-fast animation
+animação rápida
 
-thick border
+borda grossa
 
-start from the centre of the screen
+comece do centro da tela
 
-animates the pattern
+anima o padrão
 
-turns the motif
+vira o motivo
 
-moves the motif
+move o motivo
 
-Eyes
+Olhos
 
-Mouth
+Boca
 
-offset by the width of the quarter-size face
+compensado pela largura da face do quarto de tamanho
 
-quarter size paths
+um quarto do tamanho
 
-Pattern colours
+Cores do padrão
 
-blue
+azul
 
-gold
+ouro
 
-start from the top left of the screen
+comece no canto superior esquerdo da tela
 
-creates 16 rows then stops
+cria 16 linhas e depois pare
 
-animates 1 row at a time
+anima 1 linha de cada vez
 
-create a row of motifs
+criar uma linha por vez de motivos
 
-move down to start next row
+mover para baixo para iniciar a próxima linha
 
-Thread colours
+Define cores
 
-Squares
+Quadrados
 
-row of shapes
+linha de formas
 
-save settings
+salvar configurações
 
-turn shape 45 degrees
+vire a forma 45 graus
 
-go back to saved settings
+voltar para as configurações salvas
 
-move horizontally
+mover horizontalmente
 
-pink
+rosa
 
-to start with half motifs
+para começar com metade dos motivos
 
-maximum rows
+linhas máximas
 
-to offset pattern on next row
+para compensar o padrão na próxima linha
 
-Use in shape width/length to animate over time
+Use na largura/comprimento da forma para animar ao longo do tempo
 
-McEwen tartan colours
+Cores tartan McEwen
 
-Base square colours
+Cores quadradas básicas
 
-Cross colours
+Cores cruzadas
 
-Stitching and overlap colour
+Costura e cor de sobreposição
 
-Draw all the GREEN and BLUE alternating Base squares
+Desenhe todos os quadrados alternados de base VERDE e AZUL
 
-GREEN and BLUE
+VERDE e AZUL
 
-Crosses
+Cruzes
 
-Draw the YELLOW and RED alternating crosses
+Desenhe as cruzes alternadas YELLOW ("amarela") e RED ("vermelha")
 
-YELLOW and RED
+YELLOW ("amarelo") e RED ("vermelho")
 
-Draw the stitching crosses
+Desenhe as cruzes de costura
 
-Draw the grey lines where material overlaps
+Desenhe as linhas cinzas onde o material se sobrepõe
