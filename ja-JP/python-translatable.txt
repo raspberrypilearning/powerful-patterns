@@ -1,58 +1,58 @@
-quadrant
+象限
 
-turquoise
+ターコイズ
 
-gold
+ゴールド
 
-tomato
+トマト
 
-jam
+ジャム
 
 start_y
 
-outer
+アウター
 
-yellowgreen
+黄緑
 
-quarter
+4分の1
 
-motif
+モチーフ
 
 draw_motif
 
-orange
+オレンジ
 
-brown
+茶色
 
-green
+緑
 
 circle_size
 
-This art uses lots of circles!
+このアートには、たくさんの円を使っています！
 
 motif_size
 
-ORANGE
+オレンジ
 
-PURPLE
+紫
 
-YELLOW
+黄色
 
-BLUE
+青
 
-This is 🇵🇭 Yakan weaving
+これは🇵🇭ヤカン織りです
 
 motif_width
 
-󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿This is McEwen Tartan
+これはマキューエン家伝統のタータンチェックです。
 
 square_size
 
-What size tartan would you like? 20, 50, or 100
+タータンチェックのサイズはどれぐらいがいいですか？ 20、50、または 100
 
-lines
+線
 
-GREEN
+緑
 
 BASE_COLORS
 
@@ -60,12 +60,12 @@ RED
 
 CROSS_COLORS
 
-GREY
+グレー
 
 y_coordinate
 
-squares
+正方形
 
-gap
+ギャップ
 
 cross
