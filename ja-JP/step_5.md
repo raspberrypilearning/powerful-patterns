@@ -1,98 +1,98 @@
-## Reflection
+## Checklist
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+**プロジェクト概要**どおりになっていますか？ あなたのプロジェクトで、以下のチェックリストに該当するものがあるか確認してください。
 
-Does your powerful pattern:
-
---- task ---
-
-Draw and position geometric shapes to create a base pattern (or motif) --- /task ---
+あなたの迫力ある繰り返し模様は：
 
 --- task ---
 
-Use loops to repeat the pattern to fill the screen
+基本の繰り返し模様(もしくはモチーフ) を作成するために幾何学模様を描いて配置している--- /task ---
+
+--- task ---
+
+繰り返し模様で画面全体を埋めるのにループを使用している
 
 --- /task ---
 
 --- task ---
 
-Animate how the pattern is created
+パターンの作成をアニメーション化している
 
 --- /task ---
 
-Your powerful pattern could also:
+また、あなたの迫力ある繰り返し模様は：
 
 --- task ---
 
-Use bold or significant colours
-
---- /task ---
-
---- task ---
-
-Draw inspiration from your culture or popular culture
+鮮やかで特徴的な色を使用している
 
 --- /task ---
 
 --- task ---
 
-Get user input to resize the pattern
+あなたの文化やポップカルチャーからインスピレーションを引き出している
 
 --- /task ---
 
 --- task ---
 
-Add text and emoji to print details about your art
+パターンのサイズ変更のためのユーザ入力を使っている
 
 --- /task ---
 
 --- task ---
 
-Translate the pattern to create variations
+アートについての説明のため、テキストと絵文字を追加している
+
+--- /task ---
+
+--- task ---
+
+色々なバリエーションの繰り返し模様を作成している
 
 --- /task ---
 
 
 --- task ---
 
-Share your work with others in an online gallery
+オンラインギャラリーで他の人とあなたの作品を共有している
 
 --- /task ---
 
 
-Reflecting about how you made your powerful pattern will help you in your future projects.
+作成した迫力ある繰り返し模様について振り返ることは、これから作成するプロジェクトの役に立つでしょう。
 
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
---- task ---
-
-How did you get your ideas?
-
---- /task ---
+図や文章、他の人への説明など、あなた独自の方法で、以下の質問に回答してください。
 
 --- task ---
 
-What cool new thing(s) did you learn?
+どうやってアイデアを思いついたのですか？
 
 --- /task ---
 
 --- task ---
 
-Mistakes and failures are often the catalyst for discovery and success.
-
-Oprah Winfrey was fired from her first job, but she went on to become a famous and influential producer and philanthropist. She once said "turn your wounds into wisdom".
-
-What mistakes did you make and how did they help you?
+あなたはどんなクールな新しいことを学びましたか？
 
 --- /task ---
 
-### Now you are a digital artist and mathematician!
+--- task ---
 
-Take a moment to celebrate what you have made.
+間違いや失敗は、多くの場合、発見と成功につながります。
+
+オプラ・ウィンフリーも最初の仕事はうまく行かずにクビになりましたが、その後、有名で影響力のあるプロデューサー兼慈善家になりました。 彼女はかつて「あなたの傷を知恵に変えなさい」と言いました。
+
+あなたはどのような間違いをしましたか、そこからなにを学びましたか？
+
+--- /task ---
+
+### もうあなたはデジタルアーティストであり数学者です！
+
+少し時間をかけて、あなたの作品についてお祝いしてください。
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+あなたは自分が獲得した新しい力をどのように使いますか？ 次に何を作りますか？
 
 --- /task ---
 
