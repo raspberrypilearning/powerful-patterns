@@ -1,41 +1,41 @@
-## Expand and test: Pattern
+## テスト: 繰り返し模様
 
-Now it's time to make your full pattern!
+繰り返し模様の完成版を作りましょう。
 
-![Examples of finished projects that have the motif used repeatedly to form a full pattern.](images/second.gif)
+![モチーフを繰り返し使用してパターン全体を形成したプロジェクト完成版の例。](images/second.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Abstraction</span> is problem solving by reducing unnecessary detail. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">抽象化</span> は、重要度の低い細かい部分を切り放すことで問題を解決する方法です。 
 
 </p>
 
 --- task ---
 
-Look at this Malaysian layer cake (kek lapis Sarawak). How does the motif change to make the overall pattern?
+このマレーシアのレイヤーケーキ(サラワクレイヤーケーキ) を見てください。 モチーフはどのように変化して全体のパターンを作りますか？
 
-![The motif from the kek lapis Sarawak project next to the complete pattern.](images/kek-motif.png)
+![サラワクレイヤーケーキのモチーフとその完成版パターン](images/kek-motif.png)
 
-Look at this art deco wallpaper. How does the motif change to make the overall pattern?
+このアールデコ調の壁紙を見てください。 モチーフがどのように変化して全体のパターンを作っていますか？
 
-![The motif from the art deco wallpaper project next to the complete pattern.](images/spirals-motif.png)
+![アールデコ調の壁紙モチーフとその完成版パターン](images/spirals-motif.png)
 
-Think about the pattern you are making. How does your motif change to make the overall pattern. Use these questions to help you abstract:
-- Does the whole, or part, of the motif rotate?
-- What direction does it rotate? And by how much?
-- Are there layers to the pattern that overlap?
-- How many times does the motif repeat itself?
-- How is the repetition organised (i.e. how many rows/columns)?
-- Do the colours change?
-- Are there details that are not included in the motif (i.e. the icing in the Malaysian layer cake)?
+あなたが作っているパターンについて考えてみてください。 モチーフがどのように変化して全体のパターンを作りますか？ 次の質問を使用して、抽象化に役立ててください。
+- モチーフの全体または一部が回転しますか？
+- それはどの方向に回転しますか？ どのくらい回転しますか？
+- パターンに重なるレイヤーはありますか？
+- モチーフは何回繰り返されますか？
+- 繰り返しはどのように行われますか(例：行/列の数)？
+- 色は変わりますか？
+- モチーフに含まれていないもの(例：マレーシアのレイヤーケーキの場合のアイシング)はありますか？
 
 --- /task ---
 
 --- task ---
 
-Now that you know more about how the motif turns into the whole pattern, you can program it using your answers to the questions above.
+モチーフがどのように変化して全体を作っていくかがわかったので、上記の質問への回答を使ってモチーフをプログラムできます。
 
-**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Professional developers do this all the time!
+**ヒント:** どの例も「中を見る」ことができ、コードを「コピー」して自分のプロジェクトに「貼り付ける」ことができます。 プロの開発者はいつもこのようなことを行っています！
 
-You have built up some really useful skills. Here is a reminder to help you make your repeated pattern:
+あなたは本当に役立つスキルをいくつか身につけました。 モチーフを作成するのに役立つリマインダーは次のとおりです。
 
 [[[processing-matrix]]]
 
@@ -51,14 +51,14 @@ You have built up some really useful skills. Here is a reminder to help you make
 --- collapse ---
 
 ---
-title: Random positions
+title: ランダムな位置
 ---
 
-You can add `from random import randint` at the top of **main.py**, this allows you to use the `randint` function to generate random numbers.
+`from random import randint` を **main.py**の先頭に入れることで、 乱数を生成する`randint` 関数を使えるようになります。
 
-To use the `randint` function, you need to call it in your the code.
+`randint` 関数を使うためには、コードの中で呼び出す必要があります。
 
-One way to use random is to move your motif to a random position each time it is drawn:
+乱数は、モチーフを描画するたびにランダムな位置にモチーフを移動するような場合に使います。
 
 --- code ---
 ---
@@ -70,7 +70,7 @@ push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) 
 
 --- /code ---
 
-You could also use random to change the colours in your motif as it is redrawn.
+色を変えてモチーフを再描画する場合にも使うことができます。
 
 --- code ---
 ---
@@ -87,12 +87,12 @@ BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 --- collapse ---
 
 ---
-title: Changing the size of your motif
+title: モチーフのサイズを変化させる
 ---
 
-If you use a motif you have already drawn, it might not be the right size.
+すでに描いたモチーフを使用すると、サイズが合わない場合があります。
 
-You can use `scale()` before calling the function that draws your motif to change its size. Using an input bigger than '1' will make the motif bigger, using an input less than '1' will make it smaller.
+モチーフを描く関数を呼び出す前に`scale()` を使うことで、サイズを変更することができます。 「1」より大きい数字を入力するとモチーフが大きくなり、「1」より小さい数字を入力するとモチーフが小さくなります。
 
 --- code ---
 ---
@@ -108,7 +108,7 @@ scale(0.5) #Half size
 
 --- /task ---
 
-Now you can animate your pattern to show how you made it. Often, patterns have powerful cultural significance in the way that they are made, or the process.
+ここまでで、パターンをアニメーション化して作成したものを見せることができます。 時に、パターンを作成する方法やプロセスが文化的に重要な意味を持つことがあります。
 
 --- task ---
 
@@ -125,74 +125,74 @@ Now you can animate your pattern to show how you made it. Often, patterns have p
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your pattern?
+**テスト：** プロジェクトを他の人に見せて、フィードバックをもらいます。 パターンを変更しますか?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**デバッグ：** プロジェクトに修正が必要なバグが見つかる場合があります。 一般的なバグは次のとおりです。
 
 --- collapse ---
 
 ---
-title: My motif does not appear to rotate
+title: モチーフが回転しない
 ---
 
-Make sure you are using the `radian()` function to convert degrees to radians.
+度（degree）をラジアン（radian）に変換するのに、`radian()` 関数を使用していることを確認してください。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The rotation looks strange
+title: 回転がおかしい
 ---
 
-Have you checked that you are using `translate()` from and to the right coordinates?
+`translate()` を使用するとき、正しい座標点を指定しているか確認しましたか？
 
-Do you have more than one thing rotating? You may need to use `push_matrix()` and `pop_matrix()` so the screen rotates at different points at once.
+回転しているものが複数ありますか？ 同時に異なる場所で回転させるためには、`push_matrix()` と `pop_matrix()` を使用する必要があります。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not animate
+title: パターンのアニメーション化ができない
 ---
 
-Check you have used `frame_count()` properly in a loop.
+ループ内で `frame_count()` が正しく使用されているか確認してください。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not look the way I want it to
+title: パターンが思い通りにできない
 ---
 
-Review the sections above on `rotate()` and `translate()`. Experiment until it looks like you want it to, and remember, mistakes are powerful!
+`rotate()` と `translate()`について、これまでのセクションを確認してください。 思い通りになるまで試行してください。間違いから学ぶことができます。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I get an error
+title: エラーが発生します。
 ---
 
-Check the syntax of your code. Are you missing any brackets `(` or `)` or a colon `:` after defining a function? Is something spelled incorrectly? Is your code indented correctly?
+コードの構文を確認してください。 関数の定義のあと、括弧 `(` や `)`、コロン `:` を忘れていませんか？ スペルが間違っていませんか？ コードを正しくインデントしていますか？
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The animation is too fast/too slow
+title: アニメーションが速すぎる/遅すぎる
 ---
 
-Change the `frame_rate()` at the beginning of your program to get it to the speed you like.
+プログラムの最初で`frame_rate()` を変更することで、速さを調整できます。
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+ここに記載されていないバグが見つかるかもしれません。 あなたはそれを修正する方法を見つけることができますか？
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+私たちは、あなたのバグと、それらをどのように修正したかについて聞くのが大好きです。 プロジェクトで別のバグを見つけた場合、このページの一番下にあるフィードバックを送信 ボタンを使ってお知らせください。
 
 --- /task ---
 
