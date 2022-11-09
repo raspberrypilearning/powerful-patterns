@@ -1,4 +1,4 @@
-## المقدمة
+## You will make
 
 قم بإنشاء قطعة فنية ملهمة يمكن تحجيمها باستخدام أنماط متكررة.
 
@@ -22,6 +22,8 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
+
+### Play ▶️
 
 قم بتشغيل هذا المثال وفكر في الفكرة المتكررة. كيف تصف ما يحدث في الرسوم المتحركة؟
 
@@ -51,7 +53,7 @@
 + ترجمة النمط لإنشاء اختلافات
 </div>
 
-### احصل على الإلهام
+### Get ideas 💭
 
 --- task ---
 
@@ -59,19 +61,19 @@
 
 كيف تم صنع الزخارف من الدوائر والأشكال البيضاوية والمربعات والمستطيلات والمثلثات ؟:
 
-**Spirals**: [See inside](https://trinket.io/python/a682f7a884){:target="_blank"}
+**اللوالب**: [انظر الى الداخل](https://trinket.io/python/a682f7a884){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**وجوه عشوائية**: [انظر من الداخل](https://trinket.io/python/c45185fd44){: target = "_ blank"}
+**وجوه عشوائية**: [انظر الى الداخل](https://trinket.io/python/c45185fd44){: target = "_ blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/c45185fd44?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**خلفية آرت ديكو**: [انظر من الداخل](https://trinket.io/python/300e1cd325){: target = "_ blank"}
+**خلفية آرت ديكو**: [انظر الى الداخل](https://trinket.io/python/300e1cd325){: target = "_ blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
