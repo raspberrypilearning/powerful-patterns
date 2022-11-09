@@ -1,64 +1,64 @@
-## Your idea
+## あなたのアイデア
 
-Use this step to plan your powerful pattern. You can plan by just thinking, tinkering, drawing or writing, or however you like!
+このステップを使用して、あなたの迫力のある模様を計画してみてください。 ただ考えるだけでもいいし、いろいろ試したり、描いたりなど好きなようにやってみましょう。
 
-![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-1.gif)
+![いろいろな形を使ってモチーフとアニメーションを作成し、パターンを広げる３つの例を紹介するアニメーションGIF](images/ideas-1.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns often have <span style="color: #0faeb0">cultural or religious significance</span>. Certain geometric shapes and positions can have symbolic or sacred meanings. Whether the pattern is in architecture, fabric, art, cooking, or something else, the process of making the pattern can also be significant.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">繰り返し模様には、よく<span style="color: #0faeb0">伝統的な色合いや宗教的な意味</span>があります。 幾何学模様が、シンボル的な意味や、神聖な意味をもつことがあります。 建築物、生地、芸術、料理など、模様を作成するプロセスも重要なことがあります。</p>
 
-### Why are you making your powerful pattern ?
+### なぜあなたは魅力的な模様を作ろうとしているのですか？
 
 --- task ---
 
-Think about the purpose of the pattern you are creating.
+模様を作る目的を考えてみましょう。
 
-It could be:
-- To express something significant from your or your family's culture(s)
-- To recreate a geometric pattern that means something to you
-- Something you create with a group of people to send a certain message (for example, a quilt)
-- To show something fascinating about about a hobby (for example, art, science, nature, music)
+例えば:
+- あなたやあなたの家族の文化などの重要な何かを表現するため
+- あたなにとって何か意味のある幾何学模様を再現するため
+- ある種のメッセージを送るために、人々の集団と作成するもの(例えば、キルト)
+- 趣味について魅力的なことを示すため(たとえば、芸術、科学、自然、音楽など)
 
-**Tip:** Patterns are everywhere! You might choose to get inspiration by going on a pattern hunt around your physical environment or online.
+**ヒント：** 繰り返し模様は色々なところにあります！ あなたの周りやオンラインで繰り返し模様を探すことで、インスピレーションを得ることができます。
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">As well as having symbolic meaning, patterns show the mathematics that is all around us. Mathematics helps us make sense of the world around us and we can find mathematical patterns in art, literature, and nature. </p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">繰り返し模様はシンボル的な意味を持つだけでなく、私たちの身近にある数学的な意味をあらわします。 数学は私たちが周りの世界を理解するのを助けてくれます。また、私たちは芸術、文学、自然の中で数学的な繰り返し模様を見つけることができます。 </p>
 
-### Who is it for?
+### 誰のためですか？
 
 --- task ---
 
-Think about who you will make your pattern for (your **audience**).
+誰のために繰り返し模様を作るのかを考えてください。(あなたの**作品を見る人**).
 
-What is the significance of your pattern? Will the colours, shapes, or way the pattern is repeated mean something special to you or your audience?
+あなたの繰り返し模様の重要なところはどこですか？ 色、形、またはパターン模様の繰り返し方法は、あなたやあなたの作品を見る人にとって特別な何かを意味しますか？
 
-Sharing your pattern is a great way to express something about yourself or your culture.
+自分の繰り返し模様を紹介することは、あなた自身やあなたの文化について表現するための素晴らしい方法です。
 
-If you are are creating a pattern as a group, does your motif need to be a certain size or shape to fit with other parts of a bigger pattern?
+グループで繰り返し模様を作成する場合、より大きな繰り返し模様の他の部分と合わせるために、モチーフは特定のサイズまたは形状にする必要がありますか？
 
 --- /task ---
 
-### Get started
+### 始めましょう
 
 --- task ---
 
-Open the [Powerful patterns starter project](https://trinket.io/python/6c4a0c6406){:target=blank } and click on the remix button.
+[迫力のある繰り返し模様スタートプロジェクト](https://trinket.io/python/6c4a0c6406){:target=blank}を開き、リミックスボタンをクリックします。
 
 --- /task ---
 
-### Setup your project
+### プロジェクトの設定
 
 --- task ---
 
-Add code to `setup()` to get your project ready.
+プロジェクトを準備するために`setup()`というコードを追加します。
 
 --- collapse ---
 
 ---
-title: Setting the screen size when your programme starts
+title: プログラム開始時の画面サイズの設定
 ---
 
-**Choose:** Add a size that suits the pattern you want to create. You can always change this later as your project evolves.
+**選択：** 作成したいパターン模様に合ったサイズを追加します。 プロジェクトの進展に応じて、後でいつでもこれを変更できます。
 
 --- code ---
 ---
@@ -74,12 +74,12 @@ def setup(): size(400, 400) #Choose a size
 --- collapse ---
 
 ---
-title: Setting the background colour when your programme starts
+title: プログラム開始時の背景色を設定
 ---
 
-Think about where you want to draw your background. You can:
-+ Add code to `setup()` so that the background is drawn once when you run your project
-+ Add code to `draw()` so that the background is redrawn each time the `draw()` function runs
+どのタイミングで背景を描きたいかを考えてください。 やり方は以下のとおりです。
++ プロジェクトの実行時に背景が1回描画されるようにするには、`setup()` にコードを追加します。
++ `draw()` 関数が実行されるたびに背景を再描画するには、`draw()` にコードを追加します。
 
 --- code ---
 ---
@@ -99,25 +99,25 @@ line_highlights: 9
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**デバッグ：** プロジェクトに修正が必要なバグが見つかる場合があります。 一般的なバグは次のとおりです。
 
 --- collapse ---
 
 ---
-title: I've updated my size and colour but the output area stays the same
+title: サイズと色を変更したのに、出力エリアの表示が変わらない。
 ---
 
-After changing the code, you will need to `run` your project to see the changes in the output area.
+コードを変更した後、出力エリアで変更内容を確認するには`実行`する必要があります。
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I've tried different numbers, but the background colour doesn't change
+title: 数字を変えたのに、背景の色が変更されない。
 ---
 
-The maximum amount of red, green, or blue is `255`. Make sure all your `background` colour values are between `0` and `255`.
+赤、緑、青それぞれの最大値は`255`です。 `backgroud`に指定したそれぞれの値が`0`から`255`の間であることを確認してください。
 
 --- /collapse ---
 
