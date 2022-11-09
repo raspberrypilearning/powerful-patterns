@@ -1,64 +1,64 @@
-## Your idea
+## A sua ideia
 
-Use this step to plan your powerful pattern. You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Use esta etapa para planejar seu super padrão. Você pode planejar apenas pensando, mexendo, desenhando, escrevendo, ou como quiser!
 
-![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-1.gif)
+![Um gif animado de três exemplos diferentes usando várias formas para criar os motivos e as animações para aumentar o padrão.](images/ideas-1.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns often have <span style="color: #0faeb0">cultural or religious significance</span>. Certain geometric shapes and positions can have symbolic or sacred meanings. Whether the pattern is in architecture, fabric, art, cooking, or something else, the process of making the pattern can also be significant.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Os padrões geralmente têm <span style="color: #0faeb0">significado cultural ou religioso</span>. Certas formas geométricas e posições podem ter significados simbólicos ou até sagrados. Seja o padrão em arquitetura, tecido, arte, culinária ou qualquer outra coisa, o processo de criação do padrão também pode ser importante.</p>
 
-### Why are you making your powerful pattern ?
+### Por que você está fazendo seu padrão poderoso?
 
 --- task ---
 
-Think about the purpose of the pattern you are creating.
+Pense no propósito do padrão que você está criando.
 
-It could be:
-- To express something significant from your or your family's culture(s)
-- To recreate a geometric pattern that means something to you
-- Something you create with a group of people to send a certain message (for example, a quilt)
-- To show something fascinating about about a hobby (for example, art, science, nature, music)
+Pode ser:
+- Para expressar algo sobre sua cultura ou da sua familia
+- Para recriar um padrão geométrico que tenha significado para você
+- Algo que você cria com um grupo de pessoas para enviar uma determinada mensagem (por exemplo, uma colcha)
+- Para mostrar algo fascinante sobre um hobby (por exemplo, arte, ciência, natureza, música)
 
-**Tip:** Patterns are everywhere! You might choose to get inspiration by going on a pattern hunt around your physical environment or online.
+**Dica:** Padrões estão em toda parte! Você pode escolher por se inspirar com uma observando por padrões ao seu redor ou pela internet.
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">As well as having symbolic meaning, patterns show the mathematics that is all around us. Mathematics helps us make sense of the world around us and we can find mathematical patterns in art, literature, and nature. </p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Além de ter um significado para nós, os padrões mostram como matemática pode descrever o ambiente ao nosso redor. A matemática nos ajuda a entender o mundo e como podemos encontrar certos padrões na arte, na literatura e na natureza. </p>
 
-### Who is it for?
+### Para quem é isso?
 
 --- task ---
 
-Think about who you will make your pattern for (your **audience**).
+Pense para quem você fará seu padrão (seu **público**).
 
-What is the significance of your pattern? Will the colours, shapes, or way the pattern is repeated mean something special to you or your audience?
+Qual é o significado do seu padrão? As cores, as formas ou como o padrão é repetido significam algo especial para você ou seu público?
 
-Sharing your pattern is a great way to express something about yourself or your culture.
+Compartilhar seu padrão é uma ótima maneira de expressar algo sobre você ou sua cultura.
 
-If you are are creating a pattern as a group, does your motif need to be a certain size or shape to fit with other parts of a bigger pattern?
+Se você estiver criando um padrão em grupo, seu motivo precisa ter um determinado tamanho ou forma para se encaixar em outras partes de um padrão maior?
 
 --- /task ---
 
-### Get started
+### Iniciar
 
 --- task ---
 
-Open the [Powerful patterns starter project](https://trinket.io/python/6c4a0c6406){:target=blank } and click on the remix button.
+Abra o [projeto inicial super padrões](https://trinket.io/python/6c4a0c6406){:target=blank} e clique no botão remix.
 
 --- /task ---
 
-### Setup your project
+### Prepare seu projeto
 
 --- task ---
 
-Add code to `setup()` to get your project ready.
+Adicione código no `setup()` para preparar seu projeto.
 
 --- collapse ---
 
 ---
-title: Setting the screen size when your programme starts
+title: Configurando o tamanho da tela quando o programa é iniciado
 ---
 
-**Choose:** Add a size that suits the pattern you want to create. You can always change this later as your project evolves.
+**Escolha:** Adicione um tamanho adequado ao padrão que deseja criar. Você sempre pode alterar isso mais tarde à medida que seu projeto evolui.
 
 --- code ---
 ---
@@ -74,12 +74,12 @@ def setup(): size(400, 400) #Choose a size
 --- collapse ---
 
 ---
-title: Setting the background colour when your programme starts
+title: Configurando a cor de fundo da tela quando o programa é iniciado
 ---
 
-Think about where you want to draw your background. You can:
-+ Add code to `setup()` so that the background is drawn once when you run your project
-+ Add code to `draw()` so that the background is redrawn each time the `draw()` function runs
+Escolha onde você quer desenhar o plano de fundo. Você pode:
++ Adicione código no `configurar()` para que o plano de fundo seja desenhado uma vez quando você executar seu projeto
++ Adicione código no `desenhar()` para que o plano de fundo seja redesenhado toda vez que a função `desenhar()` for executada
 
 --- code ---
 ---
@@ -99,25 +99,25 @@ line_highlights: 9
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Depurar:** Você pode encontrar alguns bugs em seu projeto que precisa corrigir. Aqui estão alguns bugs comuns.
 
 --- collapse ---
 
 ---
-title: I've updated my size and colour but the output area stays the same
+title: Atualizei o tamanho e cor, mas a janela do programa permanece a mesma
 ---
 
-After changing the code, you will need to `run` your project to see the changes in the output area.
+Depois de alterar o código, você precisará `executar` seu projeto para ver as alterações na tela.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I've tried different numbers, but the background colour doesn't change
+title: Eu tentei diferentes números, mas a cor de fundo não se altera
 ---
 
-The maximum amount of red, green, or blue is `255`. Make sure all your `background` colour values are between `0` and `255`.
+O valor máxima de vermelho, verde ou azul é `255`. Tenha certeza de que todos os valores de cor de`fundo` estejam entre `0` e `255`.
 
 --- /collapse ---
 
