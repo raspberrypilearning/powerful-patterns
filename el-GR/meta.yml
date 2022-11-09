@@ -5,10 +5,10 @@ description: Δημιούργησε ένα κομμάτι εμπνευσμένη
 version: 4
 listed: true
 copyedit: true
-last_tested: '2021-10-06'
+last_tested: "2021-10-06"
 steps:
   - 
-    title: Εισαγωγή
+    title: You will make
   - 
     title: Η ιδέα σου
   - 
@@ -20,7 +20,7 @@ steps:
     completion:
       - internal
   - 
-    title: Αναστοχασμός
+    title: Checklist
     completion:
       - external
   - 
