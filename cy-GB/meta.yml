@@ -5,10 +5,10 @@ description: Byddwch chi'n creu celf ysbrydoledig mae modd ei chwyddo gan ddefny
 version: 4
 listed: true
 copyedit: true
-last_tested: '2021-10-06'
+last_tested: "2021-10-06"
 steps:
   - 
-    title: Cyflwyniad
+    title: You will make
   - 
     title: Dy syniad
   - 
@@ -20,7 +20,7 @@ steps:
     completion:
       - internal
   - 
-    title: Myfyrio
+    title: Checklist
     completion:
       - external
   - 
