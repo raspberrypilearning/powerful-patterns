@@ -1,25 +1,25 @@
-## Upgrade your project
+## プロジェクトをアップグレードする
 
-If you have time you can upgrade your project. You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
+時間があれば、プロジェクトをアップグレードしてみましょう。 あなたは、もう少しアイデアを追加したいと思っているかもしれませんし、初めからやり直すために他の作品を見てみたいと思っているかもしれません。
 
-![Finished examples with input and make a face elements](images/upgrade.gif)
+![入力に基づいて顔の模様を作成する例の完成版](images/upgrade.gif)
 
-You could:
-- Use text and emoji to `print()` a description of your pattern
-- Adjust the size of your pattern based on user `input()`
-- Make a scaled motif using your [Make a face project](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
+こんなことができます:
+- 文字や絵文字を `print()` で使い、作品説明をする
+- ユーザが `input()` 関数を使って、パターンのサイズを調整できるようにする
+- [「顔を作ろう」プロジェクト](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}を使用してうろこ模様を作る
 
-Each example project in the [Introduction](.) has a **See inside** link for you to open the project, look at the code, get ideas, and see how they work.
+[はじめに](.) の各サンプルプロジェクトには、 **中を見る** リンクがあります。これによりコードを見てアイデアを得て、それらがどのように動くかを確認するできるようになっています。
 
-This project uses text and emoji to ask the user to choose a size then uses their answer to size all the shapes:
+このプロジェクトでは、テキストと絵文字を使用してユーザーにサイズを選択してもらい、その指定に基づいてすべての図形のサイズを設定します。
 
-**McEwen tartan**: [See inside](https://trinket.io/python/4706d1a81b){:target="_blank"}
+**マキューエンのタータンチェック**: [中を見る](https://trinket.io/python/4706d1a81b){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-Take a look at some Powerful patterns projects created by community members in the Raspberry Pi Foundation’s [Powerful patterns - Community library](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
+Raspberry Pi Foundationの[Powerful patterns - Community library](https://wke.lt/w/s/yyNPQT){:target="_blank"}で、他のコミュニティーメンバーが作成した「迫力ある繰り返し模様」のプロジェクトをいくつか見てみてください。
 
 --- save ---
 
