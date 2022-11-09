@@ -1,31 +1,31 @@
 ---
-title: Powerful patterns
+title: 迫力のある繰り返し模様
 hero_image: images/banner.png
-description: Create a piece of inspirational art that can be scaled using repeated patterns
+description: 繰り返し模様を使ったインスピレーションあふれるアートを作り出します。
 version: 4
 listed: true
 copyedit: true
-last_tested: '2021-10-06'
+last_tested: "2021-10-06"
 steps:
   - 
-    title: Introduction
+    title: You will make
   - 
-    title: Your idea
+    title: あなたのアイデア
   - 
-    title: Build and test - Motif
+    title: 作成とテスト-モチーフ
     completion:
       - engaged
   - 
-    title: Expand and test - Pattern
+    title: 'テスト: 繰返し模様'
     completion:
       - internal
   - 
-    title: Reflection
+    title: Checklist
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: プロジェクトをアップグレードする
   - 
-    title: Share
+    title: 共有する
   - 
-    title: What next?
+    title: 次は何をしますか？
