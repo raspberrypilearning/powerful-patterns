@@ -1,25 +1,25 @@
-## Upgrade your project
+## Melhore o seu projeto
 
-If you have time you can upgrade your project. You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
+Se você tiver tempo, pode atualizar seu projeto. Você pode já ter ideias para melhorar seu trabalho ou pode querer voltar ao primeiro passo e olhar para outros projetos novamente para obter mais inspiração.
 
-![Finished examples with input and make a face elements](images/upgrade.gif)
+![Exemplos finalizados com entrada e criação de elementos de face](images/upgrade.gif)
 
-You could:
-- Use text and emoji to `print()` a description of your pattern
-- Adjust the size of your pattern based on user `input()`
-- Make a scaled motif using your [Make a face project](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
+Você poderia:
+- Use texto e emoji para `print()` uma descrição do seu padrão
+- Ajuste o tamanho do seu padrão com base no usuário `input()`
+- Faça um motivo em escala usando seu [Faça um projeto de rosto](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
 
-Each example project in the [Introduction](.) has a **See inside** link for you to open the project, look at the code, get ideas, and see how they work.
+Cada projeto de exemplo na [Introdução](.) tem um link **Veja dentro** para você abrir o projeto, ver o código, obter ideias e ver como elas funcionam.
 
-This project uses text and emoji to ask the user to choose a size then uses their answer to size all the shapes:
+Este projeto usa texto e emoji para pedir ao usuário que escolha um tamanho e, em seguida, usa sua resposta para dimensionar todas as formas:
 
-**McEwen tartan**: [See inside](https://trinket.io/python/4706d1a81b){:target="_blank"}
+**McEwen tartan**: [Ver interior](https://trinket.io/python/4706d1a81b){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-Take a look at some Powerful patterns projects created by community members in the Raspberry Pi Foundation’s [Powerful patterns - Community library](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
+Dê uma olhada em alguns projetos de super padrões criados por membros da comunidade na Fundação Raspberry Pi[Powerful patterns - Community library](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
 
 --- save ---
 
