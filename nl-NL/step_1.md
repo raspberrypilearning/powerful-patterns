@@ -1,4 +1,4 @@
-## Inleiding
+## You will make
 
 Maak een stukje inspirerende kunst die kan worden geschaald met behulp van herhaalde patronen.
 
@@ -22,6 +22,8 @@ Je gaat:
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
+
+### Play ▶️
 
 Voer dit voorbeeld uit en denk na over het herhaalde motief. Hoe zou je beschrijven wat er in de animatie gebeurt?
 
@@ -51,7 +53,7 @@ Je krachtige patroon kan:
 + Het patroon verplaatsen om variaties te creëren
 </div>
 
-### Doe inspiratie op
+### Get ideas 💭
 
 --- task ---
 
