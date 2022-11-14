@@ -8,7 +8,7 @@ copyedit: true
 last_tested: "2021-10-06"
 steps:
   - 
-    title: You will make
+    title: Você vai fazer
   - 
     title: A sua ideia
   - 
@@ -20,7 +20,7 @@ steps:
     completion:
       - internal
   - 
-    title: Checklist
+    title: Lista de tarefas
     completion:
       - external
   - 
