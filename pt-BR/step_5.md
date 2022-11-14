@@ -1,4 +1,4 @@
-## Checklist
+## Lista de tarefas
 
 Você cumpriu o **resumo do projeto**? Pense no seu projeto e marque os recursos que o seu projeto possui na lista de verificação abaixo.
 
