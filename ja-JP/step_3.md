@@ -5,7 +5,7 @@
 繰り返し模様の最初の要素であるモチーフを作成します。
 </div>
 <div>
-![さまざまな形を使用して作ったモチーフの例] (images/motif.png){:width="300px"}
+![さまざまな形を使用して作ったモチーフの例](images/motif.png){:width="300px"}
 </div>
 </div>
 
