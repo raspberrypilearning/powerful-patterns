@@ -1,4 +1,4 @@
-## You will make
+## O que você irá fazer
 
 Crie uma inspiradora obra de arte, que pode ser desenhada com padrões escaláveis.
 
