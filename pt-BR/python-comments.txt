@@ -142,9 +142,9 @@ VERDE e AZUL
 
 Cruzes
 
-Desenhe as cruzes alternadas YELLOW ("amarela") e RED ("vermelha")
+Desenhe as cruzes alternadas AMARELO e VERMELHO
 
-YELLOW ("amarelo") e RED ("vermelho")
+AMARELO e VERMELHO
 
 Desenhe as cruzes de costura
 
