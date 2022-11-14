@@ -6,13 +6,13 @@ ouro
 
 tomate
 
-geléia
+geleia
 
 iniciar_y
 
 exterior
 
-amarelo verde
+amareloverde
 
 quarto
 
