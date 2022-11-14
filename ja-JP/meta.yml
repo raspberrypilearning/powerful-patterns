@@ -9,7 +9,7 @@ last_tested: "2021-10-06"
 steps:
   - title: あなたが作ります
   - title: あなたのアイデア
-  - title: 作成とテスト-モチーフ
+  - title: 作成とテスト：モチーフ
     completion:
       - engaged
   - title: 'テスト: 繰返し模様'
