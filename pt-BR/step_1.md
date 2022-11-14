@@ -23,7 +23,7 @@ Você irá:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
 
-### Play ▶️
+### Jogue ▶️
 
 Execute este exemplo e pense no motivo repetido. Como você descreveria o que está acontecendo na animação?
 
@@ -53,7 +53,7 @@ Seu super padrão pode:
 + Traduza o padrão para criar variações
 </div>
 
-### Get ideas 💭
+### Obter ideias 💭
 
 --- task ---
 
