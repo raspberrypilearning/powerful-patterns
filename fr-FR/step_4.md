@@ -21,7 +21,7 @@ Regarde ce papier peint art déco. Comment le motif change-t-il pour former le m
 Pense au modèle que tu crées. Comment ton motif change-t-il pour créer le motif général. Utilise ces questions pour t'aider à faire abstraction :
 - Est-ce que tout ou partie du motif tourne ?
 - Dans quel sens tourne-t-il ? Et de combien ?
-- Y a-t-il des couches du motif qui se chevauchent ?
+- Le motif comporte-t-il des couches qui se chevauchent ?
 - Combien de fois le motif se répète-t-il ?
 - Comment la répétition est-elle organisée (c'est-à-dire combien de lignes/colonnes) ?
 - Les couleurs changent-elles ?
@@ -33,7 +33,7 @@ Pense au modèle que tu crées. Comment ton motif change-t-il pour créer le mot
 
 Maintenant que tu en sais plus sur la façon dont le motif se transforme en motif complet, tu peux le programmer en utilisant tes réponses aux questions ci-dessus.
 
-**Astuce :** n'oublie pas que tu peux « voir à l'intérieur » n'importe lequel des exemples de l'introduction et « copier » « coller » le code dans ton projet. Les développeurs professionnels le font tout le temps !
+**Astuce :** N'oublie pas que tu peux « voir à l'intérieur » n'importe lequel des exemples de l'introduction et « copier » « coller » le code dans ton projet. Les développeurs professionnels le font tout le temps !
 
 Tu as acquis des compétences vraiment utiles. Voici un rappel pour t'aider à réaliser ton motif répété :
 
@@ -165,7 +165,7 @@ Vérifie que tu as utilisé `frame_count()` correctement dans une boucle.
 
 --- collapse ---
 ---
-title : Mon motif ne ressemble pas à ce que je veux qu'il soit
+title: Mon motif ne ressemble pas à ce que je veux qu'il soit
 ---
 
 Passe en revue les sections ci-dessus sur `rotate()` et `translate()`. Expérimente jusqu'à ce que tu aies ce que tu veux, et rappelle-toi que les erreurs sont puissantes !
@@ -177,7 +177,7 @@ Passe en revue les sections ci-dessus sur `rotate()` et `translate()`. Expérime
 title: J'obtiens une erreur
 ---
 
-Vérifie la syntaxe de ton code. Te manque-t-il des parenthèses `(` ou `)` ou un deux-points ` :` après avoir défini une fonction ? Est-ce que quelque chose est mal orthographié ? Ton code est-il correctement indenté ?
+Vérifie la syntaxe de ton code. Te manque-t-il des parenthèses `(` ou `)` ou un deux-points `:` après avoir défini une fonction ? Est-ce que quelque chose est mal orthographié ? Ton code est-il correctement indenté ?
 
 --- /collapse ---
 
@@ -190,7 +190,7 @@ Modifie le `frame_rate()` au début de ton programme pour l'obtenir à la vitess
 
 --- /collapse ---
 
-Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver comment le réparer ?
+Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver comment le corriger ?
 
 Nous aimons avoir des nouvelles de tes bogues et de la façon dont tu les as corrigés. Utilise le bouton de commentaires au bas de cette page si tu as trouvé un bogue différent dans ton projet.
 
