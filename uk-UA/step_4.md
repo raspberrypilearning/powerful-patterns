@@ -1,41 +1,41 @@
-## Expand and test: Pattern
+## Розширюй та тестуй: Візерунок
 
-Now it's time to make your full pattern!
+Настав час зібрати повноцінний візерунок!
 
-![Examples of finished projects that have the motif used repeatedly to form a full pattern.](images/second.gif)
+![Приклади готових проєктів, в яких мотив використовується багаторазово, утворюючи повноцінний візерунок.](images/second.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Abstraction</span> is problem solving by reducing unnecessary detail. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Абстракція</span> - це вирішення проблем шляхом зменшення непотрібних деталей. 
 
 </p>
 
 --- task ---
 
-Look at this Malaysian layer cake (kek lapis Sarawak). How does the motif change to make the overall pattern?
+Подивись на цей Малайзійський листковий торт (kek lapis Sarawak). Як змінюється його мотив, щоб утворився загальний візерунок?
 
-![The motif from the kek lapis Sarawak project next to the complete pattern.](images/kek-motif.png)
+![Мотив з проєкту Малайзійський листковий торт поруч з повним візерунком.](images/kek-motif.png)
 
-Look at this art deco wallpaper. How does the motif change to make the overall pattern?
+Подивись на ці шпалери в стилі арт-деко. Як змінюється його мотив, щоб утворився загальний візерунок?
 
-![The motif from the art deco wallpaper project next to the complete pattern.](images/spirals-motif.png)
+![Мотив з проєкту шпалер в стилі арт-деко поруч з повним візерунком.](images/spirals-motif.png)
 
-Think about the pattern you are making. How does your motif change to make the overall pattern. Use these questions to help you abstract:
-- Does the whole, or part, of the motif rotate?
-- What direction does it rotate? And by how much?
-- Are there layers to the pattern that overlap?
-- How many times does the motif repeat itself?
-- How is the repetition organised (i.e. how many rows/columns)?
-- Do the colours change?
-- Are there details that are not included in the motif (i.e. the icing in the Malaysian layer cake)?
+Подумай про візерунок, який ти створюєш. Як змінюється твій мотив, щоб скласти загальний візерунок. Використовуй ці питання, які допоможуть тобі зробити висновки:
+- Мотив обертається повністю або тільки його частина?
+- В який бік він обертається? І на скільки?
+- Чи має малюнок шари, які накладаються один на одного?
+- Скільки разів повторюється мотив?
+- Як відбувається повторення (тобто скільки рядків/стовпчиків)?
+- Чи змінюються кольори?
+- Чи є якісь інші деталі, які не входять до мотиву (наприклад, глазур у Малайзійському листковому торті)?
 
 --- /task ---
 
 --- task ---
 
-Now that you know more about how the motif turns into the whole pattern, you can program it using your answers to the questions above.
+Тепер, коли ти знаєш більше про перетворення мотиву в цілий візерунок - запрограмуй свій мотив, використовуючи свої відповіді на питання, наведені вище.
 
-**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Professional developers do this all the time!
+**Порада:** Не забувай, що ти можеш 'Подивитись код' будь-якого з прикладів у вступі та 'скопіювати' і 'вставити' код у свій проєкт. Професійні девелопери роблять це постійно!
 
-You have built up some really useful skills. Here is a reminder to help you make your repeated pattern:
+Ти здобув(-ла) дійсно дуже корисні навички. Ось нагадування, яке допоможе тобі створити повторення візерунка:
 
 [[[processing-matrix]]]
 
@@ -51,14 +51,14 @@ You have built up some really useful skills. Here is a reminder to help you make
 --- collapse ---
 
 ---
-title: Random positions
+title: Випадкові позиції
 ---
 
-You can add `from random import randint` at the top of **main.py**, this allows you to use the `randint` function to generate random numbers.
+Ти можеш додати `from random import randint` у верхній частині **main.py** - це дозволить використовувати функцію `randint` для генерування випадкових чисел.
 
-To use the `randint` function, you need to call it in your the code.
+Для використання функції `randint` необхідно викликати її у своєму коді.
 
-One way to use random is to move your motif to a random position each time it is drawn:
+Один із способів використання рандому - це переміщення мотиву у випадкову позицію кожного разу, коли він малюється:
 
 --- code ---
 ---
@@ -70,7 +70,7 @@ push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) 
 
 --- /code ---
 
-You could also use random to change the colours in your motif as it is redrawn.
+Ти також можеш використовувати випадковий порядок для зміни кольорів твого мотиву під час його малювання.
 
 --- code ---
 ---
@@ -87,12 +87,12 @@ BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 --- collapse ---
 
 ---
-title: Changing the size of your motif
+title: Зміна розміру мотиву
 ---
 
-If you use a motif you have already drawn, it might not be the right size.
+Якщо ти використовуєш вже намальований мотив, він може бути неправильного розміру.
 
-You can use `scale()` before calling the function that draws your motif to change its size. Using an input bigger than '1' will make the motif bigger, using an input less than '1' will make it smaller.
+Ти можеш використовувати `scale()` перед викликом функції, яка малює мотив, щоб змінити його розмір. Введення значення більшого за '1' зробить мотив більшим, введення значення меншого за '1' зробить його меншим.
 
 --- code ---
 ---
@@ -108,7 +108,7 @@ scale(0.5) #Half size
 
 --- /task ---
 
-Now you can animate your pattern to show how you made it. Often, patterns have powerful cultural significance in the way that they are made, or the process.
+Тепер ти можеш додати до свого візерунка анімацію, щоб показати, як він був створений. Часто візерунки мають велике культурне значення в тому, яким чином вони зроблені, або в процесі їх виготовлення.
 
 --- task ---
 
@@ -125,74 +125,74 @@ Now you can animate your pattern to show how you made it. Often, patterns have p
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your pattern?
+**Тест:** Покажи комусь свій проєкт та отримай зворотний зв'язок. Ти хочеш внести якісь зміни до свого візерунка?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Налагодження:** Можливо, у твоєму проєкті знайдуться помилки, які потрібно буде виправити. Ось деякі поширені помилки.
 
 --- collapse ---
 
 ---
-title: My motif does not appear to rotate
+title: Здається, мій мотив не обертається
 ---
 
-Make sure you are using the `radian()` function to convert degrees to radians.
+Переконайся, що ти використовуєш функцію `radian()` для перетворення градусів у радіани.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The rotation looks strange
+title: Ротація виглядає дивно
 ---
 
-Have you checked that you are using `translate()` from and to the right coordinates?
+Перевір, чи правильно ти використовуєш `translate()` для переходу до потрібних координат і навпаки?
 
-Do you have more than one thing rotating? You may need to use `push_matrix()` and `pop_matrix()` so the screen rotates at different points at once.
+У тебе обертається більше одного елемента? Тобі може знадобитися використати `push_matrix()` та `pop_matrix()`, щоб екран обертався одночасно в різних точках.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not animate
+title: Мій візерунок не має анімації
 ---
 
-Check you have used `frame_count()` properly in a loop.
+Перевір правильність використання `frame_count()` у циклі.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My pattern does not look the way I want it to
+title: Мій візерунок виглядає не так, як я хочу
 ---
 
-Review the sections above on `rotate()` and `translate()`. Experiment until it looks like you want it to, and remember, mistakes are powerful!
+Переглянь наведені вище пункти про `rotate()` та `translate()`. Експериментуй, поки не отримаєш бажаного результату, і пам'ятай, що помилки - це сила!
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I get an error
+title: У мене виникає помилка
 ---
 
-Check the syntax of your code. Are you missing any brackets `(` or `)` or a colon `:` after defining a function? Is something spelled incorrectly? Is your code indented correctly?
+Перевір синтаксис свого коду. Чи не пропущені якісь дужки `(` або `)`, або двокрапка `:` після визначення функції? Щось неправильно написано? Чи правильно розставлені у коді відступи?
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The animation is too fast/too slow
+title: Анімація занадто швидка/повільна
 ---
 
-Change the `frame_rate()` at the beginning of your program to get it to the speed you like.
+Зміни `frame_rate()` на початку твоєї програми, щоб вона працювала з потрібною тобі швидкістю.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Ти можеш виявити помилку, яка не вказана тут. Можливо, ти зможеш придумати, як її виправити?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+Нам подобається дізнаватись про твої помилки та про те, як їх вдалося виправити. Якщо ти знайшов(-ла) іншу помилку у своєму проєкті, скористайся формою зворотного зв'язку внизу цієї сторінки.
 
 --- /task ---
 
