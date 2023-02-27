@@ -1,4 +1,4 @@
-## Your idea
+## Twój pomysł
 
 Use this step to plan your powerful pattern. You can plan by just thinking, tinkering, drawing or writing, or however you like!
 
@@ -12,7 +12,7 @@ Use this step to plan your powerful pattern. You can plan by just thinking, tink
 
 Think about the purpose of the pattern you are creating.
 
-It could be:
+To może być:
 - To express something significant from your or your family's culture(s)
 - To recreate a geometric pattern that means something to you
 - Something you create with a group of people to send a certain message (for example, a quilt)
@@ -24,7 +24,7 @@ It could be:
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">As well as having symbolic meaning, patterns show the mathematics that is all around us. Mathematics helps us make sense of the world around us and we can find mathematical patterns in art, literature, and nature. </p>
 
-### Who is it for?
+### Dla kogo to jest?
 
 --- task ---
 
@@ -38,7 +38,7 @@ If you are are creating a pattern as a group, does your motif need to be a certa
 
 --- /task ---
 
-### Get started
+### Zaczynamy
 
 --- task ---
 
@@ -77,7 +77,7 @@ def setup(): size(400, 400) #Choose a size
 title: Setting the background colour when your programme starts
 ---
 
-Think about where you want to draw your background. You can:
+Think about where you want to draw your background. Możesz:
 + Add code to `setup()` so that the background is drawn once when you run your project
 + Add code to `draw()` so that the background is redrawn each time the `draw()` function runs
 
@@ -99,7 +99,7 @@ line_highlights: 9
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Debugowanie:** Być może znajdziesz błędy w swoim projekcie, które musisz naprawić. Oto kilka typowych błędów.
 
 --- collapse ---
 
