@@ -16,11 +16,11 @@ steps:
   - 
     title: Construir e testar — Motivo
     completion:
-      - engaged
+      - engajado
   - 
     title: Expandir e testar — Padrão
     completion:
-      - internal
+      - interno
   - 
     title: Lista de tarefas
     completion:
