@@ -1,4 +1,4 @@
-## What next?
+## मदत कुठे शोधावी
 
 You have reached the end of the [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro) path!
 
