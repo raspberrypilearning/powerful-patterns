@@ -1,19 +1,19 @@
-## You will make
+## Ти зробиш
 
-Create a piece of inspirational art that can be scaled using repeated patterns.
+Створиш витвір мистецтва, яке буде надихати та зможеш це масштабувати, використовуючи повторення візерунків.
 
-Your powerful pattern will need to meet the **project brief**.
+Твій потужний візерунок повинен відповідати **короткому опису проєкту**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0; font-weight:bold">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
+<span style="color: #0faeb0; font-weight:bold">Короткий опис проєкту</span> визначає ціль проєкту. Це нагадує місію, яку потрібно виконати.
 </p>
 
-You will:
-+ Draw and position geometric shapes to create a base pattern (or 'motif')
-+ Use `for` loops to `translate` the pattern to fill the screen
-+ Use the `frame_rate` and `frame_count` to animate the creation of the pattern
+Зможеш:
++ Намалювати та розташувати геометричні фігури, щоб створити базовий візерунок (або "мотив")
++ Використовувати цикли `for`, щоб `translate` візерунок для заповнення всього екрану
++ Використовувати `frame_rate` та `frame_count`, щоб анімувати створення візерунка
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns are all around us, in textiles, nature, art, traditions, and design. The starting point of a pattern is called <span style="color: #0faeb0; font-weight:bold">a motif</span>, which is an element that can be repeated and arranged in order to create many different patterns.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Візерунки оточують нас всюди: в тканинах, природі, мистецтві, культурі та дизайні. Початкова точка візерунка називається <span style="color: #0faeb0; font-weight:bold">мотивом</span> - це елемент, який можна повторювати та поєднувати, створюючи безліч різних візерунків.
 </p>
 
 --- no-print ---
@@ -23,11 +23,11 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
 
-### Play ▶️
+### Грати ▶️
 
-Run this example and think about the repeated motif. How would you describe what is happening in the animation?
+Запусти цей приклад та подумай над мотивом, який повторюється. Як ти охарактеризуєш те, що відбувається в анімації?
 
-**Kek lapis Sarawak**: [See inside](https://trinket.io/python/81be7eb895){:target="_blank"}
+**Малайзійський листковий торт**: [Подивитись код](https://trinket.io/python/81be7eb895){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
@@ -37,49 +37,49 @@ Run this example and think about the repeated motif. How would you describe what
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Create a **powerful pattern**
+###КОРОТКИЙ ОПИС ПРОЄКТУ: Створи **потужний візерунок**.
 <hr style="border-top: 2px solid black;"> 
 
-Your powerful pattern should:
-+ Draw and position geometric shapes to create a base pattern
-+ Use loops to repeat the pattern to fill the screen
-+ Animate how the pattern is created
+Тобі треба обов'язково:
++ Намалювати та розташувати геометричні фігури для створення базового візерунка
++ Використовувати цикли для повторення візерунка, щоб заповнити весь екран
++ Анімувати процес створення візерунка
 
-Your powerful pattern could:
-+ Use bold or significant colours
-+ Draw inspiration from your culture or popular culture
-+ Get user input to resize the pattern
-+ Add text and emoji to print details about your art
-+ Translate the pattern to create variations
+Також, ти можеш:
++ Використовувати насичені або виразні кольори
++ Черпати натхнення зі своєї або іншої популярної культури
++ Отримати від користувача вхідні дані, щоб змінити розмір візерунка
++ Додати текст та емодзі, щоб вивести більше деталей про твоє мистецтво
++ Переставляти візерунок, щоб створювати додаткові варіації
 </div>
 
-### Get ideas 💭
+### Отримай ідеї 💭
 
 --- task ---
 
-Run these example projects to get ideas for your pattern.
+Запусти ці приклади проєктів, щоб отримати ідеї для твого візерунка.
 
-How have the motifs been made from circles, ellipses, squares, rectangles, and triangles?:
+З яких фігур: кружечків, овалів, квадратиків, прямокутників та трикутників складаються мотиви?:
 
-**Spirals**: [See inside](https://trinket.io/python/a682f7a884){:target="_blank"}
+**Спіраль**: [Подивитись код](https://trinket.io/python/a682f7a884){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Random faces**: [See inside](https://trinket.io/python/c45185fd44){:target="_blank"}
+**Випадкові обличчя**: [Подивитись код](https://trinket.io/python/c45185fd44){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/c45185fd44?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Art deco wallpaper**: [See inside](https://trinket.io/python/300e1cd325){:target="_blank"}
+**Шпалери в стилі арт-деко**: [Подивитись код](https://trinket.io/python/300e1cd325){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Yakan weaving**: [See inside](https://trinket.io/python/20646dd7f4){:target="_blank"}
+**Ткацтво з Якану**: [Подивитись код](https://trinket.io/python/20646dd7f4){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/20646dd7f4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
@@ -91,9 +91,9 @@ How have the motifs been made from circles, ellipses, squares, rectangles, and t
 
 --- print-only ---
 
-Look at these examples and think about the repeated motif. How have the patterns been made from circles, ellipses, squares, rectangles, and triangles?
+Переглянь ці приклади та задумайся про їх мотив, який повторюється. Як створювалися ці візерунки за допомогою кружечків, овалів, квадратиків, прямокутників та трикутників?
 
-![Complete Kek lapis Sarawak project.](images/kek.png) You can find the Kek lapis Sarawak project here https://trinket.io/python/81be7eb895 ![Complete Spirals project.](images/spirals.png) You can find the Spirals project here https://trinket.io/python/a682f7a884 ![Complete Random faces project.](images/random_faces.png) You can find the Random faces project here https://trinket.io/python/c45185fd44 ![Complete Art deco project.](images/art_deco.png) You can find the Art deco project here https://trinket.io/python/300e1cd325 ![Complete Yakan weaving project.](images/yakan.png) You can find the Yakan weaving project here https://trinket.io/python/20646dd7f4
+![Завершений проєкт Малайзійський листковий торт.](images/kek.png) Ознайомитися з проєктом Малайзійський листковий торт можна тут https://trinket.io/python/81be7eb895 ![Complete Spirals project.](images/spirals.png) Ознайомитися з проєктом Спіраль можна тут https://trinket.io/python/a682f7a884 ![Complete Random faces project.](images/random_faces.png) Ознайомитися з проєктом Випадкові обличчя можна тут https://trinket.io/python/c45185fd44 ![Complete Art deco project.](images/art_deco.png) Ознайомитися з проєктом Шпалери в стилі арт-деко можна тут https://trinket.io/python/300e1cd325 ![Complete Yakan weaving project.](images/yakan.png) Ознайомитися з проєктом Ткацтво з Якану можна тут https://trinket.io/python/20646dd7f4
 
 --- /print-only ---
 
