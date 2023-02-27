@@ -19,7 +19,7 @@ In this example, an art deco wallpaper pattern has been decomposed into the basi
 
 ![A single five circle motif next to an image of the art deco complete pattern with many copies of the motif.](images/motif-pattern.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Tip:** ನೀವು ಏನನ್ನಾದರೂ ಸೇರಿಸಿದಾಗ ನಿಮ್ಮ ಯೋಜನೆಯನ್ನು ಪರೀಕ್ಷಿಸಲು ಮರೆಯದಿರಿ. ನೀವು ಹೆಚ್ಚು ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡುವ ಮೊದಲು ದೋಷಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು ಮತ್ತು ಸರಿಪಡಿಸುವುದು ತುಂಬಾ ಸುಲಭ.
 
 --- task ---
 
@@ -67,7 +67,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Debug:** ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ ನೀವು ಸರಿಪಡಿಸಬೇಕಾದ ಕೆಲವು ದೋಷಗಳನ್ನು ನೀವು ಕಾಣಬಹುದು. Here are some common bugs.
 
 --- collapse ---
 ---
@@ -102,7 +102,7 @@ The third and fourth numbers in `ellipse` and `rect` are the width and height. I
 
 You might find a bug not listed here. Can you figure out how to fix it?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+ನಿಮ್ಮ ದೋಷಗಳ ಬಗ್ಗೆ ಮತ್ತು ನೀವು ಅವುಗಳನ್ನು ಹೇಗೆ ಸರಿಪಡಿಸಿದ್ದೀರಿ ಎಂದು ಕೇಳಲು ನಾವು ಇಷ್ಟಪಡುತ್ತೇವೆ. Use the feedback button at the bottom of this page if you found a different bug in your project.
 
 --- /task ---
 
