@@ -1,4 +1,4 @@
-## You will make
+## Cyflwyniad
 
 Byddwch chi'n creu celf ysbrydoledig mae modd ei chwyddo gan ddefnyddio patrymau wedi'u hailadrodd.
 
@@ -23,7 +23,7 @@ Byddi di'n:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
 
-### Play ▶️
+### Cael ysbrydoliaeth
 
 Rhedwch yr enghraifft hon a meddwl am y motiff sy'n cael ei ailadrodd. Sut fyddech chi'n disgrifio'r hyn sy'n digwydd yn yr animeiddiad?
 
@@ -61,7 +61,7 @@ Rhedwch y prosiectau enghreifftiol hyn i gael syniadau ar gyfer eich patrwm.
 
 Sut mae'r motiffau wedi cael eu gwneud o gylchoedd, elipsau, sgwariau, petryalau a thrionglau?
 
-**Spirals**: [See inside](https://trinket.io/python/a682f7a884){:target="_blank"}
+**Spirals**: [Gweld tu mewn](https://trinket.io/python/38f1a052a8){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
