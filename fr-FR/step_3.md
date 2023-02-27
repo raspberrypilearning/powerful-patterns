@@ -100,7 +100,7 @@ Les troisième et quatrième nombres dans `ellipse` et `rect` sont la largeur et
 
 --- /collapse ---
 
-Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver comment le réparer ?
+Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver comment le corriger ?
 
 Nous aimons avoir des nouvelles de tes bogues et de la façon dont tu les as corrigés. Utilise le bouton de commentaires au bas de cette page si tu as trouvé un bogue différent dans ton projet.
 
