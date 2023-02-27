@@ -131,7 +131,7 @@ Now you can animate your pattern to show how you made it. Often, patterns have p
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Debugowanie:** Być może znajdziesz błędy w swoim projekcie, które musisz naprawić. Oto kilka typowych błędów.
 
 --- collapse ---
 
@@ -192,7 +192,7 @@ Change the `frame_rate()` at the beginning of your program to get it to the spee
 
 You might find a bug not listed here. Can you figure out how to fix it?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+Uwielbiamy słuchać o błędach jakie znalazłeś i o tym, jak je naprawiłeś. Use the feedback button at the bottom of this page if you found a different bug in your project.
 
 --- /task ---
 
