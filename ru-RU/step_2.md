@@ -12,7 +12,7 @@ Use this step to plan your powerful pattern. You can plan by just thinking, tink
 
 Think about the purpose of the pattern you are creating.
 
-It could be:
+Это может быть:
 - To express something significant from your or your family's culture(s)
 - To recreate a geometric pattern that means something to you
 - Something you create with a group of people to send a certain message (for example, a quilt)
@@ -38,7 +38,7 @@ If you are are creating a pattern as a group, does your motif need to be a certa
 
 --- /task ---
 
-### Get started
+### Начни
 
 --- task ---
 
