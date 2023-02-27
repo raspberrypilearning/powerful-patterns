@@ -54,9 +54,9 @@ Shape
 
 Fonts
 
-Text
+टेक्स्ट
 
-Colour
+रंग
 
 Images
 
@@ -64,7 +64,7 @@ Environment
 
 Transform
 
-Keyboard
+कीबोर्ड (Keyboard)
 
 a short row of squares
 
@@ -90,7 +90,7 @@ quarter size paths
 
 Pattern colours
 
-blue
+नीला
 
 gold
 
