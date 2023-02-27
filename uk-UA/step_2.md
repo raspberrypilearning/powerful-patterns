@@ -1,64 +1,64 @@
-## Your idea
+## Свою ідею
 
-Use this step to plan your powerful pattern. You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Використовуй цей крок, щоб створити план свого потужного візерунка. Ти можеш планувати, просто думаючи, майструючи, малюючи або пишучи - як завгодно!
 
-![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-1.gif)
+![Анімований gif з трьома різними прикладами з використанням різних форм для створення мотивів та анімації для зростання візерунка.](images/ideas-1.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns often have <span style="color: #0faeb0">cultural or religious significance</span>. Certain geometric shapes and positions can have symbolic or sacred meanings. Whether the pattern is in architecture, fabric, art, cooking, or something else, the process of making the pattern can also be significant.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Візерунки часто мають <span style="color: #0faeb0">культурне чи релігійне значення</span>. Певні геометричні фігури та їх положення можуть мати символічне або сакральне значення. Неважливо, чи є візерунок в архітектурі, тканині, мистецтві, кулінарії або чомусь іншому, процес створення візерунка також може бути важливим.</p>
 
-### Why are you making your powerful pattern ?
+### Для чого ти робиш свій потужний візерунок?
 
 --- task ---
 
-Think about the purpose of the pattern you are creating.
+Подумай, з якою метою ти створюєш візерунок.
 
-It could be:
-- To express something significant from your or your family's culture(s)
-- To recreate a geometric pattern that means something to you
-- Something you create with a group of people to send a certain message (for example, a quilt)
-- To show something fascinating about about a hobby (for example, art, science, nature, music)
+Це може бути:
+- Висловити щось важливе зі своєї культури або культури своєї сім'ї
+- Відтворити геометричний візерунок, який щось для тебе означає
+- Щось, що ти створюєш разом з групою людей, щоб надіслати певне повідомлення (наприклад, ковдру)
+- Показати щось захоплююче про своє хобі (наприклад, мистецтво, наука, природа, музика)
 
-**Tip:** Patterns are everywhere! You might choose to get inspiration by going on a pattern hunt around your physical environment or online.
+**Порада:** Візерунки скрізь! Ти можеш шукати натхнення у своєму реальному оточенні або в інтернеті, шукаючи візерунки.
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">As well as having symbolic meaning, patterns show the mathematics that is all around us. Mathematics helps us make sense of the world around us and we can find mathematical patterns in art, literature, and nature. </p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Окрім символічного значення, візерунки відображають математику, яка нас оточує. Математика допомагає нам зрозуміти навколишній світ, і ми можемо знаходити математичні закономірності в мистецтві, літературі та природі. </p>
 
-### Who is it for?
+### Для кого вона буде призначена?
 
 --- task ---
 
-Think about who you will make your pattern for (your **audience**).
+Подумай, для кого ти будеш створювати свій візерунок (твоя **аудиторія**).
 
-What is the significance of your pattern? Will the colours, shapes, or way the pattern is repeated mean something special to you or your audience?
+Яке значення має твій візерунок? Чи означають кольори, форми або спосіб повторення візерунка щось особливе для тебе або твоєї аудиторії?
 
-Sharing your pattern is a great way to express something about yourself or your culture.
+Поділись своїм візерунком - це чудовий спосіб висловити щось про себе або свою культуру.
 
-If you are are creating a pattern as a group, does your motif need to be a certain size or shape to fit with other parts of a bigger pattern?
+Якщо ти створюєш візерунок разом з групою, чи повинен твій мотив бути визначеного розміру або форми, щоб він поєднувався з іншими частинами більшого візерунка?
 
 --- /task ---
 
-### Get started
+### З чого почати
 
 --- task ---
 
-Open the [Powerful patterns starter project](https://trinket.io/python/6c4a0c6406){:target=blank } and click on the remix button.
+Відкрий [Потужні візерунки - стартовий проєкт](https://trinket.io/python/6c4a0c6406){:target=blank } та натисни на кнопку Remix.
 
 --- /task ---
 
-### Setup your project
+### Налаштуй свій проєкт
 
 --- task ---
 
-Add code to `setup()` to get your project ready.
+Додай код до `setup()`, щоб підготувати свій проєкт.
 
 --- collapse ---
 
 ---
-title: Setting the screen size when your programme starts
+title: Налаштування розміру екрана під час запуску програми
 ---
 
-**Choose:** Add a size that suits the pattern you want to create. You can always change this later as your project evolves.
+**Обирай:** Встанови розмір, відповідно до розміру візерунка, який ти хочеш створити. Ти завжди зможеш змінити це пізніше, по мірі розвитку твого проєкту.
 
 --- code ---
 ---
@@ -74,12 +74,12 @@ def setup(): size(400, 400) #Choose a size
 --- collapse ---
 
 ---
-title: Setting the background colour when your programme starts
+title: Налаштування кольору фону під час запуску програми
 ---
 
-Think about where you want to draw your background. You can:
-+ Add code to `setup()` so that the background is drawn once when you run your project
-+ Add code to `draw()` so that the background is redrawn each time the `draw()` function runs
+Подумай, як ти хочеш намалювати свій фон. Ти можеш:
++ Додати код до `setup()`, щоб фон малювався один раз при запуску проєкту
++ Додати код до `draw()`, щоб фон малювався щоразу при запуску функції `draw()`
 
 --- code ---
 ---
@@ -99,25 +99,25 @@ line_highlights: 9
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Налагодження:** Можливо, у твоєму проєкті знайдуться помилки, які потрібно буде виправити. Ось деякі поширені помилки.
 
 --- collapse ---
 
 ---
-title: I've updated my size and colour but the output area stays the same
+title: Я змінив(-ла) розмір та колір, але область виводу залишилася такою самою
 ---
 
-After changing the code, you will need to `run` your project to see the changes in the output area.
+Після внесення змін до коду, тобі потрібно зробити `run` свого проєкту, щоб побачити зміни в області виводу.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I've tried different numbers, but the background colour doesn't change
+title: Я спробував(-ла) різні цифри, але колір фону не змінюється
 ---
 
-The maximum amount of red, green, or blue is `255`. Make sure all your `background` colour values are between `0` and `255`.
+Максимальне значення для червоного, зеленого, або синього - `255`. Переконайся, що всі значення кольору для твого фону `background` знаходяться між `0` та `255`.
 
 --- /collapse ---
 
