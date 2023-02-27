@@ -1,4 +1,4 @@
-## You will make
+## Ce que tu vas faire
 
 Créer une œuvre d'art inspirante qui peut être mise à l'échelle en utilisant des motifs répétés.
 
@@ -23,7 +23,7 @@ Tu vas devoir :
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
 
-### Play ▶️
+### Joue ▶️
 
 Exécute cet exemple et pense au motif répété. Comment décrirais-tu ce qui se passe dans l'animation ?
 
@@ -50,10 +50,10 @@ Ton motif puissant pourrait :
 + S'inspirer de ta culture ou de la culture populaire
 + Obtenir l'avis de l'utilisateur pour redimensionner le motif
 + Ajouter du texte et des emoji pour imprimer des détails sur ton art
-+ Traduire le motif pour créer des variations
++ Translater le motif pour créer des variations
 </div>
 
-### Get ideas 💭
+### Trouve l'inspiration 💭
 
 --- task ---
 
