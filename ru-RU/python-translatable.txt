@@ -68,4 +68,4 @@ squares
 
 gap
 
-cross
+крестик
