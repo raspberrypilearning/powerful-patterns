@@ -24,7 +24,7 @@ Réfléchis à l'objectif du motif que tu crées.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">En plus d'avoir une signification symbolique, les motifs illustrent les mathématiques qui nous entourent. Les mathématiques nous aident à donner un sens au monde qui nous entoure et nous pouvons trouver des modèles mathématiques dans l'art, la littérature et la nature. </p>
 
-### C'est pour qui ?
+### À qui s'adresse-t-il ?
 
 --- task ---
 
