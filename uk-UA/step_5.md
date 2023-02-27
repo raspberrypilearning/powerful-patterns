@@ -1,98 +1,98 @@
-## Checklist
+## Контрольний список
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+Вже ознайомилися з **коротким описом проєкту**? Проаналізуй свій проєкт, переглянь наведений нижче контрольний список та відміть ті пункти, які стосуються твого проєкту.
 
-Does your powerful pattern:
-
---- task ---
-
-Draw and position geometric shapes to create a base pattern (or motif) --- /task ---
+Які пункти стосуються твого потужного візерунка:
 
 --- task ---
 
-Use loops to repeat the pattern to fill the screen
+Малювання та розташування геометричних фігур для створення базового візерунка (або мотиву) --- /task ---
+
+--- task ---
+
+Використання циклів для повторення візерунка, щоб заповнити весь екран
 
 --- /task ---
 
 --- task ---
 
-Animate how the pattern is created
+Анімація процесу створення візерунка
 
 --- /task ---
 
-Your powerful pattern could also:
+Які з цих необов'язкових пунктів стосуються твого потужного візерунка:
 
 --- task ---
 
-Use bold or significant colours
-
---- /task ---
-
---- task ---
-
-Draw inspiration from your culture or popular culture
+Використання насичених або виразних кольорів
 
 --- /task ---
 
 --- task ---
 
-Get user input to resize the pattern
+Натхненний твоєю або іншою популярною культурою
 
 --- /task ---
 
 --- task ---
 
-Add text and emoji to print details about your art
+Отримання вхідних даних від користувача для зміни розміру візерунка
 
 --- /task ---
 
 --- task ---
 
-Translate the pattern to create variations
+Додавання тексту та емодзі, щоб відобразити більше деталей про твоє мистецтво
+
+--- /task ---
+
+--- task ---
+
+Перенесення візерунка для створення додаткових варіацій
 
 --- /task ---
 
 
 --- task ---
 
-Share your work with others in an online gallery
+Поділитись з іншими своєю роботою в онлайн-галереї
 
 --- /task ---
 
 
-Reflecting about how you made your powerful pattern will help you in your future projects.
+Роздуми про те, як створювався твій потужний візерунок, допоможуть тобі у майбутніх проєктах.
 
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
---- task ---
-
-How did you get your ideas?
-
---- /task ---
+Дай відповіді на наведені нижче запитання. Намалюй, напиши, надрукуй у документі, розкажи комусь або використовуй свій власний творчий спосіб, який найкраще тобі підходить, щоб дати свої відповіді.
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Звідки у тебе з'явилися ідеї?
 
 --- /task ---
 
 --- task ---
 
-Mistakes and failures are often the catalyst for discovery and success.
-
-Oprah Winfrey was fired from her first job, but she went on to become a famous and influential producer and philanthropist. She once said "turn your wounds into wisdom".
-
-What mistakes did you make and how did they help you?
+Що нового цікавого ти дізнався(лась)?
 
 --- /task ---
 
-### Now you are a digital artist and mathematician!
+--- task ---
 
-Take a moment to celebrate what you have made.
+Помилки та невдачі часто стають стимулом для розвитку та успіху.
+
+Опра Вінфрі була звільнена з першої роботи, але стала відомою та авторитетною продюсеркою та філантропом. Якось вона сказала: "Перетворіть свої рани на мудрість".
+
+Які помилки ти допустив(-ла) і як вони тобі допомогли?
+
+--- /task ---
+
+### Тепер ти - цифровий художник та математик!
+
+Знайди хвилинку, щоб насолодитися тим, що вдалося зробити.
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Куди ти спрямуєш свої нові сили? Що будеш робити далі?
 
 --- /task ---
 
