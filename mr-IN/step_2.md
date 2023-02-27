@@ -1,4 +1,4 @@
-## Your idea
+## तुमची कल्पना
 
 Use this step to plan your powerful pattern. You can plan by just thinking, tinkering, drawing or writing, or however you like!
 
@@ -12,7 +12,7 @@ Use this step to plan your powerful pattern. You can plan by just thinking, tink
 
 Think about the purpose of the pattern you are creating.
 
-It could be:
+हे असू शकते:
 - To express something significant from your or your family's culture(s)
 - To recreate a geometric pattern that means something to you
 - Something you create with a group of people to send a certain message (for example, a quilt)
@@ -38,7 +38,7 @@ If you are are creating a pattern as a group, does your motif need to be a certa
 
 --- /task ---
 
-### Get started
+### सुरु करूया
 
 --- task ---
 
@@ -77,7 +77,7 @@ def setup(): size(400, 400) #Choose a size
 title: Setting the background colour when your programme starts
 ---
 
-Think about where you want to draw your background. You can:
+Think about where you want to draw your background. तुम्ही हे करू शकता:
 + Add code to `setup()` so that the background is drawn once when you run your project
 + Add code to `draw()` so that the background is redrawn each time the `draw()` function runs
 
