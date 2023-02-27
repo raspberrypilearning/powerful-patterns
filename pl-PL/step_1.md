@@ -8,7 +8,7 @@ Your powerful pattern will need to meet the **project brief**.
 A <span style="color: #0faeb0; font-weight:bold">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
 </p>
 
-You will:
+Co zrobisz:
 + Draw and position geometric shapes to create a base pattern (or 'motif')
 + Use `for` loops to `translate` the pattern to fill the screen
 + Use the `frame_rate` and `frame_count` to animate the creation of the pattern
