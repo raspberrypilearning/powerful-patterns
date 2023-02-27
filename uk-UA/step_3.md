@@ -1,31 +1,31 @@
-## Build and test: Motif
+## Будуй та тестуй: Мотив
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it's time to make your motif, the first element of your pattern.
+Настав час створити мотив - перший елемент твого візерунка.
 </div>
 <div>
-![An example of a motif using various shapes to create the motif.](images/motif.png){:width="300px"}
+![Приклад мотиву з використанням різних форм для створення мотиву.](images/motif.png){:width="300px"}
 </div>
 </div>
 
-The process of making your motif mirrors what computer scientists often do when they create a program or solution to a problem. This process is called **decomposition** and you will use decomposition to create your motif.
+Процес створення твого мотиву нагадує те, що часто роблять комп'ютерні вчені, коли вони створюють програму або вирішення якоїсь проблеми. Цей процес має назву **декомпозиція**. Ти будеш використовувати декомпозицію для створення свого мотиву.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Decomposition</span> is breaking something down into parts that are smaller and easier to understand. This means that you can build a pattern one part at a time until it is complete.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Декомпозиція</span> - це розбиття чогось на невеликі частини, які легше зрозуміти. Це означає, що ти можеш створювати візерунок по одній частині, поки він не буде завершений.</p>
 
-Look at the pattern you want to recreate. How can you break it down into one single element (the motif) that repeats?
+Уяви або подивись на візерунок, який ти хочеш створити. Як можна розбити його на один єдиний елемент (мотив), який повторюється?
 
-In this example, an art deco wallpaper pattern has been decomposed into the basic collection of shapes (five circles overlayed) that makes the motif:
+У цьому прикладі візерунок шпалер в стилі арт-деко розбитий на базову сукупність фігур (п'ять кіл, накладених один на одного), з яких складається мотив:
 
-![A single five circle motif next to an image of the art deco complete pattern with many copies of the motif.](images/motif-pattern.png)
+![Мотив з п'яти кіл поруч із зображенням завершеного візерунка в стилі ар-деко з багатьма копіями мотиву.](images/motif-pattern.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Порада:** Не забувай тестувати свій проєкт кожного разу, коли щось додаєш. Набагато простіше знайти та виправити помилки до того, як внести нові зміни.
 
 --- task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your motif:
+Ти здобув(-ла) дійсно дуже корисні навички. Ось нагадування, яке допоможе тобі створити свій мотив:
 
-### Shapes and images
+### Фігури та зображення
 
 [[[processing-python-ellipse]]]
 
@@ -35,7 +35,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-add-image]]]
 
-### Colours and effects
+### Кольори та ефекти
 
 [[[generic-theory-simple-colours]]]
 
@@ -45,7 +45,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-tint]]]
 
-### Position and transform
+### Розташування та перетворення
 
 [[[processing-matrix]]]
 
@@ -61,48 +61,48 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your motif?
+**Тест:** Покажи комусь свій проєкт та отримай зворотний зв'язок. Ти хочеш внести якісь зміни у свій мотив?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Налагодження:** Можливо, у твоєму проєкті знайдуться помилки, які потрібно буде виправити. Ось деякі поширені помилки.
 
 --- collapse ---
 ---
-title: Shapes are not aligned as I expected
+title: Фігури вирівняні не так, як я очікував(-ла)
 ---
 
-If you want the shapes to be aligned, then take a closer look at your coordinate points. Experiment with the numbers until you have the layout you want.
+Якщо ти хочеш, щоб фігури були вирівняні - придивись уважніше до своїх координатних точок. Експериментуй з цифрами, поки не отримаєш потрібний тобі варіант.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I can't see some of the shapes in my motif
+title: Я не бачу деякі фігури на моєму мотиві
 ---
 
-The order in which you draw things is very important.
+Порядок, в якому ти малюєш деталі, дуже важливий.
 
-Computer graphics are made of layers. In your motif, each shape is a layer. Objects on higher layers sit in front of objects on lower layers. Imagine cutting all the shapes out of paper. Depending on how you arrange and overlap that paper, the final result could look very different.
+Комп'ютерна графіка побудована з багатьох шарів. У твоєму мотиві кожна фігура - це шар. Об'єкти на вищих шарах знаходяться перед об'єктами на нижчих шарах. Уяви, що ти вирізаєш всі фігури з паперу. Залежно від того, як ти будеш розташовувати та накладати цей папір, кінцевий результат може виглядати зовсім по-різному.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: My circles/squares are not equal
+title: Кола/квадрати не рівні
 ---
 
-The third and fourth numbers in `ellipse` and `rect` are the width and height. If you make them the same, you will get a circle or square.
+Третій та четвертий номери у `ellipse` та `rect` - це ширина та висота. Якщо зробити їх однаковими - вийде коло або квадрат.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Ти можеш виявити помилку, яка не вказана тут. Можливо, ти зможеш придумати, як її виправити?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+Нам подобається дізнаватись про твої помилки та про те, як їх вдалося виправити. Якщо ти знайшов(-ла) іншу помилку у своєму проєкті, скористайся формою зворотного зв'язку внизу цієї сторінки.
 
 --- /task ---
 
