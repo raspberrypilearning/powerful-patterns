@@ -5,7 +5,7 @@ Si tu as le temps, tu peux perfectionner ton projet. Tu pourrais déjà avoir de
 ![Exemples finis avec entrée et création d'éléments de visage](images/upgrade.gif)
 
 Tu pourrais :
-- Utiliser du texte et des emoji pour `imprimer()` une description de ton modèle
+- Utiliser du texte et des emoji pour `print()` une description de ton modèle
 - Ajuster la taille de ton motif en fonction de l'`input()` utilisateur
 - Créer un motif à l'échelle à l'aide de ton projet [Créer un visage](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
 
@@ -19,7 +19,7 @@ Ce projet utilise du texte et des emoji pour demander à l'utilisateur de choisi
   </iframe>
 </div>
 
-Jette un coup d'œil à certains projets de modèles puissants créés par des membres de la communauté dans [Motifs puissants - bibliothèque de la communauté](https://wke.lt/w/s/yyNPQT){:target="_blank"} de la Raspberry Pi Foundation.
+Jette un coup d'œil à certains projets de modèles puissants créés par des membres de la communauté dans [Powerful patterns - Community library](https://wke.lt/w/s/yyNPQT){:target="_blank"} de la Raspberry Pi Foundation.
 
 --- save ---
 
