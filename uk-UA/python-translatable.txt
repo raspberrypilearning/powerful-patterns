@@ -10,7 +10,7 @@ jam
 
 start_y
 
-outer
+зовнішній
 
 yellowgreen
 
@@ -28,7 +28,7 @@ green
 
 circle_size
 
-This art uses lots of circles!
+У цьому арті використовується багато кружечків!
 
 motif_size
 
@@ -40,15 +40,15 @@ YELLOW
 
 BLUE
 
-This is 🇵🇭 Yakan weaving
+Це 🇵🇭 Ткацтво з Якану
 
 motif_width
 
-󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿This is McEwen Tartan
+Це Тартан Макьюєна
 
 square_size
 
-What size tartan would you like? 20, 50, or 100
+Який розмір тартана ти хочеш? 20, 50 або 100
 
 lines
 
@@ -68,4 +68,4 @@ squares
 
 gap
 
-cross
+хрест
