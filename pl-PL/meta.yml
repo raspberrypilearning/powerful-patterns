@@ -12,7 +12,7 @@ steps:
   - 
     title: You will make
   - 
-    title: Your idea
+    title: Twój pomysł
   - 
     title: Build and test - Motif
     completion:
@@ -30,4 +30,4 @@ steps:
   - 
     title: Share
   - 
-    title: What next?
+    title: Co następne?
