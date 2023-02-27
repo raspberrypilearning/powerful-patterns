@@ -1,7 +1,7 @@
-## What next?
+## Що далі?
 
-You have reached the end of the [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro) path!
+Ти досягнув(-ла) завершення мануалу [Знайомство з Python](https://projects.raspberrypi.org/en/pathways/python-intro)!
 
 [[[python-coolest-projects]]]
 
-You can explore our [other Python projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) and try them out.
+Ти можеш ознайомитися з іншими нашими [Python проєктами](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) та випробувати їх.
