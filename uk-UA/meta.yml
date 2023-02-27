@@ -1,5 +1,5 @@
 ---
-title: Powerful patterns
+title: Потужні візерунки
 hero_image: images/banner.png
 description:
   - 
@@ -10,24 +10,24 @@ copyedit: true
 last_tested: "2021-10-06"
 steps:
   - 
-    title: You will make
+    title: Ти зробиш
   - 
-    title: Your idea
+    title: Свою ідею
   - 
-    title: Build and test - Motif
+    title: Будуй та тестуй - Мотив
     completion:
       - engaged
   - 
-    title: Expand and test - Pattern
+    title: Розширюй та тестуй - Візерунок
     completion:
       - internal
   - 
-    title: Checklist
+    title: Контрольний список
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Вдосконалення твого проєкту
   - 
-    title: Share
+    title: Поділитися
   - 
-    title: What next?
+    title: Що далі?
