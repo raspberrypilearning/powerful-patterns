@@ -14,6 +14,6 @@ Pour obtenir un lien, va sur le bouton de menu **Share** en haut à droite de la
 
 Inspire la communauté Raspberry Pi Foundation avec ton projet !
 
-Pour soumettre ton projet à notre studio ["Motif puissants - Communité"](https://wke.lt/w/s/yyNPQT){:target="_blank"}, remplis [ce formulaire](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Pour soumettre ton projet à notre studio [Powerful pattern - Community](https://wke.lt/w/s/yyNPQT){:target="_blank"}, remplis [ce formulaire](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
