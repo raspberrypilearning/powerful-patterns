@@ -54,7 +54,7 @@ Shape
 
 Fonts
 
-Text
+ಪಠ್ಯ
 
 Colour
 
@@ -64,7 +64,7 @@ Environment
 
 Transform
 
-Keyboard
+ಕೀಬೋರ್ಡ್‌
 
 a short row of squares
 
