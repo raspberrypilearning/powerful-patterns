@@ -61,7 +61,7 @@ Ejecuta estos proyectos de ejemplo para inspirarte y crear tu patrón.
 
 ¿Cómo se crean los motivos a partir de círculos, elipses, cuadrados, rectángulos y triángulos?:
 
-**Spirals**: [See inside](https://trinket.io/python/a682f7a884){:target="_blank"}
+**Espirales**: [Ver dentro](https://trinket.io/python/f734919ae9){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
