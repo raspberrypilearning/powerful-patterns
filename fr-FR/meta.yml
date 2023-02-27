@@ -1,14 +1,16 @@
 ---
 title: Motifs puissants
 hero_image: images/banner.png
-description: Créer une œuvre d'art inspirante qui peut être mise à l'échelle en utilisant des motifs répétés
+description:
+  - 
+  - 
 version: 4
 listed: true
 copyedit: true
 last_tested: "2021-10-06"
 steps:
   - 
-    title: You will make
+    title: Ce que tu vas faire
   - 
     title: Ton idée
   - 
@@ -20,7 +22,7 @@ steps:
     completion:
       - internal
   - 
-    title: Checklist
+    title: Liste de contrôle
     completion:
       - external
   - 
