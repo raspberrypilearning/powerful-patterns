@@ -1,0 +1,23 @@
+---
+title: Потужні візерунки
+hero_image: images/banner.png
+description: Створи витвір мистецтва, яке буде надихати та масштабуй його, використовуючи повторення візерунків
+version: 4
+listed: true
+copyedit: true
+last_tested: "2021-10-06"
+steps:
+  - title: Ти зробиш
+  - title: Свою ідею
+  - title: Будуй та тестуй - Мотив
+    completion:
+      - engaged
+  - title: Розширюй та тестуй - Візерунок
+    completion:
+      - internal
+  - title: Контрольний список
+    completion:
+      - external
+  - title: Вдосконалення твого проєкту
+  - title: Поділитися
+  - title: Що далі?
