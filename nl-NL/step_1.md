@@ -53,7 +53,7 @@ Je krachtige patroon kan:
 + Het patroon verplaatsen om variaties te creëren
 </div>
 
-### Get ideas 💭
+### Doe inspiratie op
 
 --- task ---
 
