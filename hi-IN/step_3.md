@@ -67,7 +67,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**डीबग:** आपको अपने प्रोजेक्ट में कुछ बग मिल सकते हैं जिन्हें आपको ठीक करने की आवश्यकता है। Here are some common bugs.
 
 --- collapse ---
 ---
@@ -102,7 +102,7 @@ The third and fourth numbers in `ellipse` and `rect` are the width and height. I
 
 You might find a bug not listed here. Can you figure out how to fix it?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+हमें आपके बग्स के बारे में सुनना अच्छा लगता है और आपने उन्हें कैसे ठीक किया है। Use the feedback button at the bottom of this page if you found a different bug in your project.
 
 --- /task ---
 
