@@ -1,4 +1,4 @@
-## You will make
+## Lo que harás
 
 Crea una obra de arte inspiradora que se pueda escalar usando patrones repetidos.
 
@@ -23,7 +23,7 @@ Vas a:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">
 
-### Play ▶️
+### Reproducir ▶️
 
 Ejecuta el ejemplo a continuación y piensa en el motivo repetido. ¿Cómo describirías lo que sucede en la animación?
 
@@ -53,7 +53,7 @@ Tu patrón poderoso podría:
 + Trasladar el patrón para crear variaciones
 </div>
 
-### Get ideas 💭
+### Obtén ideas 💭
 
 --- task ---
 
@@ -61,7 +61,7 @@ Ejecuta estos proyectos de ejemplo para inspirarte y crear tu patrón.
 
 ¿Cómo se crean los motivos a partir de círculos, elipses, cuadrados, rectángulos y triángulos?:
 
-**Espirales**: [Ver dentro](https://trinket.io/python/f734919ae9){:target="_blank"}
+**Spirales**: [Ver adentro](https://trinket.io/python/a682f7a884){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
