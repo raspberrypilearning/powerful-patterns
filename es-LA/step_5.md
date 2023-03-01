@@ -1,4 +1,4 @@
-## Checklist
+## Lista de revision
 
 ¿Cumpliste con el **resumen del proyecto**? Piensa en tu proyecto y revisa la lista de verificación a continuación y marca las características que tiene tu proyecto.
 
