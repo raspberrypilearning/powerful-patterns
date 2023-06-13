@@ -27,7 +27,7 @@
 
 Запусти цей приклад та подумай над мотивом, який повторюється. Як ти охарактеризуєш те, що відбувається в анімації?
 
-**Малайзійський листковий торт**: [Подивитись код](https://trinket.io/python/81be7eb895){:target="_blank"}
+**Малайзійський листковий торт**: [Подивитись код](https://trinket.io/python/e03197361d){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
@@ -61,25 +61,25 @@
 
 З яких фігур: кружечків, овалів, квадратиків, прямокутників та трикутників складаються мотиви?:
 
-**Спіраль**: [Подивитись код](https://trinket.io/python/a682f7a884){:target="_blank"}
+**Спіраль**: [Подивитись код](https://trinket.io/python/feca09e90f){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Випадкові обличчя**: [Подивитись код](https://trinket.io/python/c45185fd44){:target="_blank"}
+**Випадкові обличчя**: [Подивитись код](https://trinket.io/python/bfadb0acb8){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/c45185fd44?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Шпалери в стилі арт-деко**: [Подивитись код](https://trinket.io/python/300e1cd325){:target="_blank"}
+**Шпалери в стилі арт-деко**: [Подивитись код](https://trinket.io/python/2aa6f09625){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 </div>
 
-**Ткацтво з Якану**: [Подивитись код](https://trinket.io/python/20646dd7f4){:target="_blank"}
+**Ткацтво з Якану**: [Подивитись код](https://trinket.io/python/84b908c76c){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/20646dd7f4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
@@ -93,7 +93,7 @@
 
 Переглянь ці приклади та задумайся про їх мотив, який повторюється. Як створювалися ці візерунки за допомогою кружечків, овалів, квадратиків, прямокутників та трикутників?
 
-![Завершений проєкт Малайзійський листковий торт.](images/kek.png) Ознайомитися з проєктом Малайзійський листковий торт можна тут https://trinket.io/python/81be7eb895 ![Complete Spirals project.](images/spirals.png) Ознайомитися з проєктом Спіраль можна тут https://trinket.io/python/a682f7a884 ![Complete Random faces project.](images/random_faces.png) Ознайомитися з проєктом Випадкові обличчя можна тут https://trinket.io/python/c45185fd44 ![Complete Art deco project.](images/art_deco.png) Ознайомитися з проєктом Шпалери в стилі арт-деко можна тут https://trinket.io/python/300e1cd325 ![Complete Yakan weaving project.](images/yakan.png) Ознайомитися з проєктом Ткацтво з Якану можна тут https://trinket.io/python/20646dd7f4
+![Завершений проєкт Малайзійський листковий торт.](images/kek.png) Ознайомитися з проєктом Малайзійський листковий торт можна тут https://trinket.io/python/e03197361d ![Complete Spirals project.](images/spirals.png) Ознайомитися з проєктом Спіраль можна тут https://trinket.io/python/feca09e90f ![Complete Random faces project.](images/random_faces.png) Ознайомитися з проєктом Випадкові обличчя можна тут https://trinket.io/python/bfadb0acb8 ![Complete Art deco project.](images/art_deco.png) Ознайомитися з проєктом Шпалери в стилі арт-деко можна тут https://trinket.io/python/2aa6f09625 ![Complete Yakan weaving project.](images/yakan.png) Ознайомитися з проєктом Ткацтво з Якану можна тут https://trinket.io/python/84b908c76c
 
 --- /print-only ---
 
