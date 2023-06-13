@@ -42,7 +42,7 @@
 
 --- task ---
 
-Відкрий [Потужні візерунки - стартовий проєкт](https://trinket.io/python/6c4a0c6406){:target=blank } та натисни на кнопку Remix.
+Відкрий [Потужні візерунки - стартовий проєкт](https://trinket.io/python/5d9a168d73){:target=blank } та натисни на кнопку Remix.
 
 --- /task ---
 
