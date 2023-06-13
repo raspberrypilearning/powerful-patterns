@@ -7,13 +7,13 @@
 Ти можеш:
 - Використати текст та емодзі, щоб `print()` опис для твого візерунка
 - Налаштувати розмір візерунка на основі вхідних даних від користувача `input()`
-- Створити масштабний візерунок, використовуючи свій проєкт [Обличчя](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
+- Створити масштабний візерунок, використовуючи свій проєкт [Обличчя](https://projects.raspberrypi.org/uk-UA/projects/make-a-face){:target="_blank"}
 
 Кожен з прикладів проєктів в [Знайомство з Python](.) мають посилання **Подивитись код**, щоб відкрити проєкт та подивитися на код, щоб отримати ідеї та побачити, як вони працюють.
 
 Цей проєкт використовує текст та емодзі, щоб запропонувати користувачу обрати розмір, а потім використовує його відповідь для визначення розміру всіх фігур:
 
-**Тартан Макьюєна**: [Подивитись код](https://trinket.io/python/4706d1a81b){:target="_blank"}
+**Тартан Макьюєна**: [Подивитись код](https://trinket.io/python/6dd98dd8e1){:target="_blank"}
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
