@@ -43,7 +43,7 @@ Get user input to resize the pattern
 
 --- task ---
 
-Add text and emoji to print details about your art
+Use text and emojis to print details about your art
 
 --- /task ---
 
@@ -56,10 +56,9 @@ Translate the pattern to create variations
 
 --- task ---
 
-Share your work with others in an online gallery
+Be shared with others in an online gallery
 
 --- /task ---
-
 
 Reflecting about how you made your powerful pattern will help you in your future projects.
 

@@ -9,7 +9,7 @@ Now it's time to make your motif, the first element of your pattern.
 </div>
 </div>
 
-The process of making your motif mirrors what computer scientists often do when they create a program or solution to a problem. This process is called **decomposition** and you will use decomposition to create your motif.
+The process of making your motif is the same as what computer scientists often do when they create a program or solution to a problem. This process is called **decomposition** and you will use decomposition to create your motif.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Decomposition</span> is breaking something down into parts that are smaller and easier to understand. This means that you can build a pattern one part at a time until it is complete.</p>
 
@@ -25,15 +25,13 @@ In this example, an art deco wallpaper pattern has been decomposed into the basi
 
 You have built up some really useful skills. Here is a reminder to help you make your motif:
 
-### Shapes and images
+### Shapes
 
 [[[processing-python-ellipse]]]
 
 [[[processing-python-rect]]]
 
 [[[processing-python-triangle]]]
-
-[[[processing-add-image]]]
 
 ### Colours and effects
 
