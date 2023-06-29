@@ -6,18 +6,18 @@ Does your powerful pattern:
 
 --- task ---
 
-Draw and position geometric shapes to create a base pattern (or motif)
+Draw and position geometric shapes to create a base pattern (or motif)?
 --- /task ---
 
 --- task ---
 
-Use loops to repeat the pattern to fill the screen
+Use loops to repeat the pattern to fill the screen?
 
 --- /task ---
 
 --- task ---
 
-Animate how the pattern is created
+Animate how the pattern is created?
 
 --- /task ---
 
@@ -49,7 +49,7 @@ Use text and emojis to print details about your art
 
 --- task ---
 
-Translate the pattern to create variations
+Be translated to create variations
 
 --- /task ---
 
