@@ -66,10 +66,10 @@ filename: main.py - draw()
 
 ---
 
-push_matrix() # Start transformation
-translate(randint(0, 400), randint(0, 400))
-draw_motif()
-pop_matrix() # Reset transformation
+    push_matrix()  # Start transformation
+    translate(randint(0, 400), randint(0, 400))
+    draw_motif()
+    pop_matrix()  # Reset transformation
 
 --- /code ---
 
@@ -82,7 +82,7 @@ filename: main.py - draw()
 
 ---
 
-BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
+    BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 --- /code ---
 
@@ -105,7 +105,7 @@ filename: main.py - draw()
 
 ---
 
-scale(0.5) # Half size
+    scale(0.5)  # Half size
 
 --- /code ---
 

@@ -71,7 +71,7 @@ line_number_start: 6
 line_highlights: 7
 ---
 def setup():
-    size(400, 400) # Choose a size 
+    size(400, 400)  # Choose a size 
 
 --- /code ---
 
@@ -97,7 +97,7 @@ line_highlights: 8
 ---
 def setup():
     size(400, 400)
-    background(255, 255, 255) # Try different numbers to change the colour 
+    background(255, 255, 255)  # Try different numbers to change the colour 
 
 --- /code ---
 
