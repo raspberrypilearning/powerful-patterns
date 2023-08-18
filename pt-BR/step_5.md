@@ -8,6 +8,8 @@ Seu super padrão:
 
 Desenhar e posicionar formas geométricas para criar um modelo como padrão (ou "motivo")
 
+--- /task ---
+
 --- task ---
 
 Use loops para repetir o padrão para preencher a tela
