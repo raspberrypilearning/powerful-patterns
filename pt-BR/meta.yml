@@ -1,0 +1,27 @@
+---
+title: Super padrões
+hero_image: images/banner.png
+description:
+  - Create a piece of inspirational art that can be scaled using repeated
+  - patterns
+meta_title: Python coding projects for kids and teens | Powerful patterns
+meta_description: Learn Python with the Raspberry Pi Foundation's coding projects for kids and teens. Create a piece of inspirational art with Python using repeated patterns.
+version: 4
+listed: true
+copyedit: true
+last_tested: "2021-10-06"
+steps:
+  - title: O que você irá fazer
+  - title: A sua ideia
+  - title: Construir e testar — Motivo
+    completion:
+      - engaged
+  - title: Expandir e testar — Padrão
+    completion:
+      - internal
+  - title: Lista de tarefas
+    completion:
+      - external
+  - title: Melhore o seu projeto
+  - title: Compartilhar
+  - title: E agora?
