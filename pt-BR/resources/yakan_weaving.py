@@ -3,62 +3,59 @@
 from p5 import *
 from math import random
 
-def motif():
-  motif_size = 100
+def motivo():
+    tamanho_motivo = 100
   
-  #Thread colours
-  ORANGE = color(254, 96, 1)
-  PURPLE = color(135, 18, 192)
-  YELLOW = color(243, 200, 19)
-  BLUE = color(83, 171, 176)
-    
-  # Squares
-  fill(ORANGE)
-  rect(0, 0, motif_size/2, motif_size/2)
-  fill(PURPLE)
-  rect(50, 0, motif_size/2, motif_size/2)
-  fill(YELLOW)
-  rect(0, 50, motif_size/2, motif_size/2)
-  fill(BLUE)
-  rect(50, 50, motif_size/2, motif_size/2)
-  fill(PURPLE)
-  rect(0, 0, motif_size/4, motif_size/4)
-  fill(ORANGE)
-  rect(50, 0, motif_size/4, motif_size/4)
-  fill(BLUE)
-  rect(0, 50, motif_size/4, motif_size/4)
-  fill(YELLOW)
-  rect(50, 50, motif_size/4, motif_size/4)
+    # Define cores
+    LARANJA = Color(254, 96, 1)
+    ROXO = Color(135, 18, 192)
+    AMARELO = Color(243, 200, 19)
+    AZUL = Color(83, 171, 176)
+  
+    # Quadrados
+    fill(LARANJA)
+    rect(0, 0, tamanho_motivo/2, tamanho_motivo/2)
+    fill(ROXO)
+    rect(50, 0, tamanho_motivo/2, tamanho_motivo/2)
+    fill(AMARELO)
+    rect(0, 50, tamanho_motivo/2, tamanho_motivo/2)
+    fill(AZUL)
+    rect(50, 50, tamanho_motivo/2, tamanho_motivo/2)
+    fill(ROXO)
+    rect(0, 0, tamanho_motivo/4, tamanho_motivo/4)
+    fill(LARANJA)
+    rect(50, 0, tamanho_motivo/4, tamanho_motivo/4)
+    fill(AZUL)
+    rect(0, 50, tamanho_motivo/4, tamanho_motivo/4)
+    fill(AMARELO)
+    rect(50, 50, tamanho_motivo/4, tamanho_motivo/4)
 
 def rotate_motif():
-  
-  for shape in range(5): # row of shapes
-    pushMatrix() # save settings
-    rotate(radians(45)) # turn shape 45 degrees
-    motif()
-    popMatrix() # go back to saved settings
-    translate(motif_width, 0) # move horizontally
+    for shape in range(5):  # linha de formas
+        push_matrix()  # salvar configurações
+        rotate(radians(45))  # vire a forma 45 graus
+        motivo()
+        pop_matrix()  # voltar para as configurações salvas
+        translate(largura_motivo, 0)  # mover horizontalmente
 
 def setup():
-  size(400, 400)
-  frame_rate(3)
-  background(250, 5, 94) # pink
-  no_stroke()
-  print('This is 🇵🇭 Yakan weaving ') 
-  
+    size(400, 400)
+    background(250, 5, 94)  # rosa
+    no_stroke()
+    print('Isso é 🇵🇭 tecelagem Yakan')
+
 def draw():
+    global largura_motivo
+    largura_motivo = 150
   
-  global motif_width
-  motif_width = 150 
+    translate(-largura_motivo/2, -largura_motivo/2)  # para começar com metade dos motivos
   
-  translate(-motif_width/2, -motif_width/2) # to start with half motifs 
-  
-  if frame_count < 20: # maximum rows
-    for row in range(frame_count):
-      rotate_motif()
-      if row / 2 == 0: # to offset pattern on next row
-        translate(-motif_width * 5 + 75, 80) 
-      else:  
-        translate(-motif_width * 5 - 75, 80) 
-        
-run()
+    if frame_count < 20:  # linhas máximas
+        for row in range(frame_count):
+            rotate_motif()
+            if row / 2 == 0:  # para compensar o padrão na próxima linha
+                translate(-largura_motivo * 5 + 75, 80)
+            else:
+                translate(-largura_motivo * 5 - 75, 80)
+
+run(frame_rate=3)

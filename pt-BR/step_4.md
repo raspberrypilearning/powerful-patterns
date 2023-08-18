@@ -150,7 +150,7 @@ Certifique-se de estar usando a função `radian()` para converter graus em radi
 
 --- collapse ---
 ---
-título: A rotação parece estranha
+title: A rotação parece estranha
 ---
 
 Você verificou se está usando `translate()` com início e fim das coordenadas corretas?
@@ -179,7 +179,7 @@ Revise as seções acima em `rotate()` e `translate()`. Experimente até parecer
 
 --- collapse ---
 ---
-título: Eu recebo um erro
+title: Eu recebo um erro
 ---
 
 Verifique a sintaxe do seu código. Está faltando algum colchete `(` ou `)` ou dois pontos `:` depois de definir uma função? Algo está escrito incorretamente? Seu código está recuado corretamente?
