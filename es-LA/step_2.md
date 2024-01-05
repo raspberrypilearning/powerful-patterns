@@ -42,7 +42,9 @@ Si están creando un patrón como grupo, ¿tu motivo debe tener un tamaño o for
 
 --- task ---
 
-Abre el proyecto de inicio [Patrones poderosos](https://trinket.io/python/6c4a0c6406){:target=blank } y haz clic en el botón Remix.
+Abre el proyecto de inicio [Patrones poderosos](https://trinket.io/python/362bc749c3){:target=blank} y haz clic en el botón Remix. The code editor will open in another browser tab.
+
+If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
 
 --- /task ---
 
@@ -65,7 +67,7 @@ title: Configurar el tamaño de la pantalla cuando se inicia el programa
 language: python filename: main.py - setup() line_numbers: true line_number_start: 6
 line_highlights: 7
 ---
-def setup(): size(400, 400) #Choose a size
+def setup(): size(400, 400) #Elige un tamaño (size)
 
 --- /code ---
 
@@ -86,8 +88,7 @@ Piensa dónde quieres dibujar tu fondo. Puedes:
 language: python filename: main.py - setup() line_numbers: true line_number_start: 9
 line_highlights: 9
 ---
-
-    background(255, 255, 255) #Try different numbers to change the colour
+background(255, 255, 255) #Prueba diferentes números para cambiar el color
 
 --- /code ---
 
