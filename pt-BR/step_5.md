@@ -6,7 +6,7 @@ Seu super padrão:
 
 --- task ---
 
-Desenhar e posicionar formas geométricas para criar um modelo como padrão (ou "motivo")
+Desenhar e posicionar formas geométricas para criar um modelo como padrão (ou "motivo") --- /task ---
 
 --- task ---
 
@@ -16,7 +16,7 @@ Use loops para repetir o padrão para preencher a tela
 
 --- task ---
 
-Animar como o padrão é criado
+Animate how the pattern is created?
 
 --- /task ---
 
@@ -58,7 +58,6 @@ Traduza o padrão para criar variações
 Compartilhe seu trabalho com outras pessoas em uma galeria online
 
 --- /task ---
-
 
 Refletir sobre como você criou seu super padrão o ajudará em seus próximos projetos.
 
