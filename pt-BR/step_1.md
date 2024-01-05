@@ -18,34 +18,30 @@ Você irá:
 
 --- no-print ---
 
+### Jogue ▶️
+
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">
-
-### Jogue ▶️
+<div style="flex-basis: 175px; flex-grow: 1">  
 
 Execute este exemplo e pense no motivo repetido. Como você descreveria o que está acontecendo na animação?
-
-**Kek lapis Sarawak**: [Ver interior](https://trinket.io/python/81be7eb895){: target="_ blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
+**Kek lapis Sarawak**:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/repeated-patterns-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+</div>
 </div>
 
+Você pode encontrar o projeto Kek lapis Sarawak [aqui](https://editor.raspberrypi.org/pt-BR/projects/earth-elves-mash){:target="_blank"}
 --- /task ---
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
 ### RESUMO DO PROJETO: Crie um **super padrão**
-<hr style="border-top: 2px solid black;"> 
-
-Seu super padrão deve:
+<hr style="border-top: 2px solid black;"> Seu super padrão deve:
 + Desenhe e posicione formas geométricas para criar um modelo padrão
 + Use laos para repetir o padrão para preencher a tela
-+ Anime como o padrão é criado
-
-Seu super padrão pode:
++ Anime como o padrão é criado Seu super padrão pode:
 + Usar cores fortes ou significativas
 + Inspirar-se em sua cultura ou cultura popular
 + Obter entrada do usuário para redimensionar o padrão
@@ -61,29 +57,21 @@ Explore estes projetos de exemplo para obter ideia para o seu livro.
 
 Como os motivos foram feitos de círculos, elipses, quadrados, retângulos e triângulos?:
 
-**Espirais**: [Veja um exemplo ](https://trinket.io/python/a682f7a884){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Espirais**: [Veja um exemplo ](https://editor.raspberrypi.org/pt-BR/projects/tulip-self-polar){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/spirals-pattern-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Spirals project [here](https://editor.raspberrypi.org/en/projects/spirals-pattern-example){:target="_blank"}
 
-**Faces aleatórias**: [Ver interior](https://trinket.io/python/c45185fd44){: target="_ blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/c45185fd44?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Faces aleatórias**: [Ver interior](https://editor.raspberrypi.org/pt-BR/projects/crown-aide-yoyo){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/random-faces-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Random faces project [here](https://editor.raspberrypi.org/en/projects/random-faces-example){:target="_blank"}
 
-**Papel de parede art déco**: [Ver interior ](https://trinket.io/python/300e1cd325){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Papel de parede art déco**: [Ver interior ](https://editor.raspberrypi.org/pt-BR/projects/pony-blob-trek){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/art-deco-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Art deco project [here](https://editor.raspberrypi.org/en/projects/art-deco-example){:target="_blank"}
 
-**Yakan tecelagem**: [Veja dentro de](https://trinket.io/python/20646dd7f4){: target = "_ blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/20646dd7f4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Yakan tecelagem**: [Veja dentro de](https://editor.raspberrypi.org/pt-BR/projects/sweep-giver-blob){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/yakan-weaving-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Yakan weaving project [here](https://editor.raspberrypi.org/en/projects/yakan-weaving-example){:target="_blank"}
 
 --- /task ---
 
@@ -93,7 +81,7 @@ Como os motivos foram feitos de círculos, elipses, quadrados, retângulos e tri
 
 Veja estes exemplos e pense no motivo repetido. Como os padrões foram feitos de círculos, elipses, quadrados, retângulos e triângulos?
 
-![Projeto completo de Kek lapis Sarawak.](images/kek.png) Você pode encontrar o projeto Kek lapis Sarawak aqui https://trinket.io/python/81be7eb895 ![Complete Spirals project.](images/spirals.png) Você pode encontrar o projeto Espirais aqui https://trinket.io/python/a682f7a884 ![Complete Random faces project.](images/random_faces.png) Você pode encontrar as faces aleatórias projeto aqui https://trinket.io/python/c45185fd44 ![Complete Art deco project.](images/art_deco.png) Você pode encontrar o projeto Art déco aqui https://trinket.io/python/300e1cd325 ![Complete Yakan weaving project.](images/yakan.png) Você pode encontrar o projeto de tecelagem Yakan aqui https:// trinket.io/python/20646dd7f4
+![Projeto completo de Kek lapis Sarawak.](images/kek.png) Você pode encontrar o projeto Kek lapis Sarawak aqui https://editor.raspberrypi.org/pt-BR/projects/earth-elves-mash ![Projeto completo de Espirais.](images/spirals.png) Você pode encontrar o projeto Espirais aqui https://editor.raspberrypi.org/pt-BR/projects/tulip-self-polar ![Projeto completo de Faces aleatórias.](images/random_faces.png) Você pode encontrar as faces aleatórias projeto aqui https://editor.raspberrypi.org/pt-BR/projects/crown-aide-yoyo ![Projeto completo de Art déco.](images/art_deco.png) Você pode encontrar o projeto Art déco aqui https://editor.raspberrypi.org/pt-BR/projects/pony-blob-trek ![Projeto completo de tecelagem Yakan.](images/yakan.png) Você pode encontrar o projeto de tecelagem Yakan aqui https://editor.raspberrypi.org/pt-BR/projects/sweep-giver-blob
 
 --- /print-only ---
 
