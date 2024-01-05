@@ -9,7 +9,7 @@
 </div>
 </div>
 
-Η διαδικασία κατασκευής του κεντρικού σου σχεδίου αντικατοπτρίζει αυτό που κάνουν συχνά οι επιστήμονες υπολογιστών όταν δημιουργούν ένα πρόγραμμα ή μία λύση σε ένα πρόβλημα. Αυτή η διαδικασία ονομάζεται **αποδόμηση** και θα χρησιμοποιήσεις την αποδόμηση για να δημιουργήσεις το μοτίβο σου.
+The process of making your motif is the same as what computer scientists often do when they create a program or solution to a problem. Αυτή η διαδικασία ονομάζεται **αποδόμηση** και θα χρησιμοποιήσεις την αποδόμηση για να δημιουργήσεις το μοτίβο σου.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Αποδόμηση</span> ονομάζεται ο χωρισμός ενός έργου σε τμήματα που είναι μικρότερα και είναι πιο εύκολο να κατανοηθούν. Αυτό σημαίνει ότι μπορείς να δημιουργήσεις ένα μέρος του μοτίβου κάθε φορά μέχρι να το ολοκληρώσεις.</p>
 
@@ -32,8 +32,6 @@
 [[[processing-python-rect]]]
 
 [[[processing-python-triangle]]]
-
-[[[processing-add-image]]]
 
 ### Χρώματα και εφέ
 
