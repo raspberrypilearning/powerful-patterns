@@ -18,21 +18,21 @@ Tu vas devoir :
 
 --- no-print ---
 
+### Joue ▶️
+
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">
+<div style="flex-basis: 175px; flex-grow: 1">  
 
-### Joue ▶️
-
-Exécute cet exemple et pense au motif répété. Comment décrirais-tu ce qui se passe dans l'animation ?
-
-**Kek lapis Sarawak** : [Voir à l'intérieur](https://trinket.io/python/81be7eb895){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
+Click the **Run** button below to see this example and think about the repeated motif. Comment décrirais-tu ce qui se passe dans l'animation ?
+**Kek lapis Sarawak**:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/repeated-patterns-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+</div>
 </div>
 
+You can find the Kek lapis Sarawak project [here](https://editor.raspberrypi.org/en/projects/repeated-patterns-example){:target="_blank"}
 --- /task ---
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
@@ -50,10 +50,10 @@ Ton motif puissant pourrait :
 + S'inspirer de ta culture ou de la culture populaire
 + Obtenir l'avis de l'utilisateur pour redimensionner le motif
 + Ajouter du texte et des emoji pour imprimer des détails sur ton art
-+ Translater le motif pour créer des variations
++ Traduire le motif pour créer des variations
 </div>
 
-### Trouve l'inspiration 💭
+### Trouve l'inspiration
 
 --- task ---
 
@@ -61,29 +61,21 @@ Exécute ces exemples de projets pour obtenir des idées pour ton modèle.
 
 Comment les motifs ont-ils été créés à partir de cercles, d'ellipses, de carrés, de rectangles et de triangles ? :
 
-**Spirales** : [Voir à l'intérieur](https://trinket.io/python/a682f7a884){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Spirales** : [Voir à l'intérieur](https://trinket.io/python/655caf2355){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/spirals-pattern-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Spirals project [here](https://editor.raspberrypi.org/en/projects/spirals-pattern-example){:target="_blank"}
 
-**Visages aléatoires** : [Voir à l'intérieur](https://trinket.io/python/c45185fd44){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/c45185fd44?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Visages aléatoires** : [Voir à l'intérieur](https://trinket.io/python/808308447c){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/random-faces-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Random faces project [here](https://editor.raspberrypi.org/en/projects/random-faces-example){:target="_blank"}
 
-**Papier peint art déco** : [Voir à l'intérieur](https://trinket.io/python/300e1cd325){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Papier peint art déco** : [Voir à l'intérieur](https://trinket.io/python/e0a1734198){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/art-deco-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Art deco project [here](https://editor.raspberrypi.org/en/projects/art-deco-example){:target="_blank"}
 
-**Tissage Yakan** : [Voir à l'intérieur](https://trinket.io/python/20646dd7f4){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/20646dd7f4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Tissage Yakan** : [Voir à l'intérieur](https://trinket.io/python/c39f92bfdc){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/yakan-weaving-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Yakan weaving project [here](https://editor.raspberrypi.org/en/projects/yakan-weaving-example){:target="_blank"}
 
 --- /task ---
 
@@ -93,7 +85,7 @@ Comment les motifs ont-ils été créés à partir de cercles, d'ellipses, de ca
 
 Regarde ces exemples et pense au motif répété. Comment les motifs ont-ils été créés à partir de cercles, d'ellipses, de carrés, de rectangles et de triangles ?
 
-![Terminer le projet Kek lapis Sarawak.](images/kek.png) Tu peux trouver le projet Kek lapis Sarawak ici https://trinket.io/python/81be7eb895 ![Complete Spirals project.](images/spirals.png) Tu peux trouver le projet Spirales ici https://trinket.io/python/a682f7a884 ![Complete Random faces project.](images/random_faces.png) Tu peux trouver le projet Visages aléatoires ici https://trinket.io/python/c45185fd44 ![Complete Art deco project.](images/art_deco.png) Tu peux trouver le projet Art déco ici https://trinket.io/python/300e1cd325 ![Complete Yakan weaving project.](images/yakan.png) Tu peux trouver le projet de Tissage Yakan ici https:// bibelot.io/python/20646dd7f4
+![Terminer le projet Kek lapis Sarawak.](images/kek.png) Tu peux trouver le projet Kek lapis Sarawak ici https://trinket.io/python/17f6515762 ![Complete Spirals project.](images/spirals.png) Tu peux trouver le projet Spirales ici https://trinket.io/python/655caf2355 ![Complete Random faces project.](images/random_faces.png) Tu peux trouver le projet Visages aléatoires ici https://trinket.io/python/808308447c ![Complete Art deco project.](images/art_deco.png) Tu peux trouver le projet Art déco ici https://trinket.io/python/e0a1734198 ![Complete Yakan weaving project.](images/yakan.png) Tu peux trouver le projet de Tissage Yakan ici https://trinket.io/python/c39f92bfdc
 
 --- /print-only ---
 
