@@ -33,8 +33,6 @@ Tu as acquis des compétences vraiment utiles. Voici un rappel pour t'aider à r
 
 [[[processing-python-triangle]]]
 
-[[[processing-add-image]]]
-
 ### Couleurs et effets
 
 [[[generic-theory-simple-colours]]]
