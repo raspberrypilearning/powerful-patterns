@@ -13,11 +13,11 @@ Cada projeto de exemplo na [Introdução](.) tem um link **Veja dentro** para vo
 
 Este projeto usa texto e emoji para pedir ao usuário que escolha um tamanho e, em seguida, usa sua resposta para dimensionar todas as formas:
 
-**McEwen tartan**: [Ver interior](https://trinket.io/python/4706d1a81b){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**McEwen tartan**: [Ver interior](https://editor.raspberrypi.org/pt-BR/projects/found-dock-trek){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+
+You can find the McEwen tartan project [here](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
 
 Dê uma olhada em alguns projetos de super padrões criados por membros da comunidade na Fundação Raspberry Pi[Powerful patterns - Community library](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
 
