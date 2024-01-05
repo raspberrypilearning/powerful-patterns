@@ -42,7 +42,9 @@ Als je als groep een patroon maakt, moet je motief dan een bepaalde afmeting of 
 
 --- task ---
 
-Open het [Krachtige patronen startersproject](https://trinket.io/python/6c4a0c6406){:target=blank } en klik op de remix-knop.
+Open het [Krachtige patronen startersproject](https://trinket.io/python/f079d46fca){:target=blank} en klik op de remix-knop. The code editor will open in another browser tab.
+
+If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
 
 --- /task ---
 
@@ -65,7 +67,7 @@ title: De schermgrootte instellen wanneer het programma wordt gestart
 language: python filename: main.py - setup() line_numbers: true line_number_start: 6
 line_highlights: 7
 ---
-def setup(): size(400, 400) #Choose a size
+def setup(): size(400, 400) #Kies een afmeting
 
 --- /code ---
 
@@ -86,8 +88,7 @@ Bedenk waar je je achtergrond wilt tekenen. Jij kunt:
 language: python filename: main.py - setup() line_numbers: true line_number_start: 9
 line_highlights: 9
 ---
-
-    background(255, 255, 255) #Try different numbers to change the colour
+background(255, 255, 255) #Probeer andere getallen om de kleur te veranderen
 
 --- /code ---
 
