@@ -9,15 +9,15 @@ Tú podrías:
 - Ajustar el tamaño de tu patrón según la entrada del usuario con `input()`
 - Crear un motivo escalado usando tu [Proyecto Haz una cara](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
 
-Cada proyecto de ejemplo en la [Introducción](.) tiene un enlace **Ver dentro** para que abras el proyecto, mires el código, obtengas nuevas ideas y veas cómo funciona.
+Each example project in the Introduction allows you to look at the code, get ideas, and see how they work.
 
 Este proyecto usa texto y emojis para pedirle al usuario que elija un tamaño y luego usa esta respuesta para darle tamaño a todas las formas:
 
-**Tartán McEwen**: [Ver dentro](https://trinket.io/python/4706d1a81b){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Tartán McEwen**: [Ver dentro](https://trinket.io/python/ef7ca75888){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+
+You can find the McEwen tartan project [here](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
 
 Echale un vistazo a algunos proyectos de patrones poderosos creados por miembros de la comunidad en la [ Biblioteca comunitaria - Patrones poderosos](https://wke.lt/w/s/yyNPQT){:target="_blank"} de la Fundación Raspberry Pi.
 
