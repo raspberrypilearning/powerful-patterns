@@ -42,7 +42,9 @@
 
 --- task ---
 
-[迫力のある繰り返し模様スタートプロジェクト](https://trinket.io/python/6c4a0c6406){:target=blank}を開き、リミックスボタンをクリックします。
+Open the [Powerful patterns starter project](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"} project. The code editor will open in another browser tab.
+
+If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
 
 --- /task ---
 
@@ -65,7 +67,7 @@ title: プログラム開始時の画面サイズの設定
 language: python filename: main.py - setup() line_numbers: true line_number_start: 6
 line_highlights: 7
 ---
-def setup(): size(400, 400) #Choose a size
+def setup(): size(400, 400) #サイズを選ぶ
 
 --- /code ---
 
@@ -83,11 +85,10 @@ title: プログラム開始時の背景色を設定
 
 --- code ---
 ---
-language: python filename: main.py - setup() line_numbers: true line_number_start: 9
+language: python filename: main.py - setup() line_numbers: true line_number_start: 6
 line_highlights: 9
 ---
-
-    background(255, 255, 255) #Try different numbers to change the colour
+background(255, 255, 255) #色を変えるために別の数字を試す
 
 --- /code ---
 
