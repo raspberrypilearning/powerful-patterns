@@ -47,7 +47,6 @@
 
 [[[generic-python-for-loop-repeat]]]
 
-
 --- collapse ---
 
 ---
@@ -66,7 +65,10 @@ language: python filename: main.py - draw()
 
 ---
 
-push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) draw_motif() pop_matrix() #Reset transformation
+    push_matrix() #ابدأ التحول 
+    translate(randint(0, 400), randint(0, 400)) 
+    draw_motif() 
+    pop_matrix() #إعادة تعيين التحول
 
 --- /code ---
 
@@ -74,11 +76,11 @@ push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) 
 
 --- code ---
 ---
-language: python filename: main.py - draw()
+filename: main.py - draw()
 
 ---
 
-BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
+    BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 --- /code ---
 
@@ -96,11 +98,11 @@ title: تغيير حجم التصميم الخاص بك
 
 --- code ---
 ---
-language: python filename: main.py - draw()
+filename: main.py - draw()
 
 ---
 
-scale(0.5) #Half size
+    scale(0.5) #نصف الحجم
 
 --- /code ---
 
@@ -139,7 +141,7 @@ scale(0.5) #Half size
 title: لا يبدو أن الشكل الخاص بي يدور
 ---
 
-تأكد من أنك تستخدم دالة `radian ()` لتحويل الدرجات إلى راديان.
+تأكد من أنك تستخدم دالة `radian()` لتحويل الدرجات إلى راديان.
 
 --- /collapse ---
 
@@ -148,9 +150,9 @@ title: لا يبدو أن الشكل الخاص بي يدور
 title: الاستدارة تبدو غريبة
 ---
 
-هل تحققت من أنك تستخدم `translate ()` من وإلى الإحداثيات الصحيحة؟
+هل تحققت من أنك تستخدم `translate()` من وإلى الإحداثيات الصحيحة؟
 
-هل لديك أكثر من شيء يدور؟ قد تحتاج إلى استخدام `push_matrix ()` و `pop_matrix ()` بحيث تدور الشاشة في نقاط مختلفة في وقت واحد.
+هل لديك أكثر من شيء يدور؟ قد تحتاج إلى استخدام `push_matrix()` و `pop_matrix()` بحيث تدور الشاشة في نقاط مختلفة في وقت واحد.
 
 --- /collapse ---
 
@@ -159,7 +161,7 @@ title: الاستدارة تبدو غريبة
 title: نمطي لا يتحرك
 ---
 
-تأكد من أنك استخدمت `frame_count ()` بشكل صحيح في حلقة.
+تأكد من أنك استخدمت `frame_count()` بشكل صحيح في حلقة.
 
 --- /collapse ---
 
@@ -168,7 +170,7 @@ title: نمطي لا يتحرك
 title: نمطي لا يبدو بالشكل الذي أريده
 ---
 
-راجع الأقسام أعلاه في `rotate ()` و `translate ()`. جرب حتى يبدو أنك تريد ذلك ، وتذكر أن الأخطاء قوية!
+راجع الأقسام أعلاه في `rotate()` و `translate()`. جرب حتى يبدو أنك تريد ذلك ، وتذكر أن الأخطاء قوية!
 
 --- /collapse ---
 
