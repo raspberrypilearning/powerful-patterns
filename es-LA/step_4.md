@@ -18,7 +18,7 @@ Mira este papel tapiz art déco. ¿Cómo cambia el motivo para formar el patrón
 
 ![El motivo del proyecto de papel tapiz art déco junto al patrón completo.](images/spirals-motif.png)
 
-Piensa en el patrón que estás creando. ¿Cómo cambia tu motivo para formar el patrón general?. Usa estas preguntas para ayudarte a resumirlo:
+Piensa en el patrón que estás creando. How does your motif change to make the overall pattern? Usa estas preguntas para ayudarte a resumirlo:
 - ¿La totalidad o parte del motivo gira?
 - ¿En qué dirección gira? ¿Y cuánto?
 - ¿Hay capas en el patrón que se superponen?
@@ -47,7 +47,6 @@ Has desarrollado algunas habilidades realmente útiles. Aquí hay un recordatori
 
 [[[generic-python-for-loop-repeat]]]
 
-
 --- collapse ---
 
 ---
@@ -66,7 +65,10 @@ language: python filename: main.py - draw()
 
 ---
 
-push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) draw_motif() pop_matrix() #Reset transformation
+    push_matrix() #Inicia la transformación 
+    translate(randint(0, 400), randint(0, 400)) 
+    dibujar_motivo() 
+    pop_matrix() #Restablece la transformación
 
 --- /code ---
 
@@ -74,11 +76,11 @@ También puedes usar random para cambiar los colores en tu motivo a medida que s
 
 --- code ---
 ---
-language: python filename: main.py - draw()
+filename: main.py - draw()
 
 ---
 
-BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
+    dibujar_motivo = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 --- /code ---
 
@@ -96,11 +98,11 @@ Puedes usar `scale()` antes de llamar a la función que dibuja tu motivo para ca
 
 --- code ---
 ---
-language: python filename: main.py - draw()
+filename: main.py - draw()
 
 ---
 
-scale(0.5) #Half size
+    scale(0.5) #Mitad del tamaño
 
 --- /code ---
 
