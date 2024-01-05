@@ -6,7 +6,7 @@ Gaat jouw krachtige patroon:
 
 --- task ---
 
-Geometrische vormen tekenen en positioneren om een basispatroon (of 'motief') te creëren --- /task ---
+Geometrische vormen tekenen en positioneren om een basispatroon (of 'motief') te creëren --- /task --- --- /task ---
 
 --- task ---
 
@@ -48,7 +48,7 @@ Voeg tekst en emoji toe om details over je kunst af te drukken
 
 --- task ---
 
-Het patroon verschuiven om variaties te maken
+Be translated to create variations
 
 --- /task ---
 
@@ -58,7 +58,6 @@ Het patroon verschuiven om variaties te maken
 Deel je werk met anderen in een online galerij
 
 --- /task ---
-
 
 Nadenken over hoe je je krachtige patroon hebt gemaakt, zal je helpen bij je toekomstige projecten.
 
