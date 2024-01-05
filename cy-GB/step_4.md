@@ -18,7 +18,7 @@ Amser creu eich patrwm llawn!
 
 ![Y motiff o'r prosiect papur wal Art Deco wrth ymyl y patrwm cyflawn.](images/spirals-motif.png)
 
-Meddyliwch am y patrwm rydych chi'n ei wneud. Sut mae eich motiff yn newid i wneud y patrwm cyflawn. Defnyddiwch y cwestiynau hyn i'ch helpu chi i echdynnu:
+Meddyliwch am y patrwm rydych chi'n ei wneud. How does your motif change to make the overall pattern? Defnyddiwch y cwestiynau hyn i'ch helpu chi i echdynnu:
 - A yw'r motiff cyfan yn cylchdroi, neu ddim ond rhan ohono?
 - I ba gyfeiriad mae'n cylchdroi? Ac o faint?
 - Oes haenau'n gorgyffwrdd yn y patrwm?
@@ -33,7 +33,7 @@ Meddyliwch am y patrwm rydych chi'n ei wneud. Sut mae eich motiff yn newid i wne
 
 Nawr eich bod yn gwybod mwy am sut mae'r motiff yn troi'n batrwm cyflawn, fe allwch ei raglennu gan ddefnyddio eich atebion i'r cwestiynau uchod.
 
-**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Mae datblygwyr proffesiynol yn gwneud hyn drwy'r amser!
+**Tip:** You can 'copy' and 'paste' code from any of the examples in the introduction into your project. Mae datblygwyr proffesiynol yn gwneud hyn drwy'r amser!
 
 Rydych chi wedi meithrin sgiliau defnyddiol iawn. Dyma eich atgoffa i'ch helpu chi i greu eich patrwm sy'n ailadrodd:
 
@@ -46,7 +46,6 @@ Rydych chi wedi meithrin sgiliau defnyddiol iawn. Dyma eich atgoffa i'ch helpu c
 [[[python-operators]]]
 
 [[[generic-python-for-loop-repeat]]]
-
 
 --- collapse ---
 
@@ -66,11 +65,14 @@ language: python filename: main.py - draw()
 
 ---
 
-push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) draw_motif() pop_matrix() #Reset transformation
+    push_matrix()  # Start transformation
+    translate(randint(0, 400), randint(0, 400))
+    draw_motif()
+    pop_matrix()  # Reset transformation
 
 --- /code ---
 
-Fe allech chi hefyd ddefnyddio nodwedd ar hap i newid lliwiau eich motiff wrth iddo gael ei ail-lunio.
+You could also use random to change the colours in your motif as it is redrawn.
 
 --- code ---
 ---
@@ -78,7 +80,7 @@ language: python filename: main.py - draw()
 
 ---
 
-BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
+    BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 --- /code ---
 
@@ -90,9 +92,9 @@ BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 title: Newid maint eich motiff
 ---
 
-Os byddwch chi'n defnyddio motiff rydych chi wedi'i lunio'n barod, efallai na fydd y maint cywir.
+If you use a motif you have already drawn, it might not be the right size.
 
-Fe allwch chi ddefnyddio `scale()` cyn galw'r swyddogaeth sy'n llunio eich motiff i newid ei faint. Bydd defnyddio mewnbwn sy'n fwy nag '1' yn gwneud y motiff yn fwy, a bydd defnyddio mewnbwn sy'n llai nag '1' yn ei wneud yn llai.
+You can use `scale()` before calling the function that draws your motif to change its size. Using an input bigger than '1' will make the motif bigger, using an input smaller than '1' will make it smaller.
 
 --- code ---
 ---
@@ -100,7 +102,7 @@ language: python filename: main.py - draw()
 
 ---
 
-scale(0.5) #Half size
+    scale(0.5)  # Half size
 
 --- /code ---
 
@@ -108,7 +110,7 @@ scale(0.5) #Half size
 
 --- /task ---
 
-Nawr fe allwch chi animeiddio eich patrwm i ddangos sut rydych chi wedi'i wneud. Yn aml, mae gan batrymau arwyddocâd diwylliannol pwerus o ran y ffordd maen nhw'n cael eu gwneud, neu'r broses.
+Now you can animate your pattern to show how you made it. Often, patterns have powerful cultural significance in the way that they are made, or the process.
 
 --- task ---
 
@@ -125,13 +127,13 @@ Nawr fe allwch chi animeiddio eich patrwm i ddangos sut rydych chi wedi'i wneud.
 
 --- task ---
 
-**Profi:** Dangoswch eich prosiect i rywun arall a gofyn am eu hadborth. Ydych chi am wneud unrhyw newidiadau i'ch patrwm?
+**Test:** Show someone else your project and get their feedback. Do you want make any changes to your pattern?
 
 --- /task ---
 
 --- task ---
 
-**Difa chwilod:** Efallai bydd angen i chi drwsio chwilod yn eich prosiect. Dyma rai chwilod cyffredin.
+**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
 
 --- collapse ---
 
@@ -139,7 +141,7 @@ Nawr fe allwch chi animeiddio eich patrwm i ddangos sut rydych chi wedi'i wneud.
 title: Dydy fy motiff ddim i weld yn cylchdroi
 ---
 
-Gwnewch yn siŵr eich bod yn defnyddio'r swyddogaeth `radian()` i drosi graddau'n radianau.
+Make sure you are using the `radian()` function to convert degrees to radians.
 
 --- /collapse ---
 
@@ -148,9 +150,9 @@ Gwnewch yn siŵr eich bod yn defnyddio'r swyddogaeth `radian()` i drosi graddau'
 title: Mae'r cylchdro'n edrych yn rhyfedd
 ---
 
-Ydych chi wedi gwneud yn siŵr eich bod yn defnyddio `translate()` o ac i'r cyfesurynnau cywir?
+Gwnewch yn siŵr eich bod yn defnyddio'r swyddogaeth `radian()` i drosi graddau'n radianau.
 
-Oes mwy nag un peth yn cylchdroi? Efallai bydd angen i chi ddefnyddio `push_matrix()` a `pop_matrix()` fel bod y sgrin yn cylchdroi ar wahanol bwyntiau ar unwaith.
+Do you have more than one thing rotating? You may need to use `push_matrix()` and `pop_matrix()` so the screen rotates at different points at once.
 
 --- /collapse ---
 
@@ -159,7 +161,7 @@ Oes mwy nag un peth yn cylchdroi? Efallai bydd angen i chi ddefnyddio `push_matr
 title: Dydy fy mhatrwm ddim yn animeiddio
 ---
 
-Gwnewch yn siŵr eich bod wedi defnyddio `frame_count()` yn gywir mewn dolen.
+Oes mwy nag un peth yn cylchdroi? Efallai bydd angen i chi ddefnyddio `push_matrix()` a `pop_matrix()` fel bod y sgrin yn cylchdroi ar wahanol bwyntiau ar unwaith.
 
 --- /collapse ---
 
@@ -168,7 +170,7 @@ Gwnewch yn siŵr eich bod wedi defnyddio `frame_count()` yn gywir mewn dolen.
 title: Dydy fy mhatrwm ddim yn edrych fel yr ydw i eisiau iddo edrych
 ---
 
-Tarwch olwg arall ar yr adrannau uchod ynghylch `rotate()` a `translate()`. Arbrofwch nes ei fod yn edrych fel rydych chi eisiau iddo edrych a chofiwch, mae camgymeriadau'n bwerus!
+Review the sections above on `rotate()` and `translate()`. Experiment until it looks like you want it to, and remember, mistakes are powerful!
 
 --- /collapse ---
 
@@ -177,7 +179,7 @@ Tarwch olwg arall ar yr adrannau uchod ynghylch `rotate()` a `translate()`. Arbr
 title: Dwi'n cael gwall
 ---
 
-Gwiriwch gystrawen eich cod. Oes unrhyw gromfachau `(` neu `)` ar goll, neu efallai colon `:` ar ôl diffinio swyddogaeth? Oes rhywbeth wedi'i sillafu'n anghywir? A yw eich cod wedi'i fewnoli'n gywir?
+Check the syntax of your code. Are you missing any brackets `(` or `)` or a colon `:` after defining a function? Is something spelled incorrectly? Is your code indented correctly?
 
 --- /collapse ---
 
@@ -186,13 +188,13 @@ Gwiriwch gystrawen eich cod. Oes unrhyw gromfachau `(` neu `)` ar goll, neu efal
 title: Mae'r animeiddiad yn rhy gyflym/rhy araf
 ---
 
-Newidiwch y `frame_rate()` ar ddechrau eich rhaglen i gael y cyflymder rydych chi ei eisiau.
+Gwiriwch gystrawen eich cod. Oes unrhyw gromfachau `(` neu `)` ar goll, neu efallai colon `:` ar ôl diffinio swyddogaeth? Oes rhywbeth wedi'i sillafu'n anghywir? A yw eich cod wedi'i fewnoli'n gywir?
 
 --- /collapse ---
 
-Efallai byddwch chi'n dod o hyd i chwilen sydd ddim wedi'i rhestru yma. Allwch chi weithio allan sut i'w thrwsio?
+You might find a bug not listed here. Can you figure out how to fix it?
 
-Rydyn ni wrth ein bodd yn clywed am eich chwilod chi a sut gwnaethoch chi eu trwsio. Defnyddiwch y botwm Adborth ar waelod y dudalen hon os gwnaethoch chi ddod ar draws chwilen wahanol yn eich prosiect.
+We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
 
 --- /task ---
 
