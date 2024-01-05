@@ -13,11 +13,11 @@
 
 يستخدم هذا المشروع نص ورموز تعبيرية ليسأل المستخدم عن اختيار الحجم ثم استخدام اجابته لتحديد حجم كل الاشكال:
 
-**مكيوين ترتان**[انظر في الداخل](https://trinket.io/python/4706d1a81b){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**مكيوين ترتان**[انظر في الداخل](https://trinket.io/python/2f726df2c5){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+
+You can find the McEwen tartan project [here](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
 
 الق نظرة لبعض مشاريع الأنماط القوية التي تم انشائها من قبل اعضاء المجتمع في مؤسسة Raspberry Pi [مكتبة مجتمع الانماط القوية](https://wke.lt/w/s/yyNPQT){:target="_blank"}
 
