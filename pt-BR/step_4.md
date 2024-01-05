@@ -47,7 +47,6 @@ Você desenvolveu algumas habilidades realmente úteis. Aqui está um lembrete p
 
 [[[generic-python-for-loop-repeat]]]
 
-
 --- collapse ---
 
 ---
@@ -66,7 +65,10 @@ language: python filename: main.py - draw()
 
 ---
 
-push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) draw_motif() pop_matrix() #Reset transformation
+    push_matrix()  # Iniciar transformação
+    translate(randint(0, 400), randint(0, 400))
+    desenho_motivo()
+    pop_matrix()  # Redefinir transformação
 
 --- /code ---
 
@@ -78,7 +80,7 @@ language: python filename: main.py - draw()
 
 ---
 
-BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
+    AZUL = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 --- /code ---
 
@@ -100,7 +102,7 @@ language: python filename: main.py - draw()
 
 ---
 
-scale(0.5) #Half size
+    scale(0.5)  # Metade do tamanho
 
 --- /code ---
 
