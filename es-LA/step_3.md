@@ -33,8 +33,6 @@ Has desarrollado algunas habilidades realmente útiles. Aquí hay un recordatori
 
 [[[processing-python-triangle]]]
 
-[[[processing-add-image]]]
-
 ### Colores y efectos
 
 [[[generic-theory-simple-colours]]]
