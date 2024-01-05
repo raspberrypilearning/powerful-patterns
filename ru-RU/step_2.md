@@ -42,7 +42,9 @@ If you are are creating a pattern as a group, does your motif need to be a certa
 
 --- task ---
 
-Open the [Powerful patterns starter project](https://trinket.io/python/6c4a0c6406){:target=blank } and click on the remix button.
+Open the [Powerful patterns starter project](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"} project. The code editor will open in another browser tab.
+
+If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
 
 --- /task ---
 
@@ -55,7 +57,7 @@ Add code to `setup()` to get your project ready.
 --- collapse ---
 
 ---
-title: Setting the screen size when your programme starts
+title: Setting the screen size when your program starts
 ---
 
 **Choose:** Add a size that suits the pattern you want to create. You can always change this later as your project evolves.
@@ -65,7 +67,7 @@ title: Setting the screen size when your programme starts
 language: python filename: main.py - setup() line_numbers: true line_number_start: 6
 line_highlights: 7
 ---
-def setup(): size(400, 400) #Choose a size
+def setup(): size(400, 400)  # Choose a size
 
 --- /code ---
 
@@ -74,7 +76,7 @@ def setup(): size(400, 400) #Choose a size
 --- collapse ---
 
 ---
-title: Setting the background colour when your programme starts
+title: Setting the background colour when your program starts
 ---
 
 Think about where you want to draw your background. You can:
@@ -83,11 +85,10 @@ Think about where you want to draw your background. You can:
 
 --- code ---
 ---
-language: python filename: main.py - setup() line_numbers: true line_number_start: 9
-line_highlights: 9
+language: python filename: main.py - setup() line_numbers: true line_number_start: 6
+line_highlights: 8
 ---
-
-    background(255, 255, 255) #Try different numbers to change the colour
+def setup(): size(400, 400) background(255, 255, 255)  # Try different numbers to change the colour
 
 --- /code ---
 
