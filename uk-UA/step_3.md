@@ -9,7 +9,7 @@
 </div>
 </div>
 
-Процес створення твого мотиву нагадує те, що часто роблять комп'ютерні вчені, коли вони створюють програму або вирішення якоїсь проблеми. Цей процес має назву **декомпозиція**. Ти будеш використовувати декомпозицію для створення свого мотиву.
+The process of making your motif is the same as what computer scientists often do when they create a program or solution to a problem. Цей процес має назву **декомпозиція**. Ти будеш використовувати декомпозицію для створення свого мотиву.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Декомпозиція</span> - це розбиття чогось на невеликі частини, які легше зрозуміти. Це означає, що ти можеш створювати візерунок по одній частині, поки він не буде завершений.</p>
 
@@ -32,8 +32,6 @@
 [[[processing-python-rect]]]
 
 [[[processing-python-triangle]]]
-
-[[[processing-add-image]]]
 
 ### Кольори та ефекти
 
