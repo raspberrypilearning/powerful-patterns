@@ -6,7 +6,7 @@ Est-ce que ton motif puissant :
 
 --- task ---
 
-Dessine et positionne des formes géométriques pour créer un motif de base (ou motif) --- /task ---
+Dessine et positionne des formes géométriques pour créer un motif de base (ou motif) --- /task --- --- /task ---
 
 --- task ---
 
@@ -58,7 +58,6 @@ Translater le motif pour créer des variations
 Partager ton travail avec d'autres dans une galerie en ligne
 
 --- /task ---
-
 
 Réfléchir à la façon dont tu as créé ton modèle puissant t'aidera dans tes projets futurs.
 
