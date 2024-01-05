@@ -33,8 +33,6 @@
 
 [[[processing-python-triangle]]]
 
-[[[processing-add-image]]]
-
 ### الألوان والتأثيرات
 
 [[[generic-theory-simple-colours]]]
