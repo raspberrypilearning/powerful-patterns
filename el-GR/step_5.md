@@ -6,17 +6,17 @@
 
 --- task ---
 
-Σχεδιάζει και τοποθετεί γεωμετρικά σχήματα για να δημιουργήσεις ένα βασικό μοτίβο (ή κεντρικό σχέδιο)
+Draw and position geometric shapes to create a base pattern (or motif)? --- /task ---
 
 --- task ---
 
-Χρησιμοποιεί βρόχους για να επαναλάβει το μοτίβο για να γεμίσει την οθόνη
+Use loops to repeat the pattern to fill the screen?
 
 --- /task ---
 
 --- task ---
 
-Κινείται όπως δημιουργείται το μοτίβο
+Animate how the pattern is created?
 
 --- /task ---
 
@@ -42,23 +42,22 @@
 
 --- task ---
 
-Προσθέτει κείμενο και emoji για να εμφανίσει λεπτομέρειες σχετικά με την τέχνη σου
+Use text and emojis to print details about your art
 
 --- /task ---
 
 --- task ---
 
-Μεταφέρει το μοτίβο για να δημιουργήσει παραλλαγές
+Be translated to create variations
 
 --- /task ---
 
 
 --- task ---
 
-Σου δώσει τη δυνατότητα να μοιραστείς τη δουλειά σου με άλλους σε μια διαδικτυακή συλλογή
+Be shared with others in an online gallery
 
 --- /task ---
-
 
 Ο αναστοχασμός σχετικά με το πώς έφτιαξες το ισχυρό σου μοτίβο θα σε βοηθήσει στα μελλοντικά σου έργα.
 
