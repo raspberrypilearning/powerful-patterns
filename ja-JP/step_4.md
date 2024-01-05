@@ -47,7 +47,6 @@
 
 [[[generic-python-for-loop-repeat]]]
 
-
 --- collapse ---
 
 ---
@@ -66,7 +65,10 @@ language: python filename: main.py - draw()
 
 ---
 
-push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) draw_motif() pop_matrix() #Reset transformation
+    push_matrix() #トランスフォーメーションの開始
+    translate(randint(0, 400), randint(0, 400))
+    draw_motif()
+    pop_matrix() #トランスフォーメーションのリセット
 
 --- /code ---
 
@@ -78,7 +80,7 @@ language: python filename: main.py - draw()
 
 ---
 
-BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
+    BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 --- /code ---
 
@@ -100,7 +102,7 @@ language: python filename: main.py - draw()
 
 ---
 
-scale(0.5) #Half size
+    scale(0.5) #半分の大きさ
 
 --- /code ---
 
@@ -168,7 +170,7 @@ title: パターンのアニメーション化ができない
 title: パターンが思い通りにできない
 ---
 
-`rotate()` と `translate()`について、これまでのセクションを確認してください。 思い通りになるまで試行してください。間違いから学ぶことができます。
+`rotate()` と `translate()`について、これまでのセクションを確認してください。 思い通りになるまで試行してください。 間違いから学ぶことができます。
 
 --- /collapse ---
 
