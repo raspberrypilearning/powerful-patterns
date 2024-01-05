@@ -42,7 +42,9 @@
 
 --- task ---
 
-افتح [مشروع بداية الأنماط القوية](https://trinket.io/python/6c4a0c6406){: target = blank } وانقر على زر ريمكس.
+افتح [مشروع بداية الأنماط القوية](https://trinket.io/python/dfd22391cb){:target="_blank"} وانقر على زر ريمكس. The code editor will open in another browser tab.
+
+If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
 
 --- /task ---
 
@@ -65,7 +67,7 @@ title: ضبط حجم الشاشة عند بدء البرنامج
 language: python filename: main.py - setup() line_numbers: true line_number_start: 6
 line_highlights: 7
 ---
-def setup(): size(400, 400) #Choose a size
+def setup(): size(400, 400) #اختر الحجم
 
 --- /code ---
 
@@ -86,8 +88,7 @@ title: ضبط لون الشاشة عند بدء البرنامج
 language: python filename: main.py - setup() line_numbers: true line_number_start: 9
 line_highlights: 9
 ---
-
-    background(255, 255, 255) #Try different numbers to change the colour
+background(255, 255, 255) #جرب أرقامًا مختلفة لتغيير اللون
 
 --- /code ---
 
