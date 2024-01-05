@@ -25,15 +25,13 @@
 
 あなたはいくつかの本当に役立つスキルを身につけました。 モチーフを作成するのに役立つリマインダーは次のとおりです。
 
-### 形と画像
+### Shapes
 
 [[[processing-python-ellipse]]]
 
 [[[processing-python-rect]]]
 
 [[[processing-python-triangle]]]
-
-[[[processing-add-image]]]
 
 ### 色と効果
 
