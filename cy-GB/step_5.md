@@ -6,7 +6,7 @@ A yw eich patrwm pwerus:
 
 --- task ---
 
-Yn llunio ac yn lleoli siapiau geometrig i greu patrwm sylfaen (neu fotiff) --- /task ---
+Draw and position geometric shapes to create a base pattern (or motif)? --- /task ---
 
 --- task ---
 
@@ -58,7 +58,6 @@ Trosi'r patrwm i greu amrywiadau
 Rhannu eich gwaith â phobl eraill mewn oriel ar-lein
 
 --- /task ---
-
 
 Bydd myfyrio ar sut roeddech chi wedi gwneud eich patrwm pwerus yn eich helpu yn eich prosiectau yn y dyfodol.
 
