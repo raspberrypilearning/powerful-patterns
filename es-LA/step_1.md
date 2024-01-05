@@ -18,21 +18,21 @@ Vas a:
 
 --- no-print ---
 
+### Reproducir ▶️
+
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">
-
-### Reproducir ▶️
+<div style="flex-basis: 175px; flex-grow: 1">  
 
 Ejecuta el ejemplo a continuación y piensa en el motivo repetido. ¿Cómo describirías lo que sucede en la animación?
-
-**Kek lapis Sarawak**: [Ver dentro](https://trinket.io/python/81be7eb895){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
+**Kek lapis Sarawak**:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/repeated-patterns-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+</div>
 </div>
 
+You can find the Kek lapis Sarawak project [here](https://editor.raspberrypi.org/en/projects/repeated-patterns-example){:target="_blank"}
 --- /task ---
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
@@ -53,7 +53,7 @@ Tu patrón poderoso podría:
 + Trasladar el patrón para crear variaciones
 </div>
 
-### Obtén ideas 💭
+### Get ideas 💭
 
 --- task ---
 
@@ -61,29 +61,21 @@ Ejecuta estos proyectos de ejemplo para inspirarte y crear tu patrón.
 
 ¿Cómo se crean los motivos a partir de círculos, elipses, cuadrados, rectángulos y triángulos?:
 
-**Spirales**: [Ver adentro](https://trinket.io/python/a682f7a884){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Espirales**: [Ver dentro](https://trinket.io/python/f734919ae9){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/spirals-pattern-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Spirals project [here](https://editor.raspberrypi.org/en/projects/spirals-pattern-example){:target="_blank"}
 
-**Caras al azar**: [Ver dentro](https://trinket.io/python/c45185fd44){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/c45185fd44?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Caras al azar**: [Ver dentro](https://trinket.io/python/7238fde1bc){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/random-faces-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Random faces project [here](https://editor.raspberrypi.org/en/projects/random-faces-example){:target="_blank"}
 
-**Papel tapiz Art déco**: [Ver dentro](https://trinket.io/python/300e1cd325){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Papel tapiz Art déco**: [Ver dentro](https://trinket.io/python/d9b5060084){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/art-deco-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Art deco project [here](https://editor.raspberrypi.org/en/projects/art-deco-example){:target="_blank"}
 
-**Tejido Yakan**: [Ver dentro](https://trinket.io/python/20646dd7f4){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/20646dd7f4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Tejido Yakan**: [Ver dentro](https://trinket.io/python/16dcdb7e5d){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/yakan-weaving-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Yakan weaving project [here](https://editor.raspberrypi.org/en/projects/yakan-weaving-example){:target="_blank"}
 
 --- /task ---
 
@@ -93,7 +85,7 @@ Ejecuta estos proyectos de ejemplo para inspirarte y crear tu patrón.
 
 Mira el ejemplo a continuación y piensa en el motivo repetido. ¿Cómo se crean los patrones a partir de círculos, elipses, cuadrados, rectángulos y triángulos?
 
-![Proyecto Kek lapis Sarawak completo.](images/kek.png) Puedes encontrar el proyecto Kek lapis Sarawak aquí https://trinket.io/python/81be7eb895 ![Complete Spirals project.](images/spirals.png) Puedes encontrar el proyecto Espirales aquí https://trinket.io/python/a682f7a884 ![Complete Random faces project.](images/random_faces.png) Puedes encontrar el proyecto Caras al azar aquí https://trinket.io/python/c45185fd44 ![Complete Art deco project.](images/art_deco.png) Puedes encontrar el proyecto Art déco aquí https://trinket.io/python/300e1cd325 ![Complete Yakan weaving project.](images/yakan.png) Puedes encontrar el proyecto Tejido Yakan aquí https:// baratija.io/python/20646dd7f4
+![Proyecto Kek lapis Sarawak completo.](images/kek.png) Puedes encontrar el proyecto Kek lapis Sarawak aquí https://trinket.io/python/99aa86e75f ![Complete Spirals project.](images/spirals.png) Puedes encontrar el proyecto Espirales aquí https://trinket.io/python/f734919ae9 ![Complete Random faces project.](images/random_faces.png) Puedes encontrar el proyecto Caras al azar aquí https://trinket.io/python/7238fde1bc ![Complete Art deco project.](images/art_deco.png) Puedes encontrar el proyecto Art déco aquí https://trinket.io/python/d9b5060084 ![Complete Yakan weaving project.](images/yakan.png) Puedes encontrar el proyecto Tejido Yakan aquí https://trinket.io/python/16dcdb7e5d
 
 --- /print-only ---
 
