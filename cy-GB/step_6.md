@@ -13,11 +13,11 @@ Mae gan bob prosiect enghreifftiol yn [Cyflwyniad](.) ddolen **Gweld tu mewn** i
 
 Mae'r prosiect hwn yn defnyddio testun ac emoji i ofyn i'r defnyddiwr ddewis maint, ac yna'n defnyddio ei ateb i bennu maint pob siâp:
 
-**Tartan MacEwen**: [Gweld tu mewn](https://trinket.io/python/4706d1a81b){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Tartan MacEwen**: [Gweld tu mewn](https://trinket.io/python/a922ffef17){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+
+Tarwch olwg ar rai prosiectau Patrymau pwerus wedi'u creu gan aelodau o'r gymuned yn [Patrymau pwerus - Llyfrgell gymunedol](https://wke.lt/w/s/yyNPQT){:target="_blank"} y Raspberry Pi Foundation.
 
 Tarwch olwg ar rai prosiectau Patrymau pwerus wedi'u creu gan aelodau o'r gymuned yn [Patrymau pwerus - Llyfrgell gymunedol](https://wke.lt/w/s/yyNPQT){:target="_blank"} y Raspberry Pi Foundation.
 
