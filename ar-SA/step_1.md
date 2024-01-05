@@ -18,26 +18,26 @@
 
 --- no-print ---
 
+### Play ▶️
+
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">
+<div style="flex-basis: 175px; flex-grow: 1">  
 
-### Play ▶️
-
-قم بتشغيل هذا المثال وفكر في الفكرة المتكررة. كيف تصف ما يحدث في الرسوم المتحركة؟
-
-**Kek lapis Sarawak**: [انظر من الداخل](https://trinket.io/python/81be7eb895){: target = "_ blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
+Click the **Run** button below to see this example and think about the repeated motif. كيف تصف ما يحدث في الرسوم المتحركة؟
+**Kek lapis Sarawak**:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/repeated-patterns-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+</div>
 </div>
 
+You can find the Kek lapis Sarawak project [here](https://editor.raspberrypi.org/en/projects/repeated-patterns-example){:target="_blank"}
 --- /task ---
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### ملخص المشروع: أنشئ ** نمطًا قويًا **
+### ملخص المشروع: أنشئ **نمطًا قويًا**
 <hr style="border-top: 2px solid black;"> 
 
 يجب أن يكون النمط القوي الخاص بك:
@@ -61,29 +61,21 @@
 
 كيف تم صنع الزخارف من الدوائر والأشكال البيضاوية والمربعات والمستطيلات والمثلثات ؟:
 
-**اللوالب**: [انظر الى الداخل](https://trinket.io/python/a682f7a884){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**اللوالب**: [انظر الى الداخل](https://trinket.io/python/d14eed3698){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/spirals-pattern-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Spirals project [here](https://editor.raspberrypi.org/en/projects/spirals-pattern-example){:target="_blank"}
 
-**وجوه عشوائية**: [انظر الى الداخل](https://trinket.io/python/c45185fd44){: target = "_ blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/c45185fd44?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**وجوه عشوائية**: [انظر الى الداخل](https://trinket.io/python/9722201267){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/random-faces-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Random faces project [here](https://editor.raspberrypi.org/en/projects/random-faces-example){:target="_blank"}
 
-**خلفية آرت ديكو**: [انظر الى الداخل](https://trinket.io/python/300e1cd325){: target = "_ blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**خلفية آرت ديكو**: [انظر الى الداخل](https://trinket.io/python/6076e2ced4){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/art-deco-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Art deco project [here](https://editor.raspberrypi.org/en/projects/art-deco-example){:target="_blank"}
 
-**نسيج Yakan**: [انظر من الداخل](https://trinket.io/python/20646dd7f4){: target = "_ blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/20646dd7f4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**نسيج Yakan**: [انظر الى الداخل](https://trinket.io/python/940804eadc){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/yakan-weaving-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Yakan weaving project [here](https://editor.raspberrypi.org/en/projects/yakan-weaving-example){:target="_blank"}
 
 --- /task ---
 
@@ -93,7 +85,7 @@
 
 انظر إلى هذه الأمثلة وفكر في الفكرة المتكررة. كيف تم صنع الأنماط من الدوائر والأشكال البيضاوية والمربعات والمستطيلات والمثلثات؟
 
-![استكمال مشروع كيك اللازورد ساراواك.](images/kek.png) يمكنك العثور على مشروع Kek lapis Sarawak هنا https://trinket.io/python/81be7eb895 ![Complete Spirals project.](images/spirals.png) يمكنك العثور على مشروع Spirals هنا https://trinket.io/python/a682f7a884 ![Complete Random faces project.](images/random_faces.png) يمكنك العثور على الوجوه العشوائية المشروع هنا https://trinket.io/python/c45185fd44 ![Complete Art deco project.](images/art_deco.png) يمكنك العثور على مشروع Art deco هنا https://trinket.io/python/300e1cd325 ![Complete Yakan weaving project.](images/yakan.png) يمكنك العثور على مشروع Yakan للنسيج هنا https: // trinket.io/python/20646dd7f4
+![استكمال مشروع كيك اللازورد ساراواك.](images/kek.png) يمكنك العثور على مشروع Kek lapis Sarawak هنا https://trinket.io/python/a831abfa03 ![Complete Spirals project.](images/spirals.png) يمكنك العثور على مشروع Spirals هنا https://trinket.io/python/d14eed3698 ![Complete Random faces project.](images/random_faces.png) يمكنك العثور على الوجوه العشوائية المشروع هنا https://trinket.io/python/9722201267 ![Complete Art deco project.](images/art_deco.png) يمكنك العثور على مشروع Art deco هنا https://trinket.io/python/6076e2ced4 ![Complete Yakan weaving project.](images/yakan.png) يمكنك العثور على مشروع Yakan للنسيج هنا https://trinket.io/python/940804eadc
 
 --- /print-only ---
 
