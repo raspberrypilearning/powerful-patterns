@@ -9,7 +9,7 @@ Mae'n amser gwneud eich motiff, elfen gyntaf eich patrwm.
 </div>
 </div>
 
-Mae'r broses o wneud eich motiff yn adlewyrchu'r hyn mae cyfrifiadurwyr yn ei wneud yn aml pan fyddan nhw'n creu rhaglen neu ateb i broblem. **Dadelfennu** yw enw'r broses hon a byddwch chi'n defnyddio hyn i greu eich motiff.
+The process of making your motif is the same as what computer scientists often do when they create a program or solution to a problem. **Dadelfennu** yw enw'r broses hon a byddwch chi'n defnyddio hyn i greu eich motiff.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Ystyr <span style="color: #0faeb0">**dadelfennu**</span> yw rhannu prosiect yn rhannau sy'n llai ac yn haws eu deall. Mae hyn yn golygu eich bod yn gallu adeiladu patrwm un rhan ar y tro nes ei fod yn gyflawn.</p>
 
@@ -32,8 +32,6 @@ Rydych chi wedi meithrin sgiliau defnyddiol iawn. Dyma eich atgoffa i 'ch helpu 
 [[[processing-python-rect]]]
 
 [[[processing-python-triangle]]]
-
-[[[processing-add-image]]]
 
 ### Lliwiau ac effeithiau
 
