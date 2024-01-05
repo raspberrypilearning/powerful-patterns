@@ -18,7 +18,7 @@
 
 ![Мотив з проєкту шпалер в стилі арт-деко поруч з повним візерунком.](images/spirals-motif.png)
 
-Подумай про візерунок, який ти створюєш. Як змінюється твій мотив, щоб скласти загальний візерунок. Використовуй ці питання, які допоможуть тобі зробити висновки:
+Подумай про візерунок, який ти створюєш. How does your motif change to make the overall pattern? Використовуй ці питання, які допоможуть тобі зробити висновки:
 - Мотив обертається повністю або тільки його частина?
 - В який бік він обертається? І на скільки?
 - Чи має малюнок шари, які накладаються один на одного?
@@ -33,7 +33,7 @@
 
 Тепер, коли ти знаєш більше про перетворення мотиву в цілий візерунок - запрограмуй свій мотив, використовуючи свої відповіді на питання, наведені вище.
 
-**Порада:** Не забувай, що ти можеш 'Подивитись код' будь-якого з прикладів у вступі та 'скопіювати' і 'вставити' код у свій проєкт. Професійні девелопери роблять це постійно!
+**Tip:** You can 'copy' and 'paste' code from any of the examples in the introduction into your project. Професійні девелопери роблять це постійно!
 
 Ти здобув(-ла) дійсно дуже корисні навички. Ось нагадування, яке допоможе тобі створити повторення візерунка:
 
@@ -46,7 +46,6 @@
 [[[python-operators]]]
 
 [[[generic-python-for-loop-repeat]]]
-
 
 --- collapse ---
 
@@ -66,11 +65,14 @@ language: python filename: main.py - draw()
 
 ---
 
-push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) draw_motif() pop_matrix() #Reset transformation
+    push_matrix()  # Start transformation
+    translate(randint(0, 400), randint(0, 400))
+    draw_motif()
+    pop_matrix()  # Reset transformation
 
 --- /code ---
 
-Ти також можеш використовувати випадковий порядок для зміни кольорів твого мотиву під час його малювання.
+You could also use random to change the colours in your motif as it is redrawn.
 
 --- code ---
 ---
@@ -78,7 +80,7 @@ language: python filename: main.py - draw()
 
 ---
 
-BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
+    BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 --- /code ---
 
@@ -90,9 +92,9 @@ BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 filename: main.py - draw()
 ---
 
-Якщо ти використовуєш вже намальований мотив, він може бути неправильного розміру.
+If you use a motif you have already drawn, it might not be the right size.
 
-Ти можеш використовувати `scale()` перед викликом функції, яка малює мотив, щоб змінити його розмір. Введення значення більшого за '1' зробить мотив більшим, введення значення меншого за '1' зробить його меншим.
+You can use `scale()` before calling the function that draws your motif to change its size. Using an input bigger than '1' will make the motif bigger, using an input smaller than '1' will make it smaller.
 
 --- code ---
 ---
@@ -100,7 +102,7 @@ language: python filename: main.py - draw()
 
 ---
 
-scale(0.5) #Half size
+    scale(0.5)  # Half size
 
 --- /code ---
 
@@ -108,7 +110,7 @@ scale(0.5) #Half size
 
 --- /task ---
 
-Тепер ти можеш додати до свого візерунка анімацію, щоб показати, як він був створений. Часто візерунки мають велике культурне значення в тому, яким чином вони зроблені, або в процесі їх виготовлення.
+Now you can animate your pattern to show how you made it. Often, patterns have powerful cultural significance in the way that they are made, or the process.
 
 --- task ---
 
@@ -125,13 +127,13 @@ scale(0.5) #Half size
 
 --- task ---
 
-**Тест:** Покажи комусь свій проєкт та отримай зворотний зв'язок. Ти хочеш внести якісь зміни до свого візерунка?
+**Test:** Show someone else your project and get their feedback. Do you want make any changes to your pattern?
 
 --- /task ---
 
 --- task ---
 
-**Налагодження:** Можливо, у твоєму проєкті знайдуться помилки, які потрібно буде виправити. Ось деякі поширені помилки.
+**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
 
 --- collapse ---
 
@@ -139,7 +141,7 @@ scale(0.5) #Half size
 filename: main.py - draw()
 ---
 
-Переконайся, що ти використовуєш функцію `radian()` для перетворення градусів у радіани.
+Make sure you are using the `radian()` function to convert degrees to radians.
 
 --- /collapse ---
 
@@ -148,9 +150,9 @@ filename: main.py - draw()
 title: Зміна розміру мотиву
 ---
 
-Перевір, чи правильно ти використовуєш `translate()` для переходу до потрібних координат і навпаки?
+Переконайся, що ти використовуєш функцію `radian()` для перетворення градусів у радіани.
 
-У тебе обертається більше одного елемента? Тобі може знадобитися використати `push_matrix()` та `pop_matrix()`, щоб екран обертався одночасно в різних точках.
+Do you have more than one thing rotating? You may need to use `push_matrix()` and `pop_matrix()` so the screen rotates at different points at once.
 
 --- /collapse ---
 
@@ -159,7 +161,7 @@ title: Зміна розміру мотиву
 filename: main.py - draw()
 ---
 
-Перевір правильність використання `frame_count()` у циклі.
+Check you have used `frame_count()` properly in a loop.
 
 --- /collapse ---
 
@@ -168,7 +170,7 @@ filename: main.py - draw()
 title: Здається, мій мотив не обертається
 ---
 
-Переглянь наведені вище пункти про `rotate()` та `translate()`. Експериментуй, поки не отримаєш бажаного результату, і пам'ятай, що помилки - це сила!
+Review the sections above on `rotate()` and `translate()`. Experiment until it looks like you want it to, and remember, mistakes are powerful!
 
 --- /collapse ---
 
@@ -177,7 +179,7 @@ title: Здається, мій мотив не обертається
 title: Ротація виглядає дивно
 ---
 
-Перевір синтаксис свого коду. Чи не пропущені якісь дужки `(` або `)`, або двокрапка `:` після визначення функції? Щось неправильно написано? Чи правильно розставлені у коді відступи?
+Check the syntax of your code. Are you missing any brackets `(` or `)` or a colon `:` after defining a function? Is something spelled incorrectly? Is your code indented correctly?
 
 --- /collapse ---
 
@@ -186,13 +188,13 @@ title: Ротація виглядає дивно
 title: Мій візерунок не має анімації
 ---
 
-Зміни `frame_rate()` на початку твоєї програми, щоб вона працювала з потрібною тобі швидкістю.
+Change the number after `frame_rate =` in the call to the `run()` function at the end of your program to get it to the speed you like.
 
 --- /collapse ---
 
-Ти можеш виявити помилку, яка не вказана тут. Можливо, ти зможеш придумати, як її виправити?
+You might find a bug not listed here. Can you figure out how to fix it?
 
-Нам подобається дізнаватись про твої помилки та про те, як їх вдалося виправити. Якщо ти знайшов(-ла) іншу помилку у своєму проєкті, скористайся формою зворотного зв'язку внизу цієї сторінки.
+We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
 
 --- /task ---
 
