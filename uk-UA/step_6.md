@@ -14,10 +14,10 @@
 Цей проєкт використовує текст та емодзі, щоб запропонувати користувачу обрати розмір, а потім використовує його відповідь для визначення розміру всіх фігур:
 
 **Тартан Макьюєна**: [Подивитись код](https://trinket.io/python/6dd98dd8e1){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+
+Переглянь деякі проєкти 'Потужні візерунки' створені членами спільноти Raspberry Pi Foundation [Потужні візерунки - Бібліотека спільноти](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
 
 Переглянь деякі проєкти 'Потужні візерунки' створені членами спільноти Raspberry Pi Foundation [Потужні візерунки - Бібліотека спільноти](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
 
