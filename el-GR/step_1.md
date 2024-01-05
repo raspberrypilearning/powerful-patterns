@@ -18,72 +18,64 @@
 
 --- no-print ---
 
+### Βρες έμπνευση
+
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">
+<div style="flex-basis: 175px; flex-grow: 1">  
 
-### Βρες έμπνευση
-
-Εκτέλεσε αυτό το παράδειγμα και σκέψου το επαναλαμβανόμενο κεντρικό σχέδιο. Πώς θα περιέγραφες αυτό που συμβαίνει στο κινούμενο σχέδιο;
-
-**Kek lapis Sarawak**: [Δείτε μέσα](https://trinket.io/python/81be7eb895){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
+Click the **Run** button below to see this example and think about the repeated motif. How would you describe what is happening in the animation?
+**Kek lapis Sarawak**:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/repeated-patterns-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+</div>
 </div>
 
+You can find the Kek lapis Sarawak project [here](https://editor.raspberrypi.org/en/projects/repeated-patterns-example){:target="_blank"}
 --- /task ---
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### ΣΥΝΟΨΗ ΕΡΓΟΥ: Δημιούργησε ένα **ισχυρό μοτίβο**
+### PROJECT BRIEF: Create a **powerful pattern**
 <hr style="border-top: 2px solid black;"> 
 
-Το ισχυρό σου μοτίβο θα πρέπει να:
-+ Σχεδιάζει και τοποθετεί γεωμετρικά σχήματα για να δημιουργήσεις ένα βασικό μοτίβο
-+ Χρησιμοποιεί βρόχους για να επαναλάβεις το μοτίβο για να γεμίσεις την οθόνη
-+ Κινείται καθώς το μοτίβο δημιουργείται
+Your powerful pattern should:
++ Draw and position geometric shapes to create a base pattern
++ Use loops to repeat the pattern to fill the screen
++ Animate how the pattern is created
 
-Το ισχυρό σου μοτίβο θα μπορούσε:
-+ Να χρησιμοποιεί έντονα ή σημαντικά χρώματα
-+ Να αντλεί έμπνευση από την κουλτούρα ή από το λαϊκό πολιτισμό σου
-+ Να λάβει πληροφορίες από τον χρήστη για αλλαγή μεγέθους του μοτίβου
-+ Να προσθέτει κείμενο και emoji για να εμφανίζει λεπτομέρειες σχετικά με την τέχνη σου
-+ Να οδηγεί το μοτίβο για να δημιουργεί παραλλαγές
+Your powerful pattern could:
++ Use bold or significant colours
++ Draw inspiration from your culture or popular culture
++ Get user input to resize the pattern
++ Add text and emoji to print details about your art
++ Translate the pattern to create variations
 </div>
 
 ### Get ideas 💭
 
 --- task ---
 
-Εκτέλεσε αυτά τα παραδείγματα έργων για να πάρεις ιδέες για το μοτίβο σου.
+Run these example projects to get ideas for your pattern.
 
-Πώς έχουν κατασκευαστεί τα κεντρικά σχέδια από κύκλους, ελλείψεις, τετράγωνα, ορθογώνια και τρίγωνα;:
+How have the motifs been made from circles, ellipses, squares, rectangles, and triangles?:
 
-**Σπιράλ**: [Δες μέσα](https://trinket.io/python/a682f7a884){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Spirals**:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/spirals-pattern-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Spirals project [here](https://editor.raspberrypi.org/en/projects/spirals-pattern-example){:target="_blank"}
 
-**Τυχαία πρόσωπα**: [Δες μέσα](https://trinket.io/python/c45185fd44){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/c45185fd44?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Random faces**:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/random-faces-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Random faces project [here](https://editor.raspberrypi.org/en/projects/random-faces-example){:target="_blank"}
 
-**Ταπετσαρία αρ ντεκό**: [Δες μέσα](https://trinket.io/python/300e1cd325){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Art deco wallpaper**:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/art-deco-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Art deco project [here](https://editor.raspberrypi.org/en/projects/art-deco-example){:target="_blank"}
 
-**Ύφανση Yakan**: [Δες μέσα](https://trinket.io/python/20646dd7f4){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/20646dd7f4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Yakan weaving**:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/yakan-weaving-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Yakan weaving project [here](https://editor.raspberrypi.org/en/projects/yakan-weaving-example){:target="_blank"}
 
 --- /task ---
 
@@ -93,7 +85,7 @@
 
 Κοίταξε αυτά το παραδείγματα και σκέψου το επαναλαμβανόμενο κεντρικό σχέδιο. Πώς έχουν κατασκευαστεί τα μοτίβα από κύκλους, ελλείψεις, τετράγωνα, ορθογώνια και τρίγωνα;
 
-![Ολοκληρωμένο το έργο Kek lapis Sarawak.](images/kek.png) Μπορείς να βρεις το έργο Kek lapis Sarawak εδώ https://trinket.io/python/81be7eb895 ![Complete Spirals project.](images/spirals.png) Μπορείς να βρεις το έργο Σπείρες εδώ https://trinket.io/python/a682f7a884 ![Complete Random faces project.](images/random_faces.png) Μπορείς να βρεις το έργο Τυχαία πρόσωπα εδώ https://trinket.io/python/c45185fd44 ![Complete Art deco project.](images/art_deco.png) Μπορείς να βρεις το έργο Αρ ντεκό εδώ https://trinket.io/python/300e1cd325 ![Complete Yakan weaving project.](images/yakan.png) Μπορείς να βρειςτο έργο Ύφανση Yakan εδώ https:// trinket.io/python/20646dd7f4
+![Ολοκληρωμένο το έργο Kek lapis Sarawak.](images/kek.png) You can find the Kek lapis Sarawak project here https://editor.raspberrypi.org/en/projects/repeated-patterns-example ![Complete Spirals project.](images/spirals.png) You can find the Spirals project here https://editor.raspberrypi.org/en/projects/spirals-pattern-example ![Complete Random faces project.](images/random_faces.png) You can find the Random faces project here https://editor.raspberrypi.org/en/projects/random-faces-example ![Complete Art deco project.](images/art_deco.png) You can find the Art deco project here https://editor.raspberrypi.org/en/projects/art-deco-example ![Complete Yakan weaving project.](images/yakan.png) You can find the Yakan weaving project here https://editor.raspberrypi.org/en/projects/yakan-weaving-example
 
 --- /print-only ---
 
