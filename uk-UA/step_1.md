@@ -18,72 +18,64 @@
 
 --- no-print ---
 
+### Грати ▶️
+
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">
+<div style="flex-basis: 175px; flex-grow: 1">  
 
-### Грати ▶️
-
-Запусти цей приклад та подумай над мотивом, який повторюється. Як ти охарактеризуєш те, що відбувається в анімації?
-
-**Малайзійський листковий торт**: [Подивитись код](https://trinket.io/python/e03197361d){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
+Click the **Run** button below to see this example and think about the repeated motif. How would you describe what is happening in the animation?
+**Kek lapis Sarawak**:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/repeated-patterns-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+</div>
 </div>
 
+You can find the Kek lapis Sarawak project [here](https://editor.raspberrypi.org/en/projects/repeated-patterns-example){:target="_blank"}
 --- /task ---
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-###КОРОТКИЙ ОПИС ПРОЄКТУ: Створи **потужний візерунок**.
+### PROJECT BRIEF: Create a **powerful pattern**
 <hr style="border-top: 2px solid black;"> 
 
-Тобі треба обов'язково:
-+ Намалювати та розташувати геометричні фігури для створення базового візерунка
-+ Використовувати цикли для повторення візерунка, щоб заповнити весь екран
-+ Анімувати процес створення візерунка
+Your powerful pattern should:
++ Draw and position geometric shapes to create a base pattern
++ Use loops to repeat the pattern to fill the screen
++ Animate how the pattern is created
 
-Також, ти можеш:
-+ Використовувати насичені або виразні кольори
-+ Черпати натхнення зі своєї або іншої популярної культури
-+ Отримати від користувача вхідні дані, щоб змінити розмір візерунка
-+ Додати текст та емодзі, щоб вивести більше деталей про твоє мистецтво
-+ Переставляти візерунок, щоб створювати додаткові варіації
+Your powerful pattern could:
++ Use bold or significant colours
++ Draw inspiration from your culture or popular culture
++ Get user input to resize the pattern
++ Add text and emoji to print details about your art
++ Translate the pattern to create variations
 </div>
 
-### Отримай ідеї 💭
+### Get ideas 💭
 
 --- task ---
 
-Запусти ці приклади проєктів, щоб отримати ідеї для твого візерунка.
+Run these example projects to get ideas for your pattern.
 
-З яких фігур: кружечків, овалів, квадратиків, прямокутників та трикутників складаються мотиви?:
+How have the motifs been made from circles, ellipses, squares, rectangles, and triangles?:
 
-**Спіраль**: [Подивитись код](https://trinket.io/python/feca09e90f){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Spirals**:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/spirals-pattern-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Spirals project [here](https://editor.raspberrypi.org/en/projects/spirals-pattern-example){:target="_blank"}
 
-**Випадкові обличчя**: [Подивитись код](https://trinket.io/python/bfadb0acb8){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/c45185fd44?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Random faces**:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/random-faces-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Random faces project [here](https://editor.raspberrypi.org/en/projects/random-faces-example){:target="_blank"}
 
-**Шпалери в стилі арт-деко**: [Подивитись код](https://trinket.io/python/2aa6f09625){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Art deco wallpaper**:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/art-deco-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Art deco project [here](https://editor.raspberrypi.org/en/projects/art-deco-example){:target="_blank"}
 
-**Ткацтво з Якану**: [Подивитись код](https://trinket.io/python/84b908c76c){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/20646dd7f4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Yakan weaving**:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/yakan-weaving-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Yakan weaving project [here](https://editor.raspberrypi.org/en/projects/yakan-weaving-example){:target="_blank"}
 
 --- /task ---
 
@@ -93,7 +85,7 @@
 
 Переглянь ці приклади та задумайся про їх мотив, який повторюється. Як створювалися ці візерунки за допомогою кружечків, овалів, квадратиків, прямокутників та трикутників?
 
-![Завершений проєкт Малайзійський листковий торт.](images/kek.png) Ознайомитися з проєктом Малайзійський листковий торт можна тут https://trinket.io/python/e03197361d ![Complete Spirals project.](images/spirals.png) Ознайомитися з проєктом Спіраль можна тут https://trinket.io/python/feca09e90f ![Complete Random faces project.](images/random_faces.png) Ознайомитися з проєктом Випадкові обличчя можна тут https://trinket.io/python/bfadb0acb8 ![Complete Art deco project.](images/art_deco.png) Ознайомитися з проєктом Шпалери в стилі арт-деко можна тут https://trinket.io/python/2aa6f09625 ![Complete Yakan weaving project.](images/yakan.png) Ознайомитися з проєктом Ткацтво з Якану можна тут https://trinket.io/python/84b908c76c
+![Завершений проєкт Малайзійський листковий торт.](images/kek.png) You can find the Kek lapis Sarawak project here https://editor.raspberrypi.org/en/projects/repeated-patterns-example ![Complete Spirals project.](images/spirals.png) You can find the Spirals project here https://editor.raspberrypi.org/en/projects/spirals-pattern-example ![Complete Random faces project.](images/random_faces.png) You can find the Random faces project here https://editor.raspberrypi.org/en/projects/random-faces-example ![Complete Art deco project.](images/art_deco.png) You can find the Art deco project here https://editor.raspberrypi.org/en/projects/art-deco-example ![Complete Yakan weaving project.](images/yakan.png) You can find the Yakan weaving project here https://editor.raspberrypi.org/en/projects/yakan-weaving-example
 
 --- /print-only ---
 
