@@ -42,7 +42,9 @@ Os ydych chi'n creu patrwm mewn grŵp, oes angen i'ch motiff fod yn faint neu'n 
 
 --- task ---
 
-Agorwch y [prosiect dechreuol Patrymau pwerus](https://trinket.io/python/6c4a0c6406){:target=blank } a chlicio'r botwm Remix.
+Open the [Powerful patterns starter project](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"} project. The code editor will open in another browser tab.
+
+If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
 
 --- /task ---
 
@@ -65,7 +67,7 @@ title: Gosod maint y sgrin pan fydd eich rhaglen yn dechrau
 language: python filename: main.py - setup() line_numbers: true line_number_start: 6
 line_highlights: 7
 ---
-def setup(): size(400, 400) #Choose a size
+def setup(): size(400, 400)  # Choose a size
 
 --- /code ---
 
@@ -83,11 +85,10 @@ Meddyliwch ble ydych chi am lunio eich cefndir. Fe allwch chi:
 
 --- code ---
 ---
-language: python filename: main.py - setup() line_numbers: true line_number_start: 9
+language: python filename: main.py - setup() line_numbers: true line_number_start: 6
 line_highlights: 9
 ---
-
-    background(255, 255, 255) #Try different numbers to change the colour
+def setup(): size(400, 400) background(255, 255, 255)  # Try different numbers to change the colour
 
 --- /code ---
 
