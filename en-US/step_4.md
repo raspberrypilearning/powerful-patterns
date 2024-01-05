@@ -18,7 +18,7 @@ Look at this art deco wallpaper. How does the motif change to make the overall p
 
 ![The motif from the art deco wallpaper project next to the complete pattern.](images/spirals-motif.png)
 
-Think about the pattern you are making. How does your motif change to make the overall pattern. Use these questions to help you abstract:
+Think about the pattern you are making. How does your motif change to make the overall pattern? Use these questions to help you abstract:
 - Does the whole, or part, of the motif rotate?
 - What direction does it rotate? And by how much?
 - Are there layers to the pattern that overlap?
@@ -33,7 +33,7 @@ Think about the pattern you are making. How does your motif change to make the o
 
 Now that you know more about how the motif turns into the whole pattern, you can program it using your answers to the questions above.
 
-**Tip:** Don't forget you can 'See Inside' any of the examples in the introduction and 'copy' and 'paste' code into your project. Professional developers do this all the time!
+**Tip:** You can 'copy' and 'paste' code from any of the examples in the introduction into your project. Professional developers do this all the time!
 
 You have built up some really useful skills. Here is a reminder to help you make your repeated pattern:
 
@@ -46,7 +46,6 @@ You have built up some really useful skills. Here is a reminder to help you make
 [[[python-operators]]]
 
 [[[generic-python-for-loop-repeat]]]
-
 
 --- collapse ---
 
@@ -66,7 +65,10 @@ language: python filename: main.py - draw()
 
 ---
 
-push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) draw_motif() pop_matrix() #Reset transformation
+    push_matrix()  # Start transformation
+    translate(randint(0, 400), randint(0, 400))
+    draw_motif()
+    pop_matrix()  # Reset transformation
 
 --- /code ---
 
@@ -78,7 +80,7 @@ language: python filename: main.py - draw()
 
 ---
 
-BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
+    BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 --- /code ---
 
@@ -92,7 +94,7 @@ title: Changing the size of your motif
 
 If you use a motif you have already drawn, it might not be the right size.
 
-You can use `scale()` before calling the function that draws your motif to change its size. Using an input bigger than '1' will make the motif bigger, using an input less than '1' will make it smaller.
+You can use `scale()` before calling the function that draws your motif to change its size. Using an input bigger than '1' will make the motif bigger, using an input smaller than '1' will make it smaller.
 
 --- code ---
 ---
@@ -100,7 +102,7 @@ language: python filename: main.py - draw()
 
 ---
 
-scale(0.5) #Half size
+    scale(0.5)  # Half size
 
 --- /code ---
 
@@ -186,7 +188,7 @@ Check the syntax of your code. Are you missing any brackets `(` or `)` or a colo
 title: The animation is too fast/too slow
 ---
 
-Change the `frame_rate()` at the beginning of your program to get it to the speed you like.
+Change the number after `frame_rate =` in the call to the `run()` function at the end of your program to get it to the speed you like.
 
 --- /collapse ---
 
