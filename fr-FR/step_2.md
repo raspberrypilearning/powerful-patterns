@@ -42,7 +42,9 @@ Si tu crées un motif en groupe, ton motif doit-il avoir une certaine taille ou 
 
 --- task ---
 
-Ouvre le projet de démarrage [Motifs puissants](https://trinket.io/python/6c4a0c6406){:target=blank } et clique sur le bouton remix.
+Ouvre le projet de démarrage [Motifs puissants](https://trinket.io/python/8644b270c3){:target=blank} et clique sur le bouton remix. The code editor will open in another browser tab.
+
+If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
 
 --- /task ---
 
@@ -65,7 +67,7 @@ title: Définir la taille de l'écran au démarrage de ton programme
 language: python filename: main.py - setup() line_numbers: true line_number_start: 6
 line_highlights: 7
 ---
-def setup(): size(400, 400) #Choose a size
+def setup(): size(400, 400) #Choisis une taille
 
 --- /code ---
 
@@ -86,8 +88,7 @@ Pense à l'endroit où tu veux dessiner ton arrière-plan. Tu peux :
 language: python filename: main.py - setup() line_numbers: true line_number_start: 9
 line_highlights: 9
 ---
-
-    background(255, 255, 255) #Try different numbers to change the colour
+background(255, 255, 255) #Essaie différents nombres pour changer la couleur
 
 --- /code ---
 
