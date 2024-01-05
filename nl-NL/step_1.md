@@ -18,21 +18,21 @@ Je gaat:
 
 --- no-print ---
 
+### Play ▶️
+
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">
+<div style="flex-basis: 175px; flex-grow: 1">  
 
-### Play ▶️
-
-Voer dit voorbeeld uit en denk na over het herhaalde motief. Hoe zou je beschrijven wat er in de animatie gebeurt?
-
-**Kek lapis Sarawak**: [Bekijk van binnen](https://trinket.io/python/81be7eb895){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/81be7eb895?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
+Click the **Run** button below to see this example and think about the repeated motif. Hoe zou je beschrijven wat er in de animatie gebeurt?
+**Kek lapis Sarawak**:
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/repeated-patterns-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+</div>
 </div>
 
+You can find the Kek lapis Sarawak project [here](https://editor.raspberrypi.org/en/projects/repeated-patterns-example){:target="_blank"}
 --- /task ---
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
@@ -61,29 +61,21 @@ Verken deze voorbeeldprojecten om ideeën voor je patroon op te doen.
 
 Hoe zijn de motieven opgebouwd uit cirkels, ellipsen, vierkanten, rechthoeken en driehoeken?:
 
-**Spiralen**: [Bekijk van binnen](https://trinket.io/python/a682f7a884){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/a682f7a884?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Spiralen**: [Bekijk van binnen](https://trinket.io/python/d467ef746b){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/spirals-pattern-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Spirals project [here](https://editor.raspberrypi.org/en/projects/spirals-pattern-example){:target="_blank"}
 
-**Willekeurige gezichten**: [Bekijk van binnen](https://trinket.io/python/c45185fd44){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/c45185fd44?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Willekeurige gezichten**: [Bekijk van binnen](https://trinket.io/python/014a49b524){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/random-faces-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Random faces project [here](https://editor.raspberrypi.org/en/projects/random-faces-example){:target="_blank"}
 
-**Art deco behang**: [Bekijk van binnen](https://trinket.io/python/300e1cd325){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/300e1cd325?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Art deco behang**: [Bekijk van binnen](https://trinket.io/python/4dd6130490){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/art-deco-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Art deco project [here](https://editor.raspberrypi.org/en/projects/art-deco-example){:target="_blank"}
 
-**Yakan weven**: [Bekijk van binnen](https://trinket.io/python/20646dd7f4){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/20646dd7f4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Yakan weven**: [Bekijk van binnen](https://trinket.io/python/5b5bafa6da){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/yakan-weaving-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> You can find the Yakan weaving project [here](https://editor.raspberrypi.org/en/projects/yakan-weaving-example){:target="_blank"}
 
 --- /task ---
 
@@ -93,7 +85,7 @@ Hoe zijn de motieven opgebouwd uit cirkels, ellipsen, vierkanten, rechthoeken en
 
 Bekijk deze voorbeelden en denk na over het herhaalde motief. Hoe zijn de patronen opgebouwd uit cirkels, ellipsen, vierkanten, rechthoeken en driehoeken?
 
-![Voltooi het Kek lapis Sarawak-project.](images/kek.png) Je kunt het Kek lapis Sarawak-project hier vinden https://trinket.io/python/81be7eb895 ![Complete Spirals project.](images/spirals.png) Je kunt het Spiralen project hier vinden https://trinket.io/python/a682f7a884 ![Complete Random faces project.](images/random_faces.png) Je kunt het Willekeurige gezichten project hier vinden https://trinket.io/python/c45185fd44 ![Complete Art deco project.](images/art_deco.png) Je vindt het Art deco-project hier https://trinket.io/python/300e1cd325 ![Complete Yakan weaving project.](images/yakan.png) Je vindt het Yakan-weefproject hier https:// trinket.io/python/20646dd7f4
+![Voltooi het Kek lapis Sarawak-project.](images/kek.png) Je kunt het Kek lapis Sarawak-project hier vinden https://trinket.io/python/0b27bb5a77 ![Complete Spirals project.](images/spirals.png) Je kunt het Spiralen project hier vinden https://trinket.io/python/d467ef746b ![Complete Random faces project.](images/random_faces.png) Je kunt het Willekeurige gezichten project hier vinden https://trinket.io/python/014a49b524 ![Complete Art deco project.](images/art_deco.png) Je vindt het Art deco-project hier https://trinket.io/python/4dd6130490 ![Complete Yakan weaving project.](images/yakan.png) Je vindt het Yakan-weefproject hier https:// trinket.io/python/5b5bafa6da
 
 --- /print-only ---
 
