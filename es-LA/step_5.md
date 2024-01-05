@@ -6,7 +6,7 @@ Tu patrón poderoso:
 
 --- task ---
 
-Dibuja y posiciona formas geométricas para crear un patrón base (o motivo) --- /task ---
+Dibuja y posiciona formas geométricas para crear un patrón base (o motivo) --- /task --- --- /task ---
 
 --- task ---
 
@@ -58,7 +58,6 @@ Trasladar el patrón para crear variaciones
 Compartir tu trabajo con otros en una galería en línea
 
 --- /task ---
-
 
 Reflexionar sobre cómo hiciste tu patrón poderoso te ayudará en tus proyectos futuros.
 
