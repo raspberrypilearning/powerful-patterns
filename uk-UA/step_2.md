@@ -42,7 +42,9 @@
 
 --- task ---
 
-Відкрий [Потужні візерунки - стартовий проєкт](https://trinket.io/python/5d9a168d73){:target=blank } та натисни на кнопку Remix.
+Open the [Powerful patterns starter project](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"} project. The code editor will open in another browser tab.
+
+If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
 
 --- /task ---
 
@@ -65,7 +67,7 @@ title: Налаштування розміру екрана під час зап
 language: python filename: main.py - setup() line_numbers: true line_number_start: 6
 line_highlights: 7
 ---
-def setup(): size(400, 400) #Choose a size
+def setup(): size(400, 400)  # Choose a size
 
 --- /code ---
 
@@ -83,11 +85,10 @@ title: Налаштування кольору фону під час запус
 
 --- code ---
 ---
-language: python filename: main.py - setup() line_numbers: true line_number_start: 9
+language: python filename: main.py - setup() line_numbers: true line_number_start: 6
 line_highlights: 9
 ---
-
-    background(255, 255, 255) #Try different numbers to change the colour
+def setup(): size(400, 400) background(255, 255, 255)  # Try different numbers to change the colour
 
 --- /code ---
 
