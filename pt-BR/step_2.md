@@ -42,7 +42,9 @@ Se você estiver criando um padrão em grupo, seu motivo precisa ter um determin
 
 --- task ---
 
-Abra o [projeto inicial super padrões](https://trinket.io/python/6c4a0c6406){:target=blank} e clique no botão remix.
+Abra o [projeto inicial super padrões](https://editor.raspberrypi.org/pt-BR/projects/gift-alarm-enter){:target=blank}. O editor de código será aberto em outra guia do navegador.
+
+Se você tiver uma conta Raspberry Pi, pode clicar no botão **Salvar** para salvar uma cópia em seus **Projetos**.
 
 --- /task ---
 
@@ -65,7 +67,7 @@ title: Configurando o tamanho da tela quando o programa é iniciado
 language: python filename: main.py - setup() line_numbers: true line_number_start: 6
 line_highlights: 7
 ---
-def setup(): size(400, 400) #Choose a size
+def setup(): size(400, 400)  # Escolha um tamanho
 
 --- /code ---
 
@@ -83,11 +85,10 @@ Escolha onde você quer desenhar o plano de fundo. Você pode:
 
 --- code ---
 ---
-language: python filename: main.py - setup() line_numbers: true line_number_start: 9
-line_highlights: 9
+language: python filename: main.py - setup() line_numbers: true line_number_start: 6
+line_highlights: 8
 ---
-
-    background(255, 255, 255) #Try different numbers to change the colour
+def setup(): size(400, 400) background(255, 255, 255)  # Tente números diferentes para mudar a cor
 
 --- /code ---
 
