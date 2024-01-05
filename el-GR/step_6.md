@@ -13,11 +13,11 @@
 
 Αυτό το έργο χρησιμοποιεί κείμενο και emoji για να ζητήσει από τον χρήστη να επιλέξει ένα μέγεθος και, στη συνέχεια, χρησιμοποιεί την απάντησή του για να καθορίσει το μέγεθος σε όλα τα σχήματα:
 
-**Καρό McEwen**: [Δείτε μέσα](https://trinket.io/python/4706d1a81b){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/4706d1a81b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Καρό McEwen**: [Δείτε μέσα](https://trinket.io/python/89ab33c5ff){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+
+Ρίξε μια ματιά σε μερικά έργα Ισχυρά μοτίβα που δημιουργήθηκαν από μέλη της κοινότητας στο [Ισχυρά μοτίβα - Βιβλιοθήκη κοινότητας ](https://wke.lt/w/s/yyNPQT){:target="_blank"} του Ιδρύματος Raspberry Pi.
 
 Ρίξε μια ματιά σε μερικά έργα Ισχυρά μοτίβα που δημιουργήθηκαν από μέλη της κοινότητας στο [Ισχυρά μοτίβα - Βιβλιοθήκη κοινότητας ](https://wke.lt/w/s/yyNPQT){:target="_blank"} του Ιδρύματος Raspberry Pi.
 
