@@ -33,7 +33,7 @@ Denk na over het patroon dat je aan het maken bent. Hoe verandert het motief om 
 
 Nu je meer weet over hoe het motief het hele patroon gaat vormen, kun je het programmeren met je antwoorden op de bovenstaande vragen.
 
-**Tip:**Vergeet niet dat je de voorbeelden in de inleiding "van binnen" kan bekijken en de code kan 'kopiëren" en "plakken" in jouw project. Professionele ontwikkelaars doen dit altijd zo!
+**Tip:** Vergeet niet dat je de voorbeelden in de inleiding "van binnen" kan bekijken en de code kan 'kopiëren" en "plakken" in jouw project. Professionele ontwikkelaars doen dit altijd zo!
 
 Je hebt een aantal echt nuttige vaardigheden opgebouwd. Hier is een geheugensteuntje om je te helpen bij het maken van je herhaalde patroon:
 
@@ -46,7 +46,6 @@ Je hebt een aantal echt nuttige vaardigheden opgebouwd. Hier is een geheugensteu
 [[[python-operators]]]
 
 [[[generic-python-for-loop-repeat]]]
-
 
 --- collapse ---
 
@@ -66,7 +65,10 @@ language: python filename: main.py - draw()
 
 ---
 
-push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) draw_motif() pop_matrix() #Reset transformation
+    push_matrix() #Transformatie starten 
+    translate(randint(0, 400), randint(0, 400)) 
+    teken_motief() 
+    pop_matrix() #Transformatie resetten
 
 --- /code ---
 
@@ -74,11 +76,11 @@ Je kan random ook gebruiken om de kleuren in je motief te veranderen wanneer het
 
 --- code ---
 ---
-language: python filename: main.py - draw()
+filename: main.py - draw()
 
 ---
 
-BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
+    BLAUW = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 --- /code ---
 
@@ -96,11 +98,11 @@ Je kunt `scale()` gebruiken voordat je de functie oproept die je motief tekent o
 
 --- code ---
 ---
-language: python filename: main.py - draw()
+filename: main.py - draw()
 
 ---
 
-scale(0.5) #Half size
+    scale(0.5) #Halve grootte
 
 --- /code ---
 
