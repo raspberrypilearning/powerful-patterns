@@ -33,7 +33,7 @@ Pense au modèle que tu crées. Comment ton motif change-t-il pour créer le mot
 
 Maintenant que tu en sais plus sur la façon dont le motif se transforme en motif complet, tu peux le programmer en utilisant tes réponses aux questions ci-dessus.
 
-**Astuce :** N'oublie pas que tu peux « voir à l'intérieur » n'importe lequel des exemples de l'introduction et « copier » « coller » le code dans ton projet. Les développeurs professionnels le font tout le temps !
+**Astuce :** n'oublie pas que tu peux « voir à l'intérieur » n'importe lequel des exemples de l'introduction et « copier » « coller » le code dans ton projet. Les développeurs professionnels le font tout le temps !
 
 Tu as acquis des compétences vraiment utiles. Voici un rappel pour t'aider à réaliser ton motif répété :
 
@@ -46,7 +46,6 @@ Tu as acquis des compétences vraiment utiles. Voici un rappel pour t'aider à r
 [[[python-operators]]]
 
 [[[generic-python-for-loop-repeat]]]
-
 
 --- collapse ---
 
@@ -66,7 +65,10 @@ language: python filename: main.py - draw()
 
 ---
 
-push_matrix() #Start transformation translate(randint(0, 400), randint(0, 400)) draw_motif() pop_matrix() #Reset transformation
+    push_matrix() #Commencer la transformation 
+    translate(randint(0, 400), randint(0, 400)) 
+    dessin_motif() 
+    pop_matrix() #Réinitialiser la transformation
 
 --- /code ---
 
@@ -78,7 +80,7 @@ language: python filename: main.py - draw()
 
 ---
 
-BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
+    BLEU = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 --- /code ---
 
@@ -100,7 +102,7 @@ language: python filename: main.py - draw()
 
 ---
 
-scale(0.5) #Half size
+    scale(0.5) #Moitié de la taille
 
 --- /code ---
 
@@ -190,7 +192,7 @@ Modifie le `frame_rate()` au début de ton programme pour l'obtenir à la vitess
 
 --- /collapse ---
 
-Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver comment le corriger ?
+Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver comment le réparer ?
 
 Nous aimons avoir des nouvelles de tes bogues et de la façon dont tu les as corrigés. Utilise le bouton de commentaires au bas de cette page si tu as trouvé un bogue différent dans ton projet.
 
