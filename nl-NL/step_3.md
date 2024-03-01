@@ -1,4 +1,4 @@
-## Bouwen en testen: het Motief
+## Bouwen en testen - Patroon
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">

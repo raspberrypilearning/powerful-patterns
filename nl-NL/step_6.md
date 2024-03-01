@@ -19,7 +19,7 @@ Dit project gebruikt tekst en emoji om de gebruiker te vragen een afmeting te ki
 
 Je kunt het McEwen tartan-project [hier vinden](https://editor.raspberrypi.org/nl-NL/projects/mcewen-tartan-example){:target="_blank"}
 
-Bekijk enkele Krachtige Patronen projecten die zijn gemaakt door communityleden in de [Krachtige patronen - Communitybibliotheek](https://wke.lt/w/s/yyNPQT) van de Raspberry Pi Foundation{:target="_blank"}.
+Bekijk enkele Krachtige Patronen projecten die zijn gemaakt door communityleden in de [Krachtige patronen - Communitybibliotheek](https://wke.lt/w/s/yyNPQT){:target="_blank"} van de Raspberry Pi Foundation.
 
 --- save ---
 
