@@ -52,15 +52,15 @@ def draw():
     global motief_breedte
     motief_breedte = 150
 
-    translate(-motif_width/2, -motif_width/2) # om te beginnen met halve motieven
+    translate(-motief_breedte/2, -motief_breedte/2) # om te beginnen met halve motieven
 
     if frame_count < 20:  # maximum rijen
         for row in range(frame_count):
-            roteer_motief()
+            draai_motief()
             if row / 2 == 0: # om het patroon op de volgende rij te verschuiven
-                translate(-motif_width * 5 + 75, 80)
+                translate(-motief_breedte * 5 + 75, 80)
             else:
-                translate(-motif_width * 5 - 75, 80)
+                translate(-motief_breedte * 5 - 75, 80)
 
 
 run(frame_rate=3)
