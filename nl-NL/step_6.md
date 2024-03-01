@@ -13,7 +13,7 @@ Bij elk voorbeeldproject in de Inleiding kun je de code bekijken, ideeën opdoen
 
 Dit project gebruikt tekst en emoji om de gebruiker te vragen een afmeting te kiezen en gebruikt vervolgens hun antwoord om alle vormen op maat te maken:
 
-**McEwen tartan**: [Bekijk van binnen](https://trinket.io/python/a65a783307){:target="_blank"}
+**McEwen tartan**:
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe>
 
