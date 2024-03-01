@@ -32,7 +32,7 @@ def draw():
             for shape in range(16): # maak een rij motieven
                 motief()
                 translate(cirkel_grootte / 2, 0)
-            translate(-with, circle_grootte / 2) # ga naar beneden om de volgende rij te beginnen
+            translate(-with, cirkel_grootte / 2) # ga naar beneden om de volgende rij te beginnen
 
 
 run(frame_rate=3)

@@ -8,7 +8,7 @@ def setup():
 
 
 def draw():
-    lines = 10 * frame_count # Gebruik de breedte/lengte van de vorm om in de loop van de tijd te animeren
+    lijnen = 10 * frame_count # Gebruik de breedte/lengte van de vorm om in de loop van de tijd te animeren
 
     # McEwen tartan kleuren
     # Kleuren van de basisvierkanten
@@ -26,16 +26,16 @@ def draw():
 
     # Teken afwisselend alle GROENE en BLAUWE basisvierkanten
     no_stroke()
-    y_coördinaat = 0
+    y_coordinaat = 0
     vierkanten = width/vierkant_grootte
 
     for i in range(int(vierkanten)):
         gap = 0
         for j in range(int(vierkanten)):
             fill(BASIS_KLEUREN[j % 2]) # GROEN en BLAUW
-            rect(gap, y_coördinaat, vierkant_grootte, vierkant_grootte)
-            opening = opening + vierkant_grootte
-        y_coördinaat = y_coördinaat + vierkant_grootte
+            rect(gap, y_coordinaat, vierkant_grootte, vierkant_grootte)
+            gap = gap + vierkant_grootte
+        y_coordinaat = y_coordinaat + vierkant_grootte
 
     # Kruizen
     stroke(GRIJS)
@@ -55,7 +55,7 @@ def draw():
         for i in range(int(vierkanten)):
             rect(kruis, 0, 4, lijnen)
             rect(0, kruis, lijnen, 4)
-            kruis = kruis + * vierkant_grootte
+            kruis = kruis + vierkant_grootte
 
     # Teken de grijze lijnen waar het materiaal overlapt
     no_stroke()
@@ -71,7 +71,7 @@ def draw():
 
 
 print('🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿 Dit is McEwen Tartan 🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿')
-vierkante_grootte = int(
+vierkant_grootte = int(
     input('Welke maat 🏴󠁧󠁢󠁳󠁣󠁴󠁿tartan wil je graag hebben? 20, 50 of 100'))
 
 run(frame_rate=10)
