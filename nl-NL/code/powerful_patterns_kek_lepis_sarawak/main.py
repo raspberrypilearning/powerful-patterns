@@ -40,7 +40,7 @@ def buitenste():
 
 def setup():
     size(400, 400) # maak de taart vierkant
-    achtergrond(255, 255, 255, 0) # transparante achtergrond
+    background(255, 255, 255, 0) # transparante achtergrond
 
 
 def draw():
@@ -54,7 +54,7 @@ def draw():
     if frame_count <= 4: # teken maximaal 4 kwadranten
         for i in range(frame_count):
             kwadrant()
-            roteren (kwartl)
+            rotate(kwart)
 
     if frame_count == 5: # voeg de buitenste laag toe
         translate(-200, -200) # terug naar de bovenhoek
