@@ -25,7 +25,7 @@ In dit voorbeeld werd een art deco-behangpapier patroon ontleed tot de basis ver
 
 Je hebt een aantal echt nuttige vaardigheden opgebouwd. Hier is een geheugensteuntje om je te helpen bij het maken van jouw motief:
 
-### Shapes
+### Vormen
 
 [[[processing-python-ellipse]]]
 
