@@ -3,62 +3,62 @@
 from p5 import *
 from time import *
 
-# Based on the amazing Malaysian geometric cake art: Kek lapis Sarawak
+# Gebaseerd op de prachtige Maleisische geometrische taartkunst: Kek lapis Sarawak
 
 
-def quadrant():
-    # Choose some gorgeous colours for the cake layers
-    turquoise = Color(64, 224, 208)
-    gold = Color(255, 215, 0)
-    tomato = Color(255, 99, 71)
+def kwadrant():
+    # Kies een aantal prachtige kleuren voor de taartlagen
+    turkoois = Color(64, 224, 208)
+    goud = Color(255, 215, 0)
+    tomaat = Color(255, 99, 71)
 
-    # Jam sticks the layers together
+    # Jam plakt de lagen aan elkaar
     jam = Color(255, 165, 0)
     stroke(jam)
-    stroke_weight(2)  # Change the number to change the amount of jam
+    stroke_weight(2) # Wijzig het getal om de hoeveelheid jam te wijzigen
 
-    # Nine layers of cake, repeating the 3 colours 3 times
+    # Negen lagen cake, waarbij de 3 kleuren 3 keer worden herhaald
     for i in range(3):
-        start_y = i * 60  # height of 3 blocks of cake
-        fill(turquoise)
+        start_y = i * 60 # hoogte van 3 blokken cake
+        fill(turkoois)
         rect(0, start_y, 180, 20)
-        fill(gold)
+        fill(goud)
         rect(0, start_y + 20, 180, 20)
-        fill(tomato)
+        fill (tomaat)
         rect(0, start_y + 40, 180, 20)
 
 
-def outer():
-    # The cake is wrapped in an outer layer
-    yellowgreen = Color(154, 205, 50)
+def buitenste():
+    # De cake is verpakt in een buitenste laag
+    geelgroen = Color(154, 205, 50)
 
-    no_fill()  # Don't cover up the cake quadrants!
-    stroke(yellowgreen)
+    no_fill() # Bedek de taartkwadranten niet!
+    stroke(geelgroen)
     stroke_weight(20)
     rect(10, 10, 380, 380, 20)
 
 
 def setup():
-    size(400, 400)  # make the cake square
-    background(255, 255, 255, 0)  # transparent background
+    size(400, 400) # maak de taart vierkant
+    achtergrond(255, 255, 255, 0) # transparante achtergrond
 
 
 def draw():
-    # Define a quarter turn so our code is easy to read
-    quarter = radians(90)
+    # Definieer een kwartslag zodat onze code gemakkelijk te lezen is
+    kwart = radians(90)
 
-    translate(200, 200)  # start from the center
+    translate(200, 200) # start vanuit het midden
 
-    # Make the bottom right quarter of the cake then rotate for the other quarters
+    # Maak het kwart rechtsonder van de cake en draai dan voor de andere kwarten
 
-    if frame_count <= 4:  # draw up to 4 quadrants
+    if frame_count <= 4: # teken maximaal 4 kwadranten
         for i in range(frame_count):
-            quadrant()
-            rotate(quarter)
+            kwadrant()
+            roteren (kwartl)
 
-    if frame_count == 5:  # add the outer layer
-        translate(-200, -200)  # back to the top corner
-        outer()  # outer layer
+    if frame_count == 5: # voeg de buitenste laag toe
+        translate(-200, -200) # terug naar de bovenhoek
+        buitenste() # buitenste laag
 
 
-run(frame_rate=5)  # 5 frames per second
+run(frame_rate=5) # 5 frames per seconde
