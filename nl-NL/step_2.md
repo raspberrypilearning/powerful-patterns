@@ -42,9 +42,9 @@ Als je als groep een patroon maakt, moet je motief dan een bepaalde afmeting of 
 
 --- task ---
 
-Open het [Krachtige patronen startersproject](https://trinket.io/python/f079d46fca){:target=blank} en klik op de remix-knop. The code editor will open in another browser tab.
+Open het [Krachtige patronen startersproject](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target=blank} project. De code-editor wordt geopend in een ander browsertabblad.
 
-If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
+Als je een Raspberry Pi-account hebt, kun je op de **Save** knop klikken om een kopie op te slaan in je **Projects**.
 
 --- /task ---
 
@@ -76,7 +76,7 @@ def setup(): size(400, 400) #Kies een afmeting
 --- collapse ---
 
 ---
-title: De achtergrondkleur instellen wanneer het programma start
+title: De achtergrondkleur instellen wanneer het programma wordt gestart
 ---
 
 Bedenk waar je je achtergrond wilt tekenen. Jij kunt:
