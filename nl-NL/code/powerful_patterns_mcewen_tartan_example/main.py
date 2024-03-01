@@ -8,70 +8,70 @@ def setup():
 
 
 def draw():
-    lines = 10 * frame_count  # Use in shape width/length to animate over time
+    lines = 10 * frame_count # Gebruik de breedte/lengte van de vorm om in de loop van de tijd te animeren
 
-    # McEwen tartan colours
-    # Base square colours
-    BLUE = Color(83, 143, 200)
+    # McEwen tartan kleuren
+    # Kleuren van de basisvierkanten
+    BLAUW = Color(83, 143, 200)
     GREEN = Color(78, 163, 162)
-    BASE_COLORS = [GREEN, BLUE]
+    BASIS_KLEUREN = [GROEN, BLAUW]
 
-    # Cross colours
-    YELLOW = Color(155, 176, 135)
-    RED = Color(155, 129, 113)
-    CROSS_COLORS = [YELLOW, RED]
+    # Kruiskleuren
+    GEEL = Color(155, 176, 135)
+    ROOD = Color(155, 129, 113)
+    KRUIS_KLEUREN = [GEEL, ROOD]
 
-    # Stitching and overlap colour
-    GREY = Color(78, 99, 86)
+    # Kleur van het stiksel en overlappende kleur
+    GRIJS = Color(78, 99, 86)
 
-    # Draw all the GREEN and BLUE alternating Base squares
+    # Teken afwisselend alle GROENE en BLAUWE basisvierkanten
     no_stroke()
-    y_coordinate = 0
-    squares = width/square_size
+    y_coördinaat = 0
+    vierkanten = width/vierkant_grootte
 
-    for i in range(int(squares)):
+    for i in range(int(vierkanten)):
         gap = 0
-        for j in range(int(squares)):
-            fill(BASE_COLORS[j % 2])  # GREEN and BLUE
-            rect(gap, y_coordinate, square_size, square_size)
-            gap = gap + square_size
-        y_coordinate = y_coordinate + square_size
+        for j in range(int(vierkanten)):
+            fill(BASIS_KLEUREN[j % 2]) # GROEN en BLAUW
+            rect(gap, y_coördinaat, vierkant_grootte, vierkant_grootte)
+            opening = opening + vierkant_grootte
+        y_coördinaat = y_coördinaat + vierkant_grootte
 
-    # Crosses
-    stroke(GREY)
+    # Kruizen
+    stroke(GRIJS)
 
-    # DRAW THE YELLOW and RED alternating crosses
+    # TEKEN afwisselend DE GELE en RODE kruizen
     for i in range(4):
-        fill(YELLOW)
-        cross = square_size / 2 - 2
-        for i in range(int(squares/2)):
-            fill(CROSS_COLORS[i % 2])  # YELLOW and RED
-            rect(cross, 0, 4, lines)
-            rect(0, cross, lines, 4)
-            cross = cross + 2 * square_size
-        # Draw the stiching crosses
+        fill(GEEL)
+        kruis = vierkant_grootte / 2 - 2
+        for i in range(int(vierkanten/2)):
+            fill(KRUIS_KLEUREN[1% 2]) #GEEL en ROOD
+            rect(kruis, 0, 4, lijnen)
+            rect(0, kruis, lijnen, 4)
+            kruis = kruis + 2 * vierkant_grootte
+        # Teken de stikkruisen
         no_fill()
-        cross = square_size + square_size / 2 - 2
-        for i in range(int(squares)):
-            rect(cross, 0, 4, lines)
-            rect(0, cross, lines, 4)
-            cross = cross + square_size
+        kruis = vierkant_grootte + vierkant_grootte / 2 - 2
+        for i in range(int(vierkanten)):
+            rect(kruis, 0, 4, lijnen)
+            rect(0, kruis, lijnen, 4)
+            kruis = kruis + * vierkant_grootte
 
-    # Draw the grey lines where material overlaps
+    # Teken de grijze lijnen waar het materiaal overlapt
     no_stroke()
-    fill(GREY, 100)
-    gap = square_size - 4
-    for i in range(int(squares)):
-        rect(gap, 0, 8, lines)
-        gap = gap + square_size
-    gap = square_size - 4
-    for i in range(int(squares)):
-        rect(0, gap, lines, 8)
-        gap = gap + square_size
+    fill(GRIJS, 100)
+    gap = vierkant_grootte - 4
+    for i in range(int(vierkanten)):
+        rect(gap, 0, 8, lijnen)
+        gap = gap + vierkant_grootte
+    gap = vierkant_grootte - 4
+    for i in range(int(vierkanten)):
+        rect(0, gap, lijnen, 8)
+        gap = gap + vierkant_grootte
 
 
-print('🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿 This is McEwen Tartan 🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿')
-square_size = int(
-    input('What size 🏴󠁧󠁢󠁳󠁣󠁴󠁿tartan would you like? 20, 50, or 100'))
+print('🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿 Dit is McEwen Tartan 🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿')
+vierkante_grootte = int(
+    input('Welke maat 🏴󠁧󠁢󠁳󠁣󠁴󠁿tartan wil je graag hebben? 20, 50 of 100'))
 
 run(frame_rate=10)
