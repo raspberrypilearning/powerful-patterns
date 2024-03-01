@@ -4,60 +4,60 @@ from p5 import *
 from math import random
 
 
-def motif():
-    motif_size = 100
+def motief():
+    motief_grootte = 100
 
-    # Thread colours
-    ORANGE = Color(254, 96, 1)
-    PURPLE = Color(135, 18, 192)
-    YELLOW = Color(243, 200, 19)
-    BLUE = Color(83, 171, 176)
+    # Kleuren van de draad
+    ORANJE = Color(254, 96, 1)
+    PAARS = Color(135, 18, 192)
+    GEEL = Color(243, 200, 19)
+    BLAUW = Color(83, 171, 176)
 
-    # Squares
-    fill(ORANGE)
-    rect(0, 0, motif_size/2, motif_size/2)
-    fill(PURPLE)
-    rect(50, 0, motif_size/2, motif_size/2)
-    fill(YELLOW)
-    rect(0, 50, motif_size/2, motif_size/2)
-    fill(BLUE)
-    rect(50, 50, motif_size/2, motif_size/2)
-    fill(PURPLE)
-    rect(0, 0, motif_size/4, motif_size/4)
-    fill(ORANGE)
-    rect(50, 0, motif_size/4, motif_size/4)
-    fill(BLUE)
-    rect(0, 50, motif_size/4, motif_size/4)
-    fill(YELLOW)
-    rect(50, 50, motif_size/4, motif_size/4)
+    # Vierkanten
+    fill(ORANJE)
+    rect(0, 0, motief_grootte/2, motief_grootte/2)
+    fill(PAARS)
+    rect(50, 0, motief_grootte/2, motief_grootte/2)
+    fill(GEEL)
+    rect(0, 50, motief_grootte/2, motief_grootte/2)
+    fill(BLAUW)
+    rect(50, 50, motief_grootte/2, motief_grootte/2)
+    fill(PAARS)
+    rect(0, 0, motief_grootte/4, motief_grootte/4)
+    fill(ORANJE)
+    rect(50, 0, motief_grootte/4, motief_grootte/4)
+    fill(BLAUW)
+    rect(0, 50, motief_grootte/4, motief_grootte/4)
+    fill(GEEL)
+    rect(50, 50, motief_grootte/4, motief_grootte/4)
 
 
-def rotate_motif():
-    for shape in range(5):  # row of shapes
-        push_matrix()  # save settings
-        rotate(radians(45))  # turn shape 45 degrees
-        motif()
-        pop_matrix()  # go back to saved settings
-        translate(motif_width, 0)  # move horizontally
+def draai_motief():
+    for shape in range(5): # maak een rij motieven
+        push_matrix() # instellingen opslaan
+        rotate(radians(45)) # vorm 45 graden draaien
+        motief()
+        pop_matrix() # ga terug naar opgeslagen instellingen
+        translate(motief_breedte, 0) # horizontaal bewegen
 
 
 def setup():
     size(400, 400)
-    background(250, 5, 94)  # pink
+    background(250, 5, 94) # roze
     no_stroke()
-    print('This is 🇵🇭 Yakan weaving ')
+    print('Dit is 🇵🇭 Yakan-weven ')
 
 
 def draw():
-    global motif_width
-    motif_width = 150
+    global motief_breedte
+    motief_breedte = 150
 
-    translate(-motif_width/2, -motif_width/2)  # to start with half motifs
+    translate(-motif_width/2, -motif_width/2) # om te beginnen met halve motieven
 
-    if frame_count < 20:  # maximum rows
+    if frame_count < 20:  # maximum rijen
         for row in range(frame_count):
-            rotate_motif()
-            if row / 2 == 0:  # to offset pattern on next row
+            roteer_motief()
+            if row / 2 == 0: # om het patroon op de volgende rij te verschuiven
                 translate(-motif_width * 5 + 75, 80)
             else:
                 translate(-motif_width * 5 - 75, 80)
