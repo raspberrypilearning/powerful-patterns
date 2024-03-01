@@ -4,35 +4,35 @@ from p5 import *
 from random import randint
 
 
-def motif():
-    global circle_size
+def motief():
+    global cirkel_grootte
     for i in range(5):
-        ellipse(0, 0, circle_size / 5 * (5 - i), circle_size / 5 * (5 - i))
+        ellipse(0, 0, cirkel_grootte / 5 * (5 - i), cirkel_grootte / 5 * (5 - i))
 
 
 def setup():
     size(400, 400)
-    print('🖌 This art uses lots of circles!')
+    print('🖌 Deze kunst gebruikt veel cirkels!')
 
-    global circle_size
+    global cirkel_grootte
 
-    circle_size = 50
+    cirkel_grootte = 50
 
 
 def draw():
-    # Pattern colours
-    stroke(40, 35, 100)  # blue
-    stroke_weight(2)  # thick border
-    fill(200, 180, 128)  # gold
+    # Patroonkleuren
+    stroke(40, 35, 100)  # blauw
+    stroke_weight(2) # dikke rand
+    fill(200, 180, 128) # goud
 
-    translate(0, 0)  # start from the top left of the screen
+    translate(0, 0) # start vanaf de linkerbovenhoek van het scherm
 
-    if frame_count <= 16:  # creates 16 rows then stops
-        for row in range(frame_count):  # animates 1 row at a time
-            for shape in range(16):  # create a row of motifs
-                motif()
-                translate(circle_size / 2, 0)
-            translate(-width, circle_size / 2)  # move down to start next row
+    if frame_count <= 16: # maakt 16 rijen en stopt dan
+        for row in range(frame_count): # animeert 1 rij tegelijk
+            for shape in range(16): # maak een rij motieven
+                motief()
+                translate(cirkel_grootte / 2, 0)
+            translate(-with, circle_grootte / 2) # ga naar beneden om de volgende rij te beginnen
 
 
 run(frame_rate=3)
