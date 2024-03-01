@@ -42,7 +42,9 @@ Als je als groep een patroon maakt, moet je motief dan een bepaalde afmeting of 
 
 --- task ---
 
-Open het [Krachtige patronen startersproject](https://trinket.io/python/f079d46fca){:target=blank} en klik op de remix-knop.
+Open het [Krachtige patronen startersproject](https://editor.raspberrypi.org/nl-NL/projects/powerful-patterns-starter){:target="_blank"} project. De code-editor wordt geopend in een ander browsertabblad.
+
+Als je een Raspberry Pi-account hebt, kun je op de **Save** knop klikken om een kopie op te slaan in je **Projects**.
 
 --- /task ---
 
@@ -62,13 +64,13 @@ title: De schermgrootte instellen wanneer het programma wordt gestart
 
 --- code ---
 ---
-language: python 
-filename: main.py - setup() 
-line_numbers: true 
+language: python
+filename: main.py - setup()
+line_numbers: true
 line_number_start: 6
 line_highlights: 7
 ---
-def setup(): 
+def setup():
     size(400, 400) #Kies een afmeting
 
 --- /code ---
@@ -78,7 +80,7 @@ def setup():
 --- collapse ---
 
 ---
-title: De achtergrondkleur instellen wanneer het programma start
+title: De achtergrondkleur instellen wanneer het programma wordt gestart
 ---
 
 Bedenk waar je je achtergrond wilt tekenen. Jij kunt:
@@ -87,14 +89,15 @@ Bedenk waar je je achtergrond wilt tekenen. Jij kunt:
 
 --- code ---
 ---
-language: python 
-filename: main.py - setup() 
-line_numbers: true 
-line_number_start: 9
-line_highlights: 9
+language: python
+filename: main.py - setup()
+line_numbers: true
+line_number_start: 6
+line_highlights: 8
 ---
-
-    background(255, 255, 255) #Probeer andere getallen om de kleur te veranderen
+def setup():
+    size(400, 400)
+    background(255, 255, 255)  # Probeer andere getallen om de kleur te veranderen
 
 --- /code ---
 

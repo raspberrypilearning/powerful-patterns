@@ -24,7 +24,7 @@ oranje
 
 bruin
 
-groen
+green
 
 cirkel_grootte
 
@@ -69,5 +69,3 @@ vierkanten
 tussenruimte
 
 kruis
-
-roteer_motief

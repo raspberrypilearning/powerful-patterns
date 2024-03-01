@@ -1,4 +1,4 @@
-## Inleiding
+## Wat ga je maken
 
 Maak een stukje inspirerende kunst die kan worden geschaald met behulp van herhaalde patronen.
 
@@ -18,19 +18,21 @@ Je gaat:
 
 --- no-print ---
 
+### Afspelen ▶️
+
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">
+<div style="flex-basis: 175px; flex-grow: 1">  
 
-Voer dit voorbeeld uit en denk na over het herhaalde motief. Hoe zou je beschrijven wat er in de animatie gebeurt?
-
-**Kek lapis Sarawak**: [Bekijk van binnen](https://trinket.io/python/0b27bb5a77){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/0b27bb5a77?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
+Klik hieronder op de knop **Run** om dit voorbeeld te bekijken en na te denken over het herhaalde motief. Hoe zou je beschrijven wat er in de animatie gebeurt?
+**Kek lapis Sarawak**:
+<iframe src="https://editor.raspberrypi.org/nl-NL/embed/viewer/repeated-patterns-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+</div>
 </div>
 
+Je kunt het Kek lapis Sarawak-project [hier vinden](https://editor.raspberrypi.org/nl-NL/projects/repeated-patterns-example){:target="_blank"}
 --- /task ---
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
@@ -51,37 +53,33 @@ Je krachtige patroon kan:
 + Het patroon verplaatsen om variaties te creëren
 </div>
 
-### Doe inspiratie op
+### Ideeën opdoen 💭
 
 --- task ---
 
-Verken deze voorbeeldprojecten om ideeën voor je patroon op te doen.
+Voer deze voorbeeldprojecten uit om ideeën voor je patroon op te doen.
 
 Hoe zijn de motieven opgebouwd uit cirkels, ellipsen, vierkanten, rechthoeken en driehoeken?:
 
-**Spiralen**: [Bekijk van binnen](https://trinket.io/python/d467ef746b){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/d467ef746b?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Spiralen**:
+<iframe src="https://editor.raspberrypi.org/nl-NL/embed/viewer/spirals-pattern-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+Je kunt het Spiralen-project [hier vinden](https://editor.raspberrypi.org/nl-NL/projects/spirals-pattern-example){:target="_blank"}
 
-**Willekeurige gezichten**: [Bekijk van binnen](https://trinket.io/python/014a49b524){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/014a49b524?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Willekeurige gezichten**:
+<iframe src="https://editor.raspberrypi.org/nl-NL/embed/viewer/random-faces-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+Je kunt het project Willekeurige gezichten [hier vinden](https://editor.raspberrypi.org/nl-NL/projects/random-faces-example){:target="_blank"}
 
-**Art deco behang**: [Bekijk van binnen](https://trinket.io/python/4dd6130490){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/4dd6130490?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Art deco behang**:
+<iframe src="https://editor.raspberrypi.org/nl-NL/embed/viewer/art-deco-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+Je kunt het Art Deco-project [hier vinden](https://editor.raspberrypi.org/nl-NL/projects/art-deco-example){:target="_blank"}
 
-**Yakan weven**: [Bekijk van binnen](https://trinket.io/python/5b5bafa6da){:target="_blank"}
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/5b5bafa6da?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
+**Yakan weven**:
+<iframe src="https://editor.raspberrypi.org/nl-NL/embed/viewer/yakan-weaving-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+Je kunt het Yakan weven project [hier vinden](https://editor.raspberrypi.org/nl-NL/projects/yakan-weaving-example){:target="_blank"}
 
 --- /task ---
 
@@ -91,16 +89,16 @@ Hoe zijn de motieven opgebouwd uit cirkels, ellipsen, vierkanten, rechthoeken en
 
 Bekijk deze voorbeelden en denk na over het herhaalde motief. Hoe zijn de patronen opgebouwd uit cirkels, ellipsen, vierkanten, rechthoeken en driehoeken?
 
-![Voltooi het Kek lapis Sarawak-project.](images/kek.png) 
-Je kunt het Kek lapis Sarawak-project hier vinden https://trinket.io/python/0b27bb5a77 
-![Complete Spirals project.](images/spirals.png) 
-Je kunt het Spiralen project hier vinden https://trinket.io/python/d467ef746b 
-![Complete Random faces project.](images/random_faces.png) 
-Je kunt het Willekeurige gezichten project hier vinden https://trinket.io/python/014a49b524 
-![Complete Art deco project.](images/art_deco.png) 
-Je vindt het Art deco-project hier https://trinket.io/python/4dd6130490 
-![Complete Yakan weaving project.](images/yakan.png) 
-Je vindt het Yakan-weefproject hier https:// trinket.io/python/5b5bafa6da
+![Voltooi het Kek lapis Sarawak-project.](images/kek.png)
+Je kunt het Kek lapis Sarawak-project hier vinden https://editor.raspberrypi.org/nl-NL/projects/repeated-patterns-example
+![Voltooi het Spiralen project.](images/spirals.png)
+Je kunt het Spiralen project hier vinden https://editor.raspberrypi.org/nl-NL/projects/spirals-pattern-example
+![Voltooi het Willekeurige gezichten project.](images/random_faces.png)
+Je kunt het Willekeurige gezichten project hier vinden https://editor.raspberrypi.org/nl-NL/projects/random-faces-example
+![Voltooi het Art deco-project.](images/art_deco.png)
+Je vindt het Art deco-project hier https://editor.raspberrypi.org/nl-NL/projects/art-deco-example
+![Voltooi het Yakan-weefproject.](images/yakan.png)
+Je vindt het Yakan-weefproject hier https://editor.raspberrypi.org/nl-NL/projects/yakan-weaving-example
 
 --- /print-only ---
 

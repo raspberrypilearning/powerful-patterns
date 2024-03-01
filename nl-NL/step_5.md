@@ -1,4 +1,4 @@
-## Reflectie
+## Checklist
 
 Voldoet je project aan de **projectbeschrijving**? Denk na over je project en doorloop de onderstaande checklist en vink af wat van toepassing is op je project.
 
@@ -6,18 +6,18 @@ Gaat jouw krachtige patroon:
 
 --- task ---
 
-Geometrische vormen tekenen en positioneren om een basispatroon (of 'motief') te creëren
+Geometrische vormen tekenen en positioneren om een basispatroon (of 'motief') te creëren?
 --- /task ---
 
 --- task ---
 
-Lussen gebruiken om het patroon te herhalen om het scherm te vullen
+Lussen gebruiken om het patroon te herhalen om het scherm te vullen?
 
 --- /task ---
 
 --- task ---
 
-Animeren hoe het patroon wordt gemaakt
+Animeren hoe het patroon wordt gemaakt?
 
 --- /task ---
 
@@ -49,7 +49,7 @@ Voeg tekst en emoji toe om details over je kunst af te drukken
 
 --- task ---
 
-Het patroon verschuiven om variaties te maken
+Translate gebruiken om variaties te maken
 
 --- /task ---
 
@@ -59,7 +59,6 @@ Het patroon verschuiven om variaties te maken
 Deel je werk met anderen in een online galerij
 
 --- /task ---
-
 
 Nadenken over hoe je je krachtige patroon hebt gemaakt, zal je helpen bij je toekomstige projecten.
 

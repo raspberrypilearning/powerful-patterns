@@ -1,10 +1,10 @@
-## Uitbreiden en testen - Patroon
+## Uitbreiden en testen: Patroon
 
 Nu is het tijd om je volledige patroon te maken!
 
 ![Voorbeelden van voltooide projecten waarbij het motief herhaaldelijk is gebruikt om een volledig patroon te vormen.](images/second.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceBLAUW; padding: 10px;"><span style="color: #0faeb0">Abstractie</span> is het oplossen van problemen door geen rekening te houden met onnodige details. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Abstractie</span> is het oplossen van problemen door geen rekening te houden met onnodige details. 
 
 </p>
 
@@ -18,7 +18,7 @@ Kijk eens naar dit art deco behang. Hoe verandert het motief om het gehele patro
 
 ![Het motief uit het art deco behangpapier project naast het volledige patroon.](images/spirals-motif.png)
 
-Denk na over het patroon dat je aan het maken bent. Hoe verandert het motief om het gehele patroon te maken. Gebruik deze vragen om je te helpen bij de abstractie:
+Denk na over het patroon dat je aan het maken bent. Hoe verandert het motief om het algemene patroon te maken? Gebruik deze vragen om je te helpen bij de abstractie:
 - Roteert het gehele of een deel van het motief?
 - In welke richting draait het? En met hoeveel?
 - Zijn er lagen in het patroon die elkaar overlappen?
@@ -33,7 +33,7 @@ Denk na over het patroon dat je aan het maken bent. Hoe verandert het motief om 
 
 Nu je meer weet over hoe het motief het hele patroon gaat vormen, kun je het programmeren met je antwoorden op de bovenstaande vragen.
 
-**Tip:** Vergeet niet dat je de voorbeelden in de inleiding "van binnen" kan bekijken en de code kan 'kopiëren" en "plakken" in jouw project. Professionele ontwikkelaars doen dit altijd zo!
+**Tip:** U kunt code uit elk van de voorbeelden in de inleiding in uw project 'kopiëren' en 'plakken'. Professionele ontwikkelaars doen dit altijd zo!
 
 Je hebt een aantal echt nuttige vaardigheden opgebouwd. Hier is een geheugensteuntje om je te helpen bij het maken van je herhaalde patroon:
 
@@ -46,7 +46,6 @@ Je hebt een aantal echt nuttige vaardigheden opgebouwd. Hier is een geheugensteu
 [[[python-operators]]]
 
 [[[generic-python-for-loop-repeat]]]
-
 
 --- collapse ---
 
@@ -62,14 +61,15 @@ Een manier om random te gebruiken is door je motief naar een willekeurige positi
 
 --- code ---
 ---
-language: python 
+language: python
 filename: main.py - draw()
+
 ---
 
-push_matrix() #Transformatie starten 
-translate(randint(0, 400), randint(0, 400)) 
-teken_motief() 
-pop_matrix() #Transformatie resetten
+    push_matrix() #Transformatie starten 
+    translate(randint(0, 400), randint(0, 400)) 
+    teken_motief() 
+    pop_matrix() #Transformatie resetten
 
 --- /code ---
 
@@ -77,11 +77,12 @@ Je kan random ook gebruiken om de kleuren in je motief te veranderen wanneer het
 
 --- code ---
 ---
-language: python 
+language: python
 filename: main.py - draw()
+
 ---
 
-BLAUW = color(randint(0, 50), randint(0, 100), randint(150, 255))
+    BLAUW = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 --- /code ---
 
@@ -95,15 +96,16 @@ title: De grootte van je motief wijzigen
 
 Als je een motief gebruikt dat je al hebt getekend, is het misschien niet de juiste grootte.
 
-Je kunt `scale()` gebruiken voordat je de functie oproept die je motief tekent om de grootte te wijzigen. Als je input groter is dan '1', wordt het motief groter, als je input kleiner is dan '1', wordt het kleiner.
+Je kunt `scale()` gebruiken voordat je de functie oproept die je motief tekent om de grootte te wijzigen. Als je invoer groter is dan '1', wordt het motief groter, als je invoer kleiner is dan '1', wordt het kleiner.
 
 --- code ---
 ---
-language: python 
+language: python
 filename: main.py - draw()
+
 ---
 
-scale(0.5) #Halve grootte
+    scale(0.5) #Halve grootte
 
 --- /code ---
 
@@ -171,7 +173,7 @@ Controleer of je `frame_count()` correct in een lus hebt gebruikt.
 title: Mijn patroon ziet er niet uit zoals ik het wil
 ---
 
-Herbekijk de secties hierboven over `rotate()` en `translate()`. Experimenteer totdat het er uitziet zoals je het wilt, en onthoud dat fouten waardevol zijn!
+Bekijk de secties hierboven over `rotate()` en `translate()`. Experimenteer totdat het er uitziet zoals je het wilt, en onthoud dat fouten waardevol zijn!
 
 --- /collapse ---
 
@@ -189,7 +191,7 @@ Controleer de syntax van je code. Missen er haakjes `(` of `)` of een dubbele pu
 title: De animatie is te snel/te langzaam
 ---
 
-Verander de `frame_rate()` aan het begin van je programma om de gewenste snelheid te krijgen.
+Verander het getal na `frame_rate =` in de aanroep van de `run()` functie aan het einde van je programma om het op de gewenste snelheid te krijgen.
 
 --- /collapse ---
 

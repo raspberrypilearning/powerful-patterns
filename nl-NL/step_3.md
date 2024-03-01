@@ -1,4 +1,4 @@
-## Bouwen en testen - het Motief
+## Bouwen en testen - Patroon
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -25,15 +25,13 @@ In dit voorbeeld werd een art deco-behangpapier patroon ontleed tot de basis ver
 
 Je hebt een aantal echt nuttige vaardigheden opgebouwd. Hier is een geheugensteuntje om je te helpen bij het maken van jouw motief:
 
-### Vormen en afbeeldingen
+### Vormen
 
 [[[processing-python-ellipse]]]
 
 [[[processing-python-rect]]]
 
 [[[processing-python-triangle]]]
-
-[[[processing-add-image]]]
 
 ### Kleuren en effecten
 
@@ -96,7 +94,7 @@ Computerafbeeldingen bestaan uit lagen. In je motief is elke vorm een laag. Obje
 title: Mijn cirkels/vierkanten zijn niet gelijk
 ---
 
-Het derde en vierde cijfer in `ellipse` en `rect` zijn de breedte en hoogte. Als je ze hetzelfde maakt, krijg je een cirkel of vierkant.
+Het derde en vierde cijfer in `ellips` en `rect` zijn de breedte en hoogte. Als je ze hetzelfde maakt, krijg je een cirkel of vierkant.
 
 --- /collapse ---
 

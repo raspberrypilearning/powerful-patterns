@@ -1,13 +1,17 @@
 ---
 title: Krachtige patronen
 hero_image: images/banner.png
-description: Maak een stukje inspirerende kunst die kan worden geschaald met behulp van herhaalde patronen
+description:
+  - Maak een stukje inspirerende kunst dat kan worden geschaald met behulp van herhaalde
+  - patronen
+meta_title: Python-coderingsprojecten voor kinderen en tieners | Krachtige patronen
+meta_description: Leer Python met de codeerprojecten van de Raspberry Pi Foundation voor kinderen en tieners. Creëer een inspirerend kunstwerk met Python met behulp van herhaalde patronen.
 version: 4
 listed: true
 copyedit: true
-last_tested: '2021-10-06'
+last_tested: "2021-10-06"
 steps:
-  - title: Inleiding
+  - title: Wat ga je maken
   - title: Jouw idee
   - title: Bouwen en testen - Patroon
     completion:
@@ -15,7 +19,7 @@ steps:
   - title: Uitbreiden en testen - Patroon
     completion:
       - internal
-  - title: Reflectie
+  - title: Checklist
     completion:
       - external
   - title: Verbeter je project
