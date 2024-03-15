@@ -18,7 +18,7 @@ Réfléchis à l'objectif du motif que tu crées.
 - Quelque chose que tu crées avec un groupe de personnes pour envoyer un certain message (par exemple, un quilt)
 - Pour montrer quelque chose de fascinant à propos d'un passe-temps (par exemple, l'art, la science, la nature, la musique)
 
-**Astuce :** Les motifs sont partout ! Tu peux choisir de t'inspirer en partant à la recherche de modèles dans ton environnement physique ou en ligne.
+**Astuce :** les motifs sont partout ! Tu peux choisir de t'inspirer en partant à la recherche de modèles dans ton environnement physique ou en ligne.
 
 --- /task ---
 
@@ -42,9 +42,9 @@ Si tu crées un motif en groupe, ton motif doit-il avoir une certaine taille ou 
 
 --- task ---
 
-Ouvre le projet de démarrage [Motifs puissants](https://trinket.io/python/8644b270c3){:target=blank} et clique sur le bouton remix. The code editor will open in another browser tab.
+Ouvre le projet [de démarrage Motifs puissants](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"}. Le Code Editor s'ouvrira dans un autre onglet du navigateur.
 
-If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
+Si tu as un compte Raspberry Pi, tu peux cliquer sur le bouton **Enregistrer** pour enregistrer une copie dans tes **Projets**.
 
 --- /task ---
 
@@ -60,14 +60,14 @@ Ajoute du code à `configuration()` pour préparer ton projet.
 title: Définir la taille de l'écran au démarrage de ton programme
 ---
 
-**Choisir :** Ajoute une taille adaptée au motif que tu souhaites créer. Tu pourras toujours le modifier ultérieurement au fur et à mesure de l'évolution de ton projet.
+**Choisir :** ajoute une taille adaptée au motif que tu souhaites créer. Tu pourras toujours le modifier ultérieurement au fur et à mesure de l'évolution de ton projet.
 
 --- code ---
 ---
 language: python filename: main.py - setup() line_numbers: true line_number_start: 6
 line_highlights: 7
 ---
-def setup(): size(400, 400) #Choisis une taille
+def setup(): size(400, 400)  # Choose a size
 
 --- /code ---
 
@@ -85,10 +85,10 @@ Pense à l'endroit où tu veux dessiner ton arrière-plan. Tu peux :
 
 --- code ---
 ---
-language: python filename: main.py - setup() line_numbers: true line_number_start: 9
-line_highlights: 9
+language: python filename: main.py - setup() line_numbers: true line_number_start: 6
+line_highlights: 8
 ---
-background(255, 255, 255) #Essaie différents nombres pour changer la couleur
+def setup(): size(400, 400) background(255, 255, 255)  # Try different numbers to change the colour
 
 --- /code ---
 
@@ -100,7 +100,7 @@ background(255, 255, 255) #Essaie différents nombres pour changer la couleur
 
 --- task ---
 
-**Débogage :** Il est possible que tu trouves des bogues dans ton projet que tu dois corriger. Voici quelques bogues assez courants.
+**Débogage :** il est possible que tu trouves des bogues dans ton projet que tu dois corriger. Voici quelques bogues assez courants.
 
 --- collapse ---
 
