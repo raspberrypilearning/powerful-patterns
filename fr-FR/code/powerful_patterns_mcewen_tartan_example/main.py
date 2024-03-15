@@ -32,7 +32,7 @@ def draw():
     for i in range(int(carres)):
         ecart = 0
         for i in range(int(carres)):
-            fill(COULEUR_BASE[j % 2])  # VERT et BLEU
+            fill(COULEURS_BASE[j % 2])  # VERT et BLEU
             rect(ecart, coordonnee_y, taille_carre, taille_carre)
             ecart = ecart + taille_carre
         coordonnee_y = coordonnee_y + taille_carre
@@ -71,7 +71,7 @@ def draw():
 
 
 print('🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿 Voici McEwen Tartan 🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿')
-taille_carrée = int(
+taille_carre = int(
     input('Quelle taille de tartan 🏴souhaites-tu ? 20, 50 ou 100'))
 
 run(frame_rate=10)
