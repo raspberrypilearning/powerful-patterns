@@ -1,35 +1,35 @@
 ---
-title: Powerful patterns
+title: Potężne wzory
 hero_image: images/banner.png
 description:
-  - Create a piece of inspirational art that can be scaled using repeated
-  - patterns
-meta_title: Python coding projects for kids and teens | Powerful patterns
-meta_description: Learn Python with the Raspberry Pi Foundation's coding projects for kids and teens. Create a piece of inspirational art with Python using repeated patterns.
+  - Stwórz inspirującą sztukę, którą można skalować za pomocą powtarzania
+  - wzory
+meta_title: Projekty programistyczne w Pythonie dla dzieci i młodzieży | potężne wzory
+meta_description: Naucz się języka Python z projektami programistycznymi Fundacji Raspberry Pi dla dzieci i młodzieży. Stwórz inspirującą sztukę za pomocą Pythona używając powtarzających się wzorów.
 version: 4
 listed: true
 copyedit: true
 last_tested: "2021-10-06"
 steps:
   - 
-    title: You will make
+    title: Zrobisz to
   - 
     title: Twój pomysł
   - 
-    title: Build and test - Motif
+    title: Buduj i testuj - Motyw
     completion:
       - engaged
   - 
-    title: Expand and test - Pattern
+    title: Rozwiń i przetestuj - Wzór
     completion:
       - internal
   - 
-    title: Checklist
+    title: Lista kontrolna
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Ulepsz swój projekt
   - 
-    title: Share
+    title: Udostępnij
   - 
     title: Co następne?
