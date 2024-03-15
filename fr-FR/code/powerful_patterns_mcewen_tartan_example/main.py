@@ -8,70 +8,70 @@ def setup():
 
 
 def draw():
-    lines = 10 * frame_count  # Use in shape width/length to animate over time
+    lignes = 10 * frame_count # Utiliser dans la forme largeur/longueur pour animer au fil du temps
 
-    # McEwen tartan colours
-    # Base square colours
-    BLUE = Color(83, 143, 200)
-    GREEN = Color(78, 163, 162)
-    BASE_COLORS = [GREEN, BLUE]
+    # Couleurs du tartan McEwen
+    # Couleurs des carrés de base
+    BLEU = Color(83, 143, 200)
+    VERT = Color(78, 163, 162)
+    COULEURS_BASE = [VERT, BLEU]
 
-    # Cross colours
-    YELLOW = Color(155, 176, 135)
-    RED = Color(155, 129, 113)
-    CROSS_COLORS = [YELLOW, RED]
+    # Couleurs des croix
+    JAUNE = Color(155, 176, 135)
+    ROUGE = Color(155, 129, 113)
+    COULEURS_CROIX = [JAUNE, ROUGE]
 
-    # Stitching and overlap colour
-    GREY = Color(78, 99, 86)
+    # Couleur de couture et de chevauchement
+    GRIS = Color(78, 99, 86)
 
-    # Draw all the GREEN and BLUE alternating Base squares
+    # Dessiner tous les carrés de base alternés VERT et BLEU
     no_stroke()
-    y_coordinate = 0
-    squares = width/square_size
+    coordonnee_y = 0
+    carres = width/taille_carre
 
-    for i in range(int(squares)):
-        gap = 0
-        for j in range(int(squares)):
-            fill(BASE_COLORS[j % 2])  # GREEN and BLUE
-            rect(gap, y_coordinate, square_size, square_size)
-            gap = gap + square_size
-        y_coordinate = y_coordinate + square_size
+    for i in range(int(carres)):
+        ecart = 0
+        for i in range(int(carres)):
+            fill(COULEUR_BASE[j % 2])  # VERT et BLEU
+            rect(ecart, coordonnee_y, taille_carre, taille_carre)
+            ecart = ecart + taille_carre
+        coordonnee_y = coordonnee_y + taille_carre
 
-    # Crosses
-    stroke(GREY)
+    # Croix
+    stroke(GRIS)
 
-    # DRAW THE YELLOW and RED alternating crosses
+    # Dessine des croix alternées JAUNE et ROUGE
     for i in range(4):
-        fill(YELLOW)
-        cross = square_size / 2 - 2
-        for i in range(int(squares/2)):
-            fill(CROSS_COLORS[i % 2])  # YELLOW and RED
-            rect(cross, 0, 4, lines)
-            rect(0, cross, lines, 4)
-            cross = cross + 2 * square_size
-        # Draw the stiching crosses
+        fill(JAUNE)
+        croix = taille_carre / 2 - 2
+        for i in range(int(carres/2)):
+            fill(COULEURS_CROIX[i % 2])  # JAUNE et ROUGE
+            rect(croix, 0, 4, lignes)
+            rect(0, croix, lignes, 4)
+            croix = croix + 2 * taille_croix
+        # Dessine les croix de couture
         no_fill()
-        cross = square_size + square_size / 2 - 2
-        for i in range(int(squares)):
-            rect(cross, 0, 4, lines)
-            rect(0, cross, lines, 4)
-            cross = cross + square_size
+        croix = taille_carre + taille_carre / 2 - 2
+        for i in range(int(carres)):
+            rect(croix, 0, 4, lignes)
+            rect(0, croix, lignes, 4)
+            croix = croix + taille_croix
 
-    # Draw the grey lines where material overlaps
+    # Dessine les lignes grises où le matériau se chevauche
     no_stroke()
-    fill(GREY, 100)
-    gap = square_size - 4
-    for i in range(int(squares)):
-        rect(gap, 0, 8, lines)
-        gap = gap + square_size
-    gap = square_size - 4
-    for i in range(int(squares)):
-        rect(0, gap, lines, 8)
-        gap = gap + square_size
+    fill(GRIS, 100)
+    ecart = taille_carre - 4
+    for i in range(int(carres)):
+        rect(ecart, 0, 8, lignes)
+        ecart = ecart + taille_carre
+    ecart = taille_carre - 4
+    for i in range(int(carres)):
+        rect(0, ecart, lignes, 8)
+        ecart = ecart + taille_carre
 
 
-print('🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿 This is McEwen Tartan 🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿')
-square_size = int(
-    input('What size 🏴󠁧󠁢󠁳󠁣󠁴󠁿tartan would you like? 20, 50, or 100'))
+print('🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿 Voici McEwen Tartan 🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿')
+taille_carrée = int(
+    input('Quelle taille de tartan 🏴souhaites-tu ? 20, 50 ou 100'))
 
 run(frame_rate=10)
