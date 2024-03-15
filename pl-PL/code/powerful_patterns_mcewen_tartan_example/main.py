@@ -8,70 +8,70 @@ def setup():
 
 
 def draw():
-    lines = 10 * frame_count  # Use in shape width/length to animate over time
+    Linie = 10 * frame_count # Użyj w kształcie width/length, aby animować w czasie
 
-    # McEwen tartan colours
-    # Base square colours
-    BLUE = Color(83, 143, 200)
-    GREEN = Color(78, 163, 162)
-    BASE_COLORS = [GREEN, BLUE]
+    # Kolory tartanowe McEwen
+    # Podstawowe kolory kwadratowe
+    NIEBIESKI = Kolor(83, 143, 200)
+    ZIELONY = Kolor(78, 163, 162)
+    BASE_COLOURS = [ZIELONY, NIEBIESKI]
 
-    # Cross colours
-    YELLOW = Color(155, 176, 135)
-    RED = Color(155, 129, 113)
-    CROSS_COLORS = [YELLOW, RED]
+    # Kolory krzyżowe
+    ŻÓŁTY = Kolor(155, 176, 135)
+    CZERWONY = Kolor(155, 129, 113)
+    CROSS_COLOURS = [ŻÓŁTY, CZERWONY]
 
-    # Stitching and overlap colour
-    GREY = Color(78, 99, 86)
+    # Kolory łączenia i nakładania się
+    SZARY = Kolor(78, 99, 86)
 
-    # Draw all the GREEN and BLUE alternating Base squares
+    # Rysuj wszystkie ZIELONE i NIEBIESKIE naprzemienne kwadraty bazy
     no_stroke()
     y_coordinate = 0
-    squares = width/square_size
+    kwadraty = szerokość/kwadrat_rozmiar
 
-    for i in range(int(squares)):
-        gap = 0
-        for j in range(int(squares)):
-            fill(BASE_COLORS[j % 2])  # GREEN and BLUE
-            rect(gap, y_coordinate, square_size, square_size)
-            gap = gap + square_size
+    for i in range(int(kwadraty)):
+        przerwa = 0
+        for j in range(int(kwadraty)):
+            Fill(BASE_COLOURS[j % 2]) # ZIELONY i NIEBIESKI
+            rect(przerwa, y_współrzędna, kwadrat_size, kwadrat_size)
+            przerwa = przerwa + kwadrat_size
         y_coordinate = y_coordinate + square_size
 
-    # Crosses
-    stroke(GREY)
+    # Krzyże
+    Stroke(SZARY)
 
-    # DRAW THE YELLOW and RED alternating crosses
+    # NARYSUJ ŻÓŁTE i CZERWONE krzyże naprzemienne
     for i in range(4):
-        fill(YELLOW)
-        cross = square_size / 2 - 2
-        for i in range(int(squares/2)):
-            fill(CROSS_COLORS[i % 2])  # YELLOW and RED
-            rect(cross, 0, 4, lines)
-            rect(0, cross, lines, 4)
-            cross = cross + 2 * square_size
-        # Draw the stiching crosses
+        Wypełnienie(ŻÓŁTY)
+        krzyżyk = kwadrat_size / 2 - 2
+        for i in range(int(kwadraty/2)):
+            Fill(CROSS_COLOURS[i % 2]) # ŻÓŁTY i CZERWONY
+            rect(krzyżyk, 0, 4, linie)
+            rect(0, krzyżyk, linie, 4)
+            krzyżyk = krzyżyk + 2 * kwadrat_size
+        # Rysuj krzyże szwów
         no_fill()
-        cross = square_size + square_size / 2 - 2
-        for i in range(int(squares)):
-            rect(cross, 0, 4, lines)
-            rect(0, cross, lines, 4)
-            cross = cross + square_size
+        krzyżyk = kwadrat_size + kwadrat_size / 2 - 2
+        for i in range(int(kwadraty)):
+            rect(krzyżyk, 0, 4, linie)
+            rect(0, krzyżyk, linie, 4)
+            krzyżyk = krzyżyk + kwadrat_size
 
-    # Draw the grey lines where material overlaps
+    # Narysuj szare linie, w których materiał się nakłada
     no_stroke()
-    fill(GREY, 100)
-    gap = square_size - 4
-    for i in range(int(squares)):
-        rect(gap, 0, 8, lines)
-        gap = gap + square_size
-    gap = square_size - 4
-    for i in range(int(squares)):
-        rect(0, gap, lines, 8)
-        gap = gap + square_size
+    Wypełnienie(SZARY, 100)
+    przerwa = kwadrat_size - 4
+    for i in range(int(kwadraty)):
+        rect(przerwa, 0, 8, linie)
+        przerwa = przerwa + kwadrat_size
+    przerwa = kwadrat_size - 4
+    for i in range(int(kwadraty)):
+        rect(0, przerwa, linie, 8)
+        przerwa = przerwa + kwadrat_size
 
 
-print('🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿 This is McEwen Tartan 🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿')
-square_size = int(
-    input('What size 🏴󠁧󠁢󠁳󠁣󠁴󠁿tartan would you like? 20, 50, or 100'))
+print('????????????????? To jest McEwen Tartan ??????????? ')
+kwadrat_size = int(
+    Input('jaki rozmiar ????????? tartan chcesz? 20, 50 lub 100'))
 
 run(frame_rate=10)
