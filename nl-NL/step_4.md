@@ -65,10 +65,10 @@ language: python filename: main.py - draw()
 
 ---
 
-    push_matrix() #Transformatie starten 
-    translate(randint(0, 400), randint(0, 400)) 
-    teken_motief() 
-    pop_matrix() #Transformatie resetten
+    push_matrix()  # Start transformation
+    translate(randint(0, 400), randint(0, 400))
+    draw_motif()
+    pop_matrix()  # Reset transformation
 
 --- /code ---
 
@@ -76,11 +76,11 @@ Je kan random ook gebruiken om de kleuren in je motief te veranderen wanneer het
 
 --- code ---
 ---
-filename: main.py - draw()
+language: python filename: main.py - draw()
 
 ---
 
-    BLAUW = color(randint(0, 50), randint(0, 100), randint(150, 255))
+    BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 --- /code ---
 
@@ -98,11 +98,11 @@ Je kunt `scale()` gebruiken voordat je de functie oproept die je motief tekent o
 
 --- code ---
 ---
-filename: main.py - draw()
+language: python filename: main.py - draw()
 
 ---
 
-    scale(0.5) #Halve grootte
+    scale(0.5)  # Half size
 
 --- /code ---
 
