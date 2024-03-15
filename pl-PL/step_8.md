@@ -1,7 +1,9 @@
 ## Co następne?
 
-You have reached the end of the [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro) path!
+Dotarłeś do końca ścieżki Wprowadzenie do </a>
+
+!</p> 
 
 [[[python-coolest-projects]]]
 
-You can explore our [other Python projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) and try them out.
+Możesz eksplorować nasze inne projekty [ ](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) i wypróbować je.
