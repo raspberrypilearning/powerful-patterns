@@ -54,7 +54,7 @@ def draw():
 
     translate(-largeur_motif/2, -largeur_motif/2) # pour commencer avec des demi-motifs
 
-    si frame_count < 20:  # nombre maximum de lignes
+    if frame_count < 20: # nombre maximum de lignes
         for row in range(frame_count):
             rotation_motif()
             if row / 2 == 0: # pour décaler le motif sur la ligne suivante
