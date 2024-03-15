@@ -1,40 +1,40 @@
 ## Twój pomysł
 
-Use this step to plan your powerful pattern. You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Użyj tego kroku, aby zaplanować swój potężny wzór. Możesz planować, po prostu myśląc, majstrując, rysując lub pisząc, lub jak chcesz!
 
-![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-1.gif)
+![Animowany gif z trzema różnymi przykładami, używając różnych kształtów do tworzenia motywów i animacji, aby rozwijać wzór.](images/ideas-1.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns often have <span style="color: #0faeb0">cultural or religious significance</span>. Certain geometric shapes and positions can have symbolic or sacred meanings. Whether the pattern is in architecture, fabric, art, cooking, or something else, the process of making the pattern can also be significant.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Wzory często mają znaczenie kulturowe lub religijne <span style="color: #0faeb0"> </span>. Niektóre geometryczne kształty i pozycje mogą mieć znaczenie symboliczne lub święte. Niezależnie od tego, czy wzór jest w architekturze, tkaninie, sztuce, gotowaniu, czy czymś innym, proces tworzenia wzoru może być również znaczący.</p>
 
-### Why are you making your powerful pattern ?
+### Dlaczego tworzysz swój potężny wzór?
 
 --- task ---
 
-Think about the purpose of the pattern you are creating.
+Zastanów się nad celem tworzonego przez Ciebie wzoru.
 
 To może być:
-- To express something significant from your or your family's culture(s)
-- To recreate a geometric pattern that means something to you
-- Something you create with a group of people to send a certain message (for example, a quilt)
-- To show something fascinating about about a hobby (for example, art, science, nature, music)
+- Aby wyrazić coś znaczącego z kultury Twojej lub Twojej rodziny
+- Aby odtworzyć geometryczny wzór, który coś dla Ciebie znaczy
+- Coś, co tworzysz z grupą osób, aby wysłać określoną wiadomość (na przykład kołdrę)
+- Aby pokazać coś fascynującego o hobby (na przykład sztuka, nauka, przyroda, muzyka)
 
-**Tip:** Patterns are everywhere! You might choose to get inspiration by going on a pattern hunt around your physical environment or online.
+** Wskazówka:Wzory ** są wszędzie! Możesz zainspirować się, udając się na polowanie na wzory wokół swojego środowiska fizycznego lub online.
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">As well as having symbolic meaning, patterns show the mathematics that is all around us. Mathematics helps us make sense of the world around us and we can find mathematical patterns in art, literature, and nature. </p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Wzory nie tylko mają znaczenie symboliczne, ale pokazują matematykę, która jest wokół nas. Matematyka pomaga nam zrozumieć otaczający nas świat i możemy znaleźć matematyczne wzorce w sztuce, literaturze i przyrodzie. </p>
 
 ### Dla kogo to jest?
 
 --- task ---
 
-Think about who you will make your pattern for (your **audience**).
+Zastanów się, dla kogo stworzysz swój wzór (Twój ** **).
 
-What is the significance of your pattern? Will the colours, shapes, or way the pattern is repeated mean something special to you or your audience?
+Jakie jest znaczenie twojego wzoru? Czy kolory, kształty lub sposób powtarzania wzoru będą znaczyły coś wyjątkowego dla Ciebie lub Twoich odbiorców?
 
-Sharing your pattern is a great way to express something about yourself or your culture.
+Dzielenie się swoim wzorem to świetny sposób na wyrażenie czegoś o sobie lub swojej kulturze.
 
-If you are are creating a pattern as a group, does your motif need to be a certain size or shape to fit with other parts of a bigger pattern?
+Jeśli tworzysz wzór jako grupę, czy twój motyw musi mieć określony rozmiar lub kształt, aby pasował do innych części większego wzoru?
 
 --- /task ---
 
@@ -42,25 +42,25 @@ If you are are creating a pattern as a group, does your motif need to be a certa
 
 --- task ---
 
-Open the [Powerful patterns starter project](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"} project. The code editor will open in another browser tab.
+Otwórz projekt startowy [ Powerful Patterns ](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"}. Edytor kodu otworzy się w innej karcie przeglądarki.
 
-If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
+Jeśli masz konto Raspberry Pi, możesz kliknąć przycisk ** Saved ** , aby zapisać kopię w swoich projektach ** **.
 
 --- /task ---
 
-### Setup your project
+### Skonfiguruj swój projekt
 
 --- task ---
 
-Add code to `setup()` to get your project ready.
+Dodaj kod do ` setup()`, aby przygotować swój projekt.
 
 --- collapse ---
 
 ---
-title: Setting the screen size when your program starts
+Title: Ustawianie rozmiaru ekranu po uruchomieniu programu
 ---
 
-**Choose:** Add a size that suits the pattern you want to create. You can always change this later as your project evolves.
+** Wybierz:** Dodaj rozmiar, który pasuje do wzoru, który chcesz utworzyć. Zawsze możesz to zmienić później, gdy Twój projekt się rozwija.
 
 --- code ---
 ---
@@ -76,12 +76,12 @@ def setup(): size(400, 400)  # Choose a size
 --- collapse ---
 
 ---
-title: Setting the background colour when your program starts
+Title: Ustawianie koloru tła po uruchomieniu programu
 ---
 
-Think about where you want to draw your background. Możesz:
-+ Add code to `setup()` so that the background is drawn once when you run your project
-+ Add code to `draw()` so that the background is redrawn each time the `draw()` function runs
+Zastanów się, gdzie chcesz narysować tło. Możesz:
++ Dodaj kod do ` setup()`, aby tło było rysowane raz podczas uruchamiania projektu
++ Dodaj kod do ` draw()`, aby tło było rysowane za każdym razem, gdy uruchomiona jest funkcja ` draw()`
 
 --- code ---
 ---
@@ -105,20 +105,20 @@ def setup(): size(400, 400) background(255, 255, 255)  # Try different numbers t
 --- collapse ---
 
 ---
-title: I've updated my size and colour but the output area stays the same
+Title: Zaktualizowałem swój rozmiar i kolor, ale obszar wyjściowy pozostaje taki sam
 ---
 
-After changing the code, you will need to `run` your project to see the changes in the output area.
+Po zmianie kodu, będziesz musiał uruchomić ` ` swój projekt, aby zobaczyć zmiany w obszarze wyjściowym.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I've tried different numbers, but the background colour doesn't change
+Title: Próbowałem różnych liczb, ale kolor tła się nie zmienia
 ---
 
-The maximum amount of red, green, or blue is `255`. Make sure all your `background` colour values are between `0` and `255`.
+Maksymalna ilość czerwonego, zielonego lub niebieskiego to ` 255 `. Upewnij się, że wszystkie wartości kolorów ` ` mieszczą się w przedziale ` 0 ` i ` 255 `.
 
 --- /collapse ---
 
