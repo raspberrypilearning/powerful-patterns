@@ -1,97 +1,97 @@
-## Checklist
+## Lista kontrolna
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+Czy spotkałeś się z briefem projektu ** **? Pomyśl o swoim projekcie i przejdź przez poniższą listę kontrolną i sprawdź te, które mają zastosowanie do twojego projektu.
 
-Does your powerful pattern:
-
---- task ---
-
-Draw and position geometric shapes to create a base pattern (or motif)? --- /task ---
+Czy twój potężny wzór:
 
 --- task ---
 
-Use loops to repeat the pattern to fill the screen?
+Rysować i pozycjonować kształty geometryczne, aby utworzyć wzór bazowy (lub motyw)? --- /task ---
+
+--- task ---
+
+Użyć pętli, aby powtórzyć wzór, aby wypełnić ekran?
 
 --- /task ---
 
 --- task ---
 
-Animate how the pattern is created?
+Animować sposób tworzenia szyku?
 
 --- /task ---
 
-Your powerful pattern could also:
+Twój potężny wzór może również:
 
 --- task ---
 
-Use bold or significant colours
-
---- /task ---
-
---- task ---
-
-Draw inspiration from your culture or popular culture
+Użyj pogrubionych lub znaczących kolorów
 
 --- /task ---
 
 --- task ---
 
-Get user input to resize the pattern
+Czerp inspirację ze swojej kultury lub kultury popularnej
 
 --- /task ---
 
 --- task ---
 
-Use text and emojis to print details about your art
+Wprowadź dane użytkownika, aby zmienić rozmiar wzoru
 
 --- /task ---
 
 --- task ---
 
-Be translated to create variations
+Użyj tekstu i emoji, aby wydrukować szczegóły na temat swojej sztuki
+
+--- /task ---
+
+--- task ---
+
+Być przetłumaczony, aby tworzyć odmiany
 
 --- /task ---
 
 
 --- task ---
 
-Be shared with others in an online gallery
+Udostępniaj innym osobom w galerii online
 
 --- /task ---
 
-Reflecting about how you made your powerful pattern will help you in your future projects.
+Zastanowienie się nad tym, jak stworzyłeś swój potężny wzór, pomoże Ci w przyszłych projektach.
 
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
---- task ---
-
-How did you get your ideas?
-
---- /task ---
+Odpowiedz na poniższe pytania, rysując, pisząc, wpisując dokument, rozmawiając z kimś lub we własny kreatywny sposób, który najlepiej dla Ciebie pasuje.
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Jak dostałeś swoje pomysły?
 
 --- /task ---
 
 --- task ---
 
-Mistakes and failures are often the catalyst for discovery and success.
-
-Oprah Winfrey was fired from her first job, but she went on to become a famous and influential producer and philanthropist. She once said "turn your wounds into wisdom".
-
-What mistakes did you make and how did they help you?
+Jakich fajnych nowych rzeczy się nauczyłeś?
 
 --- /task ---
 
-### Now you are a digital artist and mathematician!
+--- task ---
 
-Take a moment to celebrate what you have made.
+Błędy i porażki są często katalizatorem odkrycia i sukcesu.
+
+Oprah Winfrey została zwolniona z pierwszej pracy, ale stała się sławnym i wpływowym producentem i filantropem. Powiedziała kiedyś: „Zamień swoje rany w mądrość”.
+
+Jakie błędy popełniłeś i w jaki sposób ci pomogły?
+
+--- /task ---
+
+### Teraz jesteś cyfrowym artystą i matematykiem!
+
+Poświęć chwilę, aby uczcić to, co zrobiłeś.
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Gdzie zabierzesz swoje nowe moce? Co zrobisz dalej?
 
 --- /task ---
 
