@@ -1,25 +1,25 @@
-## Upgrade your project
+## Ulepsz swój projekt
 
-If you have time you can upgrade your project. You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
+Jeśli masz czas, możesz ulepszyć swój projekt. Możesz mieć już pomysły na dodanie więcej lub możesz wrócić do pierwszego kroku i ponownie spojrzeć na inne projekty, aby uzyskać więcej inspiracji.
 
-![Finished examples with input and make a face elements](images/upgrade.gif)
+![Ukończone przykłady z wpisem i tworzenie elementów ściany](images/upgrade.gif)
 
-You could:
-- Use text and emojis to `print()` a description of your pattern
-- Adjust the size of your pattern based on user `input()`
-- Make a scaled motif using your [Make a face project](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
+Możesz:
+- Użyj tekstu i emoji do ` print()` opisu swojego wzoru
+- Dostosuj rozmiar swojego wzoru na podstawie ` input()` użytkownika
+- Stwórz skalowany motyw za pomocą swojego [ Utwórz projekt twarzy ](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
 
-Each example project in the Introduction allows you to look at the code, get ideas, and see how they work.
+Każdy przykładowy projekt w części Wprowadzenie pozwala spojrzeć na kod, uzyskać pomysły i zobaczyć, jak działają.
 
-This project uses text and emojis to ask the user to choose a size then uses their answer to size all the shapes:
+Ten projekt używa tekstu i emoji, aby poprosić użytkownika o wybranie rozmiaru, a następnie używa odpowiedzi do rozmiaru wszystkich kształtów:
 
-**McEwen tartan**:
+** McEwen **:
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe>
 
-You can find the McEwen tartan project [here](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
+Możesz znaleźć projekt tartan McEwena [ ](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
 
-Take a look at some Powerful patterns projects created by community members in the Raspberry Pi Foundation’s [Powerful patterns - Community library](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
+Spójrz na kilka projektów o potężnych wzorach stworzonych przez członków społeczności w [ Powerful Patterns Fundacji Raspberry Pi - Biblioteka ](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
 
 --- save ---
 
