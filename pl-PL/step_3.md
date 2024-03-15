@@ -1,31 +1,31 @@
-## Build and test: Motif
+## Buduj i testuj: Motyw
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it's time to make your motif, the first element of your pattern.
+Teraz nadszedł czas, aby twój motyw, pierwszy element twojego wzoru.
 </div>
 <div>
-![An example of a motif using various shapes to create the motif.](images/motif.png){:width="300px"}
+![przykład motywu używającego różnych kształtów do tworzenia motywu.](images/motif.png){:width="300px"}
 </div>
 </div>
 
-The process of making your motif is the same as what computer scientists often do when they create a program or solution to a problem. This process is called **decomposition** and you will use decomposition to create your motif.
+Proces tworzenia twojego motywu jest taki sam, jak często robią to informatycy, gdy tworzą program lub rozwiązanie problemu. Proces ten nazywa się ** ** i użyjesz dekompozycji do stworzenia swojego motywu.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Decomposition</span> is breaking something down into parts that are smaller and easier to understand. This means that you can build a pattern one part at a time until it is complete.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0"> </span> rozbija coś na mniejsze i łatwiejsze do zrozumienia części. Oznacza to, że możesz budować szyk po jednej części na raz, dopóki nie zostanie ukończony.</p>
 
-Look at the pattern you want to recreate. How can you break it down into one single element (the motif) that repeats?
+Spójrz na wzór, który chcesz odtworzyć. Jak podzielić go na jeden element (motyw), który się powtarza?
 
-In this example, an art deco wallpaper pattern has been decomposed into the basic collection of shapes (five circles overlayed) that makes the motif:
+W tym przykładzie wzór tapety w stylu art deco został rozłożony na podstawową kolekcję kształtów (nałożonych pięć okręgów), dzięki czemu motyw:
 
-![A single five circle motif next to an image of the art deco complete pattern with many copies of the motif.](images/motif-pattern.png)
+![Pojedynczy motyw pięciu kółków obok obrazu kompletnego wzoru art deco z wieloma kopiami motywu.](images/motif-pattern.png)
 
 **Wskazówka:** Pamiętaj, aby testować swój projekt za każdym razem, gdy coś dodasz. Znacznie łatwiej jest znaleźć i naprawić błędy zanim wprowadzisz więcej zmian.
 
 --- task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your motif:
+Zbudowałeś kilka naprawdę użytecznych umiejętności. Oto przypomnienie, które pomoże Ci stworzyć motyw:
 
-### Shapes
+### Kształty
 
 [[[processing-python-ellipse]]]
 
@@ -33,7 +33,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-python-triangle]]]
 
-### Colours and effects
+### Kolory i efekty
 
 [[[generic-theory-simple-colours]]]
 
@@ -43,7 +43,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[processing-tint]]]
 
-### Position and transform
+### Pozycjonowanie i przekształcanie
 
 [[[processing-matrix]]]
 
@@ -59,7 +59,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your motif?
+** Test:** Pokaż komuś inny swój projekt i uzyskaj ich opinię. Czy chcesz wprowadzić jakieś zmiany w swoim motywie?
 
 --- /task ---
 
@@ -69,38 +69,38 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 --- collapse ---
 ---
-title: Shapes are not aligned as I expected
+Title: Kształty nie są wyrównane tak, jak się spodziewałem
 ---
 
-If you want the shapes to be aligned, then take a closer look at your coordinate points. Experiment with the numbers until you have the layout you want.
+Jeśli chcesz, aby kształty były wyrównane, przyjrzyj się bliżej swoim punktom współrzędnych. Eksperymentuj z liczbami, aż będziesz mieć pożądany układ.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I can't see some of the shapes in my motif
+Title: Nie widzę niektórych kształtów w moim motywie
 ---
 
-The order in which you draw things is very important.
+Kolejność rysowania rzeczy jest bardzo ważna.
 
-Computer graphics are made of layers. In your motif, each shape is a layer. Objects on higher layers sit in front of objects on lower layers. Imagine cutting all the shapes out of paper. Depending on how you arrange and overlap that paper, the final result could look very different.
+Grafika komputerowa składa się z warstw. W Twoim motywie każdy kształt jest warstwą. Obiekty na wyższych warstwach znajdują się przed obiektami na niższych warstwach. Wyobraź sobie wycinanie wszystkich kształtów z papieru. W zależności od tego, jak układasz i nakładasz ten papier, końcowy wynik może wyglądać bardzo inaczej.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: My circles/squares are not equal
+Title: Moje kółka/kwadraty nie są równe
 ---
 
-The third and fourth numbers in `ellipse` and `rect` are the width and height. If you make them the same, you will get a circle or square.
+Trzecia i czwarta liczba w ` ` i ` ` to szerokość i wysokość. Jeśli uczynisz je takimi samymi, otrzymasz okrąg lub kwadrat.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Możesz znaleźć robaka, którego tutaj nie ma. Czy możesz dowiedzieć się, jak to naprawić?
 
-Uwielbiamy słuchać o błędach jakie znalazłeś i o tym, jak je naprawiłeś. Use the feedback button at the bottom of this page if you found a different bug in your project.
+Uwielbiamy słuchać o błędach jakie znalazłeś i o tym, jak je naprawiłeś. Użyj przycisku opinii u dołu tej strony, jeśli znalazłeś innego robaka w swoim projekcie.
 
 --- /task ---
 
