@@ -5,62 +5,62 @@ from math import random
 
 
 def motif():
-    motif_size = 100
+    taille_motif = 100
 
-    # Thread colours
+    # Couleurs du fil
     ORANGE = Color(254, 96, 1)
-    PURPLE = Color(135, 18, 192)
-    YELLOW = Color(243, 200, 19)
-    BLUE = Color(83, 171, 176)
+    VIOLET = Color(135, 18, 192)
+    JAUNE = Color(243, 200, 19)
+    BLEU = Color(83, 171, 176)
 
-    # Squares
+    # Carrés
     fill(ORANGE)
-    rect(0, 0, motif_size/2, motif_size/2)
-    fill(PURPLE)
-    rect(50, 0, motif_size/2, motif_size/2)
-    fill(YELLOW)
-    rect(0, 50, motif_size/2, motif_size/2)
-    fill(BLUE)
-    rect(50, 50, motif_size/2, motif_size/2)
-    fill(PURPLE)
-    rect(0, 0, motif_size/4, motif_size/4)
+    rect(0, 0, taille_motif/2, taille_motif/2)
+    fill(VIOLET)
+    rect(50, 0, taille_motif/2, taille_motif/2)
+    fill(JAUNE)
+    rect(0, 50, taille_motif/2, taille_motif/2)
+    fill(BLEU)
+    rect(50, 50, taille_motif/2, taille_motif/2)
+    fill(VIOLET)
+    rect(0, 0, taille_motif/4, taille_motif/4)
     fill(ORANGE)
-    rect(50, 0, motif_size/4, motif_size/4)
-    fill(BLUE)
-    rect(0, 50, motif_size/4, motif_size/4)
-    fill(YELLOW)
-    rect(50, 50, motif_size/4, motif_size/4)
+    rect(50, 0, taille_motif/4, taille_motif/4)
+    fill(BLEU)
+    rect(0, 50, taille_motif/4, taille_motif/4)
+    fill(JAUNE)
+    rect(50, 50, taille_motif/4, taille_motif/4)
 
 
-def rotate_motif():
-    for shape in range(5):  # row of shapes
-        push_matrix()  # save settings
-        rotate(radians(45))  # turn shape 45 degrees
+def rotation_motif():
+    for shape in range(5):  # ligne de motifs
+        push_matrix() # enregistrer les paramètres
+        rotate(radians(45)) # tourner la forme de 45 degrés
         motif()
-        pop_matrix()  # go back to saved settings
-        translate(motif_width, 0)  # move horizontally
+        pop_matrix() # retourne aux paramètres enregistrés
+        translate(largeur_motif, 0) # se déplacer horizontalement
 
 
 def setup():
     size(400, 400)
-    background(250, 5, 94)  # pink
+    background(250, 5, 94)  # rose
     no_stroke()
-    print('This is 🇵🇭 Yakan weaving ')
+    print('C\'est le 🇵🇭 tissage Yakan')
 
 
 def draw():
-    global motif_width
-    motif_width = 150
+    global largeur_motif
+    largeur_motif = 150
 
-    translate(-motif_width/2, -motif_width/2)  # to start with half motifs
+    translate(-largeur_motif/2, -largeur_motif/2) # pour commencer avec des demi-motifs
 
-    if frame_count < 20:  # maximum rows
+    si frame_count < 20:  # nombre maximum de lignes
         for row in range(frame_count):
-            rotate_motif()
-            if row / 2 == 0:  # to offset pattern on next row
-                translate(-motif_width * 5 + 75, 80)
+            rotation_motif()
+            if row / 2 == 0: # pour décaler le motif sur la ligne suivante
+                translate(-largeur_motif * 5 + 75, 80)
             else:
-                translate(-motif_width * 5 - 75, 80)
+                translate(-largeur_motif * 5 - 75, 80)
 
 
 run(frame_rate=3)
