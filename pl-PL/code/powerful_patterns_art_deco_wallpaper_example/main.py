@@ -5,34 +5,34 @@ from random import randint
 
 
 def motif():
-    global circle_size
+    globalny rozmiar_koła
     for i in range(5):
-        ellipse(0, 0, circle_size / 5 * (5 - i), circle_size / 5 * (5 - i))
+        elipsa(0, 0, circle_size / 5 * (5 - i), circle_size / 5 * (5 - i))
 
 
 def setup():
     size(400, 400)
-    print('🖌 This art uses lots of circles!')
+    print('? Ta sztuka używa wielu kręgów!')
 
-    global circle_size
+    globalny rozmiar_koła
 
     circle_size = 50
 
 
 def draw():
-    # Pattern colours
-    stroke(40, 35, 100)  # blue
-    stroke_weight(2)  # thick border
-    fill(200, 180, 128)  # gold
+    # Kolory wzoru
+    stroke(40, 35, 100) # niebieski
+    stroke_weight(2) # gruba obwódka
+    fill(200, 180, 128) # złoto
 
-    translate(0, 0)  # start from the top left of the screen
+    translate(0, 0) # start od lewego górnego rogu ekranu
 
-    if frame_count <= 16:  # creates 16 rows then stops
-        for row in range(frame_count):  # animates 1 row at a time
-            for shape in range(16):  # create a row of motifs
-                motif()
-                translate(circle_size / 2, 0)
-            translate(-width, circle_size / 2)  # move down to start next row
+    jeśli frame_count <= 16: # tworzy 16 wiersze, to zatrzymuje się
+        dla wiersza w zakresie(frame_count): # animuje jeden wiersz na raz
+            for shape in range(16): # utwórz wiersz motywów
+                motyw()
+                translate(okrąg_size / 2, 0)
+            translate(-width, circle_size / 2) # przesuń w dół, aby rozpocząć następny wiersz
 
 
 run(frame_rate=3)
