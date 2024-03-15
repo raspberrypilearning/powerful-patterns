@@ -9,7 +9,7 @@ from time import *
 def quadrant():
     # Choisis des couleurs magnifiques pour les couches de gâteau
     turquoise = Color(64, 224, 208)
-    or = Color(255, 215, 0)
+    or_ = Color(255, 215, 0)
     tomate = Color(255, 99, 71)
 
     # La confiture colle les couches ensemble
@@ -22,7 +22,7 @@ def quadrant():
         debut_y = i * 60 # hauteur de 3 blocs de gâteau
         fill(turquoise)
         rect(0, debut_y, 180, 20)
-        fill(or)
+        fill(or_)
         rect(0, debut_y + 20, 180, 20)
         fill(tomate)
         rect(0, debut_y + 40, 180, 20)
