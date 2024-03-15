@@ -1,81 +1,81 @@
-## You will make
+## Zrobisz to
 
-Create a piece of inspirational art that can be scaled using repeated patterns.
+Stwórz inspirującą sztukę, która może być skalowana za pomocą powtarzających się wzorów.
 
-Your powerful pattern will need to meet the **project brief**.
+Twój potężny wzorzec będzie musiał spełnić brief projektu ** **.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0; font-weight:bold">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
+Brief projektu <span style="color: #0faeb0; font-weight:bold"> </span> opisuje, co musi zrobić projekt. To trochę tak, jakby otrzymać misję do wykonania.
 </p>
 
 Co zrobisz:
-+ Draw and position geometric shapes to create a base pattern (or 'motif')
-+ Use `for` loops to `translate` the pattern to fill the screen
-+ Use the `frame_rate` and `frame_count` to animate the creation of the pattern
++ Narysuj i umieść kształty geometryczne, aby utworzyć wzór bazowy (lub 'motif')
++ Użyj ` ` loops to ` translate ` the description, aby wypełnić ekran
++ Użyj ` frame_` i ` frame_`, aby animować tworzenie szyku
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns are all around us, in textiles, nature, art, traditions, and design. The starting point of a pattern is called <span style="color: #0faeb0; font-weight:bold">a motif</span>, which is an element that can be repeated and arranged in order to create many different patterns.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Wzory są wokół nas, w tekstyliach, przyrodzie, sztuce, tradycjach, i projektowanie. Punkt początkowy wzoru nazywa się <span style="color: #0faeb0; font-weight:bold"> a </span>, który jest elementem, który można powtarzać i układać w celu stworzenia wielu różnych wzorów.
 </p>
 
 --- no-print ---
 
-### Play ▶️
+### Graj ▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-Click the **Run** button below to see this example and think about the repeated motif. How would you describe what is happening in the animation?
+Kliknij przycisk **Run** poniżej, aby zobaczyć ten przykład i pomyśleć o powtarzającym się motywie. Jak opisałbyś to, co dzieje się w animacji?
 **Kek lapis Sarawak**:
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/repeated-patterns-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe>
 </div>
 </div>
 
-You can find the Kek lapis Sarawak project [here](https://editor.raspberrypi.org/en/projects/repeated-patterns-example){:target="_blank"}
+Możesz znaleźć projekt Kek lapis Sarawak [ ](https://editor.raspberrypi.org/en/projects/repeated-patterns-example){:target="_blank"}
 --- /task ---
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Create a **powerful pattern**
-<hr style="border-top: 2px solid black;"> 
+### OPIS PROJEKTU: Stwórz **potężny wzór**
+<hr style="border-top: 2px solid black;">
 
-Your powerful pattern should:
-+ Draw and position geometric shapes to create a base pattern
-+ Use loops to repeat the pattern to fill the screen
-+ Animate how the pattern is created
+Twój potężny wzór powinien:
++ Rysuj i pozycjonuj kształty geometryczne, aby utworzyć wzór bazowy
++ Użyj pętli, aby powtórzyć wzór, aby wypełnić ekran
++ Animuj sposób tworzenia wzoru
 
-Your powerful pattern could:
-+ Use bold or significant colours
-+ Draw inspiration from your culture or popular culture
-+ Get user input to resize the pattern
-+ Add text and emoji to print details about your art
-+ Translate the pattern to create variations
+Twój potężny wzór może:
++ Użyj pogrubionych lub znaczących kolorów
++ czerp inspirację z kultury lub kultury popularnej
++ Uzyskaj dane użytkownika, aby zmienić rozmiar wzoru
++ Dodaj tekst i emoji, aby wydrukować szczegóły o swojej sztuce
++ Przetłumacz wzór, aby tworzyć odmiany
 </div>
 
-### Get ideas 💭
+### Masz pomysły?
 
 --- task ---
 
-Run these example projects to get ideas for your pattern.
+Uruchom te przykładowe projekty, aby uzyskać pomysły na swój wzór.
 
-How have the motifs been made from circles, ellipses, squares, rectangles, and triangles?:
+Jak powstały motywy z okręgów, elips, kwadratów, prostokątów i trójkątów?:
 
-**Spirals**:
+</strong> **:
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/spirals-pattern-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe> You can find the Spirals project [here](https://editor.raspberrypi.org/en/projects/spirals-pattern-example){:target="_blank"}
+</iframe> Możesz znaleźć projekt spirali [ ](https://editor.raspberrypi.org/en/projects/spirals-pattern-example){:target="_blank"}</p>
 
-**Random faces**:
+** Losowe **:
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/random-faces-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe> You can find the Random faces project [here](https://editor.raspberrypi.org/en/projects/random-faces-example){:target="_blank"}
+</iframe> Możesz znaleźć projekt losowe twarze [ ](https://editor.raspberrypi.org/en/projects/random-faces-example){:target="_blank"}
 
-**Art deco wallpaper**:
+** Deco tapeta **:
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/art-deco-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe> You can find the Art deco project [here](https://editor.raspberrypi.org/en/projects/art-deco-example){:target="_blank"}
+</iframe> Możesz znaleźć projekt art deco [ ](https://editor.raspberrypi.org/en/projects/art-deco-example){:target="_blank"}
 
-**Yakan weaving**:
+** Yakan **:
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/yakan-weaving-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe> You can find the Yakan weaving project [here](https://editor.raspberrypi.org/en/projects/yakan-weaving-example){:target="_blank"}
+</iframe> Możesz znaleźć projekt tkacki [ ](https://editor.raspberrypi.org/en/projects/yakan-weaving-example){:target="_blank"}
 
 --- /task ---
 
@@ -83,9 +83,9 @@ How have the motifs been made from circles, ellipses, squares, rectangles, and t
 
 --- print-only ---
 
-Look at these examples and think about the repeated motif. How have the patterns been made from circles, ellipses, squares, rectangles, and triangles?
+Spójrz na te przykłady i pomyśl o powtarzającym się motywie. Jak powstają wzory z okręgów, elips, kwadratów, prostokątów i trójkątów?
 
-![Complete Kek lapis Sarawak project.](images/kek.png) You can find the Kek lapis Sarawak project here https://editor.raspberrypi.org/en/projects/repeated-patterns-example ![Complete Spirals project.](images/spirals.png) You can find the Spirals project here https://editor.raspberrypi.org/en/projects/spirals-pattern-example ![Complete Random faces project.](images/random_faces.png) You can find the Random faces project here https://editor.raspberrypi.org/en/projects/random-faces-example ![Complete Art deco project.](images/art_deco.png) You can find the Art deco project here https://editor.raspberrypi.org/en/projects/art-deco-example ![Complete Yakan weaving project.](images/yakan.png) You can find the Yakan weaving project here https://editor.raspberrypi.org/en/projects/yakan-weaving-example
+![Ukończ projekt Kek lapis Sarawak.](images/kek.png) Możesz znaleźć projekt Kek lapis Sarawak tutaj https://editor.raspberrypi.org/en/projects/repeated-patterns-example <img src="images/spiral.png" alt="Kompletny projekt spirali". /> Możesz znaleźć projekt Spirals tutaj https://editor.raspberrypi.org/en/projects/spirals-pattern-example ![Kompletny projekt losowych twarzy.](images/random_faces.png) Możesz znaleźć projekt losowe twarze tutaj https://editor.raspberrypi.org/en/projects/random-faces-example ![Kompletny projekt art deco.](images/art_deco.png) Projekt art deco możesz znaleźć tutaj https://editor.raspberrypi.org/en/projects/art-deco-example ![Kompletny projekt tkania języka jakańskiego.](images/yakan.png) Projekt tkania Yakan znajdziesz tutaj https://editor.raspberrypi.org/en/projects/yakan-weaving-example
 
 --- /print-only ---
 
