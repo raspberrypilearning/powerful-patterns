@@ -1,4 +1,4 @@
-## Réflexion
+## Checklist
 
 As-tu respecté la **fiche de projet** ? Réfléchis à ton projet et parcours la liste de contrôle ci-dessous et coche celles qui s'appliquent à ton projet.
 
@@ -6,18 +6,18 @@ Est-ce que ton motif puissant :
 
 --- task ---
 
-Dessine et positionne des formes géométriques pour créer un motif de base (ou motif)
+Dessine et positionne des formes géométriques pour créer un motif de base (ou motif) ?
 --- /task ---
 
 --- task ---
 
-Utilise des boucles pour répéter le motif pour remplir l'écran
+Utilise des boucles pour répéter le motif pour remplir l'écran ?
 
 --- /task ---
 
 --- task ---
 
-Anime la façon dont le motif est créé
+Anime la façon dont le motif est créé ?
 
 --- /task ---
 
@@ -25,7 +25,7 @@ Ton modèle puissant pourrait également :
 
 --- task ---
 
-Utiliser des couleurs vives ou significatives
+Utiliser des couleurs vives ou prononcées
 
 --- /task ---
 
@@ -43,7 +43,7 @@ Obtenir l'entrée de l'utilisateur pour redimensionner le motif
 
 --- task ---
 
-Ajouter du texte et des emoji pour imprimer des détails sur ton art
+Ajouter du texte et des emojis pour imprimer des détails sur ton art
 
 --- /task ---
 
@@ -59,7 +59,6 @@ Translater le motif pour créer des variations
 Partager ton travail avec d'autres dans une galerie en ligne
 
 --- /task ---
-
 
 Réfléchir à la façon dont tu as créé ton modèle puissant t'aidera dans tes projets futurs.
 

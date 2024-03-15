@@ -13,7 +13,7 @@ def draw():
     # McEwen tartan kleuren
     # Kleuren van de basisvierkanten
     BLAUW = Color(83, 143, 200)
-    GREEN = Color(78, 163, 162)
+    GROEN = Color(78, 163, 162)
     BASIS_KLEUREN = [GROEN, BLAUW]
 
     # Kruiskleuren

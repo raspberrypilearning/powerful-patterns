@@ -1,4 +1,4 @@
-## Construire et tester - Motif
+## Construire et tester : motif
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -19,21 +19,19 @@ Dans cet exemple, un motif de papier peint art déco a été décomposé en une 
 
 ![Un seul motif à cinq cercles à côté d'une image du motif complet art déco avec de nombreuses copies du motif.](images/motif-pattern.png)
 
-**Astuce :** N'oublie pas de tester ton projet à chaque fois que tu ajoutes quelque chose. Il est beaucoup plus facile de trouver et de corriger les bogues avant d'apporter d'autres modifications.
+**Astuce :** n'oublie pas de tester ton projet à chaque fois que tu ajoutes quelque chose. Il est beaucoup plus facile de trouver et de corriger les bogues avant d'apporter d'autres modifications.
 
 --- task ---
 
 Tu as acquis des compétences vraiment utiles. Voici un rappel pour t'aider à réaliser ton motif :
 
-### Formes et images
+### Formes
 
 [[[processing-python-ellipse]]]
 
 [[[processing-python-rect]]]
 
 [[[processing-python-triangle]]]
-
-[[[processing-add-image]]]
 
 ### Couleurs et effets
 
@@ -61,13 +59,13 @@ Tu as acquis des compétences vraiment utiles. Voici un rappel pour t'aider à r
 
 --- task ---
 
-**Test :** Montre ton projet à quelqu'un d'autre pour avoir son avis. Tu souhaites apporter des modifications à ton motif ?
+**Test :** montre ton projet à quelqu'un d'autre pour avoir son avis. Tu souhaites apporter des modifications à ton motif ?
 
 --- /task ---
 
 --- task ---
 
-**Débogage :** Il est possible que tu trouves des bogues dans ton projet que tu dois corriger. Voici quelques bogues assez courants.
+**Débogage :** il est possible que tu trouves des bogues dans ton projet que tu dois corriger. Voici quelques bogues assez courants.
 
 --- collapse ---
 ---
@@ -86,7 +84,7 @@ title: Je ne vois pas certaines des formes de mon motif
 
 L'ordre dans lequel tu dessines les choses est très important.
 
-L'infographie est composée de calques. Dans ton motif, chaque forme est une couche. Les objets des calques supérieurs se placent devant les objets des calques inférieurs. Imagine découper toutes les formes dans du papier. Selon la façon dont tu organises et superposes ce papier, le résultat final peut être très différent.
+L'infographie est composée de calques. Dans ton motif, chaque forme est un calque. Les objets des calques supérieurs se placent devant les objets des calques inférieurs. Imagine découper toutes les formes dans du papier. Selon la façon dont tu organises et superposes ce papier, le résultat final peut être très différent.
 
 --- /collapse ---
 
@@ -100,7 +98,7 @@ Les troisième et quatrième nombres dans `ellipse` et `rect` sont la largeur et
 
 --- /collapse ---
 
-Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver comment le réparer ?
+Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver comment le corriger ?
 
 Nous aimons avoir des nouvelles de tes bogues et de la façon dont tu les as corrigés. Utilise le bouton de commentaires au bas de cette page si tu as trouvé un bogue différent dans ton projet.
 

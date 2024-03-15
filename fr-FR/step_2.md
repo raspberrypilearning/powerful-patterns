@@ -18,13 +18,13 @@ Réfléchis à l'objectif du motif que tu crées.
 - Quelque chose que tu crées avec un groupe de personnes pour envoyer un certain message (par exemple, un quilt)
 - Pour montrer quelque chose de fascinant à propos d'un passe-temps (par exemple, l'art, la science, la nature, la musique)
 
-**Astuce :** Les motifs sont partout ! Tu peux choisir de t'inspirer en partant à la recherche de modèles dans ton environnement physique ou en ligne.
+**Astuce :** les motifs sont partout ! Tu peux choisir de t'inspirer en partant à la recherche de modèles dans ton environnement physique ou en ligne.
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">En plus d'avoir une signification symbolique, les motifs illustrent les mathématiques qui nous entourent. Les mathématiques nous aident à donner un sens au monde qui nous entoure et nous pouvons trouver des modèles mathématiques dans l'art, la littérature et la nature. </p>
 
-### C'est pour qui ?
+### À qui s'adresse-t-il ?
 
 --- task ---
 
@@ -42,7 +42,9 @@ Si tu crées un motif en groupe, ton motif doit-il avoir une certaine taille ou 
 
 --- task ---
 
-Ouvre le projet de démarrage [Motifs puissants](https://trinket.io/python/8644b270c3){:target=blank} et clique sur le bouton remix.
+Ouvre le projet [de démarrage Motifs puissants](https://editor.raspberrypi.org/fr-FR/projects/powerful-patterns-starter){:target="_blank"}. Le Code Editor s'ouvrira dans un autre onglet du navigateur.
+
+Si tu as un compte Raspberry Pi, tu peux cliquer sur le bouton **Enregistrer** pour enregistrer une copie dans tes **Projets**.
 
 --- /task ---
 
@@ -50,7 +52,7 @@ Ouvre le projet de démarrage [Motifs puissants](https://trinket.io/python/8644b
 
 --- task ---
 
-Ajoute du code à `setup()` pour préparer ton projet.
+Ajoute du code à `configuration()` pour préparer ton projet.
 
 --- collapse ---
 
@@ -58,18 +60,18 @@ Ajoute du code à `setup()` pour préparer ton projet.
 title: Définir la taille de l'écran au démarrage de ton programme
 ---
 
-**Choisir :** Ajoute une taille adaptée au motif que tu souhaites créer. Tu pourras toujours le modifier ultérieurement au fur et à mesure de l'évolution de ton projet.
+**Choisir :** ajoute une taille adaptée au motif que tu souhaites créer. Tu pourras toujours le modifier ultérieurement au fur et à mesure de l'évolution de ton projet.
 
 --- code ---
 ---
-language: python 
-filename: main.py - setup() 
-line_numbers: true 
+language: python
+filename: main.py - setup()
+line_numbers: true
 line_number_start: 6
 line_highlights: 7
 ---
-def setup(): 
-    size(400, 400) #Choisis une taille
+def setup():
+    size(400, 400) # Choisis une taille
 
 --- /code ---
 
@@ -82,19 +84,20 @@ title: Définir la couleur d'arrière-plan au démarrage de ton programme
 ---
 
 Pense à l'endroit où tu veux dessiner ton arrière-plan. Tu peux :
-+ Ajouter du code à `setup()` pour que l'arrière-plan soit dessiné une fois lorsque tu exécutes ton projet
-+ Ajouter du code à `draw()` pour que l'arrière-plan soit redessiné à chaque exécution de la fonction `draw()`
++ Ajouter du code à `configuration()` pour que l'arrière-plan soit dessiné une fois lorsque tu exécutes ton projet
++ Ajouter du code à `dessin()` pour que l'arrière-plan soit redessiné à chaque exécution de la fonction `dessin()`
 
 --- code ---
 ---
-language: python 
-filename: main.py - setup() 
-line_numbers: true 
-line_number_start: 9
-line_highlights: 9
+language: python
+filename: main.py - setup()
+line_numbers: true
+line_number_start: 6
+line_highlights: 8
 ---
-
-    background(255, 255, 255) #Essaie différents nombres pour changer la couleur
+def setup():
+    size(400, 400)
+    background(255, 255, 255)  # Essaie différents nombres pour changer la couleur
 
 --- /code ---
 
@@ -106,7 +109,7 @@ line_highlights: 9
 
 --- task ---
 
-**Débogage :** Il est possible que tu trouves des bogues dans ton projet que tu dois corriger. Voici quelques bogues assez courants.
+**Débogage :** il est possible que tu trouves des bogues dans ton projet que tu dois corriger. Voici quelques bogues assez courants.
 
 --- collapse ---
 
