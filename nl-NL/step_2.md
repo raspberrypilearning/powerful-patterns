@@ -67,7 +67,7 @@ title: De schermgrootte instellen wanneer het programma wordt gestart
 language: python filename: main.py - setup() line_numbers: true line_number_start: 6
 line_highlights: 7
 ---
-def setup(): size(400, 400) #Kies een afmeting
+def setup(): size(400, 400)  # Choose a size
 
 --- /code ---
 
@@ -85,10 +85,10 @@ Bedenk waar je je achtergrond wilt tekenen. Jij kunt:
 
 --- code ---
 ---
-language: python filename: main.py - setup() line_numbers: true line_number_start: 9
-line_highlights: 9
+language: python filename: main.py - setup() line_numbers: true line_number_start: 6
+line_highlights: 8
 ---
-background(255, 255, 255) #Probeer andere getallen om de kleur te veranderen
+def setup(): size(400, 400) background(255, 255, 255)  # Try different numbers to change the colour
 
 --- /code ---
 
