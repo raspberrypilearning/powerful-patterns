@@ -7,6 +7,7 @@ Tu as atteint la fin du parcours [Introduction à Scratch](https://projects.rasp
 Tu peux explorer nos [autres projets Python](https://projects.raspberrypi.org/fr-FR/projects?software%5B%5D=python) et les essayer.
 
 ***
+
 Ce projet a été traduit par des bénévoles:
 
 Michel Arnols

@@ -1,10 +1,10 @@
-## Développer et tester - Motif
+## Développer et tester : motif
 
 Il est maintenant temps de créer ton motif complet !
 
 ![Exemples de projets finis dont le motif est utilisé à plusieurs reprises pour former un motif complet.](images/second.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceBLEU; padding: 10px;"><span style="color: #0faeb0">L'abstraction</span> est la résolution de problèmes en réduisant les détails inutiles. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">L'abstraction</span> est la résolution de problèmes en réduisant les détails inutiles. 
 
 </p>
 
@@ -18,10 +18,10 @@ Regarde ce papier peint art déco. Comment le motif change-t-il pour former le m
 
 ![Le motif du projet de papier peint art déco à côté du motif complet.](images/spirals-motif.png)
 
-Pense au modèle que tu crées. Comment ton motif change-t-il pour créer le motif général. Utilise ces questions pour t'aider à faire abstraction :
+Pense au modèle que tu crées. Comment ton motif change-t-il pour créer le motif général ? Utilise ces questions pour t'aider à faire abstraction :
 - Est-ce que tout ou partie du motif tourne ?
 - Dans quel sens tourne-t-il ? Et de combien ?
-- Y a-t-il des couches du motif qui se chevauchent ?
+- Le motif comporte-t-il des calques qui se chevauchent ?
 - Combien de fois le motif se répète-t-il ?
 - Comment la répétition est-elle organisée (c'est-à-dire combien de lignes/colonnes) ?
 - Les couleurs changent-elles ?
@@ -33,7 +33,7 @@ Pense au modèle que tu crées. Comment ton motif change-t-il pour créer le mot
 
 Maintenant que tu en sais plus sur la façon dont le motif se transforme en motif complet, tu peux le programmer en utilisant tes réponses aux questions ci-dessus.
 
-**Astuce :** n'oublie pas que tu peux « voir à l'intérieur » n'importe lequel des exemples de l'introduction et « copier » « coller » le code dans ton projet. Les développeurs professionnels le font tout le temps !
+**Astuce :** tu peux « copier » et « coller » le code de n'importe lequel des exemples de l'introduction dans ton projet. Les développeurs professionnels le font tout le temps !
 
 Tu as acquis des compétences vraiment utiles. Voici un rappel pour t'aider à réaliser ton motif répété :
 
@@ -46,7 +46,6 @@ Tu as acquis des compétences vraiment utiles. Voici un rappel pour t'aider à r
 [[[python-operators]]]
 
 [[[generic-python-for-loop-repeat]]]
-
 
 --- collapse ---
 
@@ -62,15 +61,15 @@ Une façon d'utiliser l'aléatoire est de déplacer ton motif à une position al
 
 --- code ---
 ---
-language: python 
+language: python
 filename: main.py - draw()
 
 ---
 
-push_matrix() #Commencer la transformation 
-translate(randint(0, 400), randint(0, 400)) 
-dessin_motif() 
-pop_matrix() #Réinitialiser la transformation
+    push_matrix() # Commencer la transformation 
+    translate(randint(0, 400), randint(0, 400)) 
+    dessin_motif() 
+    pop_matrix() # Réinitialiser la transformation
 
 --- /code ---
 
@@ -78,12 +77,12 @@ Tu peux également utiliser l'aléatoire pour modifier les couleurs de ton motif
 
 --- code ---
 ---
-language: python 
+language: python
 filename: main.py - draw()
 
 ---
 
-BLEU = color(randint(0, 50), randint(0, 100), randint(150, 255))
+    BLEU = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 --- /code ---
 
@@ -101,12 +100,12 @@ Tu peux utiliser `scale()` avant d'appeler la fonction qui dessine ton motif pou
 
 --- code ---
 ---
-language: python 
+language: python
 filename: main.py - draw()
 
 ---
 
-scale(0.5) #Moitié de la taille
+    scale(0.5) # Moitié de la taille
 
 --- /code ---
 
@@ -131,13 +130,13 @@ Tu peux maintenant animer ton motif pour montrer comment tu l'as créé. Souvent
 
 --- task ---
 
-**Test :** Montre ton projet à quelqu'un d'autre pour avoir son avis. Tu souhaites apporter des modifications à ton motif ?
+**Test :** montre ton projet à quelqu'un d'autre pour avoir son avis. Tu souhaites apporter des modifications à ton motif ?
 
 --- /task ---
 
 --- task ---
 
-**Débogage :** Il est possible que tu trouves des bogues dans ton projet que tu dois corriger. Voici quelques bogues assez courants.
+**Débogage :** il est possible que tu trouves des bogues dans ton projet que tu dois corriger. Voici quelques bogues courants.
 
 --- collapse ---
 
@@ -156,7 +155,7 @@ title: La rotation semble étrange
 
 As-tu vérifié que tu utilises `translate()` depuis et vers les bonnes coordonnées ?
 
-As-tu plus d'une chose en rotation? Tu devras peut-être utiliser `push_matrix()` et `pop_matrix()` pour que l'écran tourne à différents points à la fois.
+As-tu plus d'une chose en rotation ? Tu devras peut-être utiliser `push_matrix()` et `pop_matrix()` pour que l'écran tourne à différents points à la fois.
 
 --- /collapse ---
 
@@ -192,11 +191,11 @@ Vérifie la syntaxe de ton code. Te manque-t-il des parenthèses `(` ou `)` ou u
 title: L'animation est trop rapide/trop lente
 ---
 
-Modifie le `frame_rate()` au début de ton programme pour l'obtenir à la vitesse que tu souhaites.
+Modifie le nombre après `frame_rate =` dans l'appel à la fonction `run()` à la fin de ton programme pour l'amener à la vitesse que tu souhaites.
 
 --- /collapse ---
 
-Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver comment le réparer ?
+Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver un moyen de le corriger ?
 
 Nous aimons avoir des nouvelles de tes bogues et de la façon dont tu les as corrigés. Utilise le bouton de commentaires au bas de cette page si tu as trouvé un bogue différent dans ton projet.
 
