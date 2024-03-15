@@ -5,16 +5,16 @@ from random import randint
 
 
 def setup():
-    # Put code to run once here
+    # Wstaw kod, aby uruchomić go raz tutaj
     size(400, 400)
     background(255, 255, 255)
 
 
 def draw():
-    # Put code to run every frame here
+    # Wstaw kod, aby uruchomić każdą klatkę tutaj
     fill(255, 0, 255)
     rect(50, 50, 120, 100)
 
 
-# Keep this to run your code
+# Zatrzymaj to, aby uruchomić swój kod
 run(frame_rate=5)
