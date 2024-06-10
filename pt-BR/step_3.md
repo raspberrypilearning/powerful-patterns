@@ -25,7 +25,7 @@ Neste exemplo, um padrão de papel de parede art déco foi decomposto na coleç�
 
 Você desenvolveu algumas habilidades realmente úteis. Aqui está um lembrete para ajudá-lo a fazer seu motivo:
 
-### Shapes
+### Formas
 
 [[[processing-python-ellipse]]]
 
