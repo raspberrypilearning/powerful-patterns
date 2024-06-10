@@ -42,7 +42,7 @@ Se você estiver criando um padrão em grupo, seu motivo precisa ter um determin
 
 --- task ---
 
-Abra o [projeto inicial super padrões](https://editor.raspberrypi.org/pt-BR/projects/gift-alarm-enter){:target=blank}. O editor de código será aberto em outra guia do navegador.
+Abra o [projeto inicial Super padrões](https://editor.raspberrypi.org/pt-BR/projects/powerful-patterns-starter){:target="_blank"}. O editor de código será aberto em outra guia do navegador.
 
 Se você tiver uma conta Raspberry Pi, pode clicar no botão **Salvar** para salvar uma cópia em seus **Projetos**.
 
