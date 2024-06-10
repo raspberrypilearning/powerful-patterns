@@ -16,7 +16,7 @@ Use loops para repetir o padrão para preencher a tela
 
 --- task ---
 
-Animate how the pattern is created?
+Animar como o padrão é criado?
 
 --- /task ---
 
