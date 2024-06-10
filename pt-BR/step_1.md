@@ -23,17 +23,16 @@ Você irá:
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">
+<div style="flex-basis: 175px; flex-grow: 1">  
 
-Execute este exemplo e pense no motivo repetido. Como você descreveria o que está acontecendo na animação?
-
+Clique no botão **Executar** abaixo para ver este exemplo e pense no motivo repetido. Como você descreveria o que está acontecendo na animação?
 **Kek lapis Sarawak**:
-<iframe src="https://editor.raspberrypi.org/pt-BR/embed/viewer/earth-elves-mash" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+<iframe src="https://editor.raspberrypi.org/pt-BR/embed/viewer/repeated-patterns-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe>
 </div>
 </div>
 
-Você pode encontrar o projeto Kek lapis Sarawak [aqui](https://editor.raspberrypi.org/pt-BR/projects/earth-elves-mash){:target="_blank"}
+Você pode encontrar o projeto Kek lapis Sarawak [aqui](https://editor.raspberrypi.org/pt-BR/projects/repeated-patterns-example){:target="_blank"}
 --- /task ---
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
@@ -58,33 +57,25 @@ Seu super padrão pode:
 
 --- task ---
 
-Explore estes projetos de exemplo para obter ideia para o seu livro.
+Execute estes projetos de exemplo para obter ideias para o seu padrão.
 
 Como os motivos foram feitos de círculos, elipses, quadrados, retângulos e triângulos?:
 
-**Espirais**: [Veja um exemplo ](https://editor.raspberrypi.org/pt-BR/projects/tulip-self-polar){:target="_blank"}
+**Espirais**:
+<iframe src="https://editor.raspberrypi.org/pt-BR/embed/viewer/spirals-pattern-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> Você pode encontrar o projeto Espirais [aqui](https://editor.raspberrypi.org/pt-BR/projects/spirals-pattern-example){:target="_blank"}
 
-  <iframe src="https://editor.raspberrypi.org/pt-BR/embed/viewer/tulip-self-polar" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
+**Faces aleatórias**:
+<iframe src="https://editor.raspberrypi.org/pt-BR/embed/viewer/random-faces-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> Você pode encontrar o projeto Faces aleatórias [aqui](https://editor.raspberrypi.org/pt-BR/projects/random-faces-example){:target="_blank"}
 
+**Papel de parede art déco**:
+<iframe src="https://editor.raspberrypi.org/pt-BR/embed/viewer/art-deco-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> Você pode encontrar o projeto Papel de parede art déco [aqui](https://editor.raspberrypi.org/pt-BR/projects/art-deco-example){:target="_blank"}
 
-**Faces aleatórias**: [Ver interior](https://editor.raspberrypi.org/pt-BR/projects/crown-aide-yoyo){:target="_blank"}
-
-<iframe src="https://editor.raspberrypi.org/pt-BR/embed/viewer/crown-aide-yoyo" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
-
-
-**Papel de parede art déco**: [Ver interior ](https://editor.raspberrypi.org/pt-BR/projects/pony-blob-trek){:target="_blank"}
-
-<iframe src="https://editor.raspberrypi.org/pt-BR/embed/viewer/pony-blob-trek" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
-
-
-**Yakan tecelagem**: [Veja dentro de](https://editor.raspberrypi.org/pt-BR/projects/sweep-giver-blob){:target="_blank"}
-
-<iframe src="https://editor.raspberrypi.org/pt-BR/embed/viewer/sweep-giver-blob" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
-
+**Yakan tecelagem**:
+<iframe src="https://editor.raspberrypi.org/pt-BR/embed/viewer/yakan-weaving-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> Você pode encontrar o projeto Yakan tecelagem [aqui](https://editor.raspberrypi.org/pt-BR/projects/yakan-weaving-example){:target="_blank"}
 
 --- /task ---
 
@@ -94,11 +85,16 @@ Como os motivos foram feitos de círculos, elipses, quadrados, retângulos e tri
 
 Veja estes exemplos e pense no motivo repetido. Como os padrões foram feitos de círculos, elipses, quadrados, retângulos e triângulos?
 
-![Projeto completo de Kek lapis Sarawak.](images/kek.png) Você pode encontrar o projeto Kek lapis Sarawak aqui https://editor.raspberrypi.org/pt-BR/projects/earth-elves-mash
-![Projeto completo de Espirais.](images/spirals.png) Você pode encontrar o projeto Espirais aqui https://editor.raspberrypi.org/pt-BR/projects/tulip-self-polar
-![Projeto completo de Faces aleatórias.](images/random_faces.png) Você pode encontrar as faces aleatórias projeto aqui https://editor.raspberrypi.org/pt-BR/projects/crown-aide-yoyo
-![Projeto completo de Art déco.](images/art_deco.png) Você pode encontrar o projeto Art déco aqui https://editor.raspberrypi.org/pt-BR/projects/pony-blob-trek
-![Projeto completo de tecelagem Yakan.](images/yakan.png) Você pode encontrar o projeto de tecelagem Yakan aqui https://editor.raspberrypi.org/pt-BR/projects/sweep-giver-blob
+![Projeto completo de Kek lapis Sarawak.](images/kek.png)
+Você pode encontrar o projeto Kek lapis Sarawak aqui https://editor.raspberrypi.org/pt-BR/projects/repeated-patterns-example
+![Projeto completo de Espirais.](images/spirals.png)
+Você pode encontrar o projeto Espirais aqui https://editor.raspberrypi.org/pt-BR/projects/spirals-pattern-example
+![Projeto completo de Faces aleatórias.](images/random_faces.png)
+Você pode encontrar as Faces aleatórias projeto aqui https://editor.raspberrypi.org/pt-BR/projects/random-faces-example
+![Projeto completo de Art déco.](images/art_deco.png)
+Você pode encontrar o projeto Art déco aqui https://editor.raspberrypi.org/pt-BR/projects/art-deco-example
+![Projeto completo de tecelagem Yakan.](images/yakan.png)
+Você pode encontrar o projeto de tecelagem Yakan aqui https://editor.raspberrypi.org/pt-BR/projects/yakan-weaving-example
 
 --- /print-only ---
 
