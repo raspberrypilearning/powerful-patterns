@@ -19,7 +19,7 @@ Este projeto usa texto e emoji para pedir ao usuário que escolha um tamanho e, 
 
 Você pode encontrar o projeto tartan McEwen [aqui](https://editor.raspberrypi.org/pt-BR/projects/mcewen-tartan-example){:target="_blank"}
 
-Dê uma olhada em alguns projetos de super padrões criados por membros da comunidade na Fundação Raspberry Pi[Powerful patterns - Community library](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
+Dê uma olhada em alguns projetos de super padrões criados por membros da comunidade na Fundação Raspberry Pi [Powerful patterns - Community library](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
 
 --- save ---
 
