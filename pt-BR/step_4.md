@@ -18,7 +18,7 @@ Olhe para este papel de parede art déco. Como o motivo modifica a formar do pad
 
 ![O motivo do projeto de papel de parede art déco ao lado do padrão completo.](images/spirals-motif.png)
 
-Pense no padrão que você está fazendo. Como seu motivo muda para fazer o padrão geral. Use estas perguntas para ajudá-lo a abstrair:
+Pense no padrão que você está fazendo. Como seu motivo muda para fazer o padrão geral? Use estas perguntas para ajudá-lo a abstrair:
 - Tudo ou parte do motivo gira?
 - Em que direção ele gira? E quanto?
 - Existem camadas no padrão que se sobrepõem?
@@ -33,7 +33,7 @@ Pense no padrão que você está fazendo. Como seu motivo muda para fazer o padr
 
 Agora que você conhece mais como o motivo se transforma em todo o padrão, você pode programá-lo usando suas respostas às perguntas acima.
 
-**Dica:** Não esqueça que você pode 'Ver Dentro' qualquer um dos exemplos na introdução e 'copiar' e 'colar' código em seu projeto. Desenvolvedores profissionais fazem isso o tempo todo!
+**Dica:** Você pode 'copiar' e 'colar' o código de qualquer um dos exemplos da introdução ao seu projeto. Desenvolvedores profissionais fazem isso o tempo todo!
 
 Você desenvolveu algumas habilidades realmente úteis. Aqui está um lembrete para ajudá-lo a fazer seu padrão repetido:
 
@@ -65,10 +65,10 @@ language: python filename: main.py - draw()
 
 ---
 
-    push_matrix()  # Iniciar transformação
+    push_matrix()  # Start transformation
     translate(randint(0, 400), randint(0, 400))
-    desenho_motivo()
-    pop_matrix()  # Redefinir transformação
+    draw_motif()
+    pop_matrix()  # Reset transformation
 
 --- /code ---
 
@@ -80,7 +80,7 @@ language: python filename: main.py - draw()
 
 ---
 
-    AZUL = color(randint(0, 50), randint(0, 100), randint(150, 255))
+    BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
 
 --- /code ---
 
