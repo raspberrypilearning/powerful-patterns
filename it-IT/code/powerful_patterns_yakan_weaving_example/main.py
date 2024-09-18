@@ -4,63 +4,63 @@ from p5 import *
 from math import random
 
 
-def motif():
-    motif_size = 100
+def motivo():
+    dimensione_motivo = 100
 
-    # Thread colours
-    ORANGE = Color(254, 96, 1)
-    PURPLE = Color(135, 18, 192)
-    YELLOW = Color(243, 200, 19)
-    BLUE = Color(83, 171, 176)
+    # Colori del filo
+    ARANCIONE = Color(254, 96, 1)
+    VIOLA = Color(135, 18, 192)
+    GIALLO = Color(243, 200, 19)
+    BLU = Color(83, 171, 176)
 
-    # Squares
-    fill(ORANGE)
-    rect(0, 0, motif_size/2, motif_size/2)
-    fill(PURPLE)
-    rect(50, 0, motif_size/2, motif_size/2)
-    fill(YELLOW)
-    rect(0, 50, motif_size/2, motif_size/2)
-    fill(BLUE)
-    rect(50, 50, motif_size/2, motif_size/2)
-    fill(PURPLE)
-    rect(0, 0, motif_size/4, motif_size/4)
-    fill(ORANGE)
-    rect(50, 0, motif_size/4, motif_size/4)
-    fill(BLUE)
-    rect(0, 50, motif_size/4, motif_size/4)
-    fill(YELLOW)
-    rect(50, 50, motif_size/4, motif_size/4)
+    # Quadrati
+    fill(ARANCIONE)
+    rect(0, 0, dimensione_motivo/2, dimensione_motivo/2)
+    fill(VIOLA)
+    rect(50, 0, dimensione_motivo/2, dimensione_motivo/2)
+    fill(GIALLO)
+    rect(0, 50, dimensione_motivo/2, dimensione_motivo/2)
+    fill(BLU)
+    rect(50, 50, dimensione_motivo/2, dimensione_motivo/2)
+    fill(VIOLA)
+    rect(0, 0, dimensione_motivo/4, dimensione_motivo/4)
+    fill(ARANCIONE)
+    rect(50, 0, dimensione_motivo/4, dimensione_motivo/4)
+    fill(BLU)
+    rect(zero, 50, dimensione_motivo/4, dimensione_motivo/4)
+    fill(GIALLO)
+    rect(50, 50, dimensione_motivo4, dimensione_motivo/4)
 
 
-def rotate_motif():
-    for shape in range(5):  # row of shapes
-        push_matrix()  # save settings
-        rotate(radians(45))  # turn shape 45 degrees
-        motif()
-        pop_matrix()  # go back to saved settings
-        translate(motif_width, 0)  # move horizontally
+def ruota_motivo():
+    for forma in range(5):  # righe di forme
+        push_matrix() # memorizza le impostazioni
+        rotate(radians(45)) # ruota la forma di 45 gradi
+        motivo()
+        pop_matrix()  # torna alle impostazioni memorizzate
+        translate(larghezza_motivo, 0) # sposta orizzontalmente
 
 
 def setup():
     size(400, 400)
-    background(250, 5, 94)  # pink
+    background(250, 5, 94)  # rosa
     no_stroke()
-    print('This is 🇵🇭 Yakan weaving ')
+    print('Questo è il tessuto 🇵🇭 Yakan ')
 
 
 def draw():
-    global motif_width
-    motif_width = 150
+    global larghezza_motivo
+    larghezza_motivo= 150
 
-    translate(-motif_width/2, -motif_width/2)  # to start with half motifs
+    translate(-larghezza_motivo/2, -larghezza_motivo/2)  # per iniziare con metà motivi
 
-    if frame_count < 20:  # maximum rows
-        for row in range(frame_count):
-            rotate_motif()
-            if row / 2 == 0:  # to offset pattern on next row
-                translate(-motif_width * 5 + 75, 80)
+    if frame_count < 20: # numero massimo di righe
+        for riga in range(frame_count):
+            ruota_motivo()
+            if riga / 2 == 0: # per spostare il motivo sulla riga successiva
+                translate(-larghezza_motivo * 5 + 75, 80)
             else:
-                translate(-motif_width * 5 - 75, 80)
+                translate(-larghezza_motivo * 5 - 75, 80)
 
 
 run(frame_rate=3)
