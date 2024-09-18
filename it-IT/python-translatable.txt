@@ -18,7 +18,7 @@ quarter
 
 motif
 
-draw_motif
+disegna_motivo
 
 orange
 
@@ -38,7 +38,7 @@ PURPLE
 
 YELLOW
 
-BLUE
+BLU
 
 This is 🇵🇭 Yakan weaving
 
