@@ -8,70 +8,70 @@ def setup():
 
 
 def draw():
-    lines = 10 * frame_count  # Use in shape width/length to animate over time
+    linee = 10 * frame_count # Utilizzare nella larghezza/lunghezza della forma per creare l'animazione
 
-    # McEwen tartan colours
-    # Base square colours
-    BLUE = Color(83, 143, 200)
-    GREEN = Color(78, 163, 162)
-    BASE_COLORS = [GREEN, BLUE]
+    # Colori trama del tartan McEwen
+    # Colori quadrati di base
+    BLU = Color(83, 143, 200)
+    VERDE = Color(78, 163, 162)
+    COLORI_BASE = [VERDE, BLU]
 
-    # Cross colours
-    YELLOW = Color(155, 176, 135)
-    RED = Color(155, 129, 113)
-    CROSS_COLORS = [YELLOW, RED]
+    # Colori incrociati
+    GIALLO = Color(155, 176, 135)
+    ROSSO = Color(155, 129, 113)
+    COLORI_INCROCIATI = [GIALLO, ROSSO]
 
-    # Stitching and overlap colour
-    GREY = Color(78, 99, 86)
+    # Colore di Cuciture e sovrapposizioni
+    GRIGIO = Color(78, 99, 86)
 
-    # Draw all the GREEN and BLUE alternating Base squares
+    # Disegna tutti i quadrati di base alternati VERDE e BLU
     no_stroke()
     y_coordinate = 0
-    squares = width/square_size
+    quadrati= width/dimensione_quadrato
 
-    for i in range(int(squares)):
+    for i in range(int(quadrati)):
         gap = 0
-        for j in range(int(squares)):
-            fill(BASE_COLORS[j % 2])  # GREEN and BLUE
-            rect(gap, y_coordinate, square_size, square_size)
-            gap = gap + square_size
-        y_coordinate = y_coordinate + square_size
+        for j in range(int(quadrati)):
+            fill(COLORI_BASE[j % 2])  # VERDE e BLU
+            rect(gap, y_coordinate, dimensione_quadrato, dimensione_quadrato)
+            gap = gap + dimensione_quadrato
+        y_coordinate = y_coordinate + dimensione_quadrato
 
-    # Crosses
-    stroke(GREY)
+    # Incroci
+    stroke(GRIGIO)
 
-    # DRAW THE YELLOW and RED alternating crosses
+    # Disegnare gli incroci alternati GIALLO e ROSSO
     for i in range(4):
-        fill(YELLOW)
-        cross = square_size / 2 - 2
-        for i in range(int(squares/2)):
-            fill(CROSS_COLORS[i % 2])  # YELLOW and RED
-            rect(cross, 0, 4, lines)
-            rect(0, cross, lines, 4)
-            cross = cross + 2 * square_size
-        # Draw the stiching crosses
+        fill(GIALLO)
+        croce= dimensione_quadrato / 2 - 2
+        for i in range(int(quadrati/2)):
+            fill(COLORI_INCROCIATI[i % 2])  # GIALLO e ROSSO
+            rect(croce, 0, 4, linee)
+            rect(0, croce, linee, 4)
+            croce= croce + 2 * dimensione_quadrato
+        # Disegna le croci di cucitura
         no_fill()
-        cross = square_size + square_size / 2 - 2
-        for i in range(int(squares)):
-            rect(cross, 0, 4, lines)
-            rect(0, cross, lines, 4)
-            cross = cross + square_size
+        croce = dimensione_quadrato + dimensione_quadrato / 2 - 2
+        for i in range(int(quadrati)):
+            rect(croce, zero, 4, linee)
+            rect(0, croce, linee, 4)
+            croce= croce+dimensione_quadrato
 
-    # Draw the grey lines where material overlaps
+    # Disegna le linee grigie dove il materiale si sovrappone
     no_stroke()
-    fill(GREY, 100)
-    gap = square_size - 4
-    for i in range(int(squares)):
-        rect(gap, 0, 8, lines)
-        gap = gap + square_size
-    gap = square_size - 4
-    for i in range(int(squares)):
-        rect(0, gap, lines, 8)
-        gap = gap + square_size
+    fill(GRIGIO, 100)
+    gap = dimensione_quadrato - 4
+    for i in range(int(quadrati)):
+        rect(gap, 0, 8, linee)
+        gap = gap + dimensione_quadrato
+    gap =dimensione_quadrato - 4
+    for i in range(int(quadrati)):
+        rect(0, gap, linee, 8)
+        gap = gap + dimensione_quadrato
 
 
-print('🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿 This is McEwen Tartan 🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿')
-square_size = int(
-    input('What size 🏴󠁧󠁢󠁳󠁣󠁴󠁿tartan would you like? 20, 50, or 100'))
+print('🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿 Questo è il Tartan McEwen 🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿')
+dimensione_quadrato = int(
+    input('Che taglia di 🏴󠁧󠁢󠁳󠁣󠁴󠁿tartan vorresti? 20, 50, or 100'))
 
 run(frame_rate=10)
