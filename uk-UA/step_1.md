@@ -25,7 +25,7 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-Click the **Run** button below to see this example and think about the repeated motif. How would you describe what is happening in the animation?
+Click the **Run** button below to see this example and think about the repeated motif. Як ти охарактеризуєш те, що відбувається в анімації?
 **Kek lapis Sarawak**:
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/repeated-patterns-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe>
@@ -37,27 +37,27 @@ You can find the Kek lapis Sarawak project [here](https://editor.raspberrypi.org
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Create a **powerful pattern**
+###КОРОТКИЙ ОПИС ПРОЄКТУ: Створи **потужний візерунок**.
 <hr style="border-top: 2px solid black;"> 
 
-Your powerful pattern should:
-+ Draw and position geometric shapes to create a base pattern
-+ Use loops to repeat the pattern to fill the screen
-+ Animate how the pattern is created
+Тобі треба обов'язково:
++ Намалювати та розташувати геометричні фігури для створення базового візерунка
++ Використовувати цикли для повторення візерунка, щоб заповнити весь екран
++ Анімувати процес створення візерунка
 
-Your powerful pattern could:
-+ Use bold or significant colours
-+ Draw inspiration from your culture or popular culture
-+ Get user input to resize the pattern
-+ Add text and emoji to print details about your art
-+ Translate the pattern to create variations
+Також, ти можеш:
++ Використовувати насичені або виразні кольори
++ Черпати натхнення зі своєї або іншої популярної культури
++ Отримати від користувача вхідні дані, щоб змінити розмір візерунка
++ Додати текст та емодзі, щоб вивести більше деталей про твоє мистецтво
++ Переставляти візерунок, щоб створювати додаткові варіації
 </div>
 
-### Get ideas 💭
+### Отримай ідеї 💭
 
 --- task ---
 
-Run these example projects to get ideas for your pattern.
+Запусти ці приклади проєктів, щоб отримати ідеї для твого візерунка.
 
 How have the motifs been made from circles, ellipses, squares, rectangles, and triangles?:
 
