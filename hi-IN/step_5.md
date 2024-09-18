@@ -1,6 +1,6 @@
-## Checklist
+## जांच सूची
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+Did you meet the **project brief**? अपने प्रोजेक्ट के बारे में सोचें और नीचे दी गई चेकलिस्ट पर जाएं और अपने प्रोजेक्ट पर लागू होने वाले चेक करें।
 
 Does your powerful pattern:
 
@@ -61,17 +61,17 @@ Be shared with others in an online gallery
 
 Reflecting about how you made your powerful pattern will help you in your future projects.
 
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
+नीचे दिए गए प्रश्नों का उत्तर किसी दस्तावेज़ को आरेखित करके, लिखकर, टाइप करके, किसी से बात करके, या अपने खुद के क्रिएटिव तरीके से दें जो आपके लिए सबसे अच्छा काम करता है।
 
 --- task ---
 
-How did you get your ideas?
+आपको अपने विचार कैसे मिले?
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+आपने कौन सी नई चीज़ (चीजों) सीखेगी?
 
 --- /task ---
 
@@ -87,11 +87,11 @@ What mistakes did you make and how did they help you?
 
 ### Now you are a digital artist and mathematician!
 
-Take a moment to celebrate what you have made.
+आपने जो बनाया है, उसे मनाने के लिए थोड़ा समय दें।
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+आप अपनी नई शक्तियों को कहां ले जाएंगे? आप आगे क्या बनाएँगे?
 
 --- /task ---
 
