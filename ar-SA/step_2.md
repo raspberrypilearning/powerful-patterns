@@ -42,7 +42,7 @@
 
 --- task ---
 
-افتح [مشروع بداية الأنماط القوية](https://trinket.io/python/dfd22391cb){:target="_blank"} وانقر على زر ريمكس. The code editor will open in another browser tab.
+افتح [مشروع بداية الأنماط القوية](https://trinket.io/python/dfd22391cb){:target="_blank"} وانقر على زر ريمكس. سيتم فتح Trinket في علامة تبويب متصفح أخرى.
 
 If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
 
