@@ -1,4 +1,4 @@
-## You will make
+## आप बनाएंगे
 
 Create a piece of inspirational art that can be scaled using repeated patterns.
 
@@ -18,7 +18,7 @@ A <span style="color: #0faeb0; font-weight:bold">project brief</span> describes 
 
 --- no-print ---
 
-### Play ▶️
+### खेलें ▶️
 
 --- task ---
 
@@ -53,7 +53,7 @@ Your powerful pattern could:
 + Translate the pattern to create variations
 </div>
 
-### Get ideas 💭
+### विचार प्राप्त करें 💭
 
 --- task ---
 
