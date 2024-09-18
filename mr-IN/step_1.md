@@ -1,4 +1,4 @@
-## You will make
+## तुम्ही बनवाल
 
 Create a piece of inspirational art that can be scaled using repeated patterns.
 
@@ -18,7 +18,7 @@ A <span style="color: #0faeb0; font-weight:bold">project brief</span> describes 
 
 --- no-print ---
 
-### Play ▶️
+### खेळा ▶️
 
 --- task ---
 
