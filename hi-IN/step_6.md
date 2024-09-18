@@ -1,10 +1,10 @@
-## Upgrade your project
+## अपने प्रोजेक्ट को अपग्रेड करें
 
-If you have time you can upgrade your project. You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
+यदि आपके पास समय है तो आप अपने प्रोजेक्ट को अपग्रेड कर सकते हैं। You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
 
 ![Finished examples with input and make a face elements](images/upgrade.gif)
 
-You could:
+आप ऐसा कर सकते हैं:
 - Use text and emojis to `print()` a description of your pattern
 - Adjust the size of your pattern based on user `input()`
 - Make a scaled motif using your [Make a face project](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
