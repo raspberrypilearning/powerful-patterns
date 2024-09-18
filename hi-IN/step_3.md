@@ -19,11 +19,11 @@ In this example, an art deco wallpaper pattern has been decomposed into the basi
 
 ![A single five circle motif next to an image of the art deco complete pattern with many copies of the motif.](images/motif-pattern.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Tip:** Remember to test your project each time you add something. अधिक बदलाव करने से पहले गलती को खोजना और ठीक करना बहुत आसान है।
 
 --- task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your motif:
+आपने वास्तव में कुछ उपयोगी कौशल बनाए हैं। Here is a reminder to help you make your motif:
 
 ### Shapes
 
@@ -65,7 +65,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 --- task ---
 
-**डीबग:** आपको अपने प्रोजेक्ट में कुछ बग मिल सकते हैं जिन्हें आपको ठीक करने की आवश्यकता है। Here are some common bugs.
+**डीबग:** आपको अपने प्रोजेक्ट में कुछ बग मिल सकते हैं जिन्हें आपको ठीक करने की आवश्यकता है। यहाँ कुछ सामान्य बग हैं।
 
 --- collapse ---
 ---
@@ -84,7 +84,7 @@ title: I can't see some of the shapes in my motif
 
 The order in which you draw things is very important.
 
-Computer graphics are made of layers. In your motif, each shape is a layer. Objects on higher layers sit in front of objects on lower layers. Imagine cutting all the shapes out of paper. Depending on how you arrange and overlap that paper, the final result could look very different.
+Computer graphics are made of layers. In your motif, each shape is a layer. Objects on higher layers sit in front of objects on lower layers. सोचिये सभी आकृतियों को कागज़ से आपको काटना है। इस पर निर्भर करते हुए कि आप उस पेपर को कैसे व्यवस्थित और ओवरलैप करते हैं, अंतिम परिणाम बहुत अलग दिख सकता है।
 
 --- /collapse ---
 
@@ -98,9 +98,9 @@ The third and fourth numbers in `ellipse` and `rect` are the width and height. I
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+आपको एक बग मिल सकता है जो यहाँ सूचीबद्ध नहीं है। क्या आप इसे ठीक करने का तरीका समझ सकते हैं?
 
-हमें आपके बग्स के बारे में सुनना अच्छा लगता है और आपने उन्हें कैसे ठीक किया है। Use the feedback button at the bottom of this page if you found a different bug in your project.
+हमें आपके बग्स के बारे में सुनना अच्छा लगता है और आपने उन्हें कैसे ठीक किया है। यदि आपको अपने प्रोजेक्ट में एक अलग बग मिलता है, तो इस पेज के नीचे प्रतिक्रिया बटन का उपयोग करें।
 
 --- /task ---
 
