@@ -7,13 +7,13 @@ from math import random
 def motif():
     motif_size = 100
 
-    # Thread colours
+    # Lliwiau edefyn
     ORANGE = Color(254, 96, 1)
     PURPLE = Color(135, 18, 192)
     YELLOW = Color(243, 200, 19)
     BLUE = Color(83, 171, 176)
 
-    # Squares
+    # Sgwariau
     fill(ORANGE)
     rect(0, 0, motif_size/2, motif_size/2)
     fill(PURPLE)
