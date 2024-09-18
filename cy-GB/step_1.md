@@ -25,7 +25,7 @@ Byddi di'n:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 
-Click the **Run** button below to see this example and think about the repeated motif. How would you describe what is happening in the animation?
+Click the **Run** button below to see this example and think about the repeated motif. Sut fyddech chi'n disgrifio'r hyn sy'n digwydd yn yr animeiddiad?
 **Kek lapis Sarawak**:
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/repeated-patterns-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe>
@@ -37,27 +37,27 @@ You can find the Kek lapis Sarawak project [here](https://editor.raspberrypi.org
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Create a **powerful pattern**
+### BRIFF Y PROSIECT: Creu **patrwm pwerus**
 <hr style="border-top: 2px solid black;"> 
 
-Your powerful pattern should:
-+ Draw and position geometric shapes to create a base pattern
-+ Use loops to repeat the pattern to fill the screen
-+ Animate how the pattern is created
+Fe ddylai eich patrwm pwerus wneud y canlynol:
++ Llunio a lleoli siapiau geometrig i greu patrwm sylfaen
++ Defnyddio dolenni i ailadrodd y patrwm i lenwi'r sgrin
++ Animeiddio sut mae'r patrwm yn cael ei greu
 
-Your powerful pattern could:
-+ Use bold or significant colours
-+ Draw inspiration from your culture or popular culture
-+ Get user input to resize the pattern
-+ Add text and emoji to print details about your art
-+ Translate the pattern to create variations
+Fe allai eich patrwm pwerus wneud y canlynol:
++ Defnyddio lliwiau trawiadol neu arwyddocaol
++ Cael ei ysbrydoli gan eich diwylliant neu ddiwylliant poblogaidd
++ Gofyn am fewnbwn defnyddiwr i newid maint y patrwm
++ Ychwanegu testun ac emoji i brintio manylion am eich celfwaith
++ Trosi'r patrwm i greu amrywiadau
 </div>
 
-### Get ideas 💭
+### Cael ysbrydoliaeth 💭
 
 --- task ---
 
-Run these example projects to get ideas for your pattern.
+Rhedwch y prosiectau enghreifftiol hyn i gael syniadau ar gyfer eich patrwm.
 
 How have the motifs been made from circles, ellipses, squares, rectangles, and triangles?:
 
