@@ -1,12 +1,12 @@
-Choose a size
+Scegli una dimensione
 
-Try different numbers to change the colour
+Prova diversi numeri per cambiare il colore
 
-Start transformation
+Inizia la trasformazione
 
-Reset transformation
+Reimposta la trasformazione
 
-Half size
+Dimezza
 
 Put code to run once here
 
