@@ -35,7 +35,7 @@ Now that you know more about how the motif turns into the whole pattern, you can
 
 **Tip:** You can 'copy' and 'paste' code from any of the examples in the introduction into your project. Professional developers do this all the time!
 
-You have built up some really useful skills. Here is a reminder to help you make your repeated pattern:
+आपने वास्तव में कुछ उपयोगी कौशल बनाए हैं। Here is a reminder to help you make your repeated pattern:
 
 [[[processing-matrix]]]
 
@@ -133,7 +133,7 @@ Now you can animate your pattern to show how you made it. Often, patterns have p
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**डीबग:** आपको अपने प्रोजेक्ट में कुछ बग मिल सकते हैं जिन्हें आपको ठीक करने की आवश्यकता है। यहाँ कुछ सामान्य बग हैं।
 
 --- collapse ---
 
@@ -192,9 +192,9 @@ Change the number after `frame_rate =` in the call to the `run()` function at th
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+आपको एक बग मिल सकता है जो यहाँ सूचीबद्ध नहीं है। क्या आप इसे ठीक करने का तरीका समझ सकते हैं?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+हमें आपके बग्स के बारे में सुनना अच्छा लगता है और आपने उन्हें कैसे ठीक किया है। यदि आपको अपने प्रोजेक्ट में एक अलग बग मिलता है, तो इस पेज के नीचे प्रतिक्रिया बटन का उपयोग करें।
 
 --- /task ---
 
