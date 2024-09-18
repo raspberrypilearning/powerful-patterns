@@ -5,16 +5,16 @@ from random import randint
 
 
 def setup():
-    # Put code to run once here
+    # Βάλε εδώ κώδικα που θα εκτελεστεί μια φορά
     size(400, 400)
     background(255, 255, 255)
 
 
 def draw():
-    # Put code to run every frame here
+    # Βάλε εδώ κώδικα που θα εκτελείται σε κάθε καρέ
     fill(255, 0, 255)
     rect(50, 50, 120, 100)
 
 
-# Keep this to run your code
+# Από εδώ εκτελείς τον κώδικά σου
 run(frame_rate=5)
