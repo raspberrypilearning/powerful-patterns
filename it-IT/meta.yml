@@ -1,0 +1,27 @@
+---
+title: Motivi Meravigliosi
+hero_image: images/banner.png
+description:
+  - Crea un'opera d'arte stimolante, che può essere espansa utilizzando la ripetizione
+  - motivi geometrici
+meta_title: Progetti di programmazione in Python per bambini e ragazzi | Motivi Meravigliosi
+meta_description: Impara Python con i progetti di programmazione della Raspberry Pi Foundation per bambini e adolescenti. Crea un'opera d'arte stimolante con Python, utilizzando la ripetizione di motivi.
+version: 4
+listed: true
+copyedit: true
+last_tested: "2021-10-06"
+steps:
+  - title: Quello che farai
+  - title: La tua idea
+  - title: Realizza e testa - Il tema (o motivo)
+    completion:
+      - engaged
+  - title: Espandi e prova - Modello geometrico
+    completion:
+      - internal
+  - title: Checklist
+    completion:
+      - external
+  - title: Migliora il tuo progetto
+  - title: Condividi
+  - title: E adesso?
