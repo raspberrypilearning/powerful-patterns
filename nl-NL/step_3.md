@@ -11,7 +11,7 @@ Nu is het tijd om je motief te maken, het eerste element van je patroon.
 
 Het proces van het maken van je motief weerspiegelt wat computerwetenschappers vaak doen als ze een programma of oplossing voor een probleem maken. Dit proces wordt **decompositie** genoemd en je zult decompositie gebruiken om je motief te maken.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Decompositie</span> is iets opsplitsen in kleinere en gemakkelijker te begrijpen delen. Dit betekent dat je een patroon deel per deel kunt bouwen totdat het compleet is.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Decompositie</span> is iets opsplitsen in kleinere en gemakkelijker te begrijpen delen. Dit betekent dat je een patroon deel voor deel kunt bouwen totdat het compleet is.</p>
 
 Kijk naar het patroon dat je wilt namaken. Hoe kun je het opsplitsen in één enkel element (het motief) dat zich herhaalt?
 
