@@ -1,6 +1,6 @@
-## Your idea
+## Jouw idee
 
-Use this step to plan your powerful pattern. You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Use this step to plan your powerful pattern. आप केवल सोच, tinking, ड्राइंग या लेखन, या फिर भी अपनी पसंद के अनुसार योजना बना सकते हैं!
 
 ![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-1.gif)
 
@@ -24,7 +24,7 @@ Think about the purpose of the pattern you are creating.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">As well as having symbolic meaning, patterns show the mathematics that is all around us. Mathematics helps us make sense of the world around us and we can find mathematical patterns in art, literature, and nature. </p>
 
-### Who is it for?
+### यह किसके लिए है?
 
 --- task ---
 
@@ -42,7 +42,7 @@ If you are are creating a pattern as a group, does your motif need to be a certa
 
 --- task ---
 
-Open the [Powerful patterns starter project](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"} project. The code editor will open in another browser tab.
+Open the [Powerful patterns starter project](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"} project. कोड संपादक दूसरे ब्राउज़र टैब में खुलेगा.
 
 If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
 
@@ -100,7 +100,7 @@ def setup(): size(400, 400) background(255, 255, 255)  # Try different numbers t
 
 --- task ---
 
-**डीबग:** आपको अपने प्रोजेक्ट में कुछ बग मिल सकते हैं जिन्हें आपको ठीक करने की आवश्यकता है। Here are some common bugs.
+**डीबग:** आपको अपने प्रोजेक्ट में कुछ बग मिल सकते हैं जिन्हें आपको ठीक करने की आवश्यकता है। यहाँ कुछ सामान्य बग हैं।
 
 --- collapse ---
 
