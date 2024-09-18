@@ -65,13 +65,13 @@ Answer the questions below by drawing, writing, typing in a document, talking to
 
 --- task ---
 
-How did you get your ideas?
+ನಿಮ್ಮ ವಿಚಾರಗಳನ್ನು ನೀವು ಹೇಗೆ ಪಡೆದುಕೊಂಡಿದ್ದೀರಿ?
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+ನೀವು ಯಾವ ಹೊಸ ವಿಷಯಗಳನ್ನು ಕಲಿತಿದ್ದೀರಿ?
 
 --- /task ---
 
@@ -87,11 +87,11 @@ What mistakes did you make and how did they help you?
 
 ### Now you are a digital artist and mathematician!
 
-Take a moment to celebrate what you have made.
+ನೀವು ಮಾಡಿದ್ದನ್ನು ಸಂಭ್ರಮಿಸಲು ಸ್ವಲ್ಪ ಸಮಯ ತೆಗೆದುಕೊಳ್ಳಿ.
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+ನಿಮ್ಮ ಹೊಸ ಕಲೆಗಳನ್ನು ನೀವು ಎಲ್ಲಿಗೆ ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರಿ? ನೀವು ಮುಂದೆ ಏನು ಮಾಡುತ್ತೀರಿ?
 
 --- /task ---
 
