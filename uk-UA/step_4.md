@@ -18,7 +18,7 @@
 
 ![Мотив з проєкту шпалер в стилі арт-деко поруч з повним візерунком.](images/spirals-motif.png)
 
-Подумай про візерунок, який ти створюєш. How does your motif change to make the overall pattern? Використовуй ці питання, які допоможуть тобі зробити висновки:
+Подумай про візерунок, який ти створюєш. Як змінюється твій мотив, щоб скласти загальний візерунок? Використовуй ці питання, які допоможуть тобі зробити висновки:
 - Мотив обертається повністю або тільки його частина?
 - В який бік він обертається? І на скільки?
 - Чи має малюнок шари, які накладаються один на одного?
@@ -72,7 +72,7 @@ language: python filename: main.py - draw()
 
 --- /code ---
 
-You could also use random to change the colours in your motif as it is redrawn.
+Ти також можеш використовувати випадковий порядок для зміни кольорів твого мотиву під час його малювання.
 
 --- code ---
 ---
@@ -92,9 +92,9 @@ language: python filename: main.py - draw()
 filename: main.py - draw()
 ---
 
-If you use a motif you have already drawn, it might not be the right size.
+Якщо ти використовуєш вже намальований мотив, він може бути неправильного розміру.
 
-You can use `scale()` before calling the function that draws your motif to change its size. Using an input bigger than '1' will make the motif bigger, using an input smaller than '1' will make it smaller.
+Ти можеш використовувати `scale()` перед викликом функції, яка малює мотив, щоб змінити його розмір. Using an input bigger than '1' will make the motif bigger, using an input smaller than '1' will make it smaller.
 
 --- code ---
 ---
@@ -110,7 +110,7 @@ language: python filename: main.py - draw()
 
 --- /task ---
 
-Now you can animate your pattern to show how you made it. Often, patterns have powerful cultural significance in the way that they are made, or the process.
+Тепер ти можеш додати до свого візерунка анімацію, щоб показати, як він був створений. Часто візерунки мають велике культурне значення в тому, яким чином вони зроблені, або в процесі їх виготовлення.
 
 --- task ---
 
@@ -127,13 +127,13 @@ Now you can animate your pattern to show how you made it. Often, patterns have p
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your pattern?
+**Тест:** Покажи комусь свій проєкт та отримай зворотний зв'язок. Ти хочеш внести якісь зміни до свого візерунка?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Налагодження:** Можливо, у твоєму проєкті знайдуться помилки, які потрібно буде виправити. Ось деякі поширені помилки.
 
 --- collapse ---
 
@@ -141,7 +141,7 @@ Now you can animate your pattern to show how you made it. Often, patterns have p
 filename: main.py - draw()
 ---
 
-Make sure you are using the `radian()` function to convert degrees to radians.
+Переконайся, що ти використовуєш функцію `radian()` для перетворення градусів у радіани.
 
 --- /collapse ---
 
@@ -152,7 +152,7 @@ title: Зміна розміру мотиву
 
 Переконайся, що ти використовуєш функцію `radian()` для перетворення градусів у радіани.
 
-Do you have more than one thing rotating? You may need to use `push_matrix()` and `pop_matrix()` so the screen rotates at different points at once.
+У тебе обертається більше одного елемента? Тобі може знадобитися використати `push_matrix()` та `pop_matrix()`, щоб екран обертався одночасно в різних точках.
 
 --- /collapse ---
 
@@ -161,7 +161,7 @@ Do you have more than one thing rotating? You may need to use `push_matrix()` an
 filename: main.py - draw()
 ---
 
-Check you have used `frame_count()` properly in a loop.
+Перевір правильність використання `frame_count()` у циклі.
 
 --- /collapse ---
 
@@ -170,7 +170,7 @@ Check you have used `frame_count()` properly in a loop.
 title: Здається, мій мотив не обертається
 ---
 
-Review the sections above on `rotate()` and `translate()`. Experiment until it looks like you want it to, and remember, mistakes are powerful!
+Переглянь наведені вище пункти про `rotate()` та `translate()`. Експериментуй, поки не отримаєш бажаного результату, і пам'ятай, що помилки - це сила!
 
 --- /collapse ---
 
@@ -179,7 +179,7 @@ Review the sections above on `rotate()` and `translate()`. Experiment until it l
 title: Ротація виглядає дивно
 ---
 
-Check the syntax of your code. Are you missing any brackets `(` or `)` or a colon `:` after defining a function? Is something spelled incorrectly? Is your code indented correctly?
+Перевір синтаксис свого коду. Чи не пропущені якісь дужки `(` або `)`, або двокрапка `:` після визначення функції? Щось неправильно написано? Чи правильно розставлені у коді відступи?
 
 --- /collapse ---
 
@@ -192,9 +192,9 @@ Change the number after `frame_rate =` in the call to the `run()` function at th
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+Ти можеш виявити помилку, яка не вказана тут. Можливо, ти зможеш придумати, як її виправити?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+Нам подобається дізнаватись про твої помилки та про те, як їх вдалося виправити. Якщо ти знайшов(-ла) іншу помилку у своєму проєкті, скористайся формою зворотного зв'язку внизу цієї сторінки.
 
 --- /task ---
 
