@@ -5,9 +5,9 @@ Als je tijd hebt, kun je jouw project verbeteren. Misschien heb je al ideeën om
 ![Afgewerkte voorbeelden met invoer en maak een gezicht elementen](images/upgrade.gif)
 
 Je zou:
-- Tekst en emoji gebruiken om een beschrijving van je patroon te printen, `print()`
+- Tekst en emoji kunnen gebruiken om een beschrijving van je patroon te printen, `print()`
 - De grootte van je patroon kunnen aanpassen op basis van de `input()` van de gebruiker
-- Een geschaald motief maken gebruik makend van je [Make a face project](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
+- Een geschaald motief maken gebruik makend van je [Maak een gezicht-project](https://projects.raspberrypi.org/nl-NL/projects/make-a-face){:target="_blank"}
 
 Bij elk voorbeeldproject in de Inleiding kun je de code bekijken, ideeën opdoen en zien hoe ze werken.
 
