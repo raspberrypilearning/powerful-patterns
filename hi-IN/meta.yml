@@ -12,9 +12,9 @@ copyedit: true
 last_tested: "2021-10-06"
 steps:
   - 
-    title: You will make
+    title: आप बनाएंगे
   - 
-    title: Your idea
+    title: Jouw idee
   - 
     title: Build and test - Motif
     completion:
@@ -24,12 +24,12 @@ steps:
     completion:
       - internal
   - 
-    title: Checklist
+    title: जांच सूची
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: अपने प्रोजेक्ट को अपग्रेड करें
   - 
-    title: Share
+    title: साझा करना
   - 
     title: आगे क्या है?
