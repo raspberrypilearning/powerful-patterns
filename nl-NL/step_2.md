@@ -15,7 +15,7 @@ Denk na over het doel van het patroon dat je gaat maken.
 Dat kan zijn:
 - Om iets belangrijks uit jouw cultuur of die van je familie uit te drukken
 - Een geometrisch patroon na te maken dat iets voor je betekent
-- Iets wat je met een groep mensen maakt om een bepaald boodschap te sturen (bijvoorbeeld een quilt)
+- Iets wat je met een groep mensen maakt om een bepaalde boodschap te sturen (bijvoorbeeld een quilt)
 - Iets boeiends over een hobby laten zien (bijvoorbeeld kunst, wetenschap, natuur, muziek)
 
 **Tip:** Patronen zijn overal! Je kunt ervoor kiezen om inspiratie op te doen door op patronenjacht te gaan in je omgeving of online.
@@ -42,7 +42,7 @@ Als je als groep een patroon maakt, moet je motief dan een bepaalde afmeting of 
 
 --- task ---
 
-Open het [Krachtige patronen startersproject](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target=blank} project. De code-editor wordt geopend in een ander browsertabblad.
+Open het [Krachtige patronen startproject](https://editor.raspberrypi.org/nl-NL/projects/powerful-patterns-starter){:target="_blank"} project. De code-editor wordt geopend in een ander browsertabblad.
 
 Als je een Raspberry Pi-account hebt, kun je op de **Save** knop klikken om een kopie op te slaan in je **Projects**.
 
@@ -79,8 +79,8 @@ def setup(): size(400, 400)  # Choose a size
 title: De achtergrondkleur instellen wanneer het programma wordt gestart
 ---
 
-Bedenk waar je je achtergrond wilt tekenen. Jij kunt:
-+ Voeg code toe aan `setup()` zodat de achtergrond één keer wordt getekend wanneer je het project uitvoert
+Bedenk waar je je achtergrond wilt tekenen. Je kunt:
++ Code toevoegen aan `setup()` zodat de achtergrond één keer wordt getekend wanneer je het project uitvoert
 + Voeg code toe aan `draw()` zodat de achtergrond telkens opnieuw wordt getekend als de functie `draw()` wordt uitgevoerd
 
 --- code ---
