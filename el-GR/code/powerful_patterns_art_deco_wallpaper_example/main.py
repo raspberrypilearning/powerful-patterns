@@ -20,7 +20,7 @@ def setup():
 
 
 def draw():
-    # Pattern colours
+    # Χρώματα μοτίβων
     stroke(40, 35, 100)  # blue
     stroke_weight(2)  # thick border
     fill(200, 180, 128)  # gold
