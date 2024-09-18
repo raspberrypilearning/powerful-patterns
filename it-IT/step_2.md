@@ -1,66 +1,66 @@
-## Your idea
+## La tua idea
 
-Use this step to plan your powerful pattern. You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Usa questo passaggio per progettare il tuo magnifico motivo geometrico. Puoi pianificare semplicemente pensando, armeggiando, disegnando o scrivendo, o come preferisci!
 
-![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-1.gif)
+![Una gif animata di tre diversi esempi che utilizzano varie forme per creare motivi e le animazioni per la creazione del motivo completo.](images/ideas-1.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patterns often have <span style="color: #0faeb0">cultural or religious significance</span>. Certain geometric shapes and positions can have symbolic or sacred meanings. Whether the pattern is in architecture, fabric, art, cooking, or something else, the process of making the pattern can also be significant.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">I motivi hanno spesso un <span style="color: #0faeb0">significato culturale o religioso</span>. Alcune forme e posizioni geometriche possono avere significati simbolici o sacri. Che il modello riguardi l'architettura, del tessuto, l'arte, la cucina o qualcos'altro, anche il processo di creazione del motivo può essere significativo.</p>
 
-### Why are you making your powerful pattern ?
+### Perché stai creando il tuo motivo magnifico?
 
 --- task ---
 
-Think about the purpose of the pattern you are creating.
+Pensa allo scopo del motivo geometrico che stai creando.
 
-It could be:
-- To express something significant from your or your family's culture(s)
-- To recreate a geometric pattern that means something to you
-- Something you create with a group of people to send a certain message (for example, a quilt)
-- To show something fascinating about about a hobby (for example, art, science, nature, music)
+Può servire a:
+- Esprimere qualcosa di significativo della tua cultura o di quella della tua famiglia
+- Ricreare un motivo geometrico che significhi qualcosa per te
+- Qualcosa che crei con un gruppo di persone per inviare un determinato messaggio (ad esempio, una trapunta)
+- Per mostrare qualcosa di affascinante riguardo a un hobby (ad esempio arte, scienza, natura, musica)
 
-**Tip:** Patterns are everywhere! You might choose to get inspiration by going on a pattern hunt around your physical environment or online.
+**Suggerimento:** I motivi sono ovunque! Potresti scegliere di trarre ispirazione andando alla ricerca di motivi presenti intorno a te oppure online.
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">As well as having symbolic meaning, patterns show the mathematics that is all around us. Mathematics helps us make sense of the world around us and we can find mathematical patterns in art, literature, and nature. </p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Oltre ad avere un significato simbolico, i motivi mostrano la matematica che ci circonda. La matematica ci aiuta a dare un senso al mondo che ci circonda e possiamo trovare modelli matematici nell'arte, nella letteratura e nella natura. </p>
 
-### Who is it for?
+### Per chi è?
 
 --- task ---
 
-Think about who you will make your pattern for (your **audience**).
+Pensa alla persona per cui realizzerai il tuo motivo (il tuo **pubblico **).
 
-What is the significance of your pattern? Will the colours, shapes, or way the pattern is repeated mean something special to you or your audience?
+Qual è il significato del tuo motivo? I colori, le forme o il modo in cui il modulo viene ripetuto significheranno qualcosa di speciale per te o per il tuo pubblico?
 
-Sharing your pattern is a great way to express something about yourself or your culture.
+Condividere il tuo motivo è un ottimo modo per esprimere qualcosa su te stesso o sulla tua cultura.
 
-If you are are creating a pattern as a group, does your motif need to be a certain size or shape to fit with other parts of a bigger pattern?
+Se stai creando un motivo geometrico in gruppo, il motivo deve avere una certa dimensione o forma per adattarsi ad altre parti di un disegno più grande?
 
 --- /task ---
 
-### Get started
+### Per cominciare
 
 --- task ---
 
-Open the [Powerful patterns starter project](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"} project. The code editor will open in another browser tab.
+Apri il [progetto iniziale Meravigliosi motivi](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"}. L'editor del codice si aprirà in un'altra scheda del browser.
 
-If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
+Se hai un account Raspberry Pi, puoi fare clic sul pulsante **Salva** per salvare una copia nei tuoi **Progetti**.
 
 --- /task ---
 
-### Setup your project
+### Imposta il tuo progetto
 
 --- task ---
 
-Add code to `setup()` to get your project ready.
+Aggiungi il codice a `setup()` per iniziare il tuo progetto.
 
 --- collapse ---
 
 ---
-title: Setting the screen size when your program starts
+title: Impostare le dimensioni dello schermo all'avvio del programma
 ---
 
-**Choose:** Add a size that suits the pattern you want to create. You can always change this later as your project evolves.
+**Scegli:** Aggiungi una dimensione adatta al motivo che desideri creare. Puoi sempre modificarla in seguito man mano che il progetto cresce.
 
 --- code ---
 ---
@@ -76,12 +76,12 @@ def setup(): size(400, 400)  # Choose a size
 --- collapse ---
 
 ---
-title: Setting the background colour when your program starts
+title: Impostare il colore dello sfondo iniziale del programma
 ---
 
-Think about where you want to draw your background. You can:
-+ Add code to `setup()` so that the background is drawn once when you run your project
-+ Add code to `draw()` so that the background is redrawn each time the `draw()` function runs
+Decidi dove vuoi disegnare il tuo sfondo. Puoi:
++ Aggiungere il codice a `setup()` in modo che lo sfondo venga disegnato una volta sola quando esegui il progetto
++ Aggiungere il codice a `draw()` in modo che lo sfondo venga ridisegnato ogni volta che viene eseguita la funzione `draw()`
 
 --- code ---
 ---
@@ -100,25 +100,25 @@ def setup(): size(400, 400) background(255, 255, 255)  # Try different numbers t
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Debug:** Potresti trovare alcuni bug nel tuo progetto, che dovrai correggere. Ecco alcuni bug comuni.
 
 --- collapse ---
 
 ---
-title: I've updated my size and colour but the output area stays the same
+title: Ho aggiornato dimensione e colore ma l'area di output rimane la stessa
 ---
 
-After changing the code, you will need to `run` your project to see the changes in the output area.
+Dopo aver modificato il codice, dovrai premere `Run` per vedere le modifiche nell'area di output.
 
 --- /collapse ---
 
 --- collapse ---
 
 ---
-title: I've tried different numbers, but the background colour doesn't change
+title: Ho provato diversi numeri, ma il colore dello sfondo non cambia
 ---
 
-The maximum amount of red, green, or blue is `255`. Make sure all your `background` colour values are between `0` and `255`.
+La quantità massima di rosso, verde o blu è `255`. Assicurati che tutti i valori del colore dello `sfondo` siano compresi tra `0` e `255`.
 
 --- /collapse ---
 
