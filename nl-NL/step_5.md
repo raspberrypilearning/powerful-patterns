@@ -36,13 +36,13 @@ Inspiratie gebruiken uit jouw cultuur of populaire cultuur
 
 --- task ---
 
-Input van de gebruiker krijgen om het formaat van het patroon aan te passen
+Invoer van de gebruiker krijgen om het formaat van het patroon aan te passen
 
 --- /task ---
 
 --- task ---
 
-Voeg tekst en emoji toe om details over je kunst af te drukken
+Tekst en emoji toevoegen om details over je kunst af te drukken
 
 --- /task ---
 
@@ -61,7 +61,7 @@ Deel je werk met anderen in een online galerij
 
 Nadenken over hoe je je krachtige patroon hebt gemaakt, zal je helpen bij je toekomstige projecten.
 
-Beantwoord de onderstaande vragen door te tekenen, te schrijven, in een document te schrijven, met iemand te praten of op je eigen creatieve manier die het beste bij je past.
+Beantwoord de onderstaande vragen door te tekenen, te schrijven, in een document te typen, met iemand te praten of op je eigen creatieve manier die het beste bij je past.
 
 --- task ---
 
