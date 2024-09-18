@@ -7,17 +7,17 @@ from time import *
 
 
 def quadrant():
-    # Choose some gorgeous colours for the cake layers
+    # ケーキの層にいくつかのゴージャスな色を選んでください
     turquoise = Color(64, 224, 208)
     gold = Color(255, 215, 0)
     tomato = Color(255, 99, 71)
 
-    # Jam sticks the layers together
+    # ジャムで層をくっつける
     jam = Color(255, 165, 0)
     stroke(jam)
     stroke_weight(2)  # Change the number to change the amount of jam
 
-    # Nine layers of cake, repeating the 3 colours 3 times
+    # ケーキの9層、3色を3回繰り返す
     for i in range(3):
         start_y = i * 60  # height of 3 blocks of cake
         fill(turquoise)
@@ -29,7 +29,7 @@ def quadrant():
 
 
 def outer():
-    # The cake is wrapped in an outer layer
+    # ケーキは外層に包まれています
     yellowgreen = Color(154, 205, 50)
 
     no_fill()  # Don't cover up the cake quadrants!
@@ -44,12 +44,12 @@ def setup():
 
 
 def draw():
-    # Define a quarter turn so our code is easy to read
+    # コードが読みやすいように「4分の1回転」を定義します
     quarter = radians(90)
 
     translate(200, 200)  # start from the center
 
-    # Make the bottom right quarter of the cake then rotate for the other quarters
+    # ケーキの右下４分の１から作り始め、回転させて次の象限（しょうげん）を作る
 
     if frame_count <= 4:  # draw up to 4 quadrants
         for i in range(frame_count):
