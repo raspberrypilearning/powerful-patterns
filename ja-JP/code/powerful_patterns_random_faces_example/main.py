@@ -11,13 +11,13 @@ def draw_motif():
     fill(orange)
     ellipse(200, 200, 200, 190)
     fill(0)
-    # Eyes
+    # 目
     ellipse(160, 190, 30, 30)
     ellipse(240, 190, 30, 30)
     fill(255)
     ellipse(165, 200, 10, 10)
     ellipse(245, 200, 10, 10)
-    # Mouth
+    # 口
     no_fill()
     stroke(255, 255, 255)
     ellipse(150, 250, 30, 30)
