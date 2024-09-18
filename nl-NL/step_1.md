@@ -10,7 +10,7 @@ Een <span style="color: #0faeb0; font-weight:bold">projectbeschrijving</span> be
 
 Je gaat:
 + Geometrische vormen tekenen en positioneren om een basispatroon (of 'motief') te creëren
-+ `for` loops gebruiken om het patroon te `verplaatsen` om het scherm te vullen
++ `for`-lussen gebruiken om het patroon te `verplaatsen` om het scherm te vullen
 + `frame_rate` en `frame_count` gebruiken om het maken van het patroon te animeren
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Patronen zijn overal om ons heen, in textiel, natuur, kunst, tradities en design. Het startpunt van een patroon wordt <span style="color: #0faeb0; font-weight:bold">een motief</span> genoemd, een element dat kan worden herhaald en gerangschikt om veel verschillende patronen te creëren.
@@ -42,13 +42,13 @@ Je kunt het Kek lapis Sarawak-project [hier vinden](https://editor.raspberrypi.o
 
 Je krachtige patroon moet:
 + Geometrische vormen tekenen en positioneren om een basispatroon te creëren
-+ Loops gebruiken om het patroon te herhalen om het scherm te vullen
++ Lussen gebruiken om het patroon te herhalen om het scherm te vullen
 + Animeren hoe het patroon is gemaakt
 
 Je krachtige patroon kan:
 + Gedurfde of opvallende kleuren gebruiken
 + Geïnspireerd zijn op je eigen cultuur of populaire cultuur
-+ Input van de gebruikers vragen om het formaat van het patroon te wijzigen
++ Invoer van de gebruikers vragen om het formaat van het patroon te wijzigen
 + Tekst en emoji toevoegen om details over je kunstwerk af te drukken
 + Het patroon verplaatsen om variaties te creëren
 </div>
