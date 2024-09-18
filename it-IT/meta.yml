@@ -1,26 +1,26 @@
 ---
-title: Powerful patterns
+title: Motivi Meravigliosi
 hero_image: images/banner.png
 description:
-  - Create a piece of inspirational art that can be scaled using repeated
-  - patterns
-meta_title: Python coding projects for kids and teens | Powerful patterns
-meta_description: Learn Python with the Raspberry Pi Foundation's coding projects for kids and teens. Create a piece of inspirational art with Python using repeated patterns.
+  - Crea un'opera d'arte stimolante, che può essere espansa utilizzando la ripetizione
+  - motivi geometrici
+meta_title: Progetti di programmazione in Python per bambini e ragazzi | Motivi Meravigliosi
+meta_description: Impara Python con i progetti di programmazione della Raspberry Pi Foundation per bambini e adolescenti. Crea un'opera d'arte stimolante con Python, utilizzando la ripetizione di motivi.
 version: 4
 listed: true
 copyedit: true
 last_tested: "2021-10-06"
 steps:
   - 
-    title: You will make
+    title: Quello che farai
   - 
-    title: Your idea
+    title: La tua idea
   - 
-    title: Build and test - Motif
+    title: Realizza e testa - Il tema (o motivo)
     completion:
       - engaged
   - 
-    title: Expand and test - Pattern
+    title: Espandi e prova - Modello geometrico
     completion:
       - internal
   - 
@@ -28,8 +28,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Migliora il tuo progetto
   - 
-    title: Share
+    title: Condividi
   - 
-    title: What next?
+    title: E adesso?
