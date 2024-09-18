@@ -42,7 +42,7 @@ Si están creando un patrón como grupo, ¿tu motivo debe tener un tamaño o for
 
 --- task ---
 
-Abre el proyecto de inicio [Patrones poderosos](https://trinket.io/python/362bc749c3){:target=blank} y haz clic en el botón Remix. The code editor will open in another browser tab.
+Abre el proyecto de inicio [Patrones poderosos](https://trinket.io/python/362bc749c3){:target=blank} y haz clic en el botón Remix. Trinket se abrirá en otra pestaña del navegador.
 
 If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
 
