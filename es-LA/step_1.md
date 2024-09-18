@@ -53,7 +53,7 @@ Tu patrón poderoso podría:
 + Trasladar el patrón para crear variaciones
 </div>
 
-### Get ideas 💭
+### Obtén ideas 💭
 
 --- task ---
 
