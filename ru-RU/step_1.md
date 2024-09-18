@@ -1,4 +1,4 @@
-## You will make
+## Введение
 
 Create a piece of inspirational art that can be scaled using repeated patterns.
 
