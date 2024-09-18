@@ -71,7 +71,7 @@ Puoi trovare il progetto Spirali [qui](https://editor.raspberrypi.org/it-IT/proj
 </iframe>
 Puoi trovare il progetto Facce casuali [qui](https://editor.raspberrypi.org/it-IT/projects/random-faces-example){:target="_blank"}
 
-<zero>Sfondo Art-deco</strong>:
+**Sfondo Art-deco**:
 <iframe src="https://editor.raspberrypi.org/it-IT/embed/viewer/art-deco-example" width="600" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe>
 Puoi trovare il progetto Art Déco [qui](https://editor.raspberrypi.org/it-IT/projects/art-deco-example){:target="_blank"}
