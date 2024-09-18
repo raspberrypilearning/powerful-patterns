@@ -10,21 +10,21 @@ def setup():
 def draw():
     lines = 10 * frame_count  # Use in shape width/length to animate over time
 
-    # McEwen tartan colours
-    # Base square colours
+    # Кольори Тартана Макьюєна
+    # Базові кольори квадратів
     BLUE = Color(83, 143, 200)
     GREEN = Color(78, 163, 162)
     BASE_COLORS = [GREEN, BLUE]
 
-    # Cross colours
+    # Кольори перетинів
     YELLOW = Color(155, 176, 135)
     RED = Color(155, 129, 113)
     CROSS_COLORS = [YELLOW, RED]
 
-    # Stitching and overlap colour
+    # Колір швів та накладання
     GREY = Color(78, 99, 86)
 
-    # Draw all the GREEN and BLUE alternating Base squares
+    # Намалюй основу за допомогою GREEN та BLUE квадратів, які чергуються між собою
     no_stroke()
     y_coordinate = 0
     squares = width/square_size
@@ -37,7 +37,7 @@ def draw():
             gap = gap + square_size
         y_coordinate = y_coordinate + square_size
 
-    # Crosses
+    # Перетини
     stroke(GREY)
 
     # DRAW THE YELLOW and RED alternating crosses
@@ -57,7 +57,7 @@ def draw():
             rect(0, cross, lines, 4)
             cross = cross + square_size
 
-    # Draw the grey lines where material overlaps
+    # Намалюй сірі лінії в місцях перекриття матеріалів
     no_stroke()
     fill(GREY, 100)
     gap = square_size - 4
@@ -72,6 +72,6 @@ def draw():
 
 print('🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁢󠁳󠁣󠁴󠁿 This is McEwen Tartan 🏴󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿')
 square_size = int(
-    input('What size 🏴󠁧󠁢󠁳󠁣󠁴󠁿tartan would you like? 20, 50, or 100'))
+    input('What size 🏴󠁧󠁢󠁳󠁣󠁴󠁿tartan would you like? 20, 50 або 100'))
 
 run(frame_rate=10)
