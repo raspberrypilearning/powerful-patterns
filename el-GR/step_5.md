@@ -10,13 +10,13 @@ Draw and position geometric shapes to create a base pattern (or motif)? --- /tas
 
 --- task ---
 
-Use loops to repeat the pattern to fill the screen?
+Χρησιμοποιεί βρόχους για να επαναλάβει το μοτίβο για να γεμίσει την οθόνη?
 
 --- /task ---
 
 --- task ---
 
-Animate how the pattern is created?
+Κινείται όπως δημιουργείται το μοτίβο?
 
 --- /task ---
 
