@@ -7,17 +7,17 @@ from time import *
 
 
 def quadrant():
-    # Choose some gorgeous colours for the cake layers
+    # Dewiswch liwiau hyfryd ar gyfer haenau'r gacen
     turquoise = Color(64, 224, 208)
     gold = Color(255, 215, 0)
     tomato = Color(255, 99, 71)
 
-    # Jam sticks the layers together
+    # Mae jam yn glynu'r haenau at ei gilydd
     jam = Color(255, 165, 0)
     stroke(jam)
     stroke_weight(2)  # Change the number to change the amount of jam
 
-    # Nine layers of cake, repeating the 3 colours 3 times
+    # Cacen naw haen, gan ailadrodd y 3 lliw 3 gwaith
     for i in range(3):
         start_y = i * 60  # height of 3 blocks of cake
         fill(turquoise)
@@ -29,7 +29,7 @@ def quadrant():
 
 
 def outer():
-    # The cake is wrapped in an outer layer
+    # Mae haen allanol o amgylch y gacen
     yellowgreen = Color(154, 205, 50)
 
     no_fill()  # Don't cover up the cake quadrants!
@@ -44,12 +44,12 @@ def setup():
 
 
 def draw():
-    # Define a quarter turn so our code is easy to read
+    # Diffiniwch chwarter tro fel bod ein cod yn hawdd ei ddarllen
     quarter = radians(90)
 
     translate(200, 200)  # start from the center
 
-    # Make the bottom right quarter of the cake then rotate for the other quarters
+    # Gwnewch chwarter dde isaf y gacen wedyn cylchdroi ar gyfer y chwarteri eraill
 
     if frame_count <= 4:  # draw up to 4 quadrants
         for i in range(frame_count):
