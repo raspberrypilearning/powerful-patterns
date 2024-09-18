@@ -1,10 +1,10 @@
-## Upgrade your project
+## ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ ಅಪ್‌ಗ್ರೇಡ್‌ ಮಾಡಿ
 
 If you have time you can upgrade your project. You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
 
 ![Finished examples with input and make a face elements](images/upgrade.gif)
 
-You could:
+ನೀವು:
 - Use text and emojis to `print()` a description of your pattern
 - Adjust the size of your pattern based on user `input()`
 - Make a scaled motif using your [Make a face project](https://projects.raspberrypi.org/en/projects/make-a-face){:target="_blank"}
