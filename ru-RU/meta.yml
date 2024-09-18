@@ -12,7 +12,7 @@ copyedit: true
 last_tested: "2021-10-06"
 steps:
   - 
-    title: You will make
+    title: Введение
   - 
     title: Your idea
   - 
@@ -28,8 +28,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Усовершенствуй свой проект
   - 
-    title: Share
+    title: Поделись проектом
   - 
     title: Что дальше?
