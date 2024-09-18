@@ -42,7 +42,7 @@
 
 --- task ---
 
-Open the [Powerful patterns starter project](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"} project. The code editor will open in another browser tab.
+Open the [Powerful patterns starter project](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"} project. Trinketは別のブラウザタブで開きます。
 
 If you have a Raspberry Pi account, you can click on the **Save** button to save a copy to your **Projects**.
 
