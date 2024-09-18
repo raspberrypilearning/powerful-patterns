@@ -19,11 +19,11 @@ Kijk eens naar dit art deco behang. Hoe verandert het motief om het gehele patro
 ![Het motief uit het art deco behangpapier project naast het volledige patroon.](images/spirals-motif.png)
 
 Denk na over het patroon dat je aan het maken bent. Hoe verandert het motief om het algemene patroon te maken? Gebruik deze vragen om je te helpen bij de abstractie:
-- Roteert het gehele of een deel van het motief?
+- Roteert het geheel of alleen een deel van het motief?
 - In welke richting draait het? En met hoeveel?
 - Zijn er lagen in het patroon die elkaar overlappen?
 - Hoe vaak herhaalt het motief zich?
-- Hoe is de herhaling georganiseerd (dwz hoeveel rijen/kolommen)?
+- Hoe is de herhaling georganiseerd (d.w.z. hoeveel rijen/kolommen)?
 - Veranderen de kleuren?
 - Zijn er details die niet in het motief zijn verwerkt (bijv. de kers op de Maleisische laagcake)?
 
@@ -33,7 +33,7 @@ Denk na over het patroon dat je aan het maken bent. Hoe verandert het motief om 
 
 Nu je meer weet over hoe het motief het hele patroon gaat vormen, kun je het programmeren met je antwoorden op de bovenstaande vragen.
 
-**Tip:** U kunt code uit elk van de voorbeelden in de inleiding in uw project 'kopiëren' en 'plakken'. Professionele ontwikkelaars doen dit altijd zo!
+**Tip:** Je kunt code uit elk van de voorbeelden in de inleiding in je project 'kopiëren' en 'plakken'. Professionele ontwikkelaars doen dit altijd zo!
 
 Je hebt een aantal echt nuttige vaardigheden opgebouwd. Hier is een geheugensteuntje om je te helpen bij het maken van je herhaalde patroon:
 
@@ -53,7 +53,7 @@ Je hebt een aantal echt nuttige vaardigheden opgebouwd. Hier is een geheugensteu
 title: Willekeurige posities
 ---
 
-Je kan `from random import randint` toevoegen bovenaan **main.py**, dit laat je te om de `randint` functie te gebruiken om willekeurige getallen te genereren.
+Je kunt `from random import randint` toevoegen bovenaan **main.py**, dit staat je toe om de `randint` functie te gebruiken om willekeurige getallen te genereren.
 
 Om de `randint` functie te gebruiken, moet je deze in je code aanroepen.
 
@@ -72,7 +72,7 @@ language: python filename: main.py - draw()
 
 --- /code ---
 
-Je kan random ook gebruiken om de kleuren in je motief te veranderen wanneer het opnieuw getekend wordt.
+Je kunt random ook gebruiken om de kleuren in je motief te veranderen wanneer het opnieuw getekend wordt.
 
 --- code ---
 ---
@@ -94,7 +94,7 @@ title: De grootte van je motief wijzigen
 
 Als je een motief gebruikt dat je al hebt getekend, is het misschien niet de juiste grootte.
 
-Je kunt `scale()` gebruiken voordat je de functie oproept die je motief tekent om de grootte te wijzigen. Als je invoer groter is dan '1', wordt het motief groter, als je invoer kleiner is dan '1', wordt het kleiner.
+Je kunt `scale()` gebruiken voordat je de functie aanroept die je motief tekent om de grootte te wijzigen. Als je invoer groter is dan '1', wordt het motief groter, als je invoer kleiner is dan '1', wordt het kleiner.
 
 --- code ---
 ---
@@ -110,7 +110,7 @@ language: python filename: main.py - draw()
 
 --- /task ---
 
-Nu kan je jouw patroon animeren om te laten zien hoe je het hebt gemaakt. Vaak hebben patronen een krachtige culturele betekenis in de manier waarop ze worden gemaakt of in het proces.
+Nu kun je jouw patroon animeren om te laten zien hoe je het hebt gemaakt. Vaak hebben patronen een krachtige culturele betekenis in de manier waarop ze worden gemaakt of in het proces.
 
 --- task ---
 
