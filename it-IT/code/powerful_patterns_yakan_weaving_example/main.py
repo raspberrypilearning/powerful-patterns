@@ -29,7 +29,7 @@ def motivo():
     fill(BLU)
     rect(0, 50, dimensione_motivo/4, dimensione_motivo/4)
     fill(GIALLO)
-    rect(50, 50, dimensione_motivo4, dimensione_motivo/4)
+    rect(50, 50, dimensione_motivo/4, dimensione_motivo/4)
 
 
 def ruota_motivo():
