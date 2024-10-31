@@ -31,7 +31,7 @@ def quadrante():
 def esterno():
 
   # La torta è avvolta in uno strato esterno
-  gialloverde= Color(154, 205, 50) 
+  gialloverde = Color(154, 205, 50) 
   
   no_fill() # Non coprire i quadranti della torta!
   stroke(gialloverde)
