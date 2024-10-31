@@ -30,7 +30,7 @@ def draw():
   if frame_count <= 16: # crea 16 righe quindi si ferma
     for riga in range(frame_count): # anima 1 riga alla volta
       for forma in range(16): # crea una fila di temi base
-        motif()
+        motivo()
         translate(circle_size / 2, 0)
       translate(-width, circle_size / 2) # spostati verso il basso per iniziare la riga successiva
   
