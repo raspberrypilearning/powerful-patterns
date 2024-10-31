@@ -4,7 +4,7 @@ from p5 import *
 from math import random
 from random import randint
 
-def motif():
+def motivo():
   fill(randint(0, 255),randint(0, 255) ,randint(0, 255))
   ellipse(0, 0, 25, 25) 
   fill(0, 0, 0)
@@ -23,7 +23,7 @@ def draw():
   translate(200, 200) # inizia dal centro dello schermo
   if frame_count < 150:
     for i in range(frame_count): # anima il motivo geometrico
-      motif()
+      motivo()
       rotate(5) # gira il motivo base
       translate(i, i) # sposta il motivo base
   
