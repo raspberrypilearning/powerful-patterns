@@ -47,19 +47,19 @@ def draw():
   # Disegnare gli incroci alternati GIALLO e ROSSO
   for i in range (4):
     fill(GIALLO)
-    croce= dimensione_quadrato / 2 - 2 
+    croce = dimensione_quadrato / 2 - 2 
     for i in range(int(quadrati/2)):
       fill(COLORI_INCROCIATI[i % 2]) # GIALLO e ROSSO
       rect(croce, 0, 4, linee)  
       rect(0, croce, linee, 4) 
-      croce= croce + 2 * dimensione_quadrato
+      croce = croce + 2 * dimensione_quadrato
     # Disegna le croci di cucitura
     no_fill() 
     croce = dimensione_quadrato + dimensione_quadrato / 2 - 2
-    for i in range(int(quadrati)): 
+    for i in range(int(squares)): 
       rect(croce, 0, 4, linee) 
       rect(0, croce, linee, 4)
-      croce= croce+dimensione_quadrato
+      croce = croce + dimensione_quadrato
 
   # Disegna le linee grigie dove il materiale si sovrappone
   no_stroke()
