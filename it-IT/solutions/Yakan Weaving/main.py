@@ -3,7 +3,7 @@
 from p5 import *
 from math import random
 
-def motif():
+def motivo():
   dimensione_motivo = 100
   
   #Colori del filo
@@ -15,20 +15,20 @@ def motif():
   # Quadrati
   fill(ARANCIONE)
   rect(0, 0, dimensione_motivo/2, dimensione_motivo/2)
-  fill(VIOLA)
-  rect(50, 0, dimensione_motivo/2, dimensione_motivo/2)
   fill(GIALLO)
+  rect(50, 0, dimensione_motivo/2, dimensione_motivo/2)
+  fill(VIOLA)
   rect(0, 50, dimensione_motivo/2, dimensione_motivo/2)
   fill(BLU)
   rect(50, 50, dimensione_motivo/2, dimensione_motivo/2)
-  fill(VIOLA)
+  fill(GIALLO)
   rect(0, 0, dimensione_motivo/4, dimensione_motivo/4)
   fill(ARANCIONE)
   rect(50, 0, dimensione_motivo/4, dimensione_motivo/4)
   fill(BLU)
-  rect(zero, 50, dimensione_motivo/4, dimensione_motivo/4)
-  fill(GIALLO)
-  rect(50, 50, dimensione_motivo4, dimensione_motivo/4)
+  rect(0, 50, dimensione_motivo/4, dimensione_motivo/4)
+  fill(VIOLA)
+  rect(50, 50, dimensione_motivo/4, dimensione_motivo/4)
 
 def ruota_motivo():
   
@@ -49,7 +49,7 @@ def setup():
 def draw():
   
   global larghezza_motivo
-  larghezza_motivo= 150 
+  larghezza_motivo = 150 
   
   translate(-larghezza_motivo/2, -larghezza_motivo/2) # per iniziare con metà motivi 
   
