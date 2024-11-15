@@ -1,11 +1,4 @@
-## Your idea
-
-Use this step to plan your powerful pattern. You can plan by just thinking, tinkering, drawing or writing, or however you like! 
-
-![An animated gif of three different examples using various shapes to create the motifs and animations to grow the pattern.](images/ideas-1.gif)
-
-
-### Get started
+## Get started
 
 --- task ---
 
@@ -21,7 +14,6 @@ Choose a size and a background colour.
 --- code ---
 ---
 language: python
-filename: main.py - setup()
 line_numbers: true
 line_number_start: 6
 line_highlights: 7-8

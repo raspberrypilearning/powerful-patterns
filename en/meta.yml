@@ -12,10 +12,10 @@ copyedit: true
 last_tested: "2021-10-06"
 steps:
   - title: You will make
-  - title: Your idea
-  - title: Build and test - Motif
-    completion:
+  - title: Get started
+   completion:
       - engaged
+  - title: Build and test - Motif  
   - title: Expand and test - Pattern
     completion:
       - internal
