@@ -12,7 +12,7 @@ Use this step to plan your powerful pattern. You can plan by just thinking, tink
 Open the [Powerful patterns starter project](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"} project. 
 --- /task ---
 
-### Setup your project
+### Set up your project
 
 --- task ---
 
