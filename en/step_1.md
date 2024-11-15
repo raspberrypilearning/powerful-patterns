@@ -25,7 +25,7 @@ Look at these examples and think about the repeated motif. How have the patterns
 ![Complete Random faces project.](images/random_faces.png)
 [Random faces](https://editor.raspberrypi.org/en/projects/random-faces-example)
 ![Complete Art deco project.](images/art_deco.png)
-[Art deco])https://editor.raspberrypi.org/en/projects/art-deco-example)
+[Art deco](https://editor.raspberrypi.org/en/projects/art-deco-example)
 ![Complete Yakan weaving project.](images/yakan.png)
 [Yakan weaving](https://editor.raspberrypi.org/en/projects/yakan-weaving-example)
 
