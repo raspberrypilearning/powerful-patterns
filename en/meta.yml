@@ -22,6 +22,6 @@ steps:
   - title: Checklist
     completion:
       - external
-  - title: Upgrade your project
-  - title: Share
+  - title: Challenge
+    challenge: true
   - title: What next?

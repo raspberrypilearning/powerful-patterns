@@ -1,11 +1,7 @@
-## Share
+## What next?
 
-If you are in a club, why not share your project with friends?
+You have reached the end of the [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro) path!
 
---- task ---
+[[[python-coolest-projects]]]
 
-Inspire the Raspberry Pi Foundation community with your project!
-
-To submit your project to our [Powerful pattern - Community](https://wke.lt/w/s/yyNPQT){:target=blank} studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
-
---- /task ---
+You can explore our [other Python projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) and try them out.
