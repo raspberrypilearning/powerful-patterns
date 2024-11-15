@@ -21,11 +21,6 @@ Draw shapes to create your motif. Use the tips at the bottom of the page if you 
 
 --- /task ---
 
---- collapse ---
----
-title: I need help
----
-
 ### Shapes
 
 [[[processing-python-ellipse]]]
@@ -86,5 +81,5 @@ The third and fourth numbers in `ellipse` and `rect` are the width and height. I
 
 --- /collapse ---
 
---- /collapse ---
+
 
