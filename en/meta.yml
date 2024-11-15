@@ -13,9 +13,9 @@ last_tested: "2021-10-06"
 steps:
   - title: You will make
   - title: Get started
-   completion:
+    completion:
       - engaged
-  - title: Build and test - Motif  
+  - title: Create a motif  
   - title: Expand and test - Pattern
     completion:
       - internal
