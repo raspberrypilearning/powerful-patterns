@@ -16,10 +16,9 @@ steps:
     completion:
       - engaged
   - title: Create a motif  
-  - title: Expand and test - Pattern
     completion:
       - internal
-  - title: Checklist
+  - title: Make the pattern
     completion:
       - external
   - title: Challenge

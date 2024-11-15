@@ -1,25 +1,7 @@
-## Challenge
+## What next?
 
---- challenge ---
+You have reached the end of the [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro) path!
 
-![Finished examples with input and make a face elements](images/upgrade.gif)
+[[[python-coolest-projects]]]
 
---- task ---
-Use text and emojis to `print()` a description of your pattern
---- /task ---
-
---- task ---
-Adjust the size of your pattern based on user `input()`
---- /task ---
-
-
-This project uses text and emojis to ask the user to choose a size then uses their answer to size all the shapes:
-
-**McEwen tartan**: 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
-
-[McEwen tartan](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
-
-
---- /challenge ---
+You can explore our [other Python projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) and try them out.
