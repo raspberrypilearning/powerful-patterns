@@ -102,6 +102,8 @@ filename: main.py - draw()
 --- /collapse ---
 
 ### Bugs
+
+--- collapse ---
 ---
 title: My motif does not appear to rotate
 ---
