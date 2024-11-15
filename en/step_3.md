@@ -67,7 +67,6 @@ If you want the shapes to be aligned, then take a closer look at your coordinate
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: I can't see some of the shapes in my motif
 ---
@@ -79,7 +78,6 @@ Computer graphics are made of layers. In your motif, each shape is a layer. Obje
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: My circles/squares are not equal
 ---
