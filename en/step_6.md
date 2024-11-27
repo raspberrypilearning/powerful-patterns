@@ -1,7 +1,11 @@
-## What next?
 
-You have reached the end of the [Introduction to Python](https://projects.raspberrypi.org/en/pathways/python-intro) path!
+## What can you do now?
+
+
+Try our [More Python](https://projects.raspberrypi.org/en/pathways/more-python) pathway where you will move beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
 
 [[[python-coolest-projects]]]
 
-You can explore our [other Python projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) and try them out.
+Or, why not try out another [Python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) project.
+
+
