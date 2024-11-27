@@ -1,4 +1,3 @@
-## You will make
 
 Create a piece of art using repeated patterns. 
 
