@@ -1,29 +1,25 @@
-## Bouwen en testen: het Motief
+## Bouwen en testen - Patroon
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Nu is het tijd om je motief te maken, het eerste element van je patroon.
+Most patterns have one design (called the **motif**) that repeats to create a pattern. 
 </div>
 <div>
 ![Een voorbeeld van een motief waarbij verschillende vormen worden gebruikt om het motief te maken.](images/motif.png){:width="300px"}
 </div>
 </div>
 
-Het proces van het maken van je motief weerspiegelt wat computerwetenschappers vaak doen als ze een programma of oplossing voor een probleem maken. Dit proces wordt **decompositie** genoemd en je zult decompositie gebruiken om je motief te maken.
+--- task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Decompositie</span> is iets opsplitsen in kleinere en gemakkelijker te begrijpen delen. Dit betekent dat je een patroon deel voor deel kunt bouwen totdat het compleet is.</p>
+Draw shapes to create your motif. Use the tips at the bottom of the page if you need help.
 
-Kijk naar het patroon dat je wilt namaken. Hoe kun je het opsplitsen in één enkel element (het motief) dat zich herhaalt?
-
-In dit voorbeeld werd een art deco-behangpapier patroon ontleed tot de basis verzameling van vormen (vijf cirkels over elkaar gelegd) die het motief vormen:
-
-![Een enkel motief van vijf cirkels naast een afbeelding van het volledige art deco patroon met veel kopieën van het motief.](images/motif-pattern.png)
-
-**Tip:** Denk eraan om je project elke keer dat je iets toevoegt, te testen. Het is veel gemakkelijker om fouten te vinden en op te lossen voordat je meer wijzigingen aanbrengt.
+--- /task ---
 
 --- task ---
 
-Je hebt een aantal echt nuttige vaardigheden opgebouwd. Hier is een geheugensteuntje om je te helpen bij het maken van jouw motief:
+**Test:** Laat iemand anders jouw project zien en vraag feedback.
+
+--- /task ---
 
 ### Vormen
 
@@ -33,9 +29,8 @@ Je hebt een aantal echt nuttige vaardigheden opgebouwd. Hier is een geheugensteu
 
 [[[processing-python-triangle]]]
 
-### Kleuren en effecten
 
-[[[generic-theory-simple-colours]]]
+### Kleuren en effecten
 
 [[[processing-opacity]]]
 
@@ -55,17 +50,7 @@ Je hebt een aantal echt nuttige vaardigheden opgebouwd. Hier is een geheugensteu
 
 [[[generic-python-for-loop-repeat]]]
 
---- /task ---
-
---- task ---
-
-**Test:** Laat iemand anders jouw project zien en vraag feedback. Wil je iets aan je motief veranderen?
-
---- /task ---
-
---- task ---
-
-**Debug:** Mogelijk vindt je enkele fouten in jouw project die je moet oplossen. Hier zijn enkele veelvoorkomende fouten.
+### Bugs
 
 --- collapse ---
 ---
@@ -77,7 +62,6 @@ Als je wilt dat de vormen worden uitgelijnd, kijk dan eens goed naar je coördin
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: Ik kan sommige vormen in mijn motief niet zien
 ---
@@ -89,7 +73,6 @@ Computerafbeeldingen bestaan uit lagen. In je motief is elke vorm een laag. Obje
 --- /collapse ---
 
 --- collapse ---
-
 ---
 titel: Mijn cirkels/vierkanten zijn niet gelijk
 ---
@@ -98,10 +81,5 @@ Het derde en vierde cijfer in `ellips` en `rect` zijn de breedte en hoogte. Als 
 
 --- /collapse ---
 
-Mogelijk vind je een bug die hier niet wordt vermeld. Kun je erachter komen hoe je het kunt oplossen?
 
-We horen graag over je fouten en hoe je ze hebt opgelost. Gebruik de feedback knop onderaan deze pagina als je een andere bug in je project hebt gevonden.
 
---- /task ---
-
---- save ---
