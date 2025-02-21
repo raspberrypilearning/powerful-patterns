@@ -15,21 +15,18 @@ steps:
     title: O que você irá fazer
   - 
     title: A sua ideia
+    completion:
+      - engaged
   - 
     title: Construir e testar — Motivo
     completion:
-      - engajado
+      - engaged
   - 
     title: Expandir e testar — Padrão
     completion:
-      - interno
+      - internal
   - 
     title: Lista de tarefas
-    completion:
-      - external
+    challenge: true
   - 
     title: Melhore o seu projeto
-  - 
-    title: Compartilhar
-  - 
-    title: E agora?
