@@ -2,7 +2,8 @@
 
 --- task ---
 
-Open the [Powerful patterns starter project](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"} project. 
+Open the [Powerful patterns starter project](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"} project.
+ 
 --- /task ---
 
 ### Set up your project

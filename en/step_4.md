@@ -45,7 +45,6 @@ You can use `scale()` before calling the function that draws your motif to chang
 ---
 language: python
 filename: main.py - draw()
-
 ---
 
     scale(0.5)  # Half size
@@ -61,7 +60,6 @@ filename: main.py - draw()
 ### Randomness
 
 --- collapse ---
-
 ---
 title: Random positions
 ---
