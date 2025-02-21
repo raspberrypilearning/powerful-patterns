@@ -1,41 +1,27 @@
-## Expandir e testar: Padrão
+## Expandir e testar — Padrão
 
-Agora é hora de fazer o seu padrão completo!
+Now that you have a **motif**, you can repeat it to make a pattern
 
 ![Exemplos de projetos finalizados que têm o motivo usado repetidamente para formar um padrão completo.](images/second.gif)
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Abstração</span> é a solução de problemas reduzindo detalhes desnecessários. 
-
-</p>
 
 --- task ---
 
-Olhe para este bolo de camadas da Malásia (kek lapis Sarawak). Como o motivo modifica a formar do padrão em geral?
-
-![O motivo do projeto kek lapis Sarawak ao lado do padrão completo.](images/kek-motif.png)
-
-Olhe para este papel de parede art déco. Como o motivo modifica a formar do padrão em geral?
-
-![O motivo do projeto de papel de parede art déco ao lado do padrão completo.](images/spirals-motif.png)
-
-Pense no padrão que você está fazendo. Como seu motivo muda para fazer o padrão geral? Use estas perguntas para ajudá-lo a abstrair:
-- Tudo ou parte do motivo gira?
-- Em que direção ele gira? E quanto?
-- Existem camadas no padrão que se sobrepõem?
-- Quantas vezes o motivo se repete?
-- Como a repetição é organizada (ou seja, quantas linhas/colunas)?
-- As cores mudam?
-- Existem detalhes que não estão incluídos no motivo (ou seja, a cobertura do bolo de camadas da Malásia)?
+Move, resize and repeat the motif you have created to make a repeating pattern. Use the tips at the bottom of the page if you need help.
 
 --- /task ---
 
+
 --- task ---
 
-Agora que você conhece mais como o motivo se transforma em todo o padrão, você pode programá-lo usando suas respostas às perguntas acima.
+**Teste:** Mostre seu projeto a outra pessoa e peça sua opinião.
 
-**Dica:** Você pode 'copiar' e 'colar' o código de qualquer um dos exemplos da introdução ao seu projeto. Desenvolvedores profissionais fazem isso o tempo todo!
+--- /task ---
 
-Você desenvolveu algumas habilidades realmente úteis. Aqui está um lembrete para ajudá-lo a fazer seu padrão repetido:
+
+
+
+### Moving, rotating and resizing
 
 [[[processing-matrix]]]
 
@@ -45,10 +31,35 @@ Você desenvolveu algumas habilidades realmente úteis. Aqui está um lembrete p
 
 [[[python-operators]]]
 
-[[[generic-python-for-loop-repeat]]]
-
 --- collapse ---
 
+---
+title: Mudando o tamanho do seu motivo
+---
+
+Se você usar um motivo que já desenhou, pode não ser do tamanho certo.
+
+Você pode usar `scale()` antes de chamar a função que desenha seu motivo para corrigir seu tamanho. Usar uma entrada maior que '1' tornará o motivo maior, usar uma entrada menor que '1' o tornará menor.
+
+--- code ---
+---
+language: python
+filename: main.py - draw()
+---
+
+    scale(0.5)  # Metade do tamanho
+
+--- /code ---
+
+--- /collapse ---
+
+### Repeating
+
+[[[generic-python-for-loop-repeat]]]
+
+### Randomness
+
+--- collapse ---
 ---
 title: Posição aleatórias
 ---
@@ -86,57 +97,9 @@ language: python filename: main.py - draw()
 
 --- /collapse ---
 
---- collapse ---
-
----
-title: Mudando o tamanho do seu motivo
----
-
-Se você usar um motivo que já desenhou, pode não ser do tamanho certo.
-
-Você pode usar `scale()` antes de chamar a função que desenha seu motivo para corrigir seu tamanho. Usar uma entrada maior que '1' tornará o motivo maior, usar uma entrada menor que '1' o tornará menor.
-
---- code ---
----
-language: python filename: main.py - draw()
-
----
-
-    scale(0.5)  # Metade do tamanho
-
---- /code ---
-
---- /collapse ---
-
---- /task ---
-
-Agora você pode animar seu padrão para mostrar como você o fez. Muitas vezes, os padrões têm um grande significado cultural na maneira como são feitos ou no processo.
-
---- task ---
-
-[[[processing-matrix]]]
-
-[[[processing-translation]]]
-
-[[[processing-rotation]]]
-
-[[[generic-python-for-loop-repeat]]]
-
---- /task ---
-
-
---- task ---
-
-**Teste:** Mostre seu projeto a outra pessoa e peça sua opinião. Deseja fazer alguma alteração em seu padrão?
-
---- /task ---
-
---- task ---
-
-**Depurar:** Você pode encontrar alguns bugs em seu projeto que precisa corrigir. Aqui estão alguns bugs comuns.
+### Bugs
 
 --- collapse ---
-
 ---
 title: Meu motivo não parece girar
 ---
@@ -158,15 +121,6 @@ Você tem mais de uma coisa girando? Você pode precisar usar `push_matrix()` e 
 
 --- collapse ---
 ---
-title: Meu padrão não anima
----
-
-Confira se você usou `frame_count()` corretamente em um loop.
-
---- /collapse ---
-
---- collapse ---
----
 title: Meu padrão não está do jeito que eu quero
 ---
 
@@ -183,20 +137,3 @@ Verifique a sintaxe do seu código. Está faltando algum colchete `(` ou `)` ou 
 
 --- /collapse ---
 
---- collapse ---
----
-title: A animação é muito rápida/muito lenta
----
-
-Altere o `frame_rate()` no início do seu programa para obter a velocidade que você gosta.
-
---- /collapse ---
-
-Você pode encontrar um bug que não está listado aqui. Você consegue descobrir como consertá-lo?
-
-Adoraríamos saber sobre seus bugs e como você os corrigiu. Use o botão Enviar comentários na parte inferior desta página e nos diga se você encontrou um bug diferente em seu projeto.
-
---- /task ---
-
-
---- save ---
