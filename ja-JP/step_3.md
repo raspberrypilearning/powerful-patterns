@@ -2,28 +2,24 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-繰り返し模様の最初の要素であるモチーフを作成します。
+Most patterns have one design (called the **motif**) that repeats to create a pattern. 
 </div>
 <div>
 ![さまざまな形を使用して作ったモチーフの例] (images/motif.png){:width="300px"}
 </div>
 </div>
 
-モチーフを作るプロセスは、コンピューターサイエンティストがプログラムや問題の解決策を考えるときによく行うこととよく似ています。 このプロセスは**ブレークダウン**と呼ばれるもので、あなたのモチーフを作る時にも使えるでしょう。
+--- task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">ブレークダウン</span>は、理解しやすいように、より小さく簡単な部品に落としこんでいくことです。 これは、くり返し模様が完成するまで、パートごとに模様を作っていくことを意味します。</p>
+Draw shapes to create your motif. Use the tips at the bottom of the page if you need help.
 
-再現したい繰り返し模様を見てください。 どうすればそれを1つの要素(モチーフ) に分解して繰り返すことができますか？
-
-この例では、アールデコの壁紙パターンが、モチーフを作成する基本的な形の集まり(5つの円が重なっている) にブレークダウンされています。
-
-![たくさんのモチーフのコピーを使って描かれているアールデコの完成版パターンのイメージの横に表示されている５つの円のモチーフ](images/motif-pattern.png)
-
-**ヒント：** 何かを追加するたびに、プロジェクトをテストすることを忘れないでください。 バグを見つけて修正するのは、変更を加える前のほうがはるかに簡単です。
+--- /task ---
 
 --- task ---
 
-あなたはいくつかの本当に役立つスキルを身につけました。 モチーフを作成するのに役立つリマインダーは次のとおりです。
+**テスト：** プロジェクトを他の人に見せて、フィードバックをもらいます。
+
+--- /task ---
 
 ### Shapes
 
@@ -33,9 +29,8 @@
 
 [[[processing-python-triangle]]]
 
-### 色と効果
 
-[[[generic-theory-simple-colours]]]
+### 色と効果
 
 [[[processing-opacity]]]
 
@@ -55,17 +50,7 @@
 
 [[[generic-python-for-loop-repeat]]]
 
---- /task ---
-
---- task ---
-
-**テスト：** プロジェクトを他の人に見せて、フィードバックをもらいます。 モチーフに変更を加えたいですか？
-
---- /task ---
-
---- task ---
-
-**デバッグ：** プロジェクトに修正が必要なバグが見つかる場合があります。 一般的なバグは次のとおりです。
+### Bugs
 
 --- collapse ---
 ---
@@ -77,7 +62,6 @@ title: 形が思うように並ばない
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: モチーフの中に描いた形が見あたらない
 ---
@@ -89,7 +73,6 @@ title: モチーフの中に描いた形が見あたらない
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: 描いた円/正方形の形がくずれている
 ---
@@ -98,10 +81,5 @@ title: 描いた円/正方形の形がくずれている
 
 --- /collapse ---
 
-ここに記載されていないバグが見つかるかもしれません。 あなたはそれを修正する方法を見つけることができますか？
 
-私たちはあなたのバグと、あなたがそれらをどのように修正したかについて教えてほしいです。 プロジェクトで別のバグを見つけた場合、このページの一番下にあるフィードバックを送信 ボタンを使ってお知らせください。
 
---- /task ---
-
---- save ---
