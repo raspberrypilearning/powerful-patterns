@@ -1,25 +1,11 @@
+
 ## Вдосконалення твого проєкту
 
-Якщо у тебе є час, ти можеш вдосконалити свій проєкт. Можливо, у тебе вже є ідеї, які ти можеш додати. Ти також можеш повернутися до першого етапу та переглянути інші проєкти, щоб отримати більше натхнення.
 
-![Готові приклади з вхідними даними та оформленням з елементів обличчя](images/upgrade.gif)
+Try our [More Python](https://projects.raspberrypi.org/en/pathways/more-python) pathway where you will move beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
+
+[[[python-coolest-projects]]]
 
 Ти можеш:
-- Використати текст та емодзі, щоб `print()` опис для твого візерунка
-- Налаштувати розмір візерунка на основі вхідних даних від користувача `input()`
-- Створити масштабний візерунок, використовуючи свій проєкт [Обличчя](https://projects.raspberrypi.org/uk-UA/projects/make-a-face){:target="_blank"}
 
-Кожен з прикладів проєктів в [Знайомство з Python](.) мають посилання **Подивитись код**, щоб відкрити проєкт та подивитися на код, щоб отримати ідеї та побачити, як вони працюють.
-
-Цей проєкт використовує текст та емодзі, щоб запропонувати користувачу обрати розмір, а потім використовує його відповідь для визначення розміру всіх фігур:
-
-**Тартан Макьюєна**: [Подивитись код](https://trinket.io/python/6dd98dd8e1){:target="_blank"}
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
-
-Переглянь деякі проєкти 'Потужні візерунки' створені членами спільноти Raspberry Pi Foundation [Потужні візерунки - Бібліотека спільноти](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
-
-Переглянь деякі проєкти 'Потужні візерунки' створені членами спільноти Raspberry Pi Foundation [Потужні візерунки - Бібліотека спільноти](https://wke.lt/w/s/yyNPQT){:target="_blank"}.
-
---- save ---
 
