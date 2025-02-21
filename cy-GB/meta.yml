@@ -14,7 +14,9 @@ steps:
   - 
     title: Cyflwyniad
   - 
-    title: Dy syniad
+    title: Eich syniad
+    completion:
+      - engaged
   - 
     title: Adeiladu a phrofi - Motiff
     completion:
@@ -25,11 +27,6 @@ steps:
       - internal
   - 
     title: Myfyrio
-    completion:
-      - external
+    challenge: true
   - 
     title: Uwchraddio eich prosiect
-  - 
-    title: Rhannu
-  - 
-    title: Profwch eich hun
