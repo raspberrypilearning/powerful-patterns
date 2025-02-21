@@ -15,21 +15,18 @@ steps:
     title: Wat ga je maken
   - 
     title: Jouw idee
-  - 
-    title: Bouwen en testen - Patroon
     completion:
       - engaged
   - 
-    title: Uitbreiden en testen - Patroon
+    title: Bouwen en testen - Patroon
     completion:
       - internal
   - 
-    title: Checklist
+    title: Uitbreiden en testen - Patroon
     completion:
       - external
   - 
+    title: Checklist
+    challenge: true
+  - 
     title: Verbeter je project
-  - 
-    title: Delen
-  - 
-    title: Wat kun je verder nog doen?
