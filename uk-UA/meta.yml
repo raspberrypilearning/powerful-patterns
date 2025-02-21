@@ -15,6 +15,8 @@ steps:
     title: Ти зробиш
   - 
     title: Свою ідею
+    completion:
+      - engaged
   - 
     title: Будуй та тестуй - Мотив
     completion:
@@ -25,11 +27,6 @@ steps:
       - internal
   - 
     title: Контрольний список
-    completion:
-      - external
+    challenge: true
   - 
     title: Вдосконалення твого проєкту
-  - 
-    title: Поділитися
-  - 
-    title: Що далі?
