@@ -1,97 +1,39 @@
-## जांच सूची
+## Challenge
 
-Did you meet the **project brief**? अपने प्रोजेक्ट के बारे में सोचें और नीचे दी गई चेकलिस्ट पर जाएं और अपने प्रोजेक्ट पर लागू होने वाले चेक करें।
+--- challenge ---
 
-Does your powerful pattern:
-
---- task ---
-
-Draw and position geometric shapes to create a base pattern (or motif)? --- /task ---
+![Finished examples with input and make a face elements](images/upgrade.gif)
 
 --- task ---
 
-Use loops to repeat the pattern to fill the screen?
+Use text and emojis to `print()` a description of your pattern
 
 --- /task ---
 
 --- task ---
 
-Animate how the pattern is created?
-
---- /task ---
-
-Your powerful pattern could also:
-
---- task ---
-
-Use bold or significant colours
+Adjust the size of your pattern based on user `input()`
 
 --- /task ---
 
 --- task ---
 
-Draw inspiration from your culture or popular culture
-
---- /task ---
-
---- task ---
-
-Get user input to resize the pattern
-
---- /task ---
-
---- task ---
-
-Use text and emojis to print details about your art
-
---- /task ---
-
---- task ---
-
-Be translated to create variations
+Animate your pattern so that it appears in stages.
 
 --- /task ---
 
 
---- task ---
+--- no-print ---
 
-Be shared with others in an online gallery
+This project uses text and emojis to ask the user to choose a size then uses their answer to size all the shapes:
 
---- /task ---
 
-Reflecting about how you made your powerful pattern will help you in your future projects.
+[McEwen tartan](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
 
-नीचे दिए गए प्रश्नों का उत्तर किसी दस्तावेज़ को आरेखित करके, लिखकर, टाइप करके, किसी से बात करके, या अपने खुद के क्रिएटिव तरीके से दें जो आपके लिए सबसे अच्छा काम करता है।
 
---- task ---
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
 
-आपको अपने विचार कैसे मिले?
+--- /no-print ---
 
---- /task ---
-
---- task ---
-
-आपने कौन सी नई चीज़ (चीजों) सीखेगी?
-
---- /task ---
-
---- task ---
-
-Mistakes and failures are often the catalyst for discovery and success.
-
-Oprah Winfrey was fired from her first job, but she went on to become a famous and influential producer and philanthropist. She once said "turn your wounds into wisdom".
-
-What mistakes did you make and how did they help you?
-
---- /task ---
-
-### Now you are a digital artist and mathematician!
-
-आपने जो बनाया है, उसे मनाने के लिए थोड़ा समय दें।
-
---- task ---
-
-आप अपनी नई शक्तियों को कहां ले जाएंगे? आप आगे क्या बनाएँगे?
-
---- /task ---
-
+--- /challenge ---
