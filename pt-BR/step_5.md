@@ -1,97 +1,39 @@
 ## Lista de tarefas
 
-Você cumpriu o **resumo do projeto**? Pense no seu projeto e marque os recursos que o seu projeto possui na lista de verificação abaixo.
+--- challenge ---
 
-Seu super padrão:
-
---- task ---
-
-Desenhar e posicionar formas geométricas para criar um modelo como padrão (ou "motivo") --- /task ---
+![Exemplos finalizados com entrada e criação de elementos de face](images/upgrade.gif)
 
 --- task ---
 
-Use loops para repetir o padrão para preencher a tela
+Use texto e emoji para `print()` uma descrição do seu padrão
 
 --- /task ---
 
 --- task ---
 
-Animar como o padrão é criado?
-
---- /task ---
-
-O seu super padrão também pode:
-
---- task ---
-
-Use cores fortes ou significativas
+Ajuste o tamanho do seu padrão com base no usuário `input()`
 
 --- /task ---
 
 --- task ---
 
-Desenhar Inspirado na sua cultura ou cultura popular
-
---- /task ---
-
---- task ---
-
-Obtenha a parâmetros de entrada do usuário para redimensionar o padrão
-
---- /task ---
-
---- task ---
-
-Adicione texto e emoji para imprimir detalhes sobre sua arte
-
---- /task ---
-
---- task ---
-
-Traduza o padrão para criar variações
+Animate your pattern so that it appears in stages.
 
 --- /task ---
 
 
---- task ---
+--- no-print ---
 
-Compartilhe seu trabalho com outras pessoas em uma galeria online
+Este projeto usa texto e emoji para pedir ao usuário que escolha um tamanho e, em seguida, usa sua resposta para dimensionar todas as formas:
 
---- /task ---
 
-Refletir sobre como você criou seu super padrão o ajudará em seus próximos projetos.
+[McEwen tartan](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
 
-Responda às perguntas abaixo desenhando, escrevendo, digitando um documento, conversando com alguém ou da sua própria maneira criativa que funcione melhor para você.
 
---- task ---
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
 
-Como você obteve suas ideias?
+--- /no-print ---
 
---- /task ---
-
---- task ---
-
-Quais coisas novas e legais você aprendeu?
-
---- /task ---
-
---- task ---
-
-Erros e fracassos são muitas vezes o nos ajuda em descobertas e sucesso.
-
-Oprah Winfrey foi demitida de seu primeiro emprego, mas se tornou uma produtora e filantropa famosa e influente. Ela disse uma vez "transforme suas feridas em sabedoria".
-
-Quais erros você cometeu e como eles o ajudaram?
-
---- /task ---
-
-### Agora você é um artista digital e matemático!
-
-Reserve um tempo para comemorar o que você fez.
-
---- task ---
-
-Para onde você vai levar seus novos poderes? O que você vai fazer a seguir?
-
---- /task ---
-
+--- /challenge ---
