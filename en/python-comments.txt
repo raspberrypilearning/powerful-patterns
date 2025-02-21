@@ -14,8 +14,6 @@ Put code to run every frame here
 
 Keep this to run your code
 
-Based on the amazing Malaysian geometric cake art: Kek lapis Sarawak
-
 Choose some gorgeous colours for the cake layers
 
 Jam sticks the layers together
@@ -148,6 +146,6 @@ Draw the YELLOW and RED alternating crosses
 
 YELLOW and RED
 
-Draw the stiching crosses
+Draw the stitching crosses
 
 Draw the grey lines where material overlaps

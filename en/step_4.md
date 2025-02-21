@@ -90,6 +90,7 @@ You could also use random to change the colours in your motif as it is redrawn.
 ---
 language: python
 filename: main.py - draw()
+
 ---
 
     BLUE = color(randint(0, 50), randint(0, 100), randint(150, 255))
