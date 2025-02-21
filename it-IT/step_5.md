@@ -1,97 +1,39 @@
 ## Checklist
 
-Hai soddisfatto i **requisiti di progetto**? Pensa al tuo progetto e consulta la checklist qui sotto e seleziona quelli soddisfatti dal tuo progetto.
+--- challenge ---
 
-Il tuo meraviglioso motivo:
-
---- task ---
-
-Disegna e posiziona forme geometriche per creare un modulo (o motif) di base? --- /task ---
+![Esempi finiti con input e creazione di faccine](images/upgrade.gif)
 
 --- task ---
 
-Usa cicli per ripetere il modulo e riempire lo schermo?
+Usa testo ed emoji per `print()` una descrizione del tuo motivo
 
 --- /task ---
 
 --- task ---
 
-Crea l'animazione della creazione del motivo?
-
---- /task ---
-
-Il tuo meraviglioso motivo potrebbe anche:
-
---- task ---
-
-Usare colori forti o predominanti
+Regola la dimensione del tuo motivo in base ad un `input()` dell'utente
 
 --- /task ---
 
 --- task ---
 
-Trarre ispirazione dalla tua cultura o dalla cultura popolare
-
---- /task ---
-
---- task ---
-
-Ottenere l'input dell'utente per ridimensionare il modello
-
---- /task ---
-
---- task ---
-
-Usare testo ed emoji per fornire informazioni circa la tua opera
-
---- /task ---
-
---- task ---
-
-Usare la traslazione per creare variazioni
+Animate your pattern so that it appears in stages.
 
 --- /task ---
 
 
---- task ---
+--- no-print ---
 
-Essere condiviso con altri in una galleria online
+Questo progetto utilizza testo ed emoji per chiedere all'utente di scegliere una dimensione, quindi utilizza la risposta per ridimensionare tutte le forme:
 
---- /task ---
 
-Riflettere su come hai realizzato il tuo meraviglioso motivo ti aiuterà nei progetti futuri.
+[McEwen tartan](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
 
-Rispondi alle seguenti domande disegnando, scrivendo, digitando un documento, parlando con qualcuno o nel modo creativo che meglio funziona con te.
 
---- task ---
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
 
-Come ti sono venute le idee?
+--- /no-print ---
 
---- /task ---
-
---- task ---
-
-Quali cose nuove e interessanti hai imparato?
-
---- /task ---
-
---- task ---
-
-Errori e fallimenti sono spesso il catalizzatore della scoperta e del successo.
-
-Oprah Winfrey è stata licenziata dal suo primo lavoro, ma è poi diventata una famosa e influente produttrice e filantropa. Una volta disse "trasforma le tue ferite in saggezza".
-
-Quali errori hai commesso e come ti sono tornati utili?
-
---- /task ---
-
-### Ora sei un artista digitale e un matematico!
-
-Prenditi un momento per celebrare la tua impresa.
-
---- task ---
-
-Dove utilizzerai i tuoi nuovi poteri? Cosa hai intenzione di fare adesso?
-
---- /task ---
-
+--- /challenge ---
