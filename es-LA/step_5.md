@@ -1,97 +1,39 @@
-## Lista de revision
+## Reflexión
 
-¿Cumpliste con el **resumen del proyecto**? Piensa en tu proyecto y revisa la lista de verificación a continuación y marca las características que tiene tu proyecto.
+--- challenge ---
 
-Tu patrón poderoso:
-
---- task ---
-
-Dibuja y posiciona formas geométricas para crear un patrón base (o motivo) --- /task --- --- /task ---
+![Ejemplos completados con entrada y elementos de Haz una cara](images/upgrade.gif)
 
 --- task ---
 
-Usa bucles para repetir el patrón para llenar la pantalla
+Usar texto y emojis para `print()` (imprimir) una descripción de tu patrón
 
 --- /task ---
 
 --- task ---
 
-Anima cómo se crea el patrón
-
---- /task ---
-
-Tu patrón poderoso también podría:
-
---- task ---
-
-Usar colores llamativos o significativos
+Ajustar el tamaño de tu patrón según la entrada del usuario con `input()`
 
 --- /task ---
 
 --- task ---
 
-Estar inspirado en tu cultura o la cultura popular
-
---- /task ---
-
---- task ---
-
-Obtener la entrada del usuario para cambiar el tamaño del patrón
-
---- /task ---
-
---- task ---
-
-Agregar texto y emojis para imprimir detalles sobre tu arte
-
---- /task ---
-
---- task ---
-
-Trasladar el patrón para crear variaciones
+Animate your pattern so that it appears in stages.
 
 --- /task ---
 
 
---- task ---
+--- no-print ---
 
-Compartir tu trabajo con otros en una galería en línea
+Este proyecto usa texto y emojis para pedirle al usuario que elija un tamaño y luego usa esta respuesta para darle tamaño a todas las formas:
 
---- /task ---
 
-Reflexionar sobre cómo hiciste tu patrón poderoso te ayudará en tus proyectos futuros.
+[McEwen tartan](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
 
-Responde las preguntas a continuación dibujando, escribiendo, escribiendo un documento, hablando con alguien o de la manera creativa que mejor te funcione.
 
---- task ---
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
 
-¿Cómo se te ocurrieron tus ideas?
+--- /no-print ---
 
---- /task ---
-
---- task ---
-
-¿Qué cosas nuevas y geniales aprendiste?
-
---- /task ---
-
---- task ---
-
-Los errores y fracasos suelen ser el catalizador del descubrimiento y el éxito.
-
-Oprah Winfrey fue despedida de su primer trabajo, pero se convirtió en una famosa e influyente productora y filántropa. Ella dijo una vez "convierte tus heridas en sabiduría".
-
-¿Qué errores cometiste y cómo te ayudaron?
-
---- /task ---
-
-### ¡Ahora eres un artista digital y matemático!
-
-Tómate un momento para celebrar lo que has hecho.
-
---- task ---
-
-¿Dónde usarás tus nuevos poderes? ¿Qué vas a hacer a continuación?
-
---- /task ---
-
+--- /challenge ---
