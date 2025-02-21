@@ -1,29 +1,25 @@
-## Buduj i testuj: Motyw
+## Create a motif
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Teraz nadszedł czas, aby twój motyw, pierwszy element twojego wzoru.
+Most patterns have one design (called the **motif**) that repeats to create a pattern. 
 </div>
 <div>
 ![przykład motywu używającego różnych kształtów do tworzenia motywu.](images/motif.png){:width="300px"}
 </div>
 </div>
 
-Proces tworzenia twojego motywu jest taki sam, jak często robią to informatycy, gdy tworzą program lub rozwiązanie problemu. Proces ten nazywa się ** ** i użyjesz dekompozycji do stworzenia swojego motywu.
+--- task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0"> </span> rozbija coś na mniejsze i łatwiejsze do zrozumienia części. Oznacza to, że możesz budować szyk po jednej części na raz, dopóki nie zostanie ukończony.</p>
+Draw shapes to create your motif. Use the tips at the bottom of the page if you need help.
 
-Spójrz na wzór, który chcesz odtworzyć. Jak podzielić go na jeden element (motyw), który się powtarza?
-
-W tym przykładzie wzór tapety w stylu art deco został rozłożony na podstawową kolekcję kształtów (nałożonych pięć okręgów), dzięki czemu motyw:
-
-![Pojedynczy motyw pięciu kółków obok obrazu kompletnego wzoru art deco z wieloma kopiami motywu.](images/motif-pattern.png)
-
-**Wskazówka:** Pamiętaj, aby testować swój projekt za każdym razem, gdy coś dodasz. Znacznie łatwiej jest znaleźć i naprawić błędy zanim wprowadzisz więcej zmian.
+--- /task ---
 
 --- task ---
 
-Zbudowałeś kilka naprawdę użytecznych umiejętności. Oto przypomnienie, które pomoże Ci stworzyć motyw:
+**Test:** Run your code to see what your design looks like.
+
+--- /task ---
 
 ### Kształty
 
@@ -33,9 +29,8 @@ Zbudowałeś kilka naprawdę użytecznych umiejętności. Oto przypomnienie, kt�
 
 [[[processing-python-triangle]]]
 
-### Kolory i efekty
 
-[[[generic-theory-simple-colours]]]
+### Kolory i efekty
 
 [[[processing-opacity]]]
 
@@ -55,17 +50,7 @@ Zbudowałeś kilka naprawdę użytecznych umiejętności. Oto przypomnienie, kt�
 
 [[[generic-python-for-loop-repeat]]]
 
---- /task ---
-
---- task ---
-
-** Test:** Pokaż komuś inny swój projekt i uzyskaj ich opinię. Czy chcesz wprowadzić jakieś zmiany w swoim motywie?
-
---- /task ---
-
---- task ---
-
-**Debugowanie:** Być może znajdziesz błędy w swoim projekcie, które musisz naprawić. Oto kilka typowych błędów.
+### Bugs
 
 --- collapse ---
 ---
@@ -77,7 +62,6 @@ Jeśli chcesz, aby kształty były wyrównane, przyjrzyj się bliżej swoim punk
 --- /collapse ---
 
 --- collapse ---
-
 ---
 Title: Nie widzę niektórych kształtów w moim motywie
 ---
@@ -89,7 +73,6 @@ Grafika komputerowa składa się z warstw. W Twoim motywie każdy kształt jest 
 --- /collapse ---
 
 --- collapse ---
-
 ---
 Title: Moje kółka/kwadraty nie są równe
 ---
@@ -98,10 +81,5 @@ Trzecia i czwarta liczba w ` ` i ` ` to szerokość i wysokość. Jeśli uczynis
 
 --- /collapse ---
 
-Możesz znaleźć robaka, którego tutaj nie ma. Czy możesz dowiedzieć się, jak to naprawić?
 
-Uwielbiamy słuchać o błędach jakie znalazłeś i o tym, jak je naprawiłeś. Użyj przycisku opinii u dołu tej strony, jeśli znalazłeś innego robaka w swoim projekcie.
 
---- /task ---
-
---- save ---
