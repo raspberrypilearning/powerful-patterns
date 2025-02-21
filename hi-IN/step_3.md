@@ -1,29 +1,25 @@
-## Build and test: Motif
+## Create a motif
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it's time to make your motif, the first element of your pattern.
+Most patterns have one design (called the **motif**) that repeats to create a pattern. 
 </div>
 <div>
 ![An example of a motif using various shapes to create the motif.](images/motif.png){:width="300px"}
 </div>
 </div>
 
-The process of making your motif is the same as what computer scientists often do when they create a program or solution to a problem. This process is called **decomposition** and you will use decomposition to create your motif.
+--- task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">Decomposition</span> is breaking something down into parts that are smaller and easier to understand. This means that you can build a pattern one part at a time until it is complete.</p>
+Draw shapes to create your motif. Use the tips at the bottom of the page if you need help.
 
-Look at the pattern you want to recreate. How can you break it down into one single element (the motif) that repeats?
-
-In this example, an art deco wallpaper pattern has been decomposed into the basic collection of shapes (five circles overlayed) that makes the motif:
-
-![A single five circle motif next to an image of the art deco complete pattern with many copies of the motif.](images/motif-pattern.png)
-
-**Tip:** Remember to test your project each time you add something. अधिक बदलाव करने से पहले गलती को खोजना और ठीक करना बहुत आसान है।
+--- /task ---
 
 --- task ---
 
-आपने वास्तव में कुछ उपयोगी कौशल बनाए हैं। Here is a reminder to help you make your motif:
+**Test:** Run your code to see what your design looks like.
+
+--- /task ---
 
 ### Shapes
 
@@ -33,9 +29,8 @@ In this example, an art deco wallpaper pattern has been decomposed into the basi
 
 [[[processing-python-triangle]]]
 
-### Colours and effects
 
-[[[generic-theory-simple-colours]]]
+### Colours and effects
 
 [[[processing-opacity]]]
 
@@ -55,17 +50,7 @@ In this example, an art deco wallpaper pattern has been decomposed into the basi
 
 [[[generic-python-for-loop-repeat]]]
 
---- /task ---
-
---- task ---
-
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your motif?
-
---- /task ---
-
---- task ---
-
-**डीबग:** आपको अपने प्रोजेक्ट में कुछ बग मिल सकते हैं जिन्हें आपको ठीक करने की आवश्यकता है। यहाँ कुछ सामान्य बग हैं।
+### Bugs
 
 --- collapse ---
 ---
@@ -77,7 +62,6 @@ If you want the shapes to be aligned, then take a closer look at your coordinate
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: I can't see some of the shapes in my motif
 ---
@@ -89,7 +73,6 @@ Computer graphics are made of layers. In your motif, each shape is a layer. Obje
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: My circles/squares are not equal
 ---
@@ -98,10 +81,5 @@ The third and fourth numbers in `ellipse` and `rect` are the width and height. I
 
 --- /collapse ---
 
-आपको एक बग मिल सकता है जो यहाँ सूचीबद्ध नहीं है। क्या आप इसे ठीक करने का तरीका समझ सकते हैं?
 
-हमें आपके बग्स के बारे में सुनना अच्छा लगता है और आपने उन्हें कैसे ठीक किया है। यदि आपको अपने प्रोजेक्ट में एक अलग बग मिलता है, तो इस पेज के नीचे प्रतिक्रिया बटन का उपयोग करें।
 
---- /task ---
-
---- save ---
