@@ -15,8 +15,10 @@ steps:
     title: あなたが作ります
   - 
     title: あなたのアイデア
+    completion:
+      - engaged
   - 
-    title: 作成とテスト-モチーフ
+    title: 作成とテスト：モチーフ
     completion:
       - engaged
   - 
@@ -25,11 +27,6 @@ steps:
       - internal
   - 
     title: チェックリスト
-    completion:
-      - external
+    challenge: true
   - 
     title: プロジェクトをアップグレードする
-  - 
-    title: 共有する
-  - 
-    title: 次は何をしますか？
