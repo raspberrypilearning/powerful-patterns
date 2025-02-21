@@ -1,97 +1,39 @@
-## Lista kontrolna
+## Challenge
 
-Czy spotkałeś się z briefem projektu ** **? Pomyśl o swoim projekcie i przejdź przez poniższą listę kontrolną i sprawdź te, które mają zastosowanie do twojego projektu.
+--- challenge ---
 
-Czy twój potężny wzór:
-
---- task ---
-
-Rysować i pozycjonować kształty geometryczne, aby utworzyć wzór bazowy (lub motyw)? --- /task ---
+![Ukończone przykłady z wpisem i tworzenie elementów ściany](images/upgrade.gif)
 
 --- task ---
 
-Użyć pętli, aby powtórzyć wzór, aby wypełnić ekran?
+Użyj tekstu i emoji do ` print()` opisu swojego wzoru
 
 --- /task ---
 
 --- task ---
 
-Animować sposób tworzenia szyku?
-
---- /task ---
-
-Twój potężny wzór może również:
-
---- task ---
-
-Użyj pogrubionych lub znaczących kolorów
+Dostosuj rozmiar swojego wzoru na podstawie ` input()` użytkownika
 
 --- /task ---
 
 --- task ---
 
-Czerp inspirację ze swojej kultury lub kultury popularnej
-
---- /task ---
-
---- task ---
-
-Wprowadź dane użytkownika, aby zmienić rozmiar wzoru
-
---- /task ---
-
---- task ---
-
-Użyj tekstu i emoji, aby wydrukować szczegóły na temat swojej sztuki
-
---- /task ---
-
---- task ---
-
-Być przetłumaczony, aby tworzyć odmiany
+Animate your pattern so that it appears in stages.
 
 --- /task ---
 
 
---- task ---
+--- no-print ---
 
-Udostępniaj innym osobom w galerii online
+Ten projekt używa tekstu i emoji, aby poprosić użytkownika o wybranie rozmiaru, a następnie używa odpowiedzi do rozmiaru wszystkich kształtów:
 
---- /task ---
 
-Zastanowienie się nad tym, jak stworzyłeś swój potężny wzór, pomoże Ci w przyszłych projektach.
+[McEwen tartan](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
 
-Odpowiedz na poniższe pytania, rysując, pisząc, wpisując dokument, rozmawiając z kimś lub we własny kreatywny sposób, który najlepiej dla Ciebie pasuje.
 
---- task ---
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
 
-Jak dostałeś swoje pomysły?
+--- /no-print ---
 
---- /task ---
-
---- task ---
-
-Jakich fajnych nowych rzeczy się nauczyłeś?
-
---- /task ---
-
---- task ---
-
-Błędy i porażki są często katalizatorem odkrycia i sukcesu.
-
-Oprah Winfrey została zwolniona z pierwszej pracy, ale stała się sławnym i wpływowym producentem i filantropem. Powiedziała kiedyś: „Zamień swoje rany w mądrość”.
-
-Jakie błędy popełniłeś i w jaki sposób ci pomogły?
-
---- /task ---
-
-### Teraz jesteś cyfrowym artystą i matematykiem!
-
-Poświęć chwilę, aby uczcić to, co zrobiłeś.
-
---- task ---
-
-Gdzie zabierzesz swoje nowe moce? Co zrobisz dalej?
-
---- /task ---
-
+--- /challenge ---
