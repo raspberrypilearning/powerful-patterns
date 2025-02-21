@@ -1,97 +1,39 @@
-## Checklist
+## Challenge
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+--- challenge ---
 
-Does your powerful pattern:
-
---- task ---
-
-Draw and position geometric shapes to create a base pattern (or motif)? --- /task ---
+![Finished examples with input and make a face elements](images/upgrade.gif)
 
 --- task ---
 
-Use loops to repeat the pattern to fill the screen?
+Use text and emojis to `print()` a description of your pattern
 
 --- /task ---
 
 --- task ---
 
-Animate how the pattern is created?
-
---- /task ---
-
-Your powerful pattern could also:
-
---- task ---
-
-Use bold or significant colours
+Adjust the size of your pattern based on user `input()`
 
 --- /task ---
 
 --- task ---
 
-Draw inspiration from your culture or popular culture
-
---- /task ---
-
---- task ---
-
-Get user input to resize the pattern
-
---- /task ---
-
---- task ---
-
-Use text and emojis to print details about your art
-
---- /task ---
-
---- task ---
-
-Be translated to create variations
+Animate your pattern so that it appears in stages.
 
 --- /task ---
 
 
---- task ---
+--- no-print ---
 
-Be shared with others in an online gallery
+This project uses text and emojis to ask the user to choose a size then uses their answer to size all the shapes:
 
---- /task ---
 
-Reflecting about how you made your powerful pattern will help you in your future projects.
+[McEwen tartan](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
 
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
 
---- task ---
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
 
-How did you get your ideas?
+--- /no-print ---
 
---- /task ---
-
---- task ---
-
-What cool new thing(s) did you learn?
-
---- /task ---
-
---- task ---
-
-Mistakes and failures are often the catalyst for discovery and success.
-
-Oprah Winfrey was fired from her first job, but she went on to become a famous and influential producer and philanthropist. She once said "turn your wounds into wisdom".
-
-What mistakes did you make and how did they help you?
-
---- /task ---
-
-### Now you are a digital artist and mathematician!
-
-Take a moment to celebrate what you have made.
-
---- task ---
-
-Where will you take your new powers? What will you make next?
-
---- /task ---
-
+--- /challenge ---
