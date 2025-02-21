@@ -14,22 +14,19 @@ steps:
   - 
     title: You will make
   - 
-    title: Your idea
-  - 
-    title: Build and test - Motif
+    title: Get started
     completion:
       - engaged
   - 
-    title: Expand and test - Pattern
+    title: Create a motif
     completion:
       - internal
   - 
-    title: Checklist
+    title: Make the pattern
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Challenge
+    challenge: true
   - 
-    title: Share
-  - 
-    title: What next?
+    title: What can you do now?
