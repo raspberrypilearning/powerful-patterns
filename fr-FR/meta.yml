@@ -15,21 +15,18 @@ steps:
     title: Ce que tu vas faire
   - 
     title: Ton idée
-  - 
-    title: 'Construire et tester : motif'
     completion:
       - engaged
   - 
-    title: 'Développer et tester : motif'
+    title: 'Construire et tester : motif'
     completion:
       - internal
   - 
-    title: Liste de contrôle
+    title: 'Développer et tester : motif'
     completion:
       - external
   - 
+    title: Liste de contrôle
+    challenge: true
+  - 
     title: Améliorer ton projet
-  - 
-    title: Partager
-  - 
-    title: Et ensuite ?
