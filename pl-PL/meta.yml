@@ -14,22 +14,19 @@ steps:
   - 
     title: Zrobisz to
   - 
-    title: Twój pomysł
-  - 
-    title: Buduj i testuj - Motyw
+    title: Zaczynamy
     completion:
       - engaged
   - 
-    title: Rozwiń i przetestuj - Wzór
+    title: Create a motif
     completion:
       - internal
   - 
-    title: Lista kontrolna
+    title: Make the pattern
     completion:
       - external
   - 
-    title: Ulepsz swój projekt
+    title: Challenge
+    challenge: true
   - 
-    title: Udostępnij
-  - 
-    title: Co następne?
+    title: What can you do now?
