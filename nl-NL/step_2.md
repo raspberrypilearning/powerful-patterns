@@ -10,7 +10,7 @@ Open het [Krachtige patronen startproject](https://editor.raspberrypi.org/nl-NL/
 
 --- task ---
 
-Choose a size and a background colour.
+Kies een formaat en een achtergrondkleur.
 
 --- code ---
 ---
