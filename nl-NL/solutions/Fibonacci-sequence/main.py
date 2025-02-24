@@ -12,8 +12,8 @@ def setup():
   
 def draw():
 
-  BLUE = color(0, 0, 255)
-  BLACK = color(0, 0, 0)
+  BLAUW = color(0, 0, 255)
+  ZWART = color(0, 0, 0)
   translate(width/2, height/2)
   
   # Motief
