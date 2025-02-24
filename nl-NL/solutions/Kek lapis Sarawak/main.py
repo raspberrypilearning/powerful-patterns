@@ -9,17 +9,17 @@ def kwadrant():
 
   # Kies een aantal prachtige kleuren voor de taartlagen
   turquoise = color(64, 224, 208)
-  gold = color(255, 215, 0)
-  tomato = color(255, 99, 71)
+  goud = color(255, 215, 0)
+  tomaat = color(255, 99, 71)
   
   # Jam plakt de lagen aan elkaar
-  jam = color(255, 165, 0) 
+  jam = jolor(255, 165, 0) 
   stroke(jam)
-  stroke_weight(2) # Change the number to change the amount of jam
+  stroke_weight(2) # Wijzig het getal om de hoeveelheid jam te wijzigen
 
   # Negen lagen cake, waarbij de 3 kleuren 3 keer worden herhaald
   for i in range(3):
-    start_y = i * 60 # height of 3 blocks of cake
+    start_y = i * 60 # hoogte van 3 blokken cake
     fill(turkoois)
     rect(0, start_y, 180, 20)
     fill(goud)
@@ -30,19 +30,19 @@ def kwadrant():
   
 def buitenste():
 
-  # Thehe cake is wrapped in an outer layer
+  # De cake is verpakt in een buitenste laag
   geelgroen = Color(154, 205, 50) 
   
-  no_fill() # Don't cover up the cake quadrants!
+  no_fill() # Bedek de taartkwadranten niet!
   stroke(geelgroen)
   stroke_weight(20)
   rect(10, 10, 380, 380, 20) 
 
 
 def setup():
-  size(400, 400) # make the cake square
-  background(255, 255, 255, 0) # transparent background
-  frame_rate(5) # 5 frames per second
+  size(400, 400) # maak de taart vierkant
+  background(255, 255, 255, 0) # transparante achtergrond
+  frame_rate(5) # 5 frames per seconde
 
 
 def draw():
@@ -50,18 +50,18 @@ def draw():
   # Definieer een kwartslag zodat onze code gemakkelijk te lezen is
   kwart = radians(90)
 
-  translate(200, 200) # start from the center
+  translate(200, 200) # start vanuit het midden
   
   # Maak het kwart rechtsonder van de cake en draai dan voor de andere kwarten
 
-  if frame_count <= 4: # draw up to 4 quadrants
+  if frame_count <= 4: # teken maximaal 4 kwadranten
     for i in range(frame_count): 
       kwadrant()
       rotate(kwart)
 
-  if frame_count == 5: # add the outer layer
-    translate(-200, -200) # back to the top corner
-    outer() # outer layer
+  if frame_count == 5: # voeg de buitenste laag toe
+    translate(-200, -200) # terug naar de bovenhoek
+    buitenste() # buitenste laag
     
 
 run()
