@@ -4,9 +4,9 @@ from p5 import *
 from random import randint
 
 def teken_motief():
-  orange = color(191, 64, 191)
-  brown = color(200, 120, 0)
-  green = color(100, 155, 0)
+  oranje = color(191, 64, 191)
+  bruin = color(200,120,0)
+  groen = color(100,155,0)
   fill(oranje)
   ellipse(200, 200, 200, 190)
   fill(0)
@@ -37,8 +37,8 @@ def setup():
 
 def draw():
   push_matrix()
-  translate(randint(-50, 350), randint(-50, 350)) # offset by the width of the quarter-size face
-  scale(0.25) # quarter size paths
+  translate(randint(-50, 350), randint(-50, 350)) # offset met de breedte van het kwart-formaat vlak
+  scale(0.25) # kwart grootte paden
   teken_motief()
   pop_matrix()
  
