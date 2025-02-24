@@ -11,16 +11,16 @@ Maak een stukje inspirerende kunst die kan worden geschaald met behulp van herha
 --- print-only ---
 
 Je kunt het Spiralen-project [hier vinden](https://editor.raspberrypi.org/nl-NL/projects/spirals-pattern-example){:target="_blank"}
-![Complete Spirals project.](images/spirals.png)
+![Voltooid Spiralen-project.](images/spirals.png)
 
 Je kunt het project Willekeurige gezichten [hier vinden](https://editor.raspberrypi.org/nl-NL/projects/random-faces-example){:target="_blank"}
-![Complete Random faces project.](images/random_faces.png)
+![Voltooid Willekeurige gezichten project.](images/random_faces.png)
 
 Je kunt het Art Deco-project [hier vinden](https://editor.raspberrypi.org/nl-NL/projects/art-deco-example){:target="_blank"}
-![Complete Art deco project.](images/art_deco.png)
+![Voltooid Art deco project.](images/art_deco.png)
 
 Je kunt het Yakan weven project [hier vinden](https://editor.raspberrypi.org/nl-NL/projects/yakan-weaving-example){:target="_blank"}
-![Complete Yakan weaving project.](images/yakan.png)
+![Voltooid Yakan weven project.](images/yakan.png)
 
 --- /print-only ---
 
