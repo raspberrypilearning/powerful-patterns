@@ -1,11 +1,11 @@
 
-## Verbeter je project
+## Wat kun je verder nog doen?
 
 
-Try our [More Python](https://projects.raspberrypi.org/en/pathways/more-python) pathway where you will move beyond the basics introduced in Introduction to Python. You will learn how to use lists, dictionaries and files to create charts, models and artwork.
+Probeer ons [Meer Python](https://projects.raspberrypi.org/en/pathways/more-python) traject, waarin je verder gaat dan de basisbeginselen die in Inleiding tot Python zijn geïntroduceerd. Je gaat leren hoe je lijsten, woordenboeken en bestanden kan gebruiken om grafieken, modellen en kunstwerken te maken.
 
 [[[python-coolest-projects]]]
 
-Or, why not try out another [Python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) project.
+Of probeer een ander [Python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) project.
 
 
