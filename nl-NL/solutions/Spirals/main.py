@@ -16,7 +16,7 @@ def motief():
 def setup():
   size(400, 400) 
   frame_rate(10) # fast animation
-  stroke_weight(2) # thick border
+  stroke_weight(2) # dikke rand
   background(255)
   
 def draw():
