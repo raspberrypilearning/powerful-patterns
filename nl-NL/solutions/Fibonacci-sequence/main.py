@@ -22,22 +22,22 @@ def draw():
   translate(1,1)
   rotate(radians(270))
   
-  first = 0
-  second = 1
-  next = first + second
+  eerste = 0
+  tweede = 1
+  volgende = eerste + tweede
   
-  # Pattern
+  # Patroon
   if frame_count < 20:
     for i in range (frame_count):
-      stroke(BLACK)
-      rect(0, 0, next, next)
+      stroke(ZWART)
+      rect(0, 0, volgende, volgende)
       no_fill()
-      stroke(BLUE)
-      arc(0, -next, next*2, next*2, radians(90), radians(180))
-      translate(next,next)
+      stroke(BLAUW)
+      arc(0, -volgende, volgende*2, volgende*2, radians(90), radians(180))
+      translate(volgende,volgende)
       rotate(radians(270))
-      first = second
-      second = next
-      next = first + second
+      eerste = tweede
+      tweede = volgende
+      volgende = eerste + tweede
 
 run()
