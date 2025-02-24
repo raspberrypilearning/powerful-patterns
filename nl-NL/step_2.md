@@ -6,7 +6,7 @@ Open het [Krachtige patronen startproject](https://editor.raspberrypi.org/nl-NL/
 
 --- /task ---
 
-### Je project opzetten
+### Stel je project in
 
 --- task ---
 
@@ -25,7 +25,7 @@ def setup(): size(400, 400)  # Choose a size background(255, 255, 255)  # Try di
 
 --- task ---
 
-**Debug:** Mogelijk vindt je enkele fouten in jouw project die je moet oplossen.
+**Test:** Voer jouw project uit om de wijzigingen te zien.
 
 De maximale hoeveelheid rood, groen of blauw is `255`. Zorg ervoor dat alle `achtergrond` kleurwaarden tussen `0` en `255` liggen.
 
