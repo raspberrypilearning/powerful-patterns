@@ -1,13 +1,13 @@
-## Uitbreiden en testen - Patroon
+## Maak het patroon
 
-Now that you have a **motif**, you can repeat it to make a pattern
+Nu dat je een **motief** hebt gemaakt, kun je het herhalen om een patroon te creëren
 
 ![Voorbeelden van voltooide projecten waarbij het motief herhaaldelijk is gebruikt om een volledig patroon te vormen.](images/second.gif)
 
 
 --- task ---
 
-Move, resize and repeat the motif you have created to make a repeating pattern. Use the tips at the bottom of the page if you need help.
+Verplaats, vergroot of verklein het motief dat je hebt gemaakt en herhaal het om een herhalend patroon te maken. Als je hulp nodig hebt, kun je de tips onderaan de pagina gebruiken.
 
 --- /task ---
 
@@ -21,7 +21,7 @@ Move, resize and repeat the motif you have created to make a repeating pattern. 
 
 
 
-### Moving, rotating and resizing
+### Verplaatsen, roteren en formaat wijzigen
 
 [[[processing-matrix]]]
 
@@ -53,11 +53,11 @@ filename: main.py - draw()
 
 --- /collapse ---
 
-### Repeating
+### Herhalen
 
 [[[generic-python-for-loop-repeat]]]
 
-### Randomness
+### Willekeurigheid
 
 --- collapse ---
 ---
@@ -97,7 +97,7 @@ language: python filename: main.py - draw()
 
 --- /collapse ---
 
-### Bugs
+### Fouten
 
 --- collapse ---
 ---
