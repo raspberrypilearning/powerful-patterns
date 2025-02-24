@@ -1,8 +1,8 @@
-## Bouwen en testen - Patroon
+## Maak een motief
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Most patterns have one design (called the **motif**) that repeats to create a pattern. 
+De meeste patronen hebben één ontwerp (het **motief**) dat zich herhaalt om een patroon te creëren. 
 </div>
 <div>
 ![Een voorbeeld van een motief waarbij verschillende vormen worden gebruikt om het motief te maken.](images/motif.png){:width="300px"}
@@ -11,13 +11,13 @@ Most patterns have one design (called the **motif**) that repeats to create a pa
 
 --- task ---
 
-Draw shapes to create your motif. Use the tips at the bottom of the page if you need help.
+Teken vormen om je eigen motief te maken. Als je hulp nodig hebt, kun je de tips onderaan de pagina gebruiken.
 
 --- /task ---
 
 --- task ---
 
-**Test:** Laat iemand anders jouw project zien en vraag feedback.
+**Test:** Voer je code uit om te zien hoe je ontwerp eruitziet.
 
 --- /task ---
 
@@ -50,7 +50,7 @@ Draw shapes to create your motif. Use the tips at the bottom of the page if you 
 
 [[[generic-python-for-loop-repeat]]]
 
-### Bugs
+### Fouten
 
 --- collapse ---
 ---
