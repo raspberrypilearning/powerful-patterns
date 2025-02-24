@@ -10,21 +10,21 @@ def motief():
   fill(0, 0, 0)
   ellipse(0, 0, 15, 15) 
   fill(randint(0, 255),randint(0, 255) ,randint(0, 255))
-  for i in range(4): # a short row of squares
+  for i in range(4): # een korte rij vierkanten
     rect(i * 5, 0, 5, 5) 
 
 def setup():
   size(400, 400) 
-  frame_rate(10) # fast animation
+  frame_rate(10) # snelle animatie
   stroke_weight(2) # dikke rand
   background(255)
   
 def draw():
-  translate(200, 200) # start from the centre of the screen
+  translate(200, 200) # start vanuit het midden van het scherm
   if frame_count < 150:
-    for i in range(frame_count): # animates the pattern
+    for i in range(frame_count): # animeert het patroon
       motief()
-      rotate(5) # turns the motif
-      translate(i,i) # moves the motif
+      rotate(5) # draait het motief
+      translate(i,i) # verplaatst het motief
   
 run()
