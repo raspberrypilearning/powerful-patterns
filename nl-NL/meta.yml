@@ -14,19 +14,19 @@ steps:
   - 
     title: Wat ga je maken
   - 
-    title: Jouw idee
+    title: Aan de slag
     completion:
       - engaged
   - 
-    title: Bouwen en testen - Patroon
+    title: Maak een motief
     completion:
       - internal
   - 
-    title: Uitbreiden en testen - Patroon
+    title: Maak het patroon
     completion:
       - external
   - 
-    title: Checklist
+    title: Uitdaging
     challenge: true
   - 
-    title: Verbeter je project
+    title: Wat kun je verder nog doen?
