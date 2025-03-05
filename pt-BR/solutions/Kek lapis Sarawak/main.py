@@ -30,7 +30,7 @@ def quadrante():
   
 def exterior():
 
-  # Thehe cake is wrapped in an outer layer
+  # O bolo é embrulhado em uma camada externa
   amareloverde = Color(154, 205, 50) 
   
   no_fill() # Don't cover up the cake quadrants!
