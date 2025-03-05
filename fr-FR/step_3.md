@@ -1,8 +1,8 @@
-## Construire et tester : motif
+## Créer un motif
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Most patterns have one design (called the **motif**) that repeats to create a pattern. 
+La plupart des modèles ont un seul dessin (appelé le **motif**) qui se répète pour créer un motif. 
 </div>
 <div>
 ![Un exemple de motif utilisant différentes formes pour créer le motif.](images/motif.png){:width="300px"}
@@ -11,13 +11,13 @@ Most patterns have one design (called the **motif**) that repeats to create a pa
 
 --- task ---
 
-Draw shapes to create your motif. Use the tips at the bottom of the page if you need help.
+Dessine des formes pour créer ton motif. Utilise les astuces en bas de la page si tu as besoin d’aide.
 
 --- /task ---
 
 --- task ---
 
-**Test :** montre ton projet à quelqu'un d'autre pour avoir son avis.
+**Test :** exécute ton code pour voir à quoi ressemble ton design.
 
 --- /task ---
 
@@ -50,7 +50,7 @@ Draw shapes to create your motif. Use the tips at the bottom of the page if you 
 
 [[[generic-python-for-loop-repeat]]]
 
-### Bugs
+### Bogues
 
 --- collapse ---
 ---
