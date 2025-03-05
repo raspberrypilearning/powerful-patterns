@@ -12,11 +12,11 @@ def setup():
   
 def draw():
 
-  BLUE = color(0, 0, 255)
-  BLACK = color(0, 0, 0)
+  BLUE = color(0, 0, 255) # блакитний
+  BLACK = color(0, 0, 0) # чорний
   translate(width/2, height/2)
   
-  # Motif
+  # Мотив
   rect(0, 0, 1, 1)
   arc(0, 0, 1, 1, radians(90), radians(180))
   translate(1,1)
@@ -26,7 +26,7 @@ def draw():
   second = 1
   next = first + second
   
-  # Pattern
+  # Візерунок
   if frame_count < 20:
     for i in range (frame_count):
       stroke(BLACK)
