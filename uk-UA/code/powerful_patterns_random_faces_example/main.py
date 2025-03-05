@@ -5,9 +5,9 @@ from random import randint
 
 
 def draw_motif():
-    orange = Color(191, 64, 191)
-    brown = Color(200, 120, 0)
-    green = Color(100, 155, 0)
+    orange = Color(191, 64, 191) # помаранчевий
+    brown = Color(200, 120, 0) # коричневий
+    green = Color(100, 155, 0) # зелений
     fill(orange)
     ellipse(200, 200, 200, 190)
     fill(0)
@@ -37,9 +37,9 @@ def setup():
 
 def draw():
     push_matrix()
-    # offset by the width of the quarter-size face
+    # зміщення по ширині на чверть розміру обличчя
     translate(randint(-50, 350), randint(-50, 350))
-    scale(0.25, 0.25)  # quarter size paths
+    scale(0.25, 0.25) # шляхи розміром у чверть
     draw_motif()
     pop_matrix()
 
