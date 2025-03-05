@@ -1,23 +1,23 @@
-## Свою ідею
+## Початок роботи
 
 --- task ---
 
-Open the [Powerful patterns starter project](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"} project.
+Відкрий [стартовий проєкт «Барвисті візерунки»](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"}.
 
 --- /task ---
 
-### Для чого ти робиш свій потужний візерунок?
+### Налаштуй свій проєкт
 
 --- task ---
 
-Подумай, з якою метою ти створюєш візерунок.
+Вибери розмір і колір тла.
 
 --- code ---
 ---
 language: python line_numbers: true line_number_start: 6
-title: Налаштування розміру екрана під час запуску програми
+line_highlights: 7-8
 ---
-def setup(): size(400, 400)  # Choose a size background(255, 255, 255)  # Try different numbers to change the colour
+def setup(): size(400, 400)  # Вибери розмір background(255, 255, 255)  # Спробуй різні числа, щоб змінити колір
 
 --- /code ---
 
@@ -25,9 +25,9 @@ def setup(): size(400, 400)  # Choose a size background(255, 255, 255)  # Try di
 
 --- task ---
 
-**Test:** Run your project to see the changes.
+**Протестуй:** запусти свій проєкт і поглянь, що змінилося.
 
-Максимальне значення для червоного, зеленого, або синього - `255`. Переконайся, що всі значення кольору для твого фону `background` знаходяться між `0` та `255`.
+Максимальне значення для червоного, зеленого, або синього - `255`. Переконайся, що всі значення кольору для тла `background` знаходяться між `0` та `255`.
 
 --- /task ---
 
