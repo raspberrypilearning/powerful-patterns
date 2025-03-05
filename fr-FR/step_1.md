@@ -1,5 +1,5 @@
 
-Créer une œuvre d'art inspirante qui peut être mise à l'échelle en utilisant des motifs répétés.
+Créer une œuvre d’art en utilisant des motifs répétés.
 
 --- no-print ---
 
@@ -10,16 +10,13 @@ Créer une œuvre d'art inspirante qui peut être mise à l'échelle en utilisan
 
 --- print-only ---
 
-Tu peux trouver le projet Spirales [ici](https://editor.raspberrypi.org/fr-FR/projects/spirals-pattern-example){:target="_blank"}
-![Complete Spirals project.](images/spirals.png)
+[Spirales](https://editor.raspberrypi.org/en/projects/spirals-pattern-example) ![Projet terminé Spirales.](images/spirals.png)
 
-Tu peux trouver le projet Visages aléatoires [ici](https://editor.raspberrypi.org/fr-FR/projects/random-faces-example){:target="_blank"}
-![Complete Random faces project.](images/random_faces.png)
+[Visages aléatoires](https://editor.raspberrypi.org/en/projects/random-faces-example) ![Projet terminé Visages aléatoires.](images/random_faces.png)
 
-Tu peux trouver le projet Art déco [ici](https://editor.raspberrypi.org/fr-FR/projects/art-deco-example){:target="_blank"}
-![Complete Art deco project.](images/art_deco.png)
+[Art déco](https://editor.raspberrypi.org/en/projects/art-deco-example) ![Projet terminé Art déco.](images/art_deco.png)
 
-https://editor.raspberrypi.org/fr-FR/embed/viewer/yakan-weaving-example ![Complete Yakan weaving project.](images/yakan.png)
+[Tissage Yakan](https://editor.raspberrypi.org/en/projects/yakan-weaving-example) ![Projet terminé Tissage Yakan.](images/yakan.png)
 
 --- /print-only ---
 
