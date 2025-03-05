@@ -5,8 +5,8 @@ from random import randint
 
 def dessin_motif():
   orange = color(191, 64, 191)
-  brown = color(200, 120, 0)
-  green = color(100, 155, 0)
+  brun = color(200, 120, 0)
+  vert = color(100, 155, 0)
   fill(orange)
   ellipse(200, 200, 200, 190)
   fill(0)
@@ -37,8 +37,8 @@ def setup():
 
 def draw():
   push_matrix()
-  translate(randint(-50, 350), randint(-50, 350)) # offset by the width of the quarter-size face
-  scale(0.25) # quarter size paths
+  translate(randint(-50, 350), randint(-50, 350)) # décalé de la largeur du quart de la face
+  scale(0.25) # chemins de quart de cercle
   dessin_motif()
   pop_matrix()
  
