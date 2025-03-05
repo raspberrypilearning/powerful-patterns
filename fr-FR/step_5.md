@@ -1,8 +1,8 @@
-## Liste de contrôle
+## Défi
 
 --- challenge ---
 
-![Exemples finis avec entrée et création d'éléments de visage](images/upgrade.gif)
+![Exemples terminés avec des éléments d'entrée et des éléments de visage](images/upgrade.gif)
 
 --- task ---
 
@@ -18,7 +18,7 @@ Ajuster la taille de ton motif en fonction de l'`input()` utilisateur
 
 --- task ---
 
-Animate your pattern so that it appears in stages.
+Anime ton motif pour qu'il apparaisse par étapes.
 
 --- /task ---
 
@@ -28,7 +28,7 @@ Animate your pattern so that it appears in stages.
 Ce projet utilise du texte et des emojis pour demander à l'utilisateur de choisir une taille, puis utilise sa réponse pour dimensionner toutes les formes :
 
 
-[McEwen tartan](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
+[Tartan McEwen](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
 
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
