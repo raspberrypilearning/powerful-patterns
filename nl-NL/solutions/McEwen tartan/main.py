@@ -14,7 +14,7 @@ def draw():
   
   lijnen = 10 * frame_count # Gebruik de breedte/lengte van de vorm om in de loop van de tijd te animeren
   
-  # McEwen tartan kleuren
+  # McEwen tartankleuren
   # Kleuren van de basisvierkanten
   BLAUW = color(83, 143, 200)
   GROEN = color(78, 163, 162)
@@ -34,11 +34,11 @@ def draw():
   vierkanten = width/vierkant_grootte
   
   for i in range (int(vierkanten)):
-    gap = 0
+    gat = 0
     for j in range (int(vierkanten)):
       fill(BASIS_KLEUREN[j % 2]) # GROEN en BLAUW 
-      rect(gap, y_coordinaat, vierkant_grootte, vierkant_grootte)
-      gap = gap + vierkant_grootte
+      rect(gat, y_coordinaat, vierkant_grootte, vierkant_grootte)
+      gat = gat + vierkant_grootte
     y_coordinaat = y_coordinaat + vierkant_grootte
   
   # Kruizen
