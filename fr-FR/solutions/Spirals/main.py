@@ -10,21 +10,21 @@ def motif():
   fill(0, 0, 0)
   ellipse(0, 0, 15, 15) 
   fill(randint(0, 255),randint(0, 255) ,randint(0, 255))
-  for i in range(4): # a short row of squares
+  for i in range(4): # une courte rangée de carrés
     rect(i * 5, 0, 5, 5) 
 
 def setup():
   size(400, 400) 
-  frame_rate(10) # fast animation
-  stroke_weight(2) # thick border
+  frame_rate(10) # animation rapide
+  stroke_weight(2) # bordure épaisse
   background(255)
   
 def draw():
-  translate(200, 200) # start from the centre of the screen
+  translate(200, 200) # démarrer depuis le centre de l'écran
   if frame_count < 150:
-    for i in range(frame_count): # animates the pattern
+    for i in range(frame_count): # anime le motif
       motif()
-      rotate(5) # turns the motif
-      translate(i,i) # moves the motif
+      rotate(5) # tourne le motif
+      translate(i,i) # déplace le motif
   
 run()
