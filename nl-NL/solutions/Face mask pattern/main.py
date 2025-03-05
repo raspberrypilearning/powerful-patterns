@@ -37,7 +37,7 @@ def setup():
 
 def draw():
   push_matrix()
-  translate(randint(-50, 350), randint(-50, 350)) # offset met de breedte van het kwart-formaat vlak
+  translate(randint(-50, 350), randint(-50, 350)) # offset met de breedte van het kwart-grootte vlak
   scale(0.25) # kwart grootte paden
   teken_motief()
   pop_matrix()
