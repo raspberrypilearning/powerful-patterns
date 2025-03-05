@@ -1,32 +1,32 @@
 ---
-title: Потужні візерунки
+title: Барвисті візерунки
 hero_image: images/banner.png
 description:
-  - Create a piece of inspirational art that can be scaled using repeated
-  - patterns
-meta_title: Python coding projects for kids and teens | Powerful patterns
-meta_description: Learn Python with the Raspberry Pi Foundation's coding projects for kids and teens. Create a piece of inspirational art with Python using repeated patterns.
+  - Зроби витвір мистецтва, який можна масштабувати з використанням повторюваних
+  - візерунків
+meta_title: Проєкти з кодування для дітей і підлітків | Барвисті візерунки
+meta_description: Вивчай Python з проєктами кодування Raspberry Pi Foundation для дітей і підлітків. Створи твір мистецтва за допомогою Python, використовуючи повторювані візерунки.
 version: 4
 listed: true
 copyedit: true
 last_tested: "2021-10-06"
 steps:
   - 
-    title: Ти зробиш
+    title: Що ти зробиш
   - 
-    title: Свою ідею
+    title: Початок роботи
     completion:
       - engaged
   - 
-    title: Будуй та тестуй - Мотив
+    title: Створи мотив
     completion:
       - engaged
   - 
-    title: Розширюй та тестуй - Візерунок
+    title: Зроби візерунок
     completion:
       - internal
   - 
-    title: Контрольний список
+    title: Додаткове завдання
     challenge: true
   - 
-    title: Вдосконалення твого проєкту
+    title: Що ти тепер вмієш?
