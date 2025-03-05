@@ -11,12 +11,12 @@ from processing import strokeJoin as stroke_join
 from processing import noStroke as no_stroke
 from processing import noFill as no_fill
 
-# Texte
+# Polices
 from processing import createFont as create_font
 from processing import loadFont as load_font
 from processing import textFont as text_font
 
-# Clavier
+# Texte
 from processing import textAlign as text_align
 from processing import textLeading as text_leading
 from processing import textMode as text_mode
@@ -53,7 +53,7 @@ from processing import popStyle as pop_style
 
 from processing import run as main_run
 
-# Polices
+# Clavier
 
 def mousePressed():
   if hasattr(__main__, "mouse_pressed"):
