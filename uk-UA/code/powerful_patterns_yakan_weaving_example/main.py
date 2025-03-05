@@ -8,10 +8,10 @@ def motif():
     motif_size = 100
 
     # Кольори матеріалів
-    ORANGE = Color(254, 96, 1)
-    PURPLE = Color(135, 18, 192)
-    YELLOW = Color(243, 200, 19)
-    BLUE = Color(83, 171, 176)
+    Orange = Color(254, 96, 1) # помаранчевий
+    PURPLE = Color(135, 18, 192) # фіолетовий
+    YELLOW = Color(243, 200, 19) # жовтий
+    BLUE = Color(83, 171, 176) # блакитний
 
     # Квадрати
     fill(ORANGE)
@@ -33,31 +33,31 @@ def motif():
 
 
 def rotate_motif():
-    for shape in range(5):  # row of shapes
-        push_matrix()  # save settings
-        rotate(radians(45))  # turn shape 45 degrees
+    for shape in range(5):  # ряд фігур
+        push_matrix()  # зберегти налаштування
+        rotate(radians(45)) # повернути фігуру на 45 градусів
         motif()
-        pop_matrix()  # go back to saved settings
-        translate(motif_width, 0)  # move horizontally
+        pop_matrix() # повернутися до збережених налаштувань
+        translate(motif_width, 0) # переміститися по горизонталі
 
 
 def setup():
     size(400, 400)
-    background(250, 5, 94)  # pink
+    background(250, 5, 94)  # рожевий
     no_stroke()
-    print('This is 🇵🇭 Yakan weaving ')
+    print('Це 🇵🇭 яканське плетіння')
 
 
 def draw():
     global motif_width
     motif_width = 150
 
-    translate(-motif_width/2, -motif_width/2)  # to start with half motifs
+    translate(-motif_width/2, -motif_width/2)  # щоб почати з половинками мотиву
 
-    if frame_count < 20:  # maximum rows
+    if frame_count < 20:  # максимальна кількість рядків
         for row in range(frame_count):
             rotate_motif()
-            if row / 2 == 0:  # to offset pattern on next row
+            if row / 2 == 0:  # щоб змістити візерунок на наступному рядку
                 translate(-motif_width * 5 + 75, 80)
             else:
                 translate(-motif_width * 5 - 75, 80)
