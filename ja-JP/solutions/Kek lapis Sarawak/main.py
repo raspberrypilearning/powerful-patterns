@@ -30,7 +30,7 @@ def quadrant():
   
 def outer():
 
-  # Thehe cake is wrapped in an outer layer
+  # ケーキは外層に包まれています
   yellowgreen = Color(154, 205, 50) 
   
   no_fill() # Don't cover up the cake quadrants!
