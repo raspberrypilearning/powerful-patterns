@@ -8,7 +8,7 @@ from time import *
 def kwadrant():
 
   # Kies een aantal prachtige kleuren voor de taartlagen
-  turquoise = color(64, 224, 208)
+  turkoois = color(64, 224, 208)
   goud = color(255, 215, 0)
   tomaat = color(255, 99, 71)
   
@@ -31,7 +31,7 @@ def kwadrant():
 def buitenste():
 
   # De cake is verpakt in een buitenste laag
-  geelgroen = Color(154, 205, 50) 
+  geelgroen = color(154, 205, 50) 
   
   no_fill() # Bedek de taartkwadranten niet!
   stroke(geelgroen)
