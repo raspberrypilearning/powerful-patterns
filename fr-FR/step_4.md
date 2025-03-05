@@ -1,27 +1,27 @@
-## Développer et tester : motif
+## Faire le motif
 
-Now that you have a **motif**, you can repeat it to make a pattern
+Maintenant que tu as un **motif**, tu peux le répéter pour créer un motif
 
 ![Exemples de projets finis dont le motif est utilisé à plusieurs reprises pour former un motif complet.](images/second.gif)
 
 
 --- task ---
 
-Move, resize and repeat the motif you have created to make a repeating pattern. Use the tips at the bottom of the page if you need help.
+Déplace, redimensionne et répète le motif que tu as créé pour créer un motif qui se répète. Utilise les astuces en bas de la page si tu as besoin d’aide.
 
 --- /task ---
 
 
 --- task ---
 
-**Test :** montre ton projet à quelqu'un d'autre pour avoir son avis.
+**Test :** exécute le code pour voir à quoi ressemble ton modèle.
 
 --- /task ---
 
 
 
 
-### Moving, rotating and resizing
+### Déplacer, faire une rotation et redimensionner
 
 [[[processing-matrix]]]
 
@@ -53,11 +53,11 @@ filename: main.py - draw()
 
 --- /collapse ---
 
-### Repeating
+### Répéter
 
 [[[generic-python-for-loop-repeat]]]
 
-### Randomness
+### Aléatoire
 
 --- collapse ---
 ---
@@ -97,7 +97,7 @@ language: python filename: main.py - draw()
 
 --- /collapse ---
 
-### Bugs
+### Bogues
 
 --- collapse ---
 ---
