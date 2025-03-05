@@ -1,5 +1,5 @@
 
-Maak een stukje inspirerende kunst die kan worden geschaald met behulp van herhaalde patronen.
+Maak een stukje inspirerende kunst dat kan worden geschaald met behulp van herhaalde patronen.
 
 --- no-print ---
 
@@ -10,17 +10,13 @@ Maak een stukje inspirerende kunst die kan worden geschaald met behulp van herha
 
 --- print-only ---
 
-Je kunt het Spiralen-project [hier vinden](https://editor.raspberrypi.org/nl-NL/projects/spirals-pattern-example){:target="_blank"}
-![Voltooid Spiralen-project.](images/spirals.png)
+[Spiralen](https://editor.raspberrypi.org/en/projects/spirals-pattern-example) ![Voltooid Spiralen-project.](images/spirals.png)
 
-Je kunt het project Willekeurige gezichten [hier vinden](https://editor.raspberrypi.org/nl-NL/projects/random-faces-example){:target="_blank"}
-![Voltooid Willekeurige gezichten project.](images/random_faces.png)
+[Willekeurige gezichten](https://editor.raspberrypi.org/en/projects/random-faces-example) ![Voltooid Willekeurige gezichten project.](images/random_faces.png)
 
-Je kunt het Art Deco-project [hier vinden](https://editor.raspberrypi.org/nl-NL/projects/art-deco-example){:target="_blank"}
-![Voltooid Art deco project.](images/art_deco.png)
+[Art deco](https://editor.raspberrypi.org/en/projects/art-deco-example) ![Voltooid Art deco project.](images/art_deco.png)
 
-Je kunt het Yakan weven project [hier vinden](https://editor.raspberrypi.org/nl-NL/projects/yakan-weaving-example){:target="_blank"}
-![Voltooid Yakan weven project.](images/yakan.png)
+[Yakan weven](https://editor.raspberrypi.org/en/projects/yakan-weaving-example) ![Voltooid Yakan weven project.](images/yakan.png)
 
 --- /print-only ---
 
