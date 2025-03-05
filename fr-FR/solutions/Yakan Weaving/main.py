@@ -8,9 +8,9 @@ def motif():
   
   #Couleurs du fil
   ORANGE = color(254, 96, 1)
-  PURPLE = color(135, 18, 192)
-  YELLOW = color(243, 200, 19)
-  BLUE = color(83, 171, 176)
+  VIOLET = color(135, 18, 192)
+  JAUNE = color(243, 200, 19)
+  BLEU = color(83, 171, 176)
     
   # Carrés
   fill(ORANGE)
@@ -32,17 +32,17 @@ def motif():
 
 def rotation_motif():
   
-  for shape in range(5): # row of shapes
-    pushMatrix() # save settings
-    rotate(radians(45)) # turn shape 45 degrees
+  for shape in range(5): # ligne de formes
+    pushMatrix() # enregistrer les paramètres
+    rotate(radians(45)) # tourner la forme de 45 degrés
     motif()
-    popMatrix() # go back to saved settings
-    translate(motif_width, 0) # move horizontally
+    popMatrix() # retourne aux paramètres enregistrés
+    translate(largeur_motif, 0) # se déplacer horizontalement
 
 def setup():
   size(400, 400)
   frame_rate(3)
-  background(250, 5, 94) # pink
+  background(250, 5, 94) # rose
   no_stroke()
   print('C\'est le 🇵🇭 tissage Yakan') 
   
@@ -51,12 +51,12 @@ def draw():
   global largeur_motif
   largeur_motif = 150 
   
-  translate(-motif_width/2, -motif_width/2) # to start with half motifs 
+  translate(-largeur_motif/2, -largeur_motif/2) # pour commencer avec des demi-motifs 
   
-  if frame_count < 20: # maximum rows
+  if frame_count < 20:  # nombre maximum de lignes
     for row in range(frame_count):
       rotation_motif()
-      if row / 2 == 0: # to offset pattern on next row
+      if row / 2 == 0: # pour décaler le motif sur la ligne suivante
         translate(-largeur_motif * 5 + 75, 80) 
       else:  
         translate(-largeur_motif * 5 - 75, 80) 
