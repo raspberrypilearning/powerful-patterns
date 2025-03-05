@@ -30,7 +30,7 @@ def kwadrant():
   
 def outer():
 
-  # Thehe cake is wrapped in an outer layer
+  # Ciasto jest owinięte w zewnętrzną warstwę
   Żółtozielony = Kolor(154, 205, 50) 
   
   no_fill() # Don't cover up the cake quadrants!
