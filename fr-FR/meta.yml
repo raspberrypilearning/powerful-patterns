@@ -2,7 +2,7 @@
 title: Motifs puissants
 hero_image: images/banner.png
 description:
-  - Créer une œuvre d'art inspirante qui peut être mise à l'échelle en utilisant des motifs
+  - Crée une œuvre d'art inspirante qui peut être mise à l'échelle en utilisant des motifs
   - répétés
 meta_title: Projets de codage Python pour enfants et adolescents | Motifs puissants
 meta_description: Apprends Python avec les projets de codage de la Raspberry Pi Foundation pour les enfants et les adolescents. Crée une œuvre d'art inspirante avec Python en utilisant des motifs répétés.
@@ -14,19 +14,19 @@ steps:
   - 
     title: Ce que tu vas faire
   - 
-    title: Ton idée
+    title: Commencer
     completion:
       - engaged
   - 
-    title: 'Construire et tester : motif'
+    title: Créer un motif
     completion:
       - internal
   - 
-    title: 'Développer et tester : motif'
+    title: Faire le motif
     completion:
       - external
   - 
-    title: Liste de contrôle
+    title: Défi
     challenge: true
   - 
-    title: Améliorer ton projet
+    title: Que peux-tu faire maintenant ?
