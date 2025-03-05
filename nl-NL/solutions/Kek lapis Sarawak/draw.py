@@ -1,8 +1,8 @@
-# Definities voor de p5py-bibliotheek 
+# Definities voor compatibilteit met de p5py-bibliotheek 
 from processing import *
 import __main__
 
-# Vormgeving
+# Vorm
 from processing import rectMode as rect_mode
 from processing import ellipseMode as ellipse_mode
 from processing import strokeWeight as stroke_weight
