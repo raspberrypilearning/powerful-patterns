@@ -2,7 +2,7 @@
 
 --- task ---
 
-Ouvre le projet [de démarrage Motifs puissants](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"}.
+Ouvre le [projet de démarrage Motifs puissants](https://editor.raspberrypi.org/en/projects/powerful-patterns-starter){:target="_blank"}.
 
 --- /task ---
 
@@ -10,7 +10,7 @@ Ouvre le projet [de démarrage Motifs puissants](https://editor.raspberrypi.org/
 
 --- task ---
 
-Choose a size and a background colour.
+Choisis une taille et une couleur d'arrière-plan.
 
 --- code ---
 ---
@@ -25,7 +25,7 @@ def setup(): size(400, 400)  # Choose a size background(255, 255, 255)  # Try di
 
 --- task ---
 
-**Débogage :** il est possible que tu trouves des bogues dans ton projet que tu dois corriger.
+**Test :** exécute ton projet pour voir les modifications.
 
 La quantité maximale de rouge, de vert ou de bleu est de `255`. Assure-toi que toutes tes valeurs de couleur `d'arrière-plan` sont comprises entre `0` et `255`.
 
