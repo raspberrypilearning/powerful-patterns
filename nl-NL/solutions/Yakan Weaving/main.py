@@ -32,7 +32,7 @@ def motief():
 
 def draai_motief():
   
-  for shape in range(5): # rij van motieven
+  for shape in range(5): # rij vormen
     pushMatrix() # instellingen opslaan
     rotate(radians(45)) # vorm 45 graden draaien
     motief()
@@ -56,7 +56,7 @@ def draw():
   if frame_count < 20: # maximum rijen
     for row in range(frame_count):
       draai_motief()
-      if row / 2 == 0: # om het patroon op de volgende rij te verschuiven
+      if row % 2 == 0: # om het patroon op de volgende rij te verschuiven
         translate(-motief_breedte * 5 + 75, 80) 
       else:  
         translate(-motief_breedte * 5 - 75, 80) 
