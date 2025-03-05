@@ -28,7 +28,7 @@ def draw():
   translate(0,0) # start vanaf de linkerbovenhoek van het scherm
   
   if frame_count <= 16: # maakt 16 rijen aan en stopt dan
-    for row in range (frame_count): #animeert 1 rij tegelijk
+    for row in range (frame_count): # animeert 1 rij tegelijk
       for shape in range(16): # maak een rij motieven aan
         motief()
         translate(cirkel_grootte / 2, 0)
