@@ -1,5 +1,5 @@
 
-Створиш витвір мистецтва, яке буде надихати та зможеш це масштабувати, використовуючи повторення візерунків.
+Зроби витвір мистецтва за допомогою повторюваних візерунків.
 
 --- no-print ---
 
@@ -10,13 +10,13 @@
 
 --- print-only ---
 
-[Spirals](https://editor.raspberrypi.org/en/projects/spirals-pattern-example) ![Complete Spirals project.](images/spirals.png)
+[Спіралі](https://editor.raspberrypi.org/en/projects/spirals-pattern-example) ![Завершений проєкт «Спіралі».](images/spirals.png)
 
-[Random faces](https://editor.raspberrypi.org/en/projects/random-faces-example) ![Complete Random faces project.](images/random_faces.png)
+[Випадкові обличчя](https://editor.raspberrypi.org/en/projects/random-faces-example) ![Завершений проєкт «Випадкові обличчя».](images/random_faces.png)
 
---- task --- ![Complete Art deco project.](images/art_deco.png)
+[Ар-деко](https://editor.raspberrypi.org/en/projects/art-deco-example) ![Завершений проєкт «Ар-деко».](images/art_deco.png)
 
-[Yakan weaving](https://editor.raspberrypi.org/en/projects/yakan-weaving-example) ![Complete Yakan weaving project.](images/yakan.png)
+[Яканське плетіння](https://editor.raspberrypi.org/en/projects/yakan-weaving-example) ![Завершений проєкт «Яканське плетіння».](images/yakan.png)
 
 --- /print-only ---
 
