@@ -2,17 +2,17 @@
 
 --- challenge ---
 
-![Afgewerkte voorbeelden met invoer en maak een gezicht elementen](images/upgrade.gif)
+![Voltooide voorbeelden met invoer en maak een gezicht elementen](images/upgrade.gif)
 
 --- task ---
 
-Tekst en emoji kunnen gebruiken om een beschrijving van je patroon te printen, `print()`
+Gebruik tekst en emoji om een beschrijving van je patroon te printen met `print()`
 
 --- /task ---
 
 --- task ---
 
-De grootte van je patroon kunnen aanpassen op basis van de `input()` van de gebruiker
+Pas de grootte van je patroon aan op basis van de `input()` van de gebruiker
 
 --- /task ---
 
@@ -25,7 +25,7 @@ Animeer je patroon zodat het in fasen verschijnt.
 
 --- no-print ---
 
-Dit project gebruikt tekst en emoji om de gebruiker te vragen een afmeting te kiezen en gebruikt vervolgens hun antwoord om alle vormen op maat te maken:
+Dit project gebruikt tekst en emoji om de gebruiker te vragen een grootte te kiezen en gebruikt vervolgens hun antwoord om alle vormen op maat te maken:
 
 
 [McEwen-ruit](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
