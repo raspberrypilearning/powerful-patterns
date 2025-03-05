@@ -1,34 +1,34 @@
-## Контрольний список
+## Додаткове завдання
 
 --- challenge ---
 
-![Готові приклади з вхідними даними та оформленням з елементів обличчя](images/upgrade.gif)
+![Приклади завершених проєктів з елементами вхідних даних.](images/upgrade.gif)
 
 --- task ---
 
-Малювання та розташування геометричних фігур для створення базового візерунка (або мотиву) --- /task ---
+Використовуй текст та емоджі, щоб вивести на екран опис свого візерунка функцією `print()`.
 
 --- /task ---
 
 --- task ---
 
-Налаштувати розмір візерунка на основі вхідних даних від користувача `input()`
+Налаштуй розмір візерунка на основі вхідних даних від користувача. Використовуй для цього функцію `input()`.
 
 --- /task ---
 
 --- task ---
 
-Animate your pattern so that it appears in stages.
+Анімуй свій візерунок, щоб він з’являвся поступово.
 
 --- /task ---
 
 
 --- no-print ---
 
-Використання насичених або виразних кольорів
+Цей проєкт використовує текст та емоджі, щоб запропонувати користувачам обрати розмір, а потім використовує їхню відповідь для визначення розміру всіх фігур:
 
 
-[McEwen tartan](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
+[Тартан клану Макʼюенів](https://editor.raspberrypi.org/en/projects/mcewen-tartan-example){:target="_blank"}
 
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -36,4 +36,4 @@ Animate your pattern so that it appears in stages.
 
 --- /no-print ---
 
-Натхненний твоєю або іншою популярною культурою
+--- /challenge ---
