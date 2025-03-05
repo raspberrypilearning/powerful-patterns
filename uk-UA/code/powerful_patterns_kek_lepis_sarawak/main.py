@@ -3,7 +3,7 @@
 from p5 import *
 from time import *
 
-# Based on the amazing Malaysian geometric cake art: Kek lapis Sarawak
+# На основі дивовижного малайзійського мистецтва тортів з геометричними візерунками, що називається кек-ляпіс саравак
 
 
 def quadrant():
@@ -15,11 +15,11 @@ def quadrant():
     # Джем скріплює шари між собою
     jam = Color(255, 165, 0)
     stroke(jam)
-    stroke_weight(2)  # Change the number to change the amount of jam
+    stroke_weight(2) # Зміни число, щоб змінити кількість джему
 
-    # Дев'ять шарів торта, повторюючи 3 кольори по 3 рази
+    # Дев'ять шарів торта: 3 кольори повторюються тричі
     for i in range(3):
-        start_y = i * 60  # height of 3 blocks of cake
+        start_y = i * 60  # висота трьох шарів торту
         fill(turquoise)
         rect(0, start_y, 180, 20)
         fill(gold)
@@ -29,36 +29,36 @@ def quadrant():
 
 
 def outer():
-    # Торт обгортається зовнішнім шаром
+    # Торт загорнутий у зовнішній шар
     yellowgreen = Color(154, 205, 50)
 
-    no_fill()  # Don't cover up the cake quadrants!
+    no_fill()  # Не закривай середину торту
     stroke(yellowgreen)
     stroke_weight(20)
     rect(10, 10, 380, 380, 20)
 
 
 def setup():
-    size(400, 400)  # make the cake square
-    background(255, 255, 255, 0)  # transparent background
+    size(400, 400)  # створи площину для торта
+    background(255, 255, 255, 0) # прозорий фон
 
 
 def draw():
-    # Визначення чверті обороту, щоб наш код легко читався
+    # Визнач чверті обороту, щоб твій код легко читався
     quarter = radians(90)
 
-    translate(200, 200)  # start from the center
+    translate(200, 200)  # почни з центру
 
-    # Зроби нижню праву четвертинку торта, потім по черзі інші четвертинки
+    # Зроби нижню праву четвертинку торта, потім по черзі інші четвертинки за допомогою обертання (функція rotate())
 
-    if frame_count <= 4:  # draw up to 4 quadrants
+    if frame_count <= 4:  # малює лише 4 четвертинки
         for i in range(frame_count):
             quadrant()
             rotate(quarter)
 
-    if frame_count == 5:  # add the outer layer
-        translate(-200, -200)  # back to the top corner
-        outer()  # outer layer
+    if frame_count == 5:  # додає зовнішній шар
+        translate(-200, -200) # назад у верхній кут
+        outer() # зовнішній шар
 
 
-run(frame_rate=5)  # 5 frames per second
+run(frame_rate=5) # 5 кадрів за секунду
