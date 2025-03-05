@@ -1,6 +1,6 @@
 ## Maak het patroon
 
-Nu dat je een **motief** hebt gemaakt, kun je het herhalen om een patroon te creëren
+Nou dat je een **motief** hebt gemaakt, kun je het herhalen om een patroon te creëren
 
 ![Voorbeelden van voltooide projecten waarbij het motief herhaaldelijk is gebruikt om een volledig patroon te vormen.](images/second.gif)
 
@@ -14,14 +14,14 @@ Verplaats, vergroot of verklein het motief dat je hebt gemaakt en herhaal het om
 
 --- task ---
 
-**Test:** Laat iemand anders je project zien en vraag feedback.
+**Test:** Voer de code uit om te zien hoe je patroon eruitziet.
 
 --- /task ---
 
 
 
 
-### Verplaatsen, roteren en formaat wijzigen
+### Verplaatsen, roteren en grootte wijzigen
 
 [[[processing-matrix]]]
 
@@ -37,7 +37,7 @@ Verplaats, vergroot of verklein het motief dat je hebt gemaakt en herhaal het om
 title: De grootte van je motief wijzigen
 ---
 
-Als je een motief gebruikt dat je al hebt getekend, is het misschien niet de juiste grootte.
+Als je een motief gebruikt dat je al hebt getekend, heeft het misschien niet de juiste grootte.
 
 Je kunt `scale()` gebruiken voordat je de functie aanroept die je motief tekent om de grootte te wijzigen. Als je invoer groter is dan '1', wordt het motief groter, als je invoer kleiner is dan '1', wordt het kleiner.
 
