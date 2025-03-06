@@ -1,98 +1,39 @@
-## Checklist
+## Défi
 
-As-tu respecté la **fiche de projet** ? Réfléchis à ton projet et parcours la liste de contrôle ci-dessous et coche celles qui s'appliquent à ton projet.
+--- challenge ---
 
-Est-ce que ton motif puissant :
-
---- task ---
-
-Dessine et positionne des formes géométriques pour créer un motif de base (ou motif) ?
---- /task ---
+![Exemples terminés avec des éléments d'entrée et des éléments de visage](images/upgrade.gif)
 
 --- task ---
 
-Utilise des boucles pour répéter le motif pour remplir l'écran ?
+Utiliser du texte et des emojis pour imprimer `print()` une description de ton modèle
 
 --- /task ---
 
 --- task ---
 
-Anime la façon dont le motif est créé ?
-
---- /task ---
-
-Ton modèle puissant pourrait également :
-
---- task ---
-
-Utiliser des couleurs vives ou prononcées
+Ajuster la taille de ton motif en fonction de l'`input()` utilisateur
 
 --- /task ---
 
 --- task ---
 
-S'inspirer de ta culture ou de la culture populaire
-
---- /task ---
-
---- task ---
-
-Obtenir l'entrée de l'utilisateur pour redimensionner le motif
-
---- /task ---
-
---- task ---
-
-Ajouter du texte et des emojis pour imprimer des détails sur ton art
-
---- /task ---
-
---- task ---
-
-Translater le motif pour créer des variations
+Anime ton motif pour qu'il apparaisse par étapes.
 
 --- /task ---
 
 
---- task ---
+--- no-print ---
 
-Partager ton travail avec d'autres dans une galerie en ligne
+Ce projet utilise du texte et des emojis pour demander à l'utilisateur de choisir une taille, puis utilise sa réponse pour dimensionner toutes les formes :
 
---- /task ---
 
-Réfléchir à la façon dont tu as créé ton modèle puissant t'aidera dans tes projets futurs.
+[Tartan McEwen](https://editor.raspberrypi.org/fr-FR/projects/mcewen-tartan-example){:target="_blank"}
 
-Réponds aux questions ci-dessous en dessinant, en écrivant, en tapant un document, en parlant à quelqu'un ou de ta propre manière créative qui te convient le mieux.
 
---- task ---
+<iframe src="https://editor.raspberrypi.org/fr-FR/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
 
-Comment as-tu eu tes idées ?
+--- /no-print ---
 
---- /task ---
-
---- task ---
-
-Quelle(s) nouvelle(s) chose(s) cool as-tu apprise(s) ?
-
---- /task ---
-
---- task ---
-
-Les erreurs et les échecs sont souvent le catalyseur de la découverte et du succès.
-
-Oprah Winfrey a été licenciée de son premier emploi, mais elle est devenue une productrice et philanthrope célèbre et influente. Elle a dit un jour « transformez vos blessures en sagesse ».
-
-Quelles erreurs as-tu commises et comment t'ont-elles aidé ?
-
---- /task ---
-
-### Tu es maintenant un artiste numérique et un mathématicien !
-
-Prends un moment pour célébrer ce que tu as fait.
-
---- task ---
-
-Comment vas-tu utiliser tes nouveaux pouvoirs ? Que feras-tu ensuite ?
-
---- /task ---
-
+--- /challenge ---
