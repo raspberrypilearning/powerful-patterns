@@ -1,5 +1,3 @@
-#!/bin/python3
-
 from p5 import *
 from math import random
 from random import randint
