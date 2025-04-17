@@ -44,18 +44,18 @@ def draw():
     for i in range(4):
         fill(JAUNE)
         croix = taille_carre / 2 - 2
-        for i in range(int(carres/2)):
+        for j in range(int(carres/2)):
             fill(COULEURS_CROIX[i % 2])  # JAUNE et ROUGE
             rect(croix, 0, 4, lignes)
             rect(0, croix, lignes, 4)
-            croix = croix + 2 * taille_croix
+            croix = croix + 2 * taille_carre
         # Dessine les croix de couture
         no_fill()
         croix = taille_carre + taille_carre / 2 - 2
         for i in range(int(carres)):
             rect(croix, 0, 4, lignes)
             rect(0, croix, lignes, 4)
-            croix = croix + taille_croix
+            croix = croix + taille_carre
 
     # Dessine les lignes grises où le matériau se chevauche
     no_stroke()

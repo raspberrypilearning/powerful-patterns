@@ -74,7 +74,7 @@ Computerafbeeldingen bestaan uit lagen. In je motief is elke vorm een laag. Obje
 
 --- collapse ---
 ---
-titel: Mijn cirkels/vierkanten zijn niet gelijk
+title: Mijn cirkels/vierkanten zijn niet gelijk
 ---
 
 Het derde en vierde cijfer in `ellipse` en `rect` zijn de breedte en de hoogte. Als je ze hetzelfde maakt, krijg je een cirkel of vierkant.
