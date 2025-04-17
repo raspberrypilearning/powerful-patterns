@@ -5,9 +5,9 @@ Se hai tempo puoi migliorare il tuo progetto. Potresti avere già idee da aggiun
 ![Esempi finiti con input e creazione di faccine](images/upgrade.gif)
 
 Potresti:
-- Usa testo ed emoji per `print()` una descrizione del tuo motivo
-- Regola la dimensione del tuo motivo in base ad un `input()` dell'utente
-- Crea un motivo in scala usando il tuo [Disegna una faccia](https://projects.raspberrypi.org/it-IT/projects/make-a-face){:target="_blank"}
+- Usare testo ed emoji per `print()` una descrizione del tuo motivo
+- Regolare la dimensione del tuo motivo in base ad un `input()` dell'utente
+- Creare un motivo in scala usando il tuo [Disegna una faccia](https://projects.raspberrypi.org/it-IT/projects/make-a-face){:target="_blank"}
 
 Per ogni progetto di esempio che trovi nell'Introduzione, puoi leggere il codice, ottenere idee e vedere come funziona.
 
