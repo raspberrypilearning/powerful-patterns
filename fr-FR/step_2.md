@@ -15,7 +15,8 @@ Choisis une taille et une couleur d'arrière-plan.
 --- code ---
 ---
 language: python
-line_numbers: true line_number_start: 6
+line_numbers: true
+line_number_start: 6
 line_highlights: 7-8
 ---
 def setup():
