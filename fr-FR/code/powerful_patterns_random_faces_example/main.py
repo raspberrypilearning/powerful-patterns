@@ -39,7 +39,7 @@ def draw():
     push_matrix()
     # décalé de la largeur d'un quart de taille du visage
     translate(randint(-50, 350), randint(-50, 350))
-    scale(0.25, 0.25) # chemins de quart de taille
+    scale(0.5, 0.25) # chemins de quart de taille
     dessin_motif()
     pop_matrix()
 

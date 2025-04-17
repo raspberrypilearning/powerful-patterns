@@ -11,11 +11,11 @@
 
 Il processo di creazione del tuo modulo è lo stesso che spesso fanno gli informatici quando creano un programma o cercano la soluzione a un problema. Questo processo è chiamato **scomposizione** e ora lo utilizzerai per creare il tuo modulo.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">La decomposizione</span> consiste nello scomporre qualcosa in parti più piccole e più facili da comprendere. Ciò significa che puoi costruire un motivo un pezzp alla volta, fino al suo completamento.</p>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">La scomposizione</span> consiste nello scomporre qualcosa in parti più piccole e più facili da comprendere. Ciò significa che puoi costruire un motivo un pezzo alla volta, fino al suo completamento.</p>
 
 Guarda il motivo che vuoi ricreare. Come puoi scomporlo in un unico elemento (il modulo) che si ripeterà?
 
-In questo esempio, un motivo di sfondo Art Dèco è stato scomposto nella gruppo base di forme (cinque cerchi sovrapposti) che costituisce il modulo:
+In questo esempio, un motivo di sfondo Art Dèco è stato scomposto nel gruppo base di forme (cinque cerchi sovrapposti) che costituisce il modulo:
 
 ![Un singolo motivo a cinque cerchi accanto a un'immagine del modello completo Art Dèco con molte copie del modulo.](images/motif-pattern.png)
 

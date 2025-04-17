@@ -1,25 +1,22 @@
-## Verbeter je project
 
-Als je tijd hebt, kun je jouw project verbeteren. Misschien heb je al ideeën om er al meer toe te voegen of wil je misschien teruggaan naar de eerste stap en nog eens naar andere projecten kijken voor meer inspiratie.
+## Wat kun je verder nog doen?
 
-![Afgewerkte voorbeelden met invoer en maak een gezicht elementen](images/upgrade.gif)
 
-Je zou:
-- Tekst en emoji gebruiken om een beschrijving van je patroon te printen, `print()`
-- De grootte van je patroon kunnen aanpassen op basis van de `input()` van de gebruiker
-- Een geschaald motief maken gebruik makend van je [Make a face project](https://projects.raspberrypi.org/nl-NL/projects/make-a-face){:target="_blank"}
+Probeer ons [Meer Python](https://projects.raspberrypi.org/nl-NL/pathways/more-python) pad, waarin je verder gaat dan de basisbeginselen die in Inleiding tot Python zijn geïntroduceerd. Je gaat leren hoe je lijsten, woordenboeken en bestanden kunt gebruiken om grafieken, modellen en kunstwerken te maken.
 
-Bij elk voorbeeldproject in de Inleiding kun je de code bekijken, ideeën opdoen en zien hoe ze werken.
+[[[python-coolest-projects]]]
 
-Dit project gebruikt tekst en emoji om de gebruiker te vragen een afmeting te kiezen en gebruikt vervolgens hun antwoord om alle vormen op maat te maken:
+Of probeer een ander [Python](https://projects.raspberrypi.org/nl-NL/projects?software%5B%5D=python) project.
 
-**McEwen tartan**:
-<iframe src="https://editor.raspberrypi.org/nl-NL/embed/viewer/mcewen-tartan-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
+***
 
-Je kunt het McEwen tartan-project [hier vinden](https://editor.raspberrypi.org/nl-NL/projects/mcewen-tartan-example){:target="_blank"}
+Dit project werd vertaald door vrijwilligers:
 
-Bekijk enkele Krachtige Patronen projecten die zijn gemaakt door communityleden in de [Krachtige patronen - Communitybibliotheek](https://wke.lt/w/s/yyNPQT){:target="_blank"} van de Raspberry Pi Foundation.
+Christel Haex
+Iny van Beuningen
+Jeroen Wernsen
+Robert-Jan Kempenaar
 
---- save ---
+Dankzij vrijwilligers kunnen we mensen over de hele wereld de kans geven om in hun eigen taal te leren. Jij kunt ons helpen meer mensen te bereiken door vrijwillig te starten met vertalen - meer informatie op [rpf.io/translate](https://rpf.io/translate).
+
 

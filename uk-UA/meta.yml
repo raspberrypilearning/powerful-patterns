@@ -1,23 +1,24 @@
 ---
-title: Потужні візерунки
+title: Барвисті візерунки
 hero_image: images/banner.png
-description: Створи витвір мистецтва, яке буде надихати та масштабуй його, використовуючи повторення візерунків
+description: Зроби витвір мистецтва, який можна масштабувати з використанням повторюваних візерунків
+meta_title: Проєкти з кодування для дітей і підлітків | Барвисті візерунки
+meta_description: Вивчай Python з проєктами кодування Raspberry Pi Foundation для дітей і підлітків. Створи твір мистецтва за допомогою Python, використовуючи повторювані візерунки.
 version: 4
 listed: true
 copyedit: true
 last_tested: "2021-10-06"
 steps:
-  - title: Ти зробиш
-  - title: Свою ідею
-  - title: Будуй та тестуй - Мотив
+  - title: Що ти зробиш
+  - title: Початок роботи
     completion:
       - engaged
-  - title: Розширюй та тестуй - Візерунок
+  - title: Створи мотив
     completion:
       - internal
-  - title: Контрольний список
+  - title: Зроби візерунок
     completion:
       - external
-  - title: Вдосконалення твого проєкту
-  - title: Поділитися
-  - title: Що далі?
+  - title: Додаткове завдання
+    challenge: true
+  - title: Що ти тепер вмієш?
