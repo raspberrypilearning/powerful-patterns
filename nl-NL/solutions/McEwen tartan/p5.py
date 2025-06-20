@@ -2,7 +2,7 @@
 from processing import *
 import __main__
 
-# Vorm
+# Omzetten
 from processing import rectMode as rect_mode
 from processing import ellipseMode as ellipse_mode
 from processing import strokeWeight as stroke_weight
@@ -40,7 +40,7 @@ from processing import frameRate as frame_rate
 from processing import noCursor as no_cursor
 from processing import noLoop as no_loop
 
-# Omzetten
+# Vorm
 from processing import applyMatrix as apply_matrix
 from processing import popMatrix as pop_matrix
 from processing import printMatrix as print_matrix
