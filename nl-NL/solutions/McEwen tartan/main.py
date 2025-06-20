@@ -67,7 +67,7 @@ def draw():
   gap = vierkant_grootte - 4
   for i in range (int(vierkanten)):
     rect(gap, 0, 8, lijnen)
-    gap = gap + vierkant_grootte
+    gat = gat + vierkant_grootte
   gap = vierkant_grootte - 4
   for i in range (int(vierkanten)):
     rect(0, gap, lijnen, 8)
