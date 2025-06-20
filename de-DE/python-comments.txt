@@ -1,0 +1,9 @@
+Choose a size
+
+Probiere verschiedene Zahlen aus, um die Farbe zu ändern
+
+Half size
+
+Start transformation
+
+Reset transformation
