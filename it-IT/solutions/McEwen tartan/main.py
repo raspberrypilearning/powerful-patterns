@@ -56,7 +56,7 @@ def draw():
     # Disegna le croci di cucitura
     no_fill() 
     croce = dimensione_quadrato + dimensione_quadrato / 2 - 2
-    for i in range(int(squares)): 
+    for i in range(int(quadrati)): 
       rect(croce, 0, 4, linee) 
       rect(0, croce, linee, 4)
       croce = croce + dimensione_quadrato
