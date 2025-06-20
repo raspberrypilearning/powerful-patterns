@@ -20,11 +20,11 @@ steps:
   - 
     title: Створи мотив
     completion:
-      - engaged
+      - internal
   - 
     title: Зроби візерунок
     completion:
-      - internal
+      - external
   - 
     title: Додаткове завдання
     challenge: true
